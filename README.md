@@ -4,4 +4,4 @@ This repository contains only the public GitHub Pages website: static HTML, CSS,
 
 The published website is read-only. Adoption status and notes are saved in each browser's local storage and do not synchronize across devices. The current snapshot contains five explicitly labeled review candidates and no approved final-result posts.
 
-Enable **Settings → Pages → Build and deployment → Source: GitHub Actions**, then run the `Publish static gallery` workflow. Publishing does not require a custom domain, Docker, or a server.
+Live website: **https://cynthia1534.github.io/searchA1-pages/**. GitHub Pages builds with Actions and enforces HTTPS. Publishing does not require a custom domain, Docker, or a server.
