@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A1.art AI 成图创意观察与真实素材图库">
+  <title>A1.art · 创意发现</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <header class="mobile-header"><a class="brand" href="#discover">A1.art <small>Creative Intelligence</small></a><button id="menu-button" type="button" aria-expanded="false" aria-controls="mobile-nav">菜单</button></header>
+  <div class="layout">
+    <aside class="sidebar"><a class="brand" href="#discover">A1.art <small>Creative Intelligence</small></a><p class="nav-caption">公开创意研究站</p><nav class="nav" aria-label="主导航">
+      <a href="#discover" data-nav="discover">创意发现</a><a href="#all" data-nav="all">全部成片</a><a href="#review" data-nav="review">待复核候选</a><a href="#daily" data-nav="daily">每日记录</a><a href="#adopted" data-nav="adopted">已采用</a><a href="#reserve" data-nav="reserve">暂存备用</a>
+    </nav><p class="sidebar-note">真实原帖预览 · 数据缺失不推断<br>浏览器本地决定不会跨设备同步</p></aside>
+    <nav class="mobile-nav" id="mobile-nav" aria-label="手机导航" hidden><a href="#discover">创意发现</a><a href="#all">全部成片</a><a href="#review">待复核候选</a><a href="#daily">每日记录</a><a href="#adopted">已采用</a><a href="#reserve">暂存备用</a></nav>
+    <main class="main">
+      <div class="notice"><strong>公开静态版</strong><span>图片来自可核对的原帖。待复核候选与正式成片分开显示。采用状态和备注仅保存在当前浏览器，不能自动跨设备同步。</span></div>
+      <div class="page-heading"><div><span class="eyebrow">A1.art Creative Intelligence</span><h1 id="view-title">创意发现</h1><p id="view-description">围绕最终成图，观察人物关系、文化主题和视觉表达。</p></div><span class="snapshot" id="snapshot-time"></span></div>
+      <div class="stats" id="stats" aria-label="素材概况"></div>
+      <section id="content-section" aria-live="polite">
+        <div class="section-heading"><h2 id="section-title">素材图库</h2><span id="result-count"></span></div>
+        <form class="filters" id="filters" autocomplete="off">
+          <label class="field search">搜索创意、账号、标签<input id="search" name="search" type="search" placeholder="例如：情侣、婚礼、亲子"></label>
+          <label class="field">平台<select id="platform" name="platform"><option value="">全部平台</option><option value="instagram">Instagram</option><option value="tiktok">TikTok</option></select></label>
+          <label class="field">排序<select id="sort" name="sort"><option value="discovered">最新发现</option><option value="published">最新发布</option><option value="engagement">当前点赞</option><option value="creative">创意评分</option></select></label>
+          <details class="advanced"><summary>更多筛选 · 人物、主题、风格、日期和评分</summary><div class="filter-grid">
+            <label class="field">人物关系<select id="relation" name="relation"><option value="">全部关系</option></select></label>
+            <label class="field">生成主题<select id="topic" name="topic"><option value="">全部主题</option></select></label>
+            <label class="field">视觉风格<select id="style" name="style"><option value="">全部风格</option></select></label>
+            <label class="field">首次发现日期<input id="day" name="day" type="date"></label>
+            <label class="field">数据表现分 ≥<input id="data-min" name="data-min" type="number" min="0" max="100" placeholder="不限"></label>
+            <label class="field">创意发现分 ≥<input id="creative-min" name="creative-min" type="number" min="0" max="100" placeholder="不限"></label>
+          </div></details>
+          <div class="filter-actions"><button class="button" type="submit">查看结果</button><button class="button secondary" id="reset" type="reset">重置</button></div>
+        </form>
+        <div class="active-filters" id="active-filters"></div>
+        <div id="loading" class="empty">正在读取公开素材数据…</div>
+        <div id="error" class="empty error" hidden><strong>素材数据读取失败</strong><span id="error-message">请检查网络后重试。</span><button class="button secondary" id="retry" type="button">重新加载</button></div>
+        <div id="empty" class="empty" hidden><strong id="empty-title">暂无符合条件的素材</strong><span id="empty-message">调整筛选条件，或查看待复核候选。</span></div>
+        <div id="cards" class="grid"></div>
+      </section>
+      <footer>本页通过公开 JSON 读取固定快照。发布后新素材需更新数据文件；互动量是采集时数值，不代表增长趋势。<a href="https://github.com/Cynthia1534/searchA1-pages" target="_blank" rel="noopener noreferrer">公开网页仓库 ↗</a></footer>
+    </main>
+  </div>
+  <dialog id="detail"><div class="dialog-shell"><button type="button" class="close" id="close-detail" aria-label="关闭详情">×</button><div class="detail-media"><div id="detail-visual" class="visual"></div><div id="detail-media-nav" class="media-nav"></div></div><div class="detail-copy"><span id="detail-platform" class="eyebrow"></span><h2 id="detail-title"></h2><p id="detail-meta" class="muted"></p><div id="detail-tags" class="chips"></div><p id="detail-reason" class="reason"></p><div id="detail-scores" class="scores"></div><div id="detail-metrics" class="metrics"></div><label class="field">本机采用状态<select id="detail-status"></select></label><label class="field">本机备注<textarea id="detail-note" rows="3" placeholder="只保存在此浏览器"></textarea></label><p class="local-warning">此处的选择和备注只保存在当前浏览器，不能自动跨设备同步；不会写入 GitHub 或 SQLite。</p><a id="detail-link" class="button" target="_blank" rel="noopener noreferrer">打开真实原帖 ↗</a><details><summary>原帖说明与互动历史</summary><p id="detail-caption" class="caption"></p><div id="detail-history" class="history"></div></details></div></div></dialog>
+</body>
+</html>
