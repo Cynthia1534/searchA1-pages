@@ -181,7 +181,7 @@ function row(item) {
   const url = postURL(item);
   if (url) { const link=el('a','',`打开原帖 ↗`);link.href=url;link.target='_blank';link.rel='noopener noreferrer';linkCell.append(link); }
   else linkCell.append(el('span','','原帖链接不可用'));
-  if (item.suitability === 'review') linkCell.append(el('span','review-note','待内容审核'));
+  if (item.suitability === 'review') linkCell.append(el('span','review-note','仅预览初筛'));
   article.append(linkCell,stateActions(item));
   return article;
 }
@@ -199,9 +199,9 @@ function render() {
   document.querySelectorAll('[data-count]').forEach(node => { node.textContent=counts[node.dataset.count]; });
   $('view-title').textContent=viewNames[current];
   $('section-title').textContent=viewNames[current];
-  $('view-description').textContent='按首次采集日期归档；人工状态与内容审核分别记录。';
+  $('view-description').textContent='按首次采集日期归档；仅按预览适宜性初筛，普通摄影也可收录。';
   const review = materials.filter(item => item.suitability==='review').length;
-  $('summary').textContent=`公开快照 ${materials.length} 条 · 待内容审核 ${review} 条 · 人工状态仅此浏览器保存`;
+  $('summary').textContent=`公开快照 ${materials.length} 条 · 仅预览初筛 ${review} 条 · 人工状态仅此浏览器保存`;
   activeFilters();
   const items = materials.filter(matches);
   const groups = new Map();
@@ -241,7 +241,7 @@ function detailMedia() {
 }
 function openDetail(item) {
   state.current=item;state.detailIndex=0;detailMedia();
-  $('detail-platform').textContent=(item.platform==='instagram'?'Instagram':'TikTok')+(item.suitability==='review'?' · 待内容审核':' · 内容已审核');
+  $('detail-platform').textContent=(item.platform==='instagram'?'Instagram':'TikTok')+(item.suitability==='review'?' · 仅预览初筛':' · 整帖已审核');
   $('detail-title').textContent=item.description||'候选素材';
   $('detail-meta').textContent=`@${item.creator||'未知账号'} · 发布 ${date(item.published_at||item.published_date)} · 采集 ${captureDay(item)}`;
   const chips=$('detail-tags');chips.replaceChildren();
