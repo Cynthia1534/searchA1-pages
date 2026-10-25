@@ -1,8 +1,36 @@
 <!doctype html>
-<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="A1.art AI 成图创意素材库"><title>A1.art · 创意素材库</title><link rel="stylesheet" href="./styles.css"><script src="./app.js" defer></script></head>
-<body><div class="shell"><header class="topbar"><a class="brand" href="#discover">A1.art <span>创意素材库</span></a><nav class="nav" aria-label="主导航"><a href="#discover" data-nav="discover">创意发现</a><a href="#all" data-nav="all">全部成片</a><a href="#review" data-nav="review">待复核</a><a href="#daily" data-nav="daily">每日记录</a><a href="#adopted" data-nav="adopted">已采用</a><a href="#reserve" data-nav="reserve">暂存备用</a></nav></header>
-<main><div class="heading"><div><h1 id="view-title">创意发现</h1><p id="view-description"></p></div><span id="snapshot-time" class="muted"></span></div><div id="summary" class="summary"></div>
-<form id="filters" class="filters" autocomplete="off"><input id="search" type="search" placeholder="搜索创意、账号、标签" aria-label="搜索创意、账号和标签"><select id="platform" aria-label="平台"><option value="">全部平台</option><option value="instagram">Instagram</option><option value="tiktok">TikTok</option></select><select id="relation" aria-label="人物关系"><option value="">人物关系</option></select><select id="topic" aria-label="创意主题"><option value="">创意主题</option></select><select id="suitability" aria-label="适宜性"><option value="">适宜性</option><option value="safe">已审核</option><option value="review">待复核</option></select><select id="adoption" aria-label="采用状态"><option value="">采用状态</option><option value="adopted">已采用</option><option value="pending">未采用</option><option value="reserve">暂存备用</option></select><select id="sort" aria-label="排序"><option value="diverse">多样性优先</option><option value="discovered">最新发现</option><option value="published">最新发布</option><option value="engagement">数据表现</option><option value="creative">创意评分</option></select><details class="more"><summary>更多筛选</summary><div><label>视觉风格<select id="style"><option value="">全部风格</option></select></label><label>发现日期<input id="day" type="date"></label><label>数据评分 ≥<input id="data-min" type="number" min="0" max="100" placeholder="不限"></label><label>创意评分 ≥<input id="creative-min" type="number" min="0" max="100" placeholder="不限"></label></div></details><button id="reset" type="reset" class="reset">重置</button></form>
-<div id="active-filters" class="active-filters"></div><div class="list-head"><strong id="section-title">素材</strong><span id="result-count"></span></div><div id="loading" class="empty">正在读取素材数据…</div><div id="error" class="empty" hidden><strong>数据读取失败</strong><span id="error-message"></span><button id="retry" type="button">重试</button></div><div id="empty" class="empty" hidden><strong id="empty-title"></strong><span id="empty-message"></span><a id="review-link" href="#review">查看待复核候选 →</a></div><section id="cards" class="rows" aria-label="素材列表"></section><nav id="pagination" class="pagination" aria-label="分页" hidden><button id="previous" type="button">上一页</button><span id="page-label"></span><button id="next" type="button">下一页</button></nav></main>
-<footer>公开快照 · 采用状态和备注仅保存在当前浏览器，不能跨设备同步。<span id="storage-feedback" role="status"></span></footer></div>
-<dialog id="detail"><div class="dialog-shell"><button id="close-detail" type="button" class="close" aria-label="关闭">×</button><div class="detail-media"><div id="detail-visual" class="visual"></div><div id="detail-media-nav" class="media-nav"></div></div><div class="detail-copy"><span id="detail-platform" class="muted"></span><h2 id="detail-title"></h2><p id="detail-meta" class="muted"></p><div id="detail-tags" class="chips"></div><p id="detail-reason"></p><div id="detail-scores"></div><p id="detail-metrics"></p><label>本机状态<select id="detail-status"></select></label><label>本机备注<textarea id="detail-note" rows="3" placeholder="仅此浏览器保存"></textarea></label><p class="muted">状态和备注只保存在当前浏览器，不会同步到其他设备。</p><a id="detail-link" target="_blank" rel="noopener noreferrer">打开原帖 ↗</a><details><summary>原帖说明与互动历史</summary><p id="detail-caption"></p><div id="detail-history"></div></details></div></div></dialog></body></html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A1.art AI 成图创意素材库">
+  <title>A1.art · 创意素材库</title>
+  <link rel="stylesheet" href="./styles.css"><script src="./app.js" defer></script>
+</head>
+<body><div class="shell">
+  <header class="topbar"><a class="brand" href="#all">A1.art <span>创意素材库</span></a>
+    <nav class="nav" aria-label="主导航"><a href="#all" data-nav="all">全部素材</a><a href="#discover" data-nav="discover">创意发现</a><a href="#daily" data-nav="daily">每日记录</a><a href="#review" data-nav="review">待复核 <span id="review-count"></span></a></nav>
+  </header>
+  <main>
+    <div class="heading"><div><h1 id="view-title">全部素材</h1><p id="view-description"></p></div><div class="heading-side"><span id="result-count">0 条结果</span><span id="snapshot-time" class="muted"></span></div></div>
+    <form id="filters" class="filters" autocomplete="off">
+      <input id="search" type="search" placeholder="搜索创意、账号、标签" aria-label="搜索创意、账号和标签">
+      <select id="platform" aria-label="平台"><option value="">全部平台</option><option value="instagram">Instagram</option><option value="tiktok">TikTok</option></select>
+      <select id="relation" aria-label="人物关系"><option value="">人物关系</option></select>
+      <select id="topic" aria-label="创意主题"><option value="">创意主题</option></select>
+      <select id="adoption" aria-label="采用状态"><option value="">全部状态</option><option value="pending">待筛选</option><option value="adopted">已采用</option><option value="reserve">暂存备用</option><option value="rejected">不采用</option></select>
+      <select id="sort" aria-label="排序"><option value="diverse">多样性优先</option><option value="discovered">最新发现</option><option value="published">最新发布</option><option value="engagement">数据表现</option><option value="creative">创意评分</option></select>
+      <details class="more"><summary>更多筛选</summary><div><label>视觉风格<select id="style"><option value="">全部风格</option></select></label><label>发现日期<input id="day" type="date"></label><label>发布日期<input id="published-day" type="date"></label><label>数据评分 ≥<input id="data-min" type="number" min="0" max="100" placeholder="不限"></label><label>创意评分 ≥<input id="creative-min" type="number" min="0" max="100" placeholder="不限"></label></div></details>
+      <button id="reset" type="reset" class="reset">重置</button>
+    </form>
+    <div id="active-filters" class="active-filters"></div>
+    <div class="list-head"><strong id="section-title">全部素材</strong><span id="summary"></span></div>
+    <div id="loading" class="empty">正在读取素材数据…</div>
+    <div id="error" class="empty" hidden><strong>数据读取失败</strong><span id="error-message"></span><button id="retry" type="button">重试</button></div>
+    <div id="empty" class="empty" hidden><strong id="empty-title"></strong><span id="empty-message"></span><a id="review-link" href="#review">查看待复核候选 →</a></div>
+    <section id="cards" class="rows" aria-label="素材列表"></section>
+    <nav id="pagination" class="pagination" aria-label="分页" hidden><button id="previous" type="button">上一页</button><span id="page-label"></span><button id="next" type="button">下一页</button></nav>
+  </main>
+  <footer>公开快照 · 人工状态和备注只保存在当前浏览器，刷新保留，不能跨设备同步。<span id="storage-feedback" role="status" aria-live="polite"></span></footer>
+</div>
+<dialog id="detail"><div class="dialog-shell"><button id="close-detail" type="button" class="close" aria-label="关闭">×</button><div class="detail-media"><div id="detail-visual" class="visual"></div><div id="detail-media-nav" class="media-nav"></div></div><div class="detail-copy"><span id="detail-platform" class="muted"></span><h2 id="detail-title"></h2><p id="detail-meta" class="muted"></p><div id="detail-tags" class="chips"></div><p id="detail-reason"></p><div id="detail-scores"></div><p id="detail-metrics"></p><label>本机状态<select id="detail-status"></select></label><label>本机备注<textarea id="detail-note" rows="3" placeholder="仅此浏览器保存"></textarea></label><p class="muted">待复核素材的人工决定不代表内容已通过审核；状态和备注不会跨设备同步。</p><a id="detail-link" target="_blank" rel="noopener noreferrer">打开原帖 ↗</a><details><summary>原帖说明与互动历史</summary><p id="detail-caption"></p><div id="detail-history"></div></details></div></div></dialog>
+</body></html>
