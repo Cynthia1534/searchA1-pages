@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T14:22:26+00:00",
+  "generated_at": "2026-10-25T15:05:00+00:00",
   "scope": "Public snapshot: approved results and explicitly selected review candidates",
   "taxonomy": {
     "relation_tags": {
@@ -105,6 +105,308 @@
     }
   },
   "materials": [
+    {
+      "id": "tiktok:7693246325869055250",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@filmsbyjasmeet/video/7693246325869055250",
+      "creator": "filmsbyjasmeet",
+      "published_at": null,
+      "published_date": "2026-10-05",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T14:58:54+00:00",
+      "last_collected_at": "2026-10-25T14:58:54+00:00",
+      "caption": "There’s something beautiful about letting a moment exist exactly as it was. No slowing it down. No music layered over it. No distractions. Just the sound of their ceremony, the movement of the people they love, and two people stepping into the next chapter of their lives. Nothing embellished. Nothing staged. Just a moment, preserved honestly. Because the most timeless stories don’t need a gimmick. They simply need to be remembered.",
+      "description": "新人坐姿合照、传统礼服与自然互动；得体，视频主体待审核。",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T14:58:54+00:00",
+        "likes": 1290,
+        "likes_display": null,
+        "comments": 14,
+        "views": 32800,
+        "shares": null,
+        "source": "yt-dlp public TikTok post extractor"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T14:58:54+00:00",
+          "likes": 1290,
+          "likes_display": null,
+          "comments": 14,
+          "views": 32800,
+          "shares": null,
+          "source": "yt-dlp public TikTok post extractor"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7693246325869055250_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7658222929670409494",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@ai.artstudio0/video/7658222929670409494",
+      "creator": "ai.artstudio0",
+      "published_at": null,
+      "published_date": "2026-07-03",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T14:58:54+00:00",
+      "last_collected_at": "2026-10-25T14:58:54+00:00",
+      "caption": "",
+      "description": "男性列车场景肖像；封面可作职业/旅行场景参考，AI 来源待确认。",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T14:58:54+00:00",
+        "likes": 13,
+        "likes_display": null,
+        "comments": 1,
+        "views": 109,
+        "shares": null,
+        "source": "yt-dlp public TikTok post extractor"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T14:58:54+00:00",
+          "likes": 13,
+          "likes_display": null,
+          "comments": 1,
+          "views": 109,
+          "shares": null,
+          "source": "yt-dlp public TikTok post extractor"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7658222929670409494_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7677085901314444551",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@as.editz16/video/7677085901314444551",
+      "creator": "as.editz16",
+      "published_at": null,
+      "published_date": "2026-08-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T14:52:30+00:00",
+      "last_collected_at": "2026-10-25T14:52:30+00:00",
+      "caption": "Prompt👇🦋❤️⬇️☑️ 2:1 red-and-black cinematic tribute poster, 100% face/identity lock, no face change. Five natural portrait panels, stylish outfits, soft black fade at bottom, plus a larger smiling foreground portrait pointing at the viewer. \"Vanaja\" in bold white brush-script, ultra-realistic, premium quality. #creatorsearchinsights2026viralvideo💋😘😘 ",
+      "description": "女性多造型电影海报风格拼图封面；仅核验封面。",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T14:52:30+00:00",
+        "likes": 137,
+        "likes_display": null,
+        "comments": 1,
+        "views": 3564,
+        "shares": null,
+        "source": "yt-dlp public TikTok post extractor"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T14:52:30+00:00",
+          "likes": 137,
+          "likes_display": null,
+          "comments": 1,
+          "views": 3564,
+          "shares": null,
+          "source": "yt-dlp public TikTok post extractor"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7677085901314444551_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7676729986635664647",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@as.editz16/video/7676729986635664647",
+      "creator": "as.editz16",
+      "published_at": null,
+      "published_date": "2026-08-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T14:52:30+00:00",
+      "last_collected_at": "2026-10-25T14:52:30+00:00",
+      "caption": "Prompt⬇️☑️👇❤️ Ultra-realistic cinematic monsoon fashion collage, vertical 4:5. Beautiful Bengali woman in a pastel sky-blue floral Anarkali with sheer dupatta, silver jhumkas, bindi, and black bangles. Three seamless poses: top—smiling upward in heavy rain, hand touching wet hair; bottom-left—blowing a kiss toward camera; bottom-right—walking barefoot on a wet city street holding a transparent umbrella and lifting her dress slightly.  #creatorsearchinsights2026viralvideo💋😘😘 #As_Editz16💐🌸🌹 #viralvideo #1millionaudition ",
+      "description": "女性雨季时尚写真拼图封面；仅核验封面。",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T14:52:30+00:00",
+        "likes": 442,
+        "likes_display": null,
+        "comments": 2,
+        "views": 8203,
+        "shares": null,
+        "source": "yt-dlp public TikTok post extractor"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T14:52:30+00:00",
+          "likes": 442,
+          "likes_display": null,
+          "comments": 2,
+          "views": 8203,
+          "shares": null,
+          "source": "yt-dlp public TikTok post extractor"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7676729986635664647_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DIBpMQCPyfZ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DIBpMQCPyfZ/",
+      "creator": "fitoorseeks",
+      "published_at": null,
+      "published_date": "2025-04-04",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T14:52:30+00:00",
+      "last_collected_at": "2026-10-25T14:52:30+00:00",
+      "caption": "An Indian wedding, imagined by AI – in full Pixar-style glory!\nWhat happens when culture meets code? When traditional love stories are reimagined by artificial intelligence?\nThis reel is a playful visual experiment: where machine precision meets human emotion.\nYes, AI can generate visuals, but can it understand vibe, chaos, emotion, intimacy – the heart of real Indian weddings?\n\nWe’re wedding filmmakers, and we tried this to explore—not replace.\nBecause real art begins where the algorithm ends.\n\n#AIArt #PixarWedding #AIvsArtist #IndianWedding #DesiWedding #PixarStyle #AestheticAI #WeddingReel #MadeWithAI #ArtificialIntelligence #FutureOfArt #HindustaniShaadi #IndianBride",
+      "description": "印度婚礼动画风格双人成图封面；风格与真实照片转换目标的相关性待审核。",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [
+          "wedding_traditional"
+        ],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T14:52:30+00:00",
+        "likes": 145,
+        "likes_display": "145",
+        "comments": 8,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T14:52:30+00:00",
+          "likes": 145,
+          "likes_display": "145",
+          "comments": 8,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DIBpMQCPyfZ_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "tiktok:7695817736894663944",
       "platform": "tiktok",
