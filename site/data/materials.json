@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T02:45:12+00:00",
+  "generated_at": "2026-10-25T07:31:31+00:00",
   "scope": "Public snapshot: approved results and explicitly selected review candidates",
   "taxonomy": {
     "relation_tags": {
@@ -175,7 +175,8 @@
           "kind": "video_cover",
           "preview": "assets/tiktok_7228679199454678315_0.jpg",
           "preview_status": "cached_private_thumbnail",
-          "result_status": "unknown"
+          "result_status": "unknown",
+          "visual_analysis": null
         }
       ]
     },
@@ -248,7 +249,8 @@
           "kind": "image",
           "preview": "assets/instagram_CxrDdNhP4Hj_0.jpg",
           "preview_status": "cached_private_thumbnail",
-          "result_status": "final_result"
+          "result_status": "final_result",
+          "visual_analysis": null
         }
       ]
     },
@@ -263,10 +265,10 @@
       "first_discovered_at": "2026-10-24T13:02:31+00:00",
       "last_collected_at": "2026-10-24T13:02:31+00:00",
       "caption": "Thanks for ai ❤️\nMother and daughter prompt 👇\nA mother and daughter pose for a studio portrait. (same person in image and exactly same facial feature) The mother, seated on a wooden chair, wears traditional South Indian sari. His daughter and sits on the floor beside him, leaning against his mother's leg with an arm resting on his mother's arm. The daughter wears traditional South Indian sari.",
-      "description": "母女传统服饰棚拍合影（首图）",
-      "recommendation_reason": "亲子双人构图有参考价值；完整帖子与AI生成性质仍需复核",
+      "description": "南印度传统服饰母女影棚合影",
+      "recommendation_reason": "母女关系与传统服饰结合，画面完整、自然、得体；对亲子写真风格有参考价值。",
       "content_nature": "final_result",
-      "suitability": "review",
+      "suitability": "safe",
       "review_status": "pending",
       "source_confidence": "low",
       "tags": {
@@ -284,7 +286,8 @@
           "indian_attire"
         ],
         "style_tags": [
-          "realistic_scene"
+          "portrait_single",
+          "wedding_traditional"
         ],
         "scene_tags": [
           "studio",
@@ -296,7 +299,12 @@
       },
       "scores": {
         "data": null,
-        "creative": null
+        "creative": {
+          "score": 65,
+          "reason": "人工视觉评估：亲子组合与南印度纱丽影棚构图有参考价值，但场景创新性中等；不是市场转化数据。",
+          "confidence": "low",
+          "evaluated_at": "2026-10-25T02:52:48+00:00"
+        }
       },
       "metrics": {
         "captured_at": "2026-10-24T13:02:31+00:00",
@@ -324,7 +332,89 @@
           "kind": "image",
           "preview": "assets/instagram_DOsaV0jEqZD_0.jpg",
           "preview_status": "cached_private_thumbnail",
-          "result_status": "final_result"
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7506833741227117831",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@starmindaistudios/video/7506833741227117831",
+      "creator": "starmindaistudios",
+      "published_at": "2025-05-21T09:49:07+00:00",
+      "published_date": "2025-05-21",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-24T08:59:08+00:00",
+      "last_collected_at": "2026-10-24T08:59:08+00:00",
+      "caption": "🌺 The Beauty of Tradition | 👑 Classic Indian Saree Look in AI Video 🎥 #IndianTradition  #SareeLook  #AIArt  #TraditionalIndianAttire  #EthnicFashion  #CulturalElegance  #AIAnimation  #StarMindAI  #SareeStyle  #SouthAsianBeauty     #AIEthnicWear  #DigitalHeritage  #TraditionMeetsTech  #DesiFashion  #AIFashion #TimelessBeauty  #AIVisuals  #IndianCulture  #TraditionalWear  #AIWomenPortrait  #HeritageInspired  #CinematicAI  #ArtMeetsAI  #ElegantSareeLook",
+      "description": "印度传统纱丽 AI 动态肖像",
+      "recommendation_reason": "整段视频以同一最终肖像的轻微动态展示为主，造型自然、得体，可参考传统服饰写实成片。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "review_status": "pending",
+      "source_confidence": "low",
+      "tags": {
+        "relation_tags": [
+          "woman_single"
+        ],
+        "person_tags": [
+          "adult_woman"
+        ],
+        "topic_tags": [
+          "indian_attire",
+          "daily_portrait"
+        ],
+        "style_tags": [
+          "portrait_single",
+          "wedding_traditional",
+          "realistic_scene"
+        ],
+        "scene_tags": [
+          "studio",
+          "traditional_clothing"
+        ],
+        "market_tags": [
+          "india"
+        ]
+      },
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 52,
+          "reason": "人工视觉评估：传统纱丽造型清晰，动态和场景创意较常见；不代表转化效果。",
+          "confidence": "low",
+          "evaluated_at": "2026-10-25T03:01:19+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-24T08:59:08+00:00",
+        "likes": 5082,
+        "likes_display": "5082",
+        "comments": 199,
+        "views": 74700,
+        "shares": 333,
+        "source": "TikTok public video-detail embedded JSON"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-24T08:59:08+00:00",
+          "likes": 5082,
+          "likes_display": "5082",
+          "comments": 199,
+          "views": 74700,
+          "shares": 333,
+          "source": "TikTok public video-detail embedded JSON"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7506833741227117831_0.png",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
         }
       ]
     },
@@ -387,7 +477,8 @@
           "kind": "image",
           "preview": "assets/instagram_DOkmA7FEuS6_0.jpg",
           "preview_status": "cached_private_thumbnail",
-          "result_status": "unknown"
+          "result_status": "unknown",
+          "visual_analysis": null
         }
       ]
     }
