@@ -73,10 +73,10 @@ function row(item) {
 function render() {
   if(!state.data)return;
   const current=view(),names={all:'全部素材',discover:'创意发现',daily:'每日记录',review:'待复核候选'};
-  $('view-title').textContent=names[current];
-  $('view-description').textContent=current==='review'?'真实帖子候选；人工筛选状态不代表内容适宜性已审核。':'只展示经过完整内容与适宜性审核的素材。';
-  document.querySelectorAll('[data-nav]').forEach(a=>a.classList.toggle('active',a.dataset.nav===current));
   const review=state.data.materials.filter(x=>x.suitability==='review').length;
+  $('view-title').textContent=names[current];
+  $('view-description').textContent=current==='review'?'真实帖子候选；人工筛选状态不代表内容适宜性已审核。':`本页显示已审核素材；另有 ${review} 条仅核验封面的候选，请点击上方「待复核」查看。`;
+  document.querySelectorAll('[data-nav]').forEach(a=>a.classList.toggle('active',a.dataset.nav===current));
   $('review-count').textContent=review?`(${review})`:'';
   activeFilters();const pool=poolFor(current),items=filtered(pool);state.latest=items;
   const counts={pending:0,adopted:0,reserve:0,rejected:0};for(const item of state.data.materials) counts[status(item)]++;

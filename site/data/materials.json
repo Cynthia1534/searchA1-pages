@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T07:31:31+00:00",
+  "generated_at": "2026-10-25T12:41:00+00:00",
   "scope": "Public snapshot: approved results and explicitly selected review candidates",
   "taxonomy": {
     "relation_tags": {
@@ -105,6 +105,455 @@
     }
   },
   "materials": [
+    {
+      "id": "tiktok:7695817736894663944",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@as.editz16/video/7695817736894663944",
+      "creator": "as.editz16",
+      "published_at": null,
+      "published_date": "2026-10-12",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T12:31:42+00:00",
+      "last_collected_at": "2026-10-25T12:31:42+00:00",
+      "caption": "Ultra-detailed cinematic black-and-white portrait poster based on the reference image Preserve the subject's exact facial identity, facial proportions, hairstyle, natural expression, and overall appearance. A young South Indian man with thick, voluminous curly black hair, expressive dark eyes, a bright genuine toothy smile, subtle chin beard, and a small gold hoop earring He wears a stylish Black collared shirt with realistic fabric folds, layered gold chain necklaces, and a tiy otamge tilk on the forehead. Create a dramatic high-contrast monochrome portrait against a deep pure black background.   Keep the face and clothing predominantly grayscale, with selective warm golden/orange accents on the hair rim lighting, earring, gold chains, and tilak. Strong studio lighting from the upper left creates a glowing golden rim around the curly hair while soft directional light reveals realistic facial contours and skin texture. Deep shadows, crisp details, smooth tonal transitions, premium e  #creatorsearchinsights2026 #1millionaudition #flowandlike #fypシ゚viral ",
+      "description": "封面：男性黑白肖像与金色轮廓光；视频内容尚未完整审核。",
+      "recommendation_reason": "仅作成图风格参考，需复核完整视频与适宜性。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T12:31:42+00:00",
+        "likes": 358,
+        "likes_display": null,
+        "comments": 2,
+        "views": 4643,
+        "shares": 26,
+        "source": "yt-dlp TikTok public post"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T12:31:42+00:00",
+          "likes": 358,
+          "likes_display": null,
+          "comments": 2,
+          "views": 4643,
+          "shares": 26,
+          "source": "yt-dlp TikTok public post"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7695817736894663944_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7696063969533938962",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@as.editz16/video/7696063969533938962",
+      "creator": "as.editz16",
+      "published_at": null,
+      "published_date": "2026-10-13",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T12:31:41+00:00",
+      "last_collected_at": "2026-10-25T12:31:41+00:00",
+      "caption": "Prompt👇♥️🌹 A high-energy movie poster style artwork featuring a young man shouting passionately, looking upwards in side profile. He wears stylish sunglasses, a beard, and a glossy red leather jacket. Behind him, a massive high-contrast white paint-splatter silhouette duplicates his screaming face and profile against a deep textured red background. At the bottom, bold, distressed brushstroke typography prominently displays the text \"Vino\" angled across the lower foreground. 8k, vertical 9:16.  #creatorsearchinsights2026viralvideo  #viralditiktok #viral_video #fypシ゚viral #as_editz16❤️💐",
+      "description": "封面：男性红色电影海报风格肖像；视频内容尚未完整审核。",
+      "recommendation_reason": "仅作成图风格参考，需复核完整视频与适宜性。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T12:31:41+00:00",
+        "likes": 233,
+        "likes_display": null,
+        "comments": 2,
+        "views": 3926,
+        "shares": 14,
+        "source": "yt-dlp TikTok public post"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T12:31:41+00:00",
+          "likes": 233,
+          "likes_display": null,
+          "comments": 2,
+          "views": 3926,
+          "shares": 14,
+          "source": "yt-dlp TikTok public post"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7696063969533938962_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DRnwB2AAc7C",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DRnwB2AAc7C",
+      "creator": "zero_zon_2",
+      "published_at": null,
+      "published_date": "2025-11-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T12:31:40+00:00",
+      "last_collected_at": "2026-10-25T12:31:40+00:00",
+      "caption": "Prompt 📍\n\nA hyper-realistic, high-key professional studio wedding photograph of an Indian couple in a romantic, intimate embrace. The background is pure, blown-out white, creating an ethereal, dreamy atmosphere.\nThe Subjects:\nThe Groom: Wearing a cream-colored silk Kurta. He has a beard and is wearing a traditional gold thread 'Bashikam' on his forehead.\nThe Bride: Wearing a peach and gold Kanjeevaram silk saree. Her blouse features heavy 'maggam' work embroidery with beads and stones on the sleeves. Her hair is braided and thickly adorned with fresh white jasmine flowers. She is wearing traditional gold jewelry including a matha patti, nose ring, heavy earrings, and a choker. Her hands have henna (mehndi) and are stacked with red and gold bangles.\nThe Garlands: Both are wearing matching, heavy wedding garlands made of pink lotus buds and green foliage.\nThe Pose: They are hugging closely, standing side-by-side in profile. Their foreheads are touching, eyes are closed, and they are sharing a gentle, happy smile.\nLighting & Style: Soft, diffused studio lighting. There is strong rim lighting (backlight) creating a glowing halo effect on their hair and shoulders. The image has a soft focus with a slight light flare/haze at the bottom right, replicating a professional photography style.\n\n#WeddingPhotography #CandidWedding #BrideAndGroom #WeddingMoments \n#WeddingInspiration #CoupleGoals #WeddingStory #IndianWedding \n#CinematicWedding #PreWeddingShoot #WeddingPortraits #WeddingVibes",
+      "description": "封面：情侣近景婚礼肖像；视频内容尚未完整审核。",
+      "recommendation_reason": "仅作成图风格参考，需复核完整视频与适宜性。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [
+          "portrait_single",
+          "couple_interaction",
+          "wedding_traditional",
+          "cinematic_poster",
+          "realistic_scene",
+          "romantic",
+          "professional_identity"
+        ],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T12:31:40+00:00",
+        "likes": null,
+        "likes_display": "30K",
+        "comments": null,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T12:31:40+00:00",
+          "likes": null,
+          "likes_display": "30K",
+          "comments": null,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DRnwB2AAc7C_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DTDH0EPjFRF",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DTDH0EPjFRF",
+      "creator": "murali__ai_creator",
+      "published_at": null,
+      "published_date": "2026-01-03",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T12:31:39+00:00",
+      "last_collected_at": "2026-10-25T12:31:39+00:00",
+      "caption": "Traditional wedding ✨ Gemini AI prompt 👇 \n#geminitrend❤️ #weddingphotography #instagram #wedding #candid \n\n✨ Prompt 👇 don't change my face 100% original face\n\"A vibrant portrait photograph of a young South Indian woman smiling gently at a festive event. She wears a traditional lavender and light purple silk half-saree (langa voni) with gold zari work and a puffed-sleeve blouse adorned with pearl bead trim on the sleeves and dupatta border. She is decked in elaborate gold temple jewelry including layered necklaces with green stones (emeralds), large jhumka earrings, a maang tikka on her forehead, and a gold waist belt (vaddanam). Her hands, covered in intricate mehndi patterns, are holding stacks of purple, gold, and yellow bangles. Her hair is braided and decorated with fresh jasmine and purple flowers. The background is a warmly lit, blurred interior of a function hall with ceiling lights creating bokeh.\"",
+      "description": "封面：单人传统服饰肖像与柔和灯光；视频内容尚未完整审核。",
+      "recommendation_reason": "仅作成图风格参考，需复核完整视频与适宜性。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [
+          "portrait_single",
+          "wedding_traditional"
+        ],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T12:31:39+00:00",
+        "likes": 16,
+        "likes_display": "16",
+        "comments": 9,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T12:31:39+00:00",
+          "likes": 16,
+          "likes_display": "16",
+          "comments": 9,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DTDH0EPjFRF_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DR8ctxHASbg",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DR8ctxHASbg",
+      "creator": "zero_zon_2",
+      "published_at": null,
+      "published_date": "2025-12-06",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T12:31:39+00:00",
+      "last_collected_at": "2026-10-25T12:31:39+00:00",
+      "caption": "Prompt 📍\n\nUltra-realistic vertical shot, 9:16 aspect ratio. A candid, heartwarming South Indian Telugu wedding moment capturing a bride and groom bursting into genuine, uncontrollable laughter. The groom, wearing a simple white shirt and a thick red rose petal garland, has a beard and is smiling broadly with his eyes squinting in joy; he has a patch of yellow turmeric paste on the top of his head. The bride, sitting next to him, is laughing wholeheartedly with an open mouth, wearing a rich red and gold Kanjeevaram silk saree with intricate embroidery, heavy gold traditional jewelry including a maang tikka and nose ring, and fresh white jasmine flowers in her hair. She also has turmeric on her forehead and hair and wears a matching red rose garland. They are leaning forward engaging in a ritual. The background is a soft bokeh blur showing wedding guests in purple and blue sarees, creating a depth of field that keeps the sharp focus entirely on the couple's joyous expressions. Vibrant colors, cinematic wedding photography, high definition.\n\n#WeddingPhotography\n#CandidWedding\n#WeddingPhotographer\n#BrideAndGroom\n#IndianWeddings\n#WeddingMoments\n#CandidShots\n#WeddingInspiration\n#BridalPortrait\n#PreWeddingShoot\n#WeddingStory\n#LuxuryWeddings",
+      "description": "封面：南印度婚礼场景，情侣与亲友同框；视频内容尚未完整审核。",
+      "recommendation_reason": "仅作成图风格参考，需复核完整视频与适宜性。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [
+          "portrait_single",
+          "couple_interaction",
+          "wedding_traditional",
+          "cinematic_poster",
+          "realistic_scene",
+          "high_fashion"
+        ],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T12:31:39+00:00",
+        "likes": null,
+        "likes_display": "79K",
+        "comments": null,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T12:31:39+00:00",
+          "likes": null,
+          "likes_display": "79K",
+          "comments": null,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DR8ctxHASbg_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc_MXw-T1aj",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dc_MXw-T1aj",
+      "creator": "zero_zon_2",
+      "published_at": null,
+      "published_date": "2026-09-07",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T12:31:38+00:00",
+      "last_collected_at": "2026-10-25T12:31:38+00:00",
+      "caption": "Drop the comment “PROMPT” 👇\n\n to get the full AI wedding prompt! 💍✨\nA dreamy wedding moment captured in pure elegance, love, and tradition. 💕🌸 Save this for your next AI photo creation!\n\n#AIWedding #WeddingPhotography #AIPrompt #IndianWedding #TrendingReels",
+      "description": "封面：情侣婚礼仪式中的自然互动；视频内容尚未完整审核。",
+      "recommendation_reason": "仅作成图风格参考，需复核完整视频与适宜性。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [
+          "wedding_traditional"
+        ],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T12:31:38+00:00",
+        "likes": null,
+        "likes_display": "183K",
+        "comments": null,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T12:31:38+00:00",
+          "likes": null,
+          "likes_display": "183K",
+          "comments": null,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_Dc_MXw-T1aj_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DY55SnABnG7",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DY55SnABnG7",
+      "creator": "gempromptai2026",
+      "published_at": null,
+      "published_date": "2026-05-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T12:31:37+00:00",
+      "last_collected_at": "2026-10-25T12:31:37+00:00",
+      "caption": "Prompt:\nUltra-realistic cinematic Indian wedding portrait using the same real Indian couple from the reference photo. Keep both original faces exactly unchanged — no face swap, no AI-generated facial changes, no beautification, no skin smoothing, no hairstyle change, no beard modification, no body shape alteration, and no skin tone change. Maintain perfect natural human realism and exact original identity.\nScene: A luxurious Indian wedding stage with a rich deep red floral wall background and elegant royal ambiance. The groom is sitting confidently on a grand royal velvet maroon chair with crystal button detailing, wearing a premium dark brown three-piece suit, white shirt, and maroon tie. Natural classy pose with crossed legs and relaxed hands. The bride is standing beside him in an elegant ivory-white heavily embroidered saree with golden detailing and traditional bridal jewelry, including choker necklace, earrings, maang tikka, bangles, and mehndi hands. She is softly holding a transparent embroidered bridal veil over both of them while smiling naturally.\nLighting: warm cinematic wedding lighting, soft golden glow, shallow depth of field, dreamy atmosphere, realistic skin texture, premium wedding photography style, DSLR look, ultra detailed fabric texture, realistic jewelry reflections, soft bokeh background.\nComposition: full body vertical portrait, centered framing, luxury Indian wedding aesthetic, emotional romantic vibe, highly detailed background, natural posture, realistic shadows and depth.\nQuality: ultra realistic, hyper detailed, 8K ultra HD, HDR, sharp focus, professional wedding photography, cinematic color grading.\nAspect Ratio: 9:16 vertical.\n\n#india #instalove #reelviral #instagood #gemini",
+      "description": "封面：婚礼双人肖像与红色花墙；视频内容尚未完整审核。",
+      "recommendation_reason": "仅作成图风格参考，需复核完整视频与适宜性。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "review_status": "pending",
+      "source_confidence": "medium",
+      "tags": {
+        "relation_tags": [],
+        "person_tags": [],
+        "topic_tags": [],
+        "style_tags": [
+          "portrait_single",
+          "couple_interaction",
+          "wedding_traditional",
+          "cinematic_poster",
+          "realistic_scene",
+          "high_fashion",
+          "romantic",
+          "professional_identity"
+        ],
+        "scene_tags": [],
+        "market_tags": []
+      },
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T12:31:37+00:00",
+        "likes": 158,
+        "likes_display": "158",
+        "comments": 7,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T12:31:37+00:00",
+          "likes": 158,
+          "likes_display": "158",
+          "comments": 7,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DY55SnABnG7_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "tiktok:7228679199454678315",
       "platform": "tiktok",
