@@ -37,7 +37,9 @@ const postURL = item => {
     const url = new URL(item.post_url);
     if (url.protocol !== 'https:') return null;
     const hosts = item.platform === 'instagram' ? ['instagram.com','www.instagram.com'] : ['tiktok.com','www.tiktok.com'];
-    const path = item.platform === 'instagram' ? /^\/(p|reel)\/[\w-]+\/?$/ : /^\/@[^/]+\/(video|photo)\/\d+\/?$/;
+    const path = item.platform === 'instagram'
+      ? /^\/(?:[A-Za-z0-9._]+\/)?(?:p|reel)\/[A-Za-z0-9_-]+\/?$/
+      : /^\/@[^/]+\/(video|photo)\/\d+\/?$/;
     return hosts.includes(url.hostname) && path.test(url.pathname) ? url.href : null;
   } catch { return null; }
 };
@@ -175,7 +177,7 @@ function row(item) {
   meta.append(el('span','platform',item.platform==='instagram'?'Instagram':'TikTok'),el('span','account',`@${item.creator||'未知账号'}`),el('span','meta',`发布 ${date(item.published_at||item.published_date)}`),el('span','meta',`采集 ${captureDay(item)}`));
   article.append(meta);
   const metrics = el('div','row-numbers');
-  metrics.append(el('strong','',`创意 ${score(item,'creative')??'待评'}`),el('span','',`赞 ${number(item.metrics?.likes)} · 评 ${number(item.metrics?.comments)}`));
+  metrics.append(el('strong','',`创意 ${score(item,'creative')??'待评'}`),el('span','',`赞 ${item.metrics?.likes_display||number(item.metrics?.likes)} · 评 ${number(item.metrics?.comments)}`));
   article.append(metrics);
   const linkCell = el('div','link-cell');
   const url = postURL(item);
