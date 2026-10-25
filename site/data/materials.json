@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T13:47:25+00:00",
+  "generated_at": "2026-10-25T02:45:12+00:00",
   "scope": "Public snapshot: approved results and explicitly selected review candidates",
   "taxonomy": {
     "relation_tags": {
@@ -387,70 +387,6 @@
           "kind": "image",
           "preview": "assets/instagram_DOkmA7FEuS6_0.jpg",
           "preview_status": "cached_private_thumbnail",
-          "result_status": "unknown"
-        }
-      ]
-    },
-    {
-      "id": "tiktok:7524708972708809992",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@su_shey20/video/7524708972708809992",
-      "creator": "su_shey20",
-      "published_at": "2025-07-08T13:53:58+00:00",
-      "published_date": "2025-07-08",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-24T08:28:33.096896+00:00",
-      "last_collected_at": "2026-10-24T08:28:33.096896+00:00",
-      "caption": "Elegant Bride AI Filter 😍 #indianbridefilter #bridefilter #brideai #ai #fyp #foryou ",
-      "description": "@su_shey20 的创意素材",
-      "recommendation_reason": null,
-      "content_nature": "final_result",
-      "suitability": "review",
-      "review_status": "pending",
-      "source_confidence": "high",
-      "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "wedding_traditional"
-        ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
-        ]
-      },
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-24T08:28:33.096896+00:00",
-        "likes": 641,
-        "likes_display": "641",
-        "comments": 57,
-        "views": 84400,
-        "shares": 113,
-        "source": "TikTok public video-detail embedded JSON"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-24T08:28:33.096896+00:00",
-          "likes": 641,
-          "likes_display": "641",
-          "comments": 57,
-          "views": 84400,
-          "shares": 113,
-          "source": "TikTok public video-detail embedded JSON"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7524708972708809992_0.jpg",
-          "preview_status": "image_http_200_verified",
           "result_status": "unknown"
         }
       ]
