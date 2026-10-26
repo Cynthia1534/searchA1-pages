@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T01:52:59+00:00",
+  "generated_at": "2026-10-26T06:16:51+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -47,6 +47,133 @@
     ]
   },
   "materials": [
+    {
+      "id": "instagram:De69tQpmhwx",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/promptgallery.ig/p/De69tQpmhwx/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:16:18+00:00",
+      "last_collected_at": "2026-10-26T06:16:18+00:00",
+      "caption": "#prompt #gemini #geminiedits \n\n[ Google Gemini, Prompt, Nano banana, Image Editing, prompts, Gemini Edits, Photo Edits, Trending Edits, Tamil Edits, Office]",
+      "description": "两人自然靠近的暖色户外合照，适合双人写真姿态参考；目前仅核对首图，其他轮播图未检查",
+      "recommendation_reason": "首图可见最终人物或场景效果；两人自然靠近的暖色户外合照，适合双人写真姿态参考；目前仅核对首图，其他轮播图未检查。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "discovery_labels": [
+        "recent_new"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:16:32+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 74,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:16:18+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:16:18+00:00",
+        "likes": 516,
+        "likes_display": "516",
+        "comments": 21,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:16:18+00:00",
+          "likes": 516,
+          "likes_display": "516",
+          "comments": 21,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De69tQpmhwx_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De6h_arT6X0",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/little_vihaan_14/reel/De6h_arT6X0/",
+      "creator": "little_vihaan_14",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:16:18+00:00",
+      "last_collected_at": "2026-10-26T06:16:18+00:00",
+      "caption": "Beautiful creation ✨🫰❤️ \n.\n.\n.\n.\n.\n.\n.\n#little_vihaan_14 #reelitfeelit #reelkarofeelkaro #reels #instagram",
+      "description": "儿童与卡通兔子同框的明亮童话合照；视频主体展示最终成片，首尾有提示词文字；仅代表性画面已核对",
+      "recommendation_reason": "首图可见最终人物或场景效果；儿童与卡通兔子同框的明亮童话合照；视频主体展示最终成片，首尾有提示词文字；仅代表性画面已核对。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/little_vihaan_14/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "人与动物"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:16:32+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 82,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:16:18+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_De6h_arT6X0_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:De6ME2IGnin",
       "platform": "instagram",
