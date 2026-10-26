@@ -16,7 +16,8 @@ const decision = item => state.local[item.id] || {};
 const status = item => statusNames[decision(item).status] ? decision(item).status :
   (statusNames[item.review_status] ? item.review_status : 'pending');
 const tags = (item, field) => Array.isArray(item.tags?.[field]) ? item.tags[field] : [];
-const label = (field, value) => state.data?.taxonomy?.[field]?.[value] || value;
+const label = (_field, value) => value;
+const selectedTags = field => [...document.querySelectorAll(`input[data-tag-field="${field}"]:checked`)].map(input=>input.value);
 const date = value => value ? String(value).slice(0,10) : '日期待确认';
 const captureDay = item => {
   const value = item.first_discovered_at;
@@ -74,11 +75,13 @@ function save(item, patch) {
   }
 }
 function fillOptions() {
-  for (const [id, field] of [['relation','relation_tags'], ['topic','topic_tags'], ['style','style_tags']]) {
-    const select = $(id);
-    select.length = 1;
-    const values = [...new Set(state.data.materials.flatMap(item => tags(item, field)))].sort((a,b) => label(field,a).localeCompare(label(field,b),'zh-CN'));
-    values.forEach(value => select.add(new Option(label(field,value),value)));
+  for (const [id,field] of [['audience-options','audience_tags'],['theme-options','theme_tags']]) {
+    const container=$(id);container.replaceChildren();
+    for (const value of state.data.taxonomy[field]) {
+      const option=el('label');
+      const input=el('input');input.type='checkbox';input.name=field;input.value=value;input.dataset.tagField=field;
+      option.append(input,el('span','',value));container.append(option);
+    }
   }
   const days = [...new Set(state.data.materials.map(captureDay))].sort().reverse();
   const daySelect = $('day');
@@ -92,8 +95,9 @@ function matches(item) {
   if ($('day-from').value && captureDay(item) < $('day-from').value) return false;
   if ($('day-to').value && captureDay(item) > $('day-to').value) return false;
   if ($('suitability').value && item.suitability !== $('suitability').value) return false;
-  for (const [id, field] of [['relation','relation_tags'], ['topic','topic_tags'], ['style','style_tags']]) {
-    if ($(id).value && !tags(item, field).includes($(id).value)) return false;
+  for (const field of ['audience_tags','theme_tags']) {
+    const selected=selectedTags(field);
+    if (selected.length && !selected.some(value=>tags(item,field).includes(value))) return false;
   }
   const query = $('search').value.trim().toLowerCase();
   if (!query) return true;
@@ -114,7 +118,7 @@ function compareItems(a,b) {
 function activeFilters() {
   const area = $('active-filters');
   area.replaceChildren();
-  for (const [id,name] of [['search','搜索'],['day','采集日期'],['platform','平台'],['relation','人物'],['topic','主题'],['style','风格'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序']]) {
+  for (const [id,name] of [['search','搜索'],['day','采集日期'],['platform','平台'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序']]) {
     const field = $(id);
     if (!field.value || (id === 'sort' && field.value === 'discovered')) continue;
     const value = field.selectedOptions?.[0]?.textContent || field.value;
@@ -122,6 +126,12 @@ function activeFilters() {
     chip.type = 'button';
     chip.addEventListener('click', () => { field.value = id === 'sort' ? 'discovered' : ''; state.page=1; render(); });
     area.append(chip);
+  }
+  for (const [field,name] of [['audience_tags','受众标签'],['theme_tags','主题标签']]) {
+    for (const input of document.querySelectorAll(`input[data-tag-field="${field}"]:checked`)) {
+      const chip=el('button','',`${name}：${input.value} ×`);
+      chip.type='button';chip.addEventListener('click',()=>{input.checked=false;state.page=1;render();});area.append(chip);
+    }
   }
 }
 function mediaVisual(item,index,container) {
@@ -170,7 +180,7 @@ function row(item) {
   titleButton.type='button'; titleButton.addEventListener('click', () => openDetail(item));
   title.append(titleButton);
   const chips = el('div','chips');
-  for (const [field,value] of Object.entries(item.tags||{}).flatMap(([field,values]) => (values||[]).map(v => [field,v])).slice(0,3)) chips.append(el('span','chip',label(field,value)));
+  for (const [field,value] of ['audience_tags','theme_tags'].flatMap(field => tags(item,field).map(value=>[field,value])).slice(0,3)) chips.append(el('span','chip',label(field,value)));
   title.append(chips);
   article.append(title);
   const meta = el('div','row-meta');
@@ -247,7 +257,7 @@ function openDetail(item) {
   $('detail-title').textContent=item.description||'候选素材';
   $('detail-meta').textContent=`@${item.creator||'未知账号'} · 发布 ${date(item.published_at||item.published_date)} · 采集 ${captureDay(item)}`;
   const chips=$('detail-tags');chips.replaceChildren();
-  for (const [field,value] of Object.entries(item.tags||{}).flatMap(([field,values])=>(values||[]).map(v=>[field,v]))) chips.append(el('span','chip',label(field,value)));
+  for (const [field,value] of ['audience_tags','theme_tags'].flatMap(field => tags(item,field).map(value=>[field,value]))) chips.append(el('span','chip',label(field,value)));
   $('detail-reason').textContent=item.recommendation_reason||'推荐理由待确认';
   $('detail-scores').textContent=`数据表现 ${score(item,'data')??'待评'} · 创意发现 ${score(item,'creative')??'待评'}`;
   $('detail-metrics').textContent=`点赞 ${number(item.metrics?.likes)} · 评论 ${number(item.metrics?.comments)} · 播放 ${number(item.metrics?.views)}`;
@@ -266,7 +276,8 @@ async function load() {
     const response=await fetch('./data/materials.json',{cache:'no-store'});
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data=await response.json();
-    if (data.schema_version!==1 || !Array.isArray(data.materials)) throw new Error('素材数据格式无效');
+    if (data.schema_version!==2 || !Array.isArray(data.materials)
+        || !Array.isArray(data.taxonomy?.audience_tags) || !Array.isArray(data.taxonomy?.theme_tags)) throw new Error('素材数据格式无效');
     const seen=new Set(); data.materials=data.materials.filter(item=>{ if(!item.id||seen.has(item.id)) return false;seen.add(item.id);return true; });
     state.data=data;fillOptions();
     $('snapshot-time').textContent=`快照 ${date(data.generated_at)}`;

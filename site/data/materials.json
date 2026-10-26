@@ -1,108 +1,50 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-10-25T23:43:02+00:00",
+  "schema_version": 2,
+  "generated_at": "2026-10-26T01:52:59+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
-    "relation_tags": {
-      "woman_single": "女性单人",
-      "man_single": "男性单人",
-      "child_single": "儿童单人",
-      "couple": "情侣",
-      "spouses": "夫妻",
-      "mother_child": "母亲与孩子",
-      "father_child": "父亲与孩子",
-      "parents_child": "家长与孩子",
-      "family_three": "三口之家",
-      "multigenerational": "多代同堂家庭",
-      "friends": "朋友合照",
-      "group": "多人合照",
-      "mixed_age": "不同年龄组合",
-      "parent_child": "亲子",
-      "family": "家庭",
-      "other": "其他关系",
-      "unknown": "待确认"
-    },
-    "person_tags": {
-      "adult_woman": "成年女性",
-      "adult_man": "成年男性",
-      "child": "儿童",
-      "teen": "青少年",
-      "older_adult": "长者",
-      "mixed_ages": "不同年龄段",
-      "unknown": "待确认"
-    },
-    "topic_tags": {
-      "daily_portrait": "日常写真",
-      "premium_portrait": "高级肖像",
-      "fashion": "时尚大片",
-      "cinematic": "电影感",
-      "poster": "海报感",
-      "wedding": "婚礼／婚纱",
-      "indian_attire": "印度传统服饰",
-      "festival": "节日／庆祝",
-      "birthday_anniversary": "生日／纪念日",
-      "travel_nature": "旅行／自然",
-      "parent_child": "亲子互动",
-      "family_photo": "家庭合影",
-      "couple": "情侣互动",
-      "romance": "浪漫场景",
-      "profession": "职业／身份",
-      "vintage": "复古",
-      "fantasy": "奇幻场景",
-      "fairytale": "童话",
-      "history_culture": "历史／文化",
-      "virtual_scene": "虚拟场景",
-      "realistic_scene": "真实感场景",
-      "other": "其他创意"
-    },
-    "style_tags": {
-      "portrait_single": "单人写真",
-      "couple_interaction": "情侣互动",
-      "wedding_traditional": "婚礼／传统服饰",
-      "festival": "节日主题",
-      "cinematic_poster": "电影感／海报感",
-      "virtual_scene": "虚拟场景写真",
-      "realistic_scene": "真实感场景写真",
-      "high_fashion": "高级时尚／商业大片",
-      "other_final": "其他最终成图",
-      "romantic": "浪漫氛围",
-      "travel_lifestyle": "旅行／生活",
-      "fantasy": "奇幻",
-      "everyday": "日常写真",
-      "premium_portrait": "高级肖像",
-      "vintage": "复古",
-      "fairytale": "童话风格",
-      "historical_culture": "历史／文化",
-      "professional_identity": "职业／身份"
-    },
-    "scene_tags": {
-      "wedding": "婚礼",
-      "traditional_clothing": "传统服饰",
-      "festival": "节日",
-      "cinema": "电影／海报",
-      "fantasy": "奇幻",
-      "travel": "旅行",
-      "lifestyle": "日常生活",
-      "studio": "影棚",
-      "outdoor": "户外",
-      "other": "其他",
-      "nature": "自然风景",
-      "birthday": "生日／纪念",
-      "home": "居家",
-      "workplace": "工作场景",
-      "historical": "历史场景"
-    },
-    "market_tags": {
-      "india": "印度",
-      "south_asia": "南亚",
-      "southeast_asia": "东南亚",
-      "thailand": "泰国",
-      "indonesia": "印尼",
-      "vietnam": "越南",
-      "philippines": "菲律宾",
-      "malaysia": "马来西亚",
-      "unspecified": "待确认"
-    }
+    "audience_tags": [
+      "亲子家庭",
+      "宝宝儿童",
+      "单人男性",
+      "单人女性",
+      "情侣",
+      "朋友",
+      "单人通用"
+    ],
+    "theme_tags": [
+      "性感舞蹈",
+      "摇腿舞",
+      "花海",
+      "雪山",
+      "海边",
+      "80复古",
+      "拼贴",
+      "海报",
+      "锁屏",
+      "多宫格",
+      "耍帅",
+      "闪光灯",
+      "拍立得",
+      "人与动物",
+      "孕照",
+      "黑白摄影",
+      "纱丽",
+      "骑马",
+      "开车",
+      "拥抱",
+      "亲密互动",
+      "墨镜",
+      "棚拍",
+      "纯色暗调",
+      "排灯节",
+      "克里希纳诞辰",
+      "象头神节",
+      "九夜节",
+      "十胜节",
+      "亡灵节",
+      "印度独立日"
+    ]
   },
   "materials": [
     {
@@ -130,25 +72,15 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "poster"
-        ],
-        "style_tags": [
-          "cinematic_poster"
-        ],
-        "scene_tags": [
-          "studio"
-        ],
-        "market_tags": [
-          "unspecified"
+        "theme_tags": [
+          "拼贴"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -195,25 +127,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "daily_portrait"
-        ],
-        "style_tags": [
-          "realistic_scene"
-        ],
-        "scene_tags": [
-          "home"
-        ],
-        "market_tags": [
-          "unspecified"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -260,25 +180,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "indian_attire"
-        ],
-        "style_tags": [
-          "portrait_single"
-        ],
-        "scene_tags": [
-          "studio"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -343,25 +251,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "indian_attire"
-        ],
-        "style_tags": [
-          "portrait_single"
-        ],
-        "scene_tags": [
-          "home"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -427,25 +323,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "indian_attire"
-        ],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "historical"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -511,25 +395,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "wedding"
-        ],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "wedding"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -594,25 +466,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "travel_nature"
-        ],
-        "style_tags": [
-          "realistic_scene"
-        ],
-        "scene_tags": [
-          "outdoor"
-        ],
-        "market_tags": [
-          "unspecified"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -678,25 +538,15 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "festival"
-        ],
-        "style_tags": [
-          "festival"
-        ],
-        "scene_tags": [
-          "festival"
-        ],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "纱丽"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": {
           "score": 95,
@@ -766,25 +616,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "daily_portrait"
-        ],
-        "style_tags": [
-          "premium_portrait"
-        ],
-        "scene_tags": [
-          "outdoor"
-        ],
-        "market_tags": [
-          "unspecified"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -832,25 +670,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "indian_attire"
-        ],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "studio"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -898,25 +724,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "wedding"
-        ],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "historical"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -982,26 +796,15 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "couple"
+        "audience_tags": [
+          "情侣"
         ],
-        "person_tags": [
-          "adult_man",
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "couple"
-        ],
-        "style_tags": [
-          "romantic"
-        ],
-        "scene_tags": [
-          "lifestyle"
-        ],
-        "market_tags": [
-          "unspecified"
+        "theme_tags": [
+          "亲密互动"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1049,25 +852,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "other"
-        ],
-        "style_tags": [
-          "other_final"
-        ],
-        "scene_tags": [
-          "studio"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1114,25 +905,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "indian_attire"
-        ],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "outdoor"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1198,26 +977,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "couple"
+        "audience_tags": [
+          "情侣"
         ],
-        "person_tags": [
-          "adult_man",
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "wedding"
-        ],
-        "style_tags": [
-          "romantic"
-        ],
-        "scene_tags": [
-          "wedding"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1264,25 +1030,15 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "indian_attire"
-        ],
-        "style_tags": [
-          "portrait_single"
-        ],
-        "scene_tags": [
-          "traditional_clothing"
-        ],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "纱丽"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1348,25 +1104,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "history_culture"
-        ],
-        "style_tags": [
-          "historical_culture"
-        ],
-        "scene_tags": [
-          "historical"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1429,25 +1173,15 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "poster"
-        ],
-        "style_tags": [
-          "cinematic_poster"
-        ],
-        "scene_tags": [
-          "studio"
-        ],
-        "market_tags": [
-          "unspecified"
+        "theme_tags": [
+          "海报"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1513,25 +1247,16 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "indian_attire"
-        ],
-        "style_tags": [
-          "cinematic_poster"
-        ],
-        "scene_tags": [
-          "traditional_clothing"
-        ],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "拼贴",
+          "海报"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": {
           "score": 95,
@@ -1599,25 +1324,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "daily_portrait"
-        ],
-        "style_tags": [
-          "portrait_single"
-        ],
-        "scene_tags": [
-          "studio"
-        ],
-        "market_tags": [
-          "unspecified"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1680,25 +1393,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "premium_portrait"
-        ],
-        "style_tags": [
-          "premium_portrait"
-        ],
-        "scene_tags": [
-          "studio"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1763,26 +1464,16 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "couple"
+        "audience_tags": [
+          "情侣"
         ],
-        "person_tags": [
-          "adult_man",
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "vintage"
-        ],
-        "style_tags": [
-          "vintage"
-        ],
-        "scene_tags": [
-          "travel"
-        ],
-        "market_tags": [
-          "unspecified"
+        "theme_tags": [
+          "80复古",
+          "墨镜"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1847,25 +1538,16 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "poster"
-        ],
-        "style_tags": [
-          "cinematic_poster"
-        ],
-        "scene_tags": [
-          "studio"
-        ],
-        "market_tags": [
-          "unspecified"
+        "theme_tags": [
+          "拼贴",
+          "海报"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -1930,25 +1612,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "history_culture"
-        ],
-        "style_tags": [
-          "historical_culture"
-        ],
-        "scene_tags": [
-          "historical"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -2014,25 +1684,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "wedding"
-        ],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "wedding"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": {
           "score": 95,
@@ -2103,25 +1761,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "man_single"
+        "audience_tags": [
+          "单人男性"
         ],
-        "person_tags": [
-          "adult_man"
-        ],
-        "topic_tags": [
-          "fantasy"
-        ],
-        "style_tags": [
-          "fantasy"
-        ],
-        "scene_tags": [
-          "fantasy"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": {
           "score": 95,
@@ -2192,25 +1838,13 @@
       ],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "indian_attire"
-        ],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "outdoor"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": {
           "score": 95,
@@ -2278,13 +1912,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2342,13 +1974,16 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拼贴",
+          "黑白摄影"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2406,13 +2041,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2470,13 +2103,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2534,13 +2167,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2598,13 +2229,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2662,13 +2293,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2726,13 +2355,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2790,13 +2417,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2854,13 +2481,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2918,13 +2543,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -2982,13 +2607,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3046,13 +2669,15 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3110,13 +2735,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3174,13 +2799,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3238,13 +2861,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3302,13 +2923,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3366,13 +2987,16 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "拼贴",
+          "多宫格"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3430,13 +3054,16 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴",
+          "海报"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3494,13 +3121,16 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴",
+          "多宫格"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3558,13 +3188,15 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3622,15 +3254,15 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "wedding_traditional"
+        "audience_tags": [
+          "情侣"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": [
+          "亲密互动"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3688,13 +3320,16 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报",
+          "黑白摄影"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3752,13 +3387,16 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报",
+          "墨镜"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3816,21 +3454,16 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "couple_interaction",
-          "wedding_traditional",
-          "cinematic_poster",
-          "realistic_scene",
-          "romantic",
-          "professional_identity"
+        "audience_tags": [
+          "情侣"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": [
+          "拥抱",
+          "亲密互动"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3888,16 +3521,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "wedding_traditional"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -3955,20 +3585,15 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "couple_interaction",
-          "wedding_traditional",
-          "cinematic_poster",
-          "realistic_scene",
-          "high_fashion"
+        "audience_tags": [
+          "情侣"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": [
+          "亲密互动"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4026,15 +3651,15 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "wedding_traditional"
+        "audience_tags": [
+          "情侣"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": [
+          "亲密互动"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4092,22 +3717,15 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "couple_interaction",
-          "wedding_traditional",
-          "cinematic_poster",
-          "realistic_scene",
-          "high_fashion",
-          "romantic",
-          "professional_identity"
+        "audience_tags": [
+          "情侣"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": [
+          "墨镜"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4165,13 +3783,11 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4229,13 +3845,11 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4293,26 +3907,13 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [
-          "couple",
-          "spouses",
-          "parent_child",
-          "family"
+        "audience_tags": [
+          "单人男性"
         ],
-        "person_tags": [
-          "adult_man",
-          "adult_woman",
-          "child"
-        ],
-        "topic_tags": [
-          "profession"
-        ],
-        "style_tags": [
-          "professional_identity"
-        ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4370,13 +3971,11 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4434,21 +4033,15 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [
-          "couple",
-          "spouses",
-          "family",
-          "friends"
+        "audience_tags": [
+          "单人男性"
         ],
-        "person_tags": [
-          "adult_man",
-          "older_adult"
-        ],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": [
+          "黑白摄影"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4506,13 +4099,11 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4570,15 +4161,17 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [
-          "child"
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
         ],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": [
+          "拼贴",
+          "海报"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4636,13 +4229,11 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4700,13 +4291,11 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4764,13 +4353,13 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": [
+          "海报"
+        ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4828,21 +4417,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [
-          "child"
-        ],
-        "topic_tags": [
-          "indian_attire"
-        ],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "traditional_clothing"
-        ],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4900,13 +4479,11 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -4964,15 +4541,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
-        ]
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5030,15 +4605,16 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽",
+          "墨镜"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5096,15 +4672,13 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5162,16 +4736,14 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "realistic_scene"
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5229,17 +4801,15 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "couple_interaction"
+        "audience_tags": [
+          "情侣"
         ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "亲密互动"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5297,28 +4867,16 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [
-          "couple"
+        "audience_tags": [
+          "情侣"
         ],
-        "person_tags": [
-          "adult_woman",
-          "adult_man"
-        ],
-        "topic_tags": [
-          "wedding",
-          "couple",
-          "romance"
-        ],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "wedding"
-        ],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "拥抱",
+          "亲密互动"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5376,27 +4934,13 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "fashion",
-          "fantasy"
-        ],
-        "style_tags": [
-          "fantasy",
-          "cinematic_poster"
-        ],
-        "scene_tags": [
-          "fantasy"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5454,31 +4998,14 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [
-          "mother_child",
-          "parent_child"
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
         ],
-        "person_tags": [
-          "adult_woman",
-          "child"
-        ],
-        "topic_tags": [
-          "parent_child",
-          "family_photo",
-          "indian_attire"
-        ],
-        "style_tags": [
-          "portrait_single",
-          "wedding_traditional"
-        ],
-        "scene_tags": [
-          "studio",
-          "traditional_clothing"
-        ],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -5541,29 +5068,15 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [
-          "woman_single"
+        "audience_tags": [
+          "单人女性"
         ],
-        "person_tags": [
-          "adult_woman"
-        ],
-        "topic_tags": [
-          "indian_attire",
-          "daily_portrait"
-        ],
-        "style_tags": [
-          "portrait_single",
-          "wedding_traditional",
-          "realistic_scene"
-        ],
-        "scene_tags": [
-          "studio",
-          "traditional_clothing"
-        ],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "纱丽"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": {
@@ -5626,17 +5139,13 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "cinematic_poster",
-          "high_fashion"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5694,16 +5203,13 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "wedding_traditional"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": []
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5770,13 +5276,11 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [],
-        "scene_tags": [],
-        "market_tags": []
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5834,18 +5338,15 @@
       "discovery_labels": [],
       "source_confidence": "high",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "wedding_traditional"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "纱丽"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5903,19 +5404,16 @@
       "discovery_labels": [],
       "source_confidence": "high",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "cinematic_poster",
-          "high_fashion"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "纱丽",
+          "纯色暗调"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -5973,17 +5471,13 @@
       "discovery_labels": [],
       "source_confidence": "high",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "wedding_traditional"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -6041,18 +5535,15 @@
       "discovery_labels": [],
       "source_confidence": "high",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "wedding_traditional"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "纱丽"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -6110,17 +5601,11 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "wedding_traditional"
-        ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
-        ]
+        "audience_tags": [],
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -6178,18 +5663,13 @@
       "discovery_labels": [],
       "source_confidence": "medium",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "wedding_traditional"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
-        ]
+        "theme_tags": []
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -6247,18 +5727,15 @@
       "discovery_labels": [],
       "source_confidence": "low",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "portrait_single",
-          "wedding_traditional"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "拼贴"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -6325,17 +5802,16 @@
       "discovery_labels": [],
       "source_confidence": "high",
       "tags": {
-        "relation_tags": [],
-        "person_tags": [],
-        "topic_tags": [],
-        "style_tags": [
-          "wedding_traditional"
+        "audience_tags": [
+          "单人女性"
         ],
-        "scene_tags": [],
-        "market_tags": [
-          "india"
+        "theme_tags": [
+          "拼贴",
+          "纱丽"
         ]
       },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T01:49:59+00:00",
       "scores": {
         "data": null,
         "creative": null
