@@ -87,10 +87,15 @@ function fillOptions() {
   const daySelect = $('day');
   daySelect.length = 1;
   days.forEach(value => daySelect.add(new Option(formatDay(value), value)));
+  const sourceSelect = $('source-account'); sourceSelect.length = 1;
+  const sources = [...new Set(state.data.materials.filter(item=>item.source_profile_url && item.creator)
+    .map(item=>`${item.platform}:${item.creator}`))].sort();
+  sources.forEach(value=>sourceSelect.add(new Option(`@${value.split(':')[1]} · ${value.split(':')[0]}`,value)));
 }
 function matches(item) {
   if (viewStatus[view()] && status(item) !== viewStatus[view()]) return false;
   if ($('platform').value && item.platform !== $('platform').value) return false;
+  if ($('source-account').value && `${item.platform}:${item.creator}` !== $('source-account').value) return false;
   if ($('day').value && captureDay(item) !== $('day').value) return false;
   if ($('day-from').value && captureDay(item) < $('day-from').value) return false;
   if ($('day-to').value && captureDay(item) > $('day-to').value) return false;
@@ -118,7 +123,7 @@ function compareItems(a,b) {
 function activeFilters() {
   const area = $('active-filters');
   area.replaceChildren();
-  for (const [id,name] of [['search','搜索'],['day','采集日期'],['platform','平台'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序']]) {
+  for (const [id,name] of [['search','搜索'],['day','采集日期'],['platform','平台'],['source-account','来源账号'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序']]) {
     const field = $(id);
     if (!field.value || (id === 'sort' && field.value === 'discovered')) continue;
     const value = field.selectedOptions?.[0]?.textContent || field.value;
