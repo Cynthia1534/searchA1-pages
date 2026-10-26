@@ -29,9 +29,16 @@ jobs:
           from pathlib import Path
           root = Path('site')
           data = json.loads((root / 'data' / 'materials.json').read_text())
-          assert data['schema_version'] == 1
+          assert data['schema_version'] == 2
+          taxonomy = data['taxonomy']
+          assert set(taxonomy) == {'audience_tags', 'theme_tags'}
+          assert len(taxonomy['audience_tags']) == 7 and len(taxonomy['theme_tags']) == 31
           assert isinstance(data['materials'], list)
           for item in data['materials']:
+              assert set(item['tags']) == set(taxonomy)
+              for field, allowed in taxonomy.items():
+                  assert isinstance(item['tags'][field], list)
+                  assert set(item['tags'][field]) <= set(allowed)
               assert item['suitability'] in {'safe', 'review'}
               assert item['post_url'].startswith(('https://www.instagram.com/', 'https://www.tiktok.com/'))
               assert item['media']
