@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T06:16:51+00:00",
+  "generated_at": "2026-10-26T06:53:03+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -47,6 +47,2709 @@
     ]
   },
   "materials": [
+    {
+      "id": "instagram:De1JEAliO3r",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/avi.edit_106/p/De1JEAliO3r/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": "2026-10-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:52:43+00:00",
+      "last_collected_at": "2026-10-26T06:52:43+00:00",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 📌🫵👇👇\"A hyper-realistic full-body portrait of a stylish young South Asian man with dark hair and a  leaning casually against a rustic cream-colored textured wall next to a vintage wooden window. He is wearing a burnt-orange casual button-down shirt with rolled-up sleeves, light beige trousers, a black smartwatch, and trendy color-blocked sneakers, with one hand in his pocket. Golden autumn leaves are hanging from branches overhead, casting soft shadows on the wall. Warm natural sunlight, cinematic lighting, shallow depth of field, 8K resolution, photorealistic, professional portrait photography.\"",
+      "description": "秋叶背景中的男性时尚肖像，服饰与季节色彩容易借鉴",
+      "recommendation_reason": "首图可见最终人物或场景效果；秋叶背景中的男性时尚肖像，服饰与季节色彩容易借鉴。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:52:43+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:52:43+00:00",
+        "likes": 540,
+        "likes_display": "540",
+        "comments": 5,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:52:43+00:00",
+          "likes": 540,
+          "likes_display": "540",
+          "comments": 5,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De1JEAliO3r_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De7Jg6EhXlh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/hepsi_chubbyqueen/p/De7Jg6EhXlh/",
+      "creator": "hepsi_chubbyqueen",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:51:12+00:00",
+      "last_collected_at": "2026-10-26T06:51:12+00:00",
+      "caption": "உன்னைத் தொட்டுத்\nதழுவாமல் என் நாட்கள்\nதொடரவும் தொடராது!\nமுடியவும் முடியாது!\n💜👩‍❤️‍👨💋🫂\n#picoftheday #explore #instagram #instalike #trendingnow",
+      "description": "情侣在自然背景中靠近相拥，突出情绪与服饰",
+      "recommendation_reason": "首图可见最终人物或场景效果；情侣在自然背景中靠近相拥，突出情绪与服饰。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/hepsi_chubbyqueen/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:51:12+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De7Jg6EhXlh_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dd6W4tsibFn",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/siddarth_edits38/p/Dd6W4tsibFn/",
+      "creator": "siddarth_edits38",
+      "published_at": null,
+      "published_date": "2026-09-30",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:51:12+00:00",
+      "last_collected_at": "2026-10-26T06:51:12+00:00",
+      "caption": "ಮುತ್ತಿನಂಥ ಜೋಡಿ ❤️",
+      "description": "成熟伴侣并肩穿着传统服饰，适合不同年龄段合照参考",
+      "recommendation_reason": "首图可见最终人物或场景效果；成熟伴侣并肩穿着传统服饰，适合不同年龄段合照参考。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/siddarth_edits38/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:51:12+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:51:12+00:00",
+        "likes": null,
+        "likes_display": "38K",
+        "comments": 279,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:51:12+00:00",
+          "likes": null,
+          "likes_display": "38K",
+          "comments": 279,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dd6W4tsibFn_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdoREeGiRYW",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/siddarth_edits38/p/DdoREeGiRYW/",
+      "creator": "siddarth_edits38",
+      "published_at": null,
+      "published_date": "2026-09-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:51:12+00:00",
+      "last_collected_at": "2026-10-26T06:51:12+00:00",
+      "caption": "😉",
+      "description": "树荫下的男性黑色正装肖像，光线与姿态适合参考",
+      "recommendation_reason": "首图可见最终人物或场景效果；树荫下的男性黑色正装肖像，光线与姿态适合参考。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/siddarth_edits38/",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:51:12+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:51:12+00:00",
+        "likes": 7137,
+        "likes_display": "7,137",
+        "comments": 181,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:51:12+00:00",
+          "likes": 7137,
+          "likes_display": "7,137",
+          "comments": 181,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdoREeGiRYW_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De66cntPuSt",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/imelvin27/reel/De66cntPuSt/",
+      "creator": "imelvin27",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "“Can anything be more beautiful than this?”\n❤️❤️❤️\n.\n#motherandson #unconditionallove❤️ #boymom #explorepage✨ #trendingreels \n.\nComments like n share plzz 🫶🏻\nFollow for more…🫰🏻",
+      "description": "母子置于月光夜景中，突出故事感亲子成图",
+      "recommendation_reason": "首图可见最终人物或场景效果；母子置于月光夜景中，突出故事感亲子成图。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/imelvin27/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 81,
+        "likes_display": "81",
+        "comments": 27,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 81,
+          "likes_display": "81",
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_De66cntPuSt_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De66nbmmMte",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/ns_editz.000/p/De66nbmmMte/",
+      "creator": "ns_editz.000",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Tag Your 💜✨\n#radhekrishna #radharani #radheradhe #jaishreekrishna #krishna #krishnalove #divinelove #radhakrishna #krishnabhakti #bhaktireels #krishnareels #vrindavan #bankebihari #viralreels #trendingreels #explorepage #reelsindia #instagramreels #foryou #reelitfeelit",
+      "description": "传统神话造型情侣合照，以服饰和色彩强化主题",
+      "recommendation_reason": "首图可见最终人物或场景效果；传统神话造型情侣合照，以服饰和色彩强化主题。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ns_editz.000/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 80,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De66nbmmMte_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De6RPBOiFnD",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/avi.edit_106/p/De6RPBOiFnD/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 📌🫵👇👇Promt \"A young Bangladeshi man  end black  golden sunglasses standing casually in a white wooden gazebo, leaning against a large decorative white and pink guitar sculpture. He is wearing a light pink button-up shirt with sleeves rolled up, white pants and colorful sneakers. One hand in pocket, other hand resting on the guitar structure. Confident pose with soft smile, looking away from camera. Bright sunny day, outdoor park background lush green trees and soft bokeh.",
+      "description": "粉色衬衫与墨镜组成轻松的男性时尚肖像",
+      "recommendation_reason": "首图可见最终人物或场景效果；粉色衬衫与墨镜组成轻松的男性时尚肖像。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "discovery_labels": [
+        "recent_new",
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": {
+          "score": 90,
+          "reason": "同账号本次可读的 5 条帖子评论中位数 3；本帖 9 条，约 3.0 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        },
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 827,
+        "likes_display": "827",
+        "comments": 9,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 827,
+          "likes_display": "827",
+          "comments": 9,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De6RPBOiFnD_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De7Kai4zlp9",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/littlechamp_world14/reel/De7Kai4zlp9/",
+      "creator": "littlechamp_world14",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Mujhe duniya nahi chahiye, meri chhoti si duniya hi mere liye sab kuch hai🥹🏡🧿❤️\n#FamilyLove ❤️ #HappyFamily #LittleChamp 🧿 #FamilyGoals #MyWorld ❤",
+      "description": "父母与孩子同行的全身合照，关系和服饰清晰",
+      "recommendation_reason": "首图可见最终人物或场景效果；父母与孩子同行的全身合照，关系和服饰清晰。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 1070,
+        "likes_display": "1,070",
+        "comments": 10,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 1070,
+          "likes_display": "1,070",
+          "comments": 10,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_De7Kai4zlp9_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De7N21Fuccw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/hepsi_chubbyqueen/p/De7N21Fuccw/",
+      "creator": "hepsi_chubbyqueen",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "\"வார்த்தைகளால் சொல்ல முடியாத ஆறுதலை, உன் மார்போடு என்னை அணைக்கும் அந்த ஒரு நொடி தந்துவிடுகிறது.\"\n👩‍❤️‍👨💋💜🫂\n\n#picoftheday #explore #instagram #instalike #trendingnow",
+      "description": "情侣在户外相拥的自然情绪与近景构图",
+      "recommendation_reason": "首图可见最终人物或场景效果；情侣在户外相拥的自然情绪与近景构图。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/hepsi_chubbyqueen/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱",
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De7N21Fuccw_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De7OTy4D2GP",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/ns_editz.000/p/De7OTy4D2GP/",
+      "creator": "ns_editz.000",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "🌕✨ राधे राधे 🙏❤️ हर हर महादेव 🔱करवा चौथ की पावन रात, शरद पूर्णिमा की चाँदनी और राधा-कृष्ण व शिव-पार्वती के दिव्य प्रेम का संगम 🌹💫\n#KarvaChauth #SharadPurnima #KarwaChauth2026 #SharadPurnima2026 #RadheKrishna #RadhaKrishna #RadheRadhe #ShivParvati #ShivaParvati #HarHarMahadev #Mahadev #MataParvati #RadhaRani #KrishnaBhakti #SanatanDharma #HinduFestival #ChandKiRaat #PurnimaVibes #DivineLove #BhaktiStatus #BhaktiReels #DevotionalReels #IndianFestivals #जयश्रीराधे #हरहरमहादेव 🙏🔱🌕",
+      "description": "传统神话造型双人特写，服饰和月夜氛围有参考价值",
+      "recommendation_reason": "首图可见最终人物或场景效果；传统神话造型双人特写，服饰和月夜氛围有参考价值。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ns_editz.000/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De7OTy4D2GP_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De8PNjuzTyq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/littlechamp_world14/reel/De8PNjuzTyq/",
+      "creator": "littlechamp_world14",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Mumma te Champ — pyaar vi unlimited, swag vi unlimited! 🖤♾\n#MummaAndChamp ❤️ #LittleChamp 🧿 #MummaKaLadla 😎 #MomAndBaby 🖤 #CoolMomCoolBaby",
+      "description": "母亲抱起孩子的日常互动与户外背景",
+      "recommendation_reason": "首图可见最终人物或场景效果；母亲抱起孩子的日常互动与户外背景。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 312,
+        "likes_display": "312",
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 312,
+          "likes_display": "312",
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_De8PNjuzTyq_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De8IDFtIZHz",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/raaz_ghibli_studio/p/De8IDFtIZHz/",
+      "creator": "raaz_ghibli_studio",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "मैं 15 श्रृंगार करके आऊँगी, तुम सिंदूर लगाकर 16 श्रृंगार पूरे कर देना ❤️🥹\n\n🏷️ Tags (टैग):\nRomantic Couple, Wedding Love, Sindoor Love, Husband Wife Love, Indian Wedding, True Love, Marriage Status, Love Reels, Bridal Look, RaazGhibliStudio\n\n🔥 Hashtags:\n#15Shringar #16Shringar #Sindoor #PatiPatniLove #WeddingLove HusbandWifeLove TrueLove CoupleGoals RomanticReels HindiLoveStatus ShaadiStatus IndianBride LoveForever ViralReels RaazGhibliStudio\n\n🔍 Keywords (कीवर्ड):\nमैं 15 श्रृंगार करके आऊँगी, तुम सिंदूर लगा देना, 16 श्रृंगार वाली शायरी, पति पत्नी का प्यार, शादी का रोमांटिक स्टेटस, सिंदूर लव स्टेटस, दुल्हन की खूबसूरती, सच्चा प्यार, हिंदी रोमांटिक रील, वेडिंग कपल वीडियो\n\n📝 Caption (कैप्शन):\nमैं सजकर तुम्हारे सामने आऊँगी, तुम अपने नाम का सिंदूर लगाकर मेरी दुनिया पूरी कर देना ❤️🥹💍\nमुझे महँगे तोहफ़े नहीं चाहिए, बस उम्र भर तुम्हारा साथ और माथे पर तुम्हारे नाम का सिंदूर चाहिए। 🫶❤️\n\n❤️ अपने हमसफ़र के नाम ❤️",
+      "description": "红色婚礼服饰与近距离仪式动作有纪念照参考价值",
+      "recommendation_reason": "首图可见最终人物或场景效果；红色婚礼服饰与近距离仪式动作有纪念照参考价值。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/raaz_ghibli_studio/",
+      "discovery_labels": [
+        "recent_new",
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": {
+          "score": 90,
+          "reason": "同账号本次可读的 6 条帖子评论中位数 1；本帖 3 条，约 3.0 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        },
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 70,
+        "likes_display": "70",
+        "comments": 3,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 70,
+          "likes_display": "70",
+          "comments": 3,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De8IDFtIZHz_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De8mou7D36b",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/zeevisha.ai/p/De8mou7D36b/",
+      "creator": "zeevisha.ai",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "",
+      "description": "蓝色头纱与金饰构成清晰的传统肖像特写",
+      "recommendation_reason": "首图可见最终人物或场景效果；蓝色头纱与金饰构成清晰的传统肖像特写。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 80,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 23,
+        "likes_display": "23",
+        "comments": 8,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 23,
+          "likes_display": "23",
+          "comments": 8,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De8mou7D36b_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De3sQN9FAPz",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/avi.edit_106/p/De3sQN9FAPz/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": "2026-10-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 📌🫵👇👇 ​A realistic mirror selfie of a stylish young couple. A handsome young man with messy dark hair,  and sunglasses is holding a bright yellow smartphone taking a mirror selfie. He is wearing a dark t-shirt and an open brown oversized shirt. Next to him, a cute anime-style cartoon girl with a high messy bun and rosy cheeks is leaning on his shoulder, making a peace sign (V-sign) with her hand, wearing a matching brown shirt. The mirror surface has glowing neon-style doodles and cute stickers drawn on it, including hearts, stars, a ladybug, a flower, and the text \"love you \" written in elegant cursive script. Cinematic lighting, trendy streetwear aesthetic, highly detailed.",
+      "description": "双人手机合照加入墨镜与心形元素，轻松活泼",
+      "recommendation_reason": "首图可见最终人物或场景效果；双人手机合照加入墨镜与心形元素，轻松活泼。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 806,
+        "likes_display": "806",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 806,
+          "likes_display": "806",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De3sQN9FAPz_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De4eRyLiUMs",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/avi.edit_106/p/De4eRyLiUMs/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": "2026-10-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 📌🫵👇👇Ultra-photorealistic cinematic 85mm portrait of the man from the reference image (exact facial match), sitting on a quiet road at sunset. He is wearing a bright red sweater and black cargo pants and white sneakers, holding a clear umbrella with fairy lights inside and a bundle of glowing lights in her hand.\nDynamic water splash frozen in mid-air over the\numbrella. Golden bokeh background, dusk sky, moody\nlighting, shallow depth of field, hyper-detailed skin\ntexture, 8k, DSLR quality",
+      "description": "雨伞与光点围绕男性形成电影感构图",
+      "recommendation_reason": "首图可见最终人物或场景效果；雨伞与光点围绕男性形成电影感构图。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 81,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 714,
+        "likes_display": "714",
+        "comments": 2,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 714,
+          "likes_display": "714",
+          "comments": 2,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De4eRyLiUMs_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De3kBfYRWnQ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/synamonessence/reel/De3kBfYRWnQ/",
+      "creator": "synamonessence",
+      "published_at": null,
+      "published_date": "2026-10-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Royal elegance, a touch of tradition, and a whole lot of grace ✨💚💗\n\nSave this look for your next traditional portrait and share it with someone who loves sarees! 💫\n\n💬 Comment 🌙 for the AI prompt!\n\n.\n.\n.\n\nAI saree portrait, Indian traditional look, teal green silk saree, magenta gold saree, royal Indian woman, Gemini AI photo prompt, AI fashion photography, realistic saree portrait, Indian ethnic aesthetic, AI photo editing\n\n#aiphotoediting #sareelove #hopecore #dystopian #frutigeraero",
+      "description": "绿色纱丽肖像，传统服饰与简洁背景结合",
+      "recommendation_reason": "首图可见最终人物或场景效果；绿色纱丽肖像，传统服饰与简洁背景结合。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/synamonessence/",
+      "discovery_labels": [
+        "recent_new",
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": {
+          "score": 85,
+          "reason": "同账号本次可读的 5 条帖子评论中位数 326；本帖 821 条，约 2.5 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        },
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 296,
+        "likes_display": "296",
+        "comments": 821,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 296,
+          "likes_display": "296",
+          "comments": 821,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_De3kBfYRWnQ_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De4q3RYEz4K",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/genoramedia/p/De4q3RYEz4K/",
+      "creator": "genoramedia",
+      "published_at": null,
+      "published_date": "2026-10-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Face Realism Prompts 📸\n\nComment “PROMPT” and I’ll send you the prompts!\n\nFollow me (@genoramedia ) for more Al tips! 💜",
+      "description": "男性面部近景强调肤质与光线，适合写真参考",
+      "recommendation_reason": "首图可见最终人物或场景效果；男性面部近景强调肤质与光线，适合写真参考。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/genoramedia/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 172,
+        "likes_display": "172",
+        "comments": 342,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 172,
+          "likes_display": "172",
+          "comments": 342,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De4q3RYEz4K_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De52fTGE9sp",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/gb_creativeimages/p/De52fTGE9sp/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": "2026-10-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Save this dreamy wedding art for your special day! 💌 Tag your soulmate and share this with someone who dreams of a traditional Tamil wedding. 🫶✨\n\n#TamilWedding #SouthIndianWedding #WeddingIllustration #AIArt #WeddingPortrait\n\n[Tamil wedding illustration, South Indian wedding art, Tamil bride and groom, traditional Tamil marriage, purple wedding theme, royal purple bridal saree, Kanchipuram silk saree, Tamil groom traditional outfit, white veshti purple border, jasmine wedding garlands, Tamil wedding rituals, romantic couple portrait, bride and groom illustration, AI wedding portrait, AI couple art, minimalist wedding illustration, watercolor wedding art, vector portrait illustration, dreamy wedding collage, Indian wedding aesthetic, Tamil culture and tradition, traditional Indian wedding, luxury wedding invitation art, custom couple illustration, personalized wedding portrait, forehead kiss couple art, wedding memories, soulmate love art, romantic wedding artwork, Indian bridal jewellery, purple and white wedding aesthetic, Instagram viral art, trending AI art, digital illustration, love story illustration, wedding inspiration, Tamil wedding photography inspiration, premium wedding art, couple goals, forever together]",
+      "description": "婚礼双人肖像以服饰、花环和并肩姿态呈现",
+      "recommendation_reason": "首图可见最终人物或场景效果；婚礼双人肖像以服饰、花环和并肩姿态呈现。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 79,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De52fTGE9sp_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De54FyYkY_9",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/synamonessence/p/De54FyYkY_9/",
+      "creator": "synamonessence",
+      "published_at": null,
+      "published_date": "2026-10-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Pretty in pink, glowing in sunshine 🌸💕\n\nComment 💕 for the PROMPT! ✨\n\nAI Photography, Pink Kurti, Indian Ethnic Look, Cinematic Portrait, Dreamy Garden Aesthetic, AI Photo Editing, Viral AI Trend, ChatGPT Prompts, Traditional Indian Beauty\n\n#aiphotography #aiprompts #chatgptprompts #indianaesthetic #ᴠɪʀᴀʟᴘᴏsᴛ",
+      "description": "粉色传统服饰搭配柔和自然光的人像",
+      "recommendation_reason": "首图可见最终人物或场景效果；粉色传统服饰搭配柔和自然光的人像。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/synamonessence/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 560,
+        "likes_display": "560",
+        "comments": 326,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 560,
+          "likes_display": "560",
+          "comments": 326,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De54FyYkY_9_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De3Z6KMo4Zd",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/mahi_creation_2023/reel/De3Z6KMo4Zd/",
+      "creator": "mahi_creation_2023",
+      "published_at": null,
+      "published_date": "2026-10-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "#post #instagram #trending #viral",
+      "description": "两名儿童面对面互动，适合朋友合照创意",
+      "recommendation_reason": "首图可见最终人物或场景效果；两名儿童面对面互动，适合朋友合照创意。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mahi_creation_2023/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童",
+          "朋友"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 92,
+        "likes_display": "92",
+        "comments": 2,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 92,
+          "likes_display": "92",
+          "comments": 2,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_De3Z6KMo4Zd_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De14lolicLL",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/avi.edit_106/p/De14lolicLL/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": "2026-10-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 📌🫵👇👇A cinematic 8K ultra-realistic portrait of a stylish young man with a  mustache, and gold-framed aviator sunglasses. He is wearing a brown textured corduroy jacket over a black t-shirt, dark relaxed-fit jeans, and clean white sneakers, leaning casually against a sleek black Yamaha MT-15 motorcycle with gold front forks. The background features moody atmospheric smoke with warm golden backlighting, and a large dramatic double-exposure portrait of his face overlaying the background. On the upper left,",
+      "description": "男性墨镜写真加入大幅面部叠影效果",
+      "recommendation_reason": "首图可见最终人物或场景效果；男性墨镜写真加入大幅面部叠影效果。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 79,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 572,
+        "likes_display": "572",
+        "comments": 3,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 572,
+          "likes_display": "572",
+          "comments": 3,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De14lolicLL_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De2JKznk0JT",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/genoramedia/p/De2JKznk0JT/",
+      "creator": "genoramedia",
+      "published_at": null,
+      "published_date": "2026-10-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Noir Beach Portrait 📸\n\nComment “AI” and I’ll send you the prompts!\n\nFollow me (@genoramedia ) for more Al tips! 🖤",
+      "description": "黑白海浪背景下的男性肖像，动静对比鲜明",
+      "recommendation_reason": "首图可见最终人物或场景效果；黑白海浪背景下的男性肖像，动静对比鲜明。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/genoramedia/",
+      "discovery_labels": [
+        "recent_new",
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海边",
+          "黑白摄影"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": {
+          "score": 82,
+          "reason": "同账号本次可读的 5 条帖子评论中位数 423；本帖 918 条，约 2.2 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        },
+        "creative": {
+          "score": 83,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 651,
+        "likes_display": "651",
+        "comments": 918,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 651,
+          "likes_display": "651",
+          "comments": 918,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De2JKznk0JT_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De3RRzYk5vS",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/gb_creativeimages/p/De3RRzYk5vS/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": "2026-10-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "",
+      "description": "双人伞下特写以表情和靠近姿态营造浪漫氛围",
+      "recommendation_reason": "首图可见最终人物或场景效果；双人伞下特写以表情和靠近姿态营造浪漫氛围。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 80,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De3RRzYk5vS_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De0y09Ck9TC",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/gb_creativeimages/p/De0y09Ck9TC/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": "2026-10-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "",
+      "description": "暗红色服饰与环形光效构成双人浪漫造型",
+      "recommendation_reason": "首图可见最终人物或场景效果；暗红色服饰与环形光效构成双人浪漫造型。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De0y09Ck9TC_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DezOTTbH-C7",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/promptseen/p/DezOTTbH-C7/",
+      "creator": "promptseen",
+      "published_at": null,
+      "published_date": "2026-10-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Swipe left for Prompt ➡️ \n.\n.\n.\nFollow For more @promptseen\n\n#viralpost #prompt #trendingpost #aesthetic #blureffect",
+      "description": "转动模糊背景与清晰人像形成动感时尚效果",
+      "recommendation_reason": "首图可见最终人物或场景效果；转动模糊背景与清晰人像形成动感时尚效果。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptseen/",
+      "discovery_labels": [
+        "recent_new",
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": {
+          "score": 95,
+          "reason": "同账号本次可读的 5 条帖子评论中位数 5；本帖 26 条，约 5.2 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        },
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 2142,
+        "likes_display": "2,142",
+        "comments": 26,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 2142,
+          "likes_display": "2,142",
+          "comments": 26,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DezOTTbH-C7_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeyfWB0kVWE",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/cinetale.duo/p/DeyfWB0kVWE/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Family prompt ✨ \n#FamilyPhotography #FamilyIsEverything #babyportraits #familyphotos #aigenerated",
+      "description": "父亲举起婴儿，暖色逆光突出自然亲子互动",
+      "recommendation_reason": "首图可见最终人物或场景效果；父亲举起婴儿，暖色逆光突出自然亲子互动。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 82,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeyfWB0kVWE_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeqaXGlkWpK",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/cinetale.duo/p/DeqaXGlkWpK/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-18",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Comment prompt ✨ \n#BabyPhotography #babyportraits #BabyGram #BabyPhotoShoot #babyboy",
+      "description": "同一儿童的多角度肖像排版适合儿童写真合集",
+      "recommendation_reason": "首图可见最终人物或场景效果；同一儿童的多角度肖像排版适合儿童写真合集。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeqaXGlkWpK_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DelqlrFx0Nj",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/shakhil_thilakan/p/DelqlrFx0Nj/",
+      "creator": "shakhil_thilakan",
+      "published_at": null,
+      "published_date": "2026-10-17",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "പ്രതിലിപിൽ വായിക്കു... Link in bio...സൂപ്പർ മാർക്കറ്റ് (ചെറിയ കഥകളുടെ വലിയ ലോകം )",
+      "description": "双人置于雪景背景中，以前后景表现浪漫旅行",
+      "recommendation_reason": "首图可见最终人物或场景效果；双人置于雪景背景中，以前后景表现浪漫旅行。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shakhil_thilakan/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "雪山"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 81,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DelqlrFx0Nj_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeleXuGzE8z",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/littlechamp_world14/reel/DeleXuGzE8z/",
+      "creator": "littlechamp_world14",
+      "published_at": null,
+      "published_date": "2026-10-16",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "दो हाथों में हाथ, और बीच में हमारी पूरी दुनिया ❤️👨‍👩‍👦\nहमारा Little Champ ही हमारी सबसे बड़ी खुशी है 🧿💋✨\n#FamilyLove #LittleChamp #HappyFamily #ParentsLove #CuteFamily",
+      "description": "父母牵孩子同行的节庆家庭场景",
+      "recommendation_reason": "首图可见最终人物或场景效果；父母牵孩子同行的节庆家庭场景。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "discovery_labels": [
+        "recent_new",
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": {
+          "score": 95,
+          "reason": "同账号本次可读的 5 条帖子评论中位数 176；本帖 1143 条，约 6.5 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        },
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": null,
+        "likes_display": "448K",
+        "comments": 1143,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": null,
+          "likes_display": "448K",
+          "comments": 1143,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DeleXuGzE8z_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DelD4a6NHFJ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/little_vihaan_14/reel/DelD4a6NHFJ/",
+      "creator": "little_vihaan_14",
+      "published_at": null,
+      "published_date": "2026-10-16",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Baby with Tom and Jerry 🤗✨\n.\n.\n.\n.\n.\n#little_vihaan_14 #reelitfeelit #reelkarofeelkaro #reels #instagram",
+      "description": "儿童与卡通动物角色同框，形成童趣场景",
+      "recommendation_reason": "首图可见最终人物或场景效果；儿童与卡通动物角色同框，形成童趣场景。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/little_vihaan_14/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "人与动物"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 84,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DelD4a6NHFJ_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DegEsjQT8xK",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/littlechamp_world14/reel/DegEsjQT8xK/",
+      "creator": "littlechamp_world14",
+      "published_at": null,
+      "published_date": "2026-10-14",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "🖤 माँ की दुनिया, बेटे की मुस्कान… 🥹❤️\nMumma की जान है Little Champ, और Champ की पूरी दुनिया है Mumma! 🧿👩‍👦✨\n#LittleChamp ❤️ #MummaSonLove 🥹 #MotherSonBond 🖤 #MummaKiJaan 🧿 #CuteBabyBoy 👶",
+      "description": "母亲与儿子近景互动，家庭情绪自然",
+      "recommendation_reason": "首图可见最终人物或场景效果；母亲与儿子近景互动，家庭情绪自然。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "discovery_labels": [
+        "recent_new",
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": {
+          "score": 81,
+          "reason": "同账号本次可读的 5 条帖子评论中位数 176；本帖 373 条，约 2.1 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        },
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": null,
+        "likes_display": "140K",
+        "comments": 373,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": null,
+          "likes_display": "140K",
+          "comments": 373,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DegEsjQT8xK_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeXDnrvTIBU",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/littlechamp_world14/reel/DeXDnrvTIBU/",
+      "creator": "littlechamp_world14",
+      "published_at": null,
+      "published_date": "2026-10-11",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "🥹❤️ “Papa ke kandhon par baithkar mela dekhne ka maza hi kuch aur hai! 🎡🎠🥰 Little Champ ki khushiyan hi Papa ki duniya hain ❤️👨‍👦✨”\n#LittleChamp ❤️ #PapaBetaLove 👨‍👦 #FatherSonBond 🥰 #MelaMasti 🎡 #PapaKaPrince �",
+      "description": "父亲肩扛孩子看游乐场，动作富有生活感",
+      "recommendation_reason": "首图可见最终人物或场景效果；父亲肩扛孩子看游乐场，动作富有生活感。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭",
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": null,
+        "likes_display": "111K",
+        "comments": 176,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": null,
+          "likes_display": "111K",
+          "comments": 176,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DeXDnrvTIBU_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeYSI07Eu0r",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/mx_prompt/p/DeYSI07Eu0r/",
+      "creator": "mx_prompt",
+      "published_at": null,
+      "published_date": "2026-10-11",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "💃❤️ NAVRATRI FESTIVAL — BEST COUPLE PROMPTS ❤️🕺\n\nTurn your favorite photos into a stunning Navratri couple photoshoot! ✨😍\n\n🪄 Traditional outfits • Romantic poses • Beautiful Garba vibes • Ultra-realistic AI photos 📸💖\n\n💌 Want the prompt?\n❤️ FOLLOW @MX_PROMPT\n💬 COMMENT “COUPLE” to get the prompt!\n🔗 All prompts available through the link in bio.\n🔎 Search MX PROMPT on Google! ✅\nSave this post 📌 and share it with your partner! 🫶💞\n\n#NavratriSpecial #Navratri2026 #CouplePrompt #AICouplePhotoshoot #NavratriLook GarbaVibes AIPhotoPrompt CoupleGoals IndianFestival MXPrompt",
+      "description": "九夜节情侣海报用节庆服饰与灯光组织画面",
+      "recommendation_reason": "首图可见最终人物或场景效果；九夜节情侣海报用节庆服饰与灯光组织画面。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mx_prompt/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "海报",
+          "九夜节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 80,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeYSI07Eu0r_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeUnDN6kpTE",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/mx_prompt/p/DeUnDN6kpTE/",
+      "creator": "mx_prompt",
+      "published_at": null,
+      "published_date": "2026-10-10",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "✨ Turn Your Navratri Vibe Into Art 🪄🔥📸\n\nWant photos like this? 🤯❤️ Get the perfect AI prompts with MX PROMPT 🚀\n💌 Follow @MX_PROMPT 📲 All prompts available on our Telegram channel 🔗 Link in bio 🔎 Search “MX PROMPT” on Google 📌\nSave this post for your next photoshoot! ❤️‍🔥\n#MXPrompt #AIPrompts #AIPhotography #AIPhotoEditing #NavratriSpecial NavratriLook GujaratiNavratri AIPhotoPrompt InstagramPhotography PhotoEditing AITools DigitalCreator TrendingReels ExplorePage ViralInstagram",
+      "description": "节庆灯光前的男性传统服饰肖像",
+      "recommendation_reason": "首图可见最终人物或场景效果；节庆灯光前的男性传统服饰肖像。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mx_prompt/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "九夜节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeUnDN6kpTE_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DePW4gLCKQy",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/mx_prompt/p/DePW4gLCKQy/",
+      "creator": "mx_prompt",
+      "published_at": null,
+      "published_date": "2026-10-08",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "✨ NAVRATRI GARBA SPECIAL PROMPT ✨ 💃 \n💃 Follow & Comment “PROMPT” ✨💌⬇️\n📌 All Prompts Available in Bio 🔗\n🪩 Save this post for your next Navratri look! ❤️\n✨ Follow for more AI Garba & Navratri prompts!\n\n#Navratri2026\n#Garba\n#GarbaNight\n#NavratriVibes\n#DandiyaNight\n\n[Navratri2026 Navratri Garba GarbaNight GarbaVibes Dandiya DandiyaNight NavratriLook NavratriOutfit ChaniyaCholi GujaratiGarba GarbaFashion IndianFestivals EthnicWear NavratriVibes ]",
+      "description": "节庆舞蹈服饰与暖色夜景构成灵动写真",
+      "recommendation_reason": "首图可见最终人物或场景效果；节庆舞蹈服饰与暖色夜景构成灵动写真。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mx_prompt/",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "九夜节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DePW4gLCKQy_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdoUJ0vkjko",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/prompt.deck/p/DdoUJ0vkjko/",
+      "creator": "prompt.deck",
+      "published_at": null,
+      "published_date": "2026-09-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "What if you could see yourself as a kid again? 🥹🎒✨\nSame smile. Same innocence. A whole new childhood. 💭❤️\n\nGenerate your Childhood Version and relive those little moments that made you you. 🫶🏻\n\n📲 Get the prompt instantly on Prompt Deck\n🔗 Link in bio\n\nSave this for later & send it to someone who’d love to see their childhood version! ✨\n\n#PromptDeck #AIPhoto #AIImage #AIArt #AIEditing AIPhotoEditing ChildhoodVersion ChildhoodMemories Nostalgia AITransformation AIPrompt AIPhotoPrompt ViralAI TrendingAI PhotoTransformation ChildhoodMemories NostalgicEdit CreativeAI AICreator InstagramAI\n\n[AI childhood version, childhood AI photo, childhood transformation prompt, AI photo prompt, childhood memories edit, nostalgic AI photo, AI image generator prompt, viral AI prompt, realistic AI photo, childhood recreation, AI transformation, Prompt Deck, AI editing prompts, trending AI prompts, childhood photo recreation]",
+      "description": "两位儿童的校园造型组合，人物年龄与关系清楚",
+      "recommendation_reason": "首图可见最终人物或场景效果；两位儿童的校园造型组合，人物年龄与关系清楚。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童",
+          "朋友"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 81,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": null,
+        "likes_display": "98K",
+        "comments": 703,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": null,
+          "likes_display": "98K",
+          "comments": 703,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdoUJ0vkjko_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdCAh0qq1J-",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/mahi_creation_2023/reel/DdCAh0qq1J-/",
+      "creator": "mahi_creation_2023",
+      "published_at": null,
+      "published_date": "2026-09-08",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "#post #instagram #trending #viral\n\n🇮🇳 भारतीय होना सिर्फ मेरी पहचान नहीं, मेरे लिए सबसे बड़ा गर्व है। इस मिट्टी से जुड़कर दिल हमेशा कहता है—मुझे गर्व है कि मैं हिंदुस्तानी हूँ! ❤️🙏",
+      "description": "儿童与印度旗帜同框的节日友伴合照",
+      "recommendation_reason": "首图可见最终人物或场景效果；儿童与印度旗帜同框的节日友伴合照。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mahi_creation_2023/",
+      "discovery_labels": [
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童",
+          "朋友"
+        ],
+        "theme_tags": [
+          "印度独立日"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": {
+          "score": 95,
+          "reason": "同账号本次可读的 5 条帖子评论中位数 103；本帖 944 条，约 9.2 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        },
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": null,
+        "likes_display": "81K",
+        "comments": 944,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": null,
+          "likes_display": "81K",
+          "comments": 944,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DdCAh0qq1J-_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcvZKVikn-R",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/sachin_editz_9/p/DcvZKVikn-R/",
+      "creator": "sachin_editz_9",
+      "published_at": null,
+      "published_date": "2026-09-01",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Need prompt ⬇️ \n\nComment prompt \n\n#instragrampost #radha \n\nPrompt broadcast channel se copy kar sakte ho \nYa \nTelegram account link in bio",
+      "description": "花饰头冠与传统首饰组成自然光人像",
+      "recommendation_reason": "首图可见最终人物或场景效果；花饰头冠与传统首饰组成自然光人像。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/sachin_editz_9/",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcvZKVikn-R_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbGHH6CHLlo",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/prompt.deck/p/DbGHH6CHLlo/",
+      "creator": "prompt.deck",
+      "published_at": null,
+      "published_date": "2026-07-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "A cinematic overhead portrait with a vintage blue car, timeless neutral tones, natural lighting, and editorial-level realism—all created using a single AI prompt.\n\nWant this prompt? 👇\nComment Vintage to get the prompt.\n\n📲 Every viral AI prompt is available in Prompt Deck.\n\n✨ Created using Prompt Deck\n📲 Explore hundreds of AI prompts inside the app.\n🔗 App link in bio.\n🚀 Follow @Prompt.deck for daily AI prompt inspiration.\n\n#AIPrompt #AIArt #PromptDeck #ChatGPT #ImagePrompt #AIPhotography #EditorialPortrait #MensFashion #VintageCar #VintageAesthetic #StreetStyle #CinematicPortrait #PortraitPhotography #NaturalLight #LuxuryStyle #RealisticAI #CreativeAI #PromptEngineering #InstagramCreators #TrendingReels\n\nKeywords:\nAI prompt, ChatGPT prompt, vintage car portrait, overhead photography, editorial photography, cinematic portrait, men's fashion, glasses aesthetic, classic style, natural lighting, realistic AI photo, luxury fashion, old-town street, blue vintage car, high-end portrait, prompt design, viral AI prompt, Prompt Deck, AI photography, content creator.",
+      "description": "男性电影感肖像使用低机位与旧车环境",
+      "recommendation_reason": "首图可见最终人物或场景效果；男性电影感肖像使用低机位与旧车环境。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": null,
+        "likes_display": "306K",
+        "comments": null,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": null,
+          "likes_display": "306K",
+          "comments": null,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbGHH6CHLlo_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DNoEul0B6DN",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/karan_kushvaha57/p/DNoEul0B6DN/",
+      "creator": "karan_kushvaha57",
+      "published_at": null,
+      "published_date": "2025-08-21",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "😇🌺‼️ Coming soon गणेश चतुर्थी ‼️🌿🔱\n.\n.\n#GanpatiBappaMorya\n#GaneshChaturthi2025\n#Vighnaharta\n#DivineEnergy\n#SpiritualVibes\n#GaneshUtsav2025\n#BappaMoryaRe\n#GaneshaBlessings\n#HinduFestivals\n#ArtOfDevotion\n#FireAndFaith\n#GanpatiDecoration\n#GanpatiFestival\n#MajesticBappa\n#BappaKeDarshan",
+      "description": "儿童穿传统神话服饰，画面适合节庆主题",
+      "recommendation_reason": "首图可见最终人物或场景效果；儿童穿传统神话服饰，画面适合节庆主题。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karan_kushvaha57/",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 80,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": null,
+        "likes_display": "732K",
+        "comments": 2876,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": null,
+          "likes_display": "732K",
+          "comments": 2876,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DNoEul0B6DN_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:De69tQpmhwx",
       "platform": "instagram",
@@ -161,8 +2864,26 @@
           "evaluated_at": "2026-10-26T06:16:18+00:00"
         }
       },
-      "metrics": null,
-      "metric_snapshots": [],
+      "metrics": {
+        "captured_at": "2026-10-26T06:17:59+00:00",
+        "likes": 3,
+        "likes_display": null,
+        "comments": 3,
+        "views": null,
+        "shares": null,
+        "source": "yt_dlp_public_post"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:17:59+00:00",
+          "likes": 3,
+          "likes_display": null,
+          "comments": 3,
+          "views": null,
+          "shares": null,
+          "source": "yt_dlp_public_post"
+        }
+      ],
       "media": [
         {
           "position": 0,
