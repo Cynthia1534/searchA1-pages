@@ -15,9 +15,22 @@ try { state.local = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; 
 const decision = item => state.local[item.id] || {};
 const status = item => statusNames[decision(item).status] ? decision(item).status :
   (statusNames[item.review_status] ? item.review_status : 'pending');
-const tags = (item, field) => Array.isArray(item.tags?.[field]) ? item.tags[field] : [];
+const tag = (item, field) => {
+  const key = field === 'audience_tags' ? 'audienceTag' : 'themeTag';
+  if (Object.hasOwn(decision(item), key)) return decision(item)[key] || '';
+  return field === 'audience_tags' ? item.audience_tag || '' : item.theme_tag || '';
+};
+const tags = (item, field) => tag(item, field) ? [tag(item, field)] : [];
+const imageDescription = item => Object.hasOwn(decision(item), 'imageDescription')
+  ? decision(item).imageDescription : item.image_description || '';
+const titleFor = item => {
+  const audience = tag(item, 'audience_tags');
+  const theme = tag(item, 'theme_tags');
+  const description = imageDescription(item);
+  return audience && theme && description ? `${audience}+${theme}+${description}+图片+原` : '';
+};
 const label = (_field, value) => value;
-const selectedTags = field => [...document.querySelectorAll(`input[data-tag-field="${field}"]:checked`)].map(input=>input.value);
+const selectedTags = field => $(field === 'audience_tags' ? 'audience-filter' : 'theme-filter').value;
 const date = value => value ? String(value).slice(0,10) : '日期待确认';
 const captureDay = item => {
   const value = item.first_discovered_at;
@@ -53,18 +66,29 @@ function feedback(message, error=false) {
   clearTimeout(feedbackTimer);
   feedbackTimer = setTimeout(() => { node.hidden = true; }, 3800);
 }
-function save(item, patch) {
+function save(item, patch, {rerender=true}={}) {
   const previous = decision(item);
+  if (Object.hasOwn(patch, 'imageDescription') &&
+      (typeof patch.imageDescription !== 'string' || [...patch.imageDescription].length > 10 ||
+       patch.imageDescription.includes('+'))) {
+    feedback('图片描述最多 10 字，且不能包含 +', true);
+    return false;
+  }
+  for (const [key,field] of [['audienceTag','audience_tags'],['themeTag','theme_tags']]) {
+    if (Object.hasOwn(patch,key) && patch[key] && !state.data.taxonomy[field].includes(patch[key])) {
+      feedback('标签不在指定列表中', true); return false;
+    }
+  }
   if (Object.entries(patch).every(([key, value]) => (key === 'status' ? status(item) : previous[key]) === value)) {
-    feedback(`当前已是「${statusNames[status(item)]}」`);
+    feedback(patch.status ? `当前已是「${statusNames[status(item)]}」` : '内容未变化');
     return true;
   }
   state.local[item.id] = {...previous, ...patch};
   try {
     localStorage.setItem(storageKey, JSON.stringify(state.local));
     const newStatus = status(item);
-    feedback(patch.status ? (newStatus === 'pending' ? '已恢复未处理' : `已加入${statusNames[newStatus]}`) : '备注已保存到此浏览器');
-    render();
+    feedback(patch.status ? (newStatus === 'pending' ? '已恢复未处理' : `已加入${statusNames[newStatus]}`) : '已保存到此浏览器');
+    if (rerender) render();
     return true;
   } catch {
     if (Object.keys(previous).length) state.local[item.id] = previous;
@@ -75,13 +99,9 @@ function save(item, patch) {
   }
 }
 function fillOptions() {
-  for (const [id,field] of [['audience-options','audience_tags'],['theme-options','theme_tags']]) {
-    const container=$(id);container.replaceChildren();
-    for (const value of state.data.taxonomy[field]) {
-      const option=el('label');
-      const input=el('input');input.type='checkbox';input.name=field;input.value=value;input.dataset.tagField=field;
-      option.append(input,el('span','',value));container.append(option);
-    }
+  for (const [id,field] of [['audience-filter','audience_tags'],['theme-filter','theme_tags']]) {
+    const select=$(id);select.length=1;
+    for (const value of state.data.taxonomy[field]) select.add(new Option(value,value));
   }
   const days = [...new Set(state.data.materials.map(captureDay))].sort().reverse();
   const daySelect = $('day');
@@ -102,11 +122,11 @@ function matches(item) {
   if ($('suitability').value && item.suitability !== $('suitability').value) return false;
   for (const field of ['audience_tags','theme_tags']) {
     const selected=selectedTags(field);
-    if (selected.length && !selected.some(value=>tags(item,field).includes(value))) return false;
+    if (selected && tag(item,field) !== selected) return false;
   }
   const query = $('search').value.trim().toLowerCase();
   if (!query) return true;
-  const haystack = [item.description,item.creator,item.caption,item.recommendation_reason,...Object.entries(item.tags||{}).flatMap(([field,values]) => (values||[]).map(value => label(field,value)))].filter(Boolean).join(' ').toLowerCase();
+  const haystack = [item.description,imageDescription(item),titleFor(item),item.creator,item.caption,item.recommendation_reason,...['audience_tags','theme_tags'].map(field=>tag(item,field))].filter(Boolean).join(' ').toLowerCase();
   return haystack.includes(query);
 }
 function compareItems(a,b) {
@@ -123,7 +143,7 @@ function compareItems(a,b) {
 function activeFilters() {
   const area = $('active-filters');
   area.replaceChildren();
-  for (const [id,name] of [['search','搜索'],['day','采集日期'],['platform','平台'],['source-account','来源账号'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序']]) {
+  for (const [id,name] of [['search','搜索'],['day','采集日期'],['platform','平台'],['source-account','来源账号'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序'],['audience-filter','受众标签'],['theme-filter','主题标签']]) {
     const field = $(id);
     if (!field.value || (id === 'sort' && field.value === 'discovered')) continue;
     const value = field.selectedOptions?.[0]?.textContent || field.value;
@@ -131,12 +151,6 @@ function activeFilters() {
     chip.type = 'button';
     chip.addEventListener('click', () => { field.value = id === 'sort' ? 'discovered' : ''; state.page=1; render(); });
     area.append(chip);
-  }
-  for (const [field,name] of [['audience_tags','受众标签'],['theme_tags','主题标签']]) {
-    for (const input of document.querySelectorAll(`input[data-tag-field="${field}"]:checked`)) {
-      const chip=el('button','',`${name}：${input.value} ×`);
-      chip.type='button';chip.addEventListener('click',()=>{input.checked=false;state.page=1;render();});area.append(chip);
-    }
   }
 }
 function mediaVisual(item,index,container) {
@@ -171,6 +185,57 @@ function stateActions(item) {
   }
   return box;
 }
+function titleEditor(item) {
+  const box=el('div','row-title');
+  const titleLine=el('div','title-line');
+  const title=el('span','generated-title');
+  const copy=el('button','copy-title','复制标题');copy.type='button';
+  titleLine.append(title,copy);box.append(titleLine);
+  const fields=el('div','title-fields');
+  const makeSelect=(field,name) => {
+    const select=el('select','tag-select');
+    select.setAttribute('aria-label',name);
+    select.add(new Option(name+' · 待分类',''));
+    state.data.taxonomy[field].forEach(value=>select.add(new Option(value,value)));
+    select.value=tag(item,field);
+    select.addEventListener('change',()=>save(item,{[field==='audience_tags'?'audienceTag':'themeTag']:select.value}));
+    return select;
+  };
+  const audience=makeSelect('audience_tags','受众标签');
+  const theme=makeSelect('theme_tags','主题标签');
+  const description=el('input','image-description');description.type='text';
+  description.placeholder='图片描述 · ≤10字';description.setAttribute('aria-label','图片简单描述，最多10字');
+  description.value=imageDescription(item);
+  const counter=el('span','char-count');
+  const update=()=>{
+    const length=[...description.value].length;
+    const valid=length<=10 && !description.value.includes('+');
+    description.setCustomValidity(valid?'':'最多10字，且不能包含 +');
+    counter.textContent=`${length}/10`;
+    counter.classList.toggle('invalid',!valid);
+    const value=valid && audience.value && theme.value && description.value
+      ? `${audience.value}+${theme.value}+${description.value}+图片+原` : '';
+    title.textContent=value||'选择标签并填写图片描述后生成标题';
+    title.title=value;
+    copy.disabled=!value;
+    return value;
+  };
+  description.addEventListener('input',update);
+  description.addEventListener('change',()=>{
+    if (!description.checkValidity()) { feedback('图片描述最多10字，且不能包含 +',true);return; }
+    save(item,{imageDescription:description.value},{rerender:false});
+  });
+  copy.addEventListener('click',async()=>{
+    const value=update();if (!value) return;
+    if (description.value!==imageDescription(item) &&
+        !save(item,{imageDescription:description.value},{rerender:false})) return;
+    try { await navigator.clipboard.writeText(value);feedback('已复制完整标题'); }
+    catch { feedback('复制失败：请检查浏览器剪贴板权限',true); }
+  });
+  fields.append(audience,theme,description,counter);box.append(fields);
+  update();
+  return box;
+}
 function row(item) {
   const article = el('article',`row ${status(item)}`);
   article.dataset.id=item.id;
@@ -180,14 +245,7 @@ function row(item) {
   if ((item.media||[]).length > 1) thumb.append(el('span','count',`${item.media.length} 张`));
   thumb.addEventListener('click', () => openDetail(item));
   article.append(thumb);
-  const title = el('div','row-title');
-  const titleButton = el('button','title',item.description||'候选素材');
-  titleButton.type='button'; titleButton.addEventListener('click', () => openDetail(item));
-  title.append(titleButton);
-  const chips = el('div','chips');
-  for (const [field,value] of ['audience_tags','theme_tags'].flatMap(field => tags(item,field).map(value=>[field,value])).slice(0,3)) chips.append(el('span','chip',label(field,value)));
-  title.append(chips);
-  article.append(title);
+  article.append(titleEditor(item));
   const meta = el('div','row-meta');
   meta.append(el('span','platform',item.platform==='instagram'?'Instagram':'TikTok'),el('span','account',`@${item.creator||'未知账号'}`),el('span','meta',`发布 ${date(item.published_at||item.published_date)}`),el('span','meta',`采集 ${captureDay(item)}`));
   article.append(meta);

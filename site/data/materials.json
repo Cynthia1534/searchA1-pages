@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T01:27:19+00:00",
+  "generated_at": "2026-10-27T02:15:34+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -70,6 +70,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "烟尘中白衫肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -141,6 +144,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "黑衫六角度肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -254,6 +260,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "机舱双人系列",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -461,14 +470,15 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "开车",
+      "image_description": "车旁酷帅三连拍",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "多宫格",
-          "开车",
-          "墨镜"
+          "开车"
         ]
       },
       "tag_source": "manual_visual",
@@ -609,6 +619,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "墨镜",
+      "image_description": "双人隔桌对望",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -683,10 +696,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "多宫格",
+      "image_description": "居家温馨合影",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": [
           "多宫格"
@@ -758,6 +773,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "夕照神话双人像",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -830,6 +848,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "树影暖光肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -902,6 +923,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "儿童柔光正面照",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -956,12 +980,14 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "红装双层肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "拼贴",
           "海报"
         ]
       },
@@ -1031,6 +1057,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纯色暗调",
+      "image_description": "红装轮廓光肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -1105,12 +1134,14 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "夕照侧脸写真",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "海边",
           "纱丽"
         ]
       },
@@ -1162,6 +1193,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "蓝衣街头肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -1236,6 +1270,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "多宫格",
+      "image_description": "蓝裙儿童组图",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -1310,6 +1347,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "花海",
+      "image_description": "花树下的蝶影照",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -1384,6 +1424,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "月夜传统首饰照",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -1456,10 +1499,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "餐桌母子互动",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -1529,13 +1574,15 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "多宫格",
+      "image_description": "棕衫多角度肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "多宫格",
-          "墨镜"
+          "多宫格"
         ]
       },
       "tag_source": "manual_visual",
@@ -1587,6 +1634,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "自然光双人近照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -1666,6 +1716,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "朋友",
+      "theme_tag": "耍帅",
+      "image_description": "三人并肩合影",
       "tags": {
         "audience_tags": [
           "朋友"
@@ -1740,10 +1793,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "推车漫步合影",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -1813,6 +1868,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "瀑布前儿童照",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -1885,12 +1943,14 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "车内雨夜对视",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "开车",
           "亲密互动"
         ]
       },
@@ -1942,6 +2002,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "红装室内多角度",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2016,6 +2079,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "朋友",
+      "theme_tag": "海报",
+      "image_description": "三人组合海报",
       "tags": {
         "audience_tags": [
           "朋友"
@@ -2073,6 +2139,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "山景双人相拥",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -2152,12 +2221,14 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "十胜节",
+      "image_description": "火光节庆肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "海报",
           "十胜节"
         ]
       },
@@ -2209,13 +2280,15 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "多宫格",
+      "image_description": "红黑三联人像",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "多宫格",
-          "墨镜"
+          "多宫格"
         ]
       },
       "tag_source": "manual_visual",
@@ -2284,6 +2357,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "生日文字人像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -2358,6 +2434,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "风暴山峰肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -2432,10 +2511,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "户外家庭合影",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -2487,6 +2568,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "米装儿童坐姿",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -2558,6 +2642,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "浅色礼服双人照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -2629,6 +2716,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "室内伴侣对视",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -2702,6 +2792,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "灰雾山林双画面",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -2775,6 +2868,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "门廊红金服饰照",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2831,6 +2927,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "花环头饰近景",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2907,6 +3006,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "未来车辆旁肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -2980,6 +3082,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "黑白摄影",
+      "image_description": "黑白西装肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3054,6 +3159,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "红衣童趣插画",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -3131,6 +3239,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "秋叶街头肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3203,6 +3314,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "暖光相拥特写",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -3259,6 +3373,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "传统服饰伴侣照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -3330,6 +3447,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "树荫下黑装肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3402,10 +3522,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "月光亲子合照",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -3475,6 +3597,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "神话服饰双人像",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -3530,6 +3655,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "粉衫墨镜肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3609,10 +3737,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "林间牵手同行",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -3682,13 +3812,15 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "户外相拥特写",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "拥抱",
-          "亲密互动"
+          "拥抱"
         ]
       },
       "tag_source": "manual_visual",
@@ -3739,6 +3871,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "月夜传统双人照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -3793,10 +3928,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "拥抱",
+      "image_description": "母亲抱娃合照",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": [
           "拥抱"
@@ -3869,6 +4006,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "婚礼仪式近景",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -3946,6 +4086,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "蓝纱金饰肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -4018,6 +4161,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "墨镜",
+      "image_description": "墨镜手机双人照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -4092,6 +4238,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "伞下光点肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -4167,6 +4316,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "绿装室内肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -4246,6 +4398,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "暗光面部特写",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -4318,6 +4473,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "婚礼并肩合影",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -4372,6 +4530,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "粉衣柔光人像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -4444,10 +4605,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "双童对坐互动",
       "tags": {
         "audience_tags": [
-          "宝宝儿童",
-          "朋友"
+          "宝宝儿童"
         ],
         "theme_tags": []
       },
@@ -4517,6 +4680,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "墨镜面部叠影",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -4592,12 +4758,14 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "黑白摄影",
+      "image_description": "黑白浪花肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "海边",
           "黑白摄影"
         ]
       },
@@ -4672,6 +4840,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "伞下浪漫特写",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -4728,6 +4899,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "环形光影双人照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -4785,6 +4959,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "动感模糊肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -4862,10 +5039,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "逆光举娃瞬间",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -4917,6 +5096,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "多宫格",
+      "image_description": "儿童多角度组图",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -4973,6 +5155,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "雪山",
+      "image_description": "雪景双人合照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -5030,10 +5215,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "节庆牵手同行",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -5108,6 +5295,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "人与动物",
+      "image_description": "儿童与卡通同框",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -5165,10 +5355,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲密互动",
+      "image_description": "室内亲子对视",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": [
           "亲密互动"
@@ -5245,10 +5437,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "肩扛孩子看远方",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -5318,12 +5512,14 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "九夜节",
+      "image_description": "节庆情侣海报",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "海报",
           "九夜节"
         ]
       },
@@ -5375,6 +5571,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "九夜节",
+      "image_description": "暖灯传统服饰照",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -5431,6 +5630,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "九夜节",
+      "image_description": "暖光舞蹈造型",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -5486,10 +5688,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "校园双童合照",
       "tags": {
         "audience_tags": [
-          "宝宝儿童",
-          "朋友"
+          "宝宝儿童"
         ],
         "theme_tags": []
       },
@@ -5559,10 +5763,12 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "印度独立日",
+      "image_description": "国旗旁双童合影",
       "tags": {
         "audience_tags": [
-          "宝宝儿童",
-          "朋友"
+          "宝宝儿童"
         ],
         "theme_tags": [
           "印度独立日"
@@ -5638,6 +5844,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "花冠自然光肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -5691,6 +5900,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "旧车旁低机位照",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -5762,6 +5974,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "儿童神话服饰照",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -5833,6 +6048,9 @@
         "recent_new"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "暖光户外双人照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -5905,6 +6123,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "人与动物",
+      "image_description": "儿童兔子合照",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -5979,6 +6200,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "暖棕纸片拼贴",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6034,6 +6258,9 @@
         "recent_new"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "相框中人物照片",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6087,6 +6314,9 @@
         "recent_new"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "绿衣红景肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6158,6 +6388,9 @@
         "recent_new"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "绿衣室内坐姿",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6230,6 +6463,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "古建筑蓝衣肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6302,6 +6538,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "粉纱婚礼近照",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6373,6 +6612,9 @@
         "recent_new"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "夕阳道路人物照",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6445,6 +6687,9 @@
         "data_performance"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "红金暖灯肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6523,6 +6768,9 @@
         "recent_new"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "自然柔光人像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6577,6 +6825,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "酒红金饰肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6631,6 +6882,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "拱门婚礼特写",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6703,6 +6957,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "灯串下双人互动",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -6759,6 +7016,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "红线刺绣肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6812,6 +7072,9 @@
         "recent_new"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "蓝衣户外全身照",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -6884,6 +7147,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "婚礼拥抱近景",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -6937,6 +7203,9 @@
         "recent_new"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "蓝装花饰肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7011,6 +7280,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "古寺侧身写真",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7080,6 +7352,9 @@
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "眼妆文字叠层照",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7154,13 +7429,15 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "黄衣双层肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "拼贴",
-          "海报"
+          "拼贴"
         ]
       },
       "tag_source": "manual_visual",
@@ -7231,6 +7508,9 @@
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "黑金服饰肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7300,6 +7580,9 @@
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "珠宝眼部特写",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7371,13 +7654,15 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "80复古",
+      "image_description": "复古旅行情侣",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "80复古",
-          "墨镜"
+          "80复古"
         ]
       },
       "tag_source": "manual_visual",
@@ -7445,12 +7730,14 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "暖光文字肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "拼贴",
           "海报"
         ]
       },
@@ -7519,6 +7806,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "古墙边光影剪影",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7591,6 +7881,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "金灯婚纱肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7668,6 +7961,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "华服神话角色像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -7745,6 +8041,9 @@
         "creative_discovery"
       ],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "古树旁舞姿写真",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7819,6 +8118,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -7881,14 +8183,14 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
-        "theme_tags": [
-          "拼贴",
-          "黑白摄影"
-        ]
+        "theme_tags": []
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-26T01:49:59+00:00",
@@ -7948,6 +8250,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -8010,6 +8315,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -8074,6 +8382,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -8136,6 +8447,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -8200,6 +8514,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -8262,6 +8579,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -8324,6 +8644,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -8388,6 +8711,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -8450,6 +8776,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -8514,6 +8843,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -8576,6 +8908,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "粉衣室内肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -8642,6 +8977,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "传统新娘特写",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -8706,6 +9044,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "双幅婚礼纪念照",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -8768,6 +9109,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "传统礼服新人照",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -8830,6 +9174,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "列车窗边男性照",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -8894,12 +9241,14 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "多宫格",
+      "image_description": "儿童夕照拼图",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
         ],
         "theme_tags": [
-          "拼贴",
           "多宫格"
         ]
       },
@@ -8961,12 +9310,14 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "红衣多人海报",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "拼贴",
           "海报"
         ]
       },
@@ -9028,12 +9379,14 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "雨季多造型写真",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "拼贴",
           "多宫格"
         ]
       },
@@ -9095,6 +9448,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "花园秋千肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -9161,6 +9517,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "动画风婚礼双人",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -9227,12 +9586,14 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "黑白摄影",
+      "image_description": "暗光黑白肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "海报",
           "黑白摄影"
         ]
       },
@@ -9294,13 +9655,15 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "红色电影肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "海报",
-          "墨镜"
+          "海报"
         ]
       },
       "tag_source": "manual_visual",
@@ -9361,13 +9724,15 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "婚礼相拥特写",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "拥抱",
-          "亲密互动"
+          "拥抱"
         ]
       },
       "tag_source": "manual_visual",
@@ -9428,6 +9793,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "传统服饰柔光照",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -9492,6 +9860,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "南印婚礼亲友照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -9558,6 +9929,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "婚礼仪式双人照",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -9624,6 +9998,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "墨镜",
+      "image_description": "红花墙婚礼肖像",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -9690,6 +10067,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -9752,6 +10132,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -9814,6 +10197,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "持蛋糕的户外肖像",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -9878,6 +10264,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -9940,6 +10329,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "单人男性",
+      "theme_tag": "黑白摄影",
+      "image_description": "侧光男性黑白照",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -10006,6 +10398,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -10068,13 +10463,14 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "海报",
+      "image_description": "家庭照片拼贴",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": [
-          "拼贴",
           "海报"
         ]
       },
@@ -10136,6 +10532,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -10198,6 +10597,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -10260,6 +10662,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": "海报",
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": [
@@ -10324,6 +10729,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -10386,6 +10794,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -10448,6 +10859,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "街头多人合影",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -10512,14 +10926,14 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "车内夜景肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": [
-          "纱丽",
-          "墨镜"
-        ]
+        "theme_tags": []
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-26T01:49:59+00:00",
@@ -10579,6 +10993,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "浅色眼眸特写",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -10643,10 +11060,12 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "父女窗边互动",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -10708,6 +11127,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "情侣近景肖像",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -10774,13 +11196,15 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "婚礼近景相拥",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "拥抱",
-          "亲密互动"
+          "拥抱"
         ]
       },
       "tag_source": "manual_visual",
@@ -10841,6 +11265,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "蓝裙人物肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -10905,10 +11332,12 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "母女影棚合影",
       "tags": {
         "audience_tags": [
-          "亲子家庭",
-          "宝宝儿童"
+          "亲子家庭"
         ],
         "theme_tags": []
       },
@@ -10975,6 +11404,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "红纱丽侧脸肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11046,6 +11478,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "暖光侧脸肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11110,6 +11545,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "传统肖像特写",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11183,6 +11621,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -11245,6 +11686,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "high",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "红装侧身肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11311,14 +11755,14 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "high",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "黑装光环肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": [
-          "纱丽",
-          "纯色暗调"
-        ]
+        "theme_tags": []
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-26T01:49:59+00:00",
@@ -11378,6 +11822,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "high",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "暖光侧脸肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11442,6 +11889,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "high",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "传统服饰正面照",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11508,6 +11958,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -11570,6 +12023,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "暗光肖像特写",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11634,6 +12090,9 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "双幅女性肖像",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11709,12 +12168,14 @@
       "source_profile_url": null,
       "discovery_labels": [],
       "source_confidence": "high",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "红装双画面写真",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "拼贴",
           "纱丽"
         ]
       },
