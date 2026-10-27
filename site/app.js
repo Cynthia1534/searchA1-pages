@@ -317,11 +317,10 @@ function titleEditor(item) {
 function materialFacts(item) {
   const names = {
     market: {india:'印度',indonesia:'印尼',unknown:'地区待确认'},
-    kind: {ai_image:'AI 图片',human_ai_dance_video:'真人 AI 舞蹈视频',other_ai_video:'其他 AI 视频',unknown:'类型待确认'},
     origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',unknown:'来源待确认'}
   };
   const facts=el('div','material-facts');
-  for (const [group,value] of [['market',item.market_region],['kind',item.material_kind],['origin',item.discovery_origin]]) {
+  for (const [group,value] of [['market',item.market_region],['origin',item.discovery_origin]]) {
     const key=Object.hasOwn(names[group],value) ? value : 'unknown';
     const badge=el('span','fact-badge',names[group][key]);
     badge.dataset.group=group;
