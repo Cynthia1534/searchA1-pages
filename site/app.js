@@ -228,8 +228,9 @@ function titleEditor(item) {
   const titleLine=el('div','title-line');
   const title=el('span','generated-title');
   const copy=el('button','copy-title','复制标题');copy.type='button';
-  const categoryNames={ai_image:'图片',human_ai_dance_video:'舞蹈类视频',other_ai_video:'情景类视频',unknown:'视频待核实'};
-  const categoryText=el('span','row-category',categoryNames[category(item)]);
+  const categoryNames={ai_image:'图片',human_ai_dance_video:'舞蹈类视频',other_ai_video:'情景类视频'};
+  const categoryText=categoryNames[category(item)]
+    ? el('span','row-category',categoryNames[category(item)]) : null;
   let copyTimer;
   const copyState=(message,kind='')=>{
     clearTimeout(copyTimer);
@@ -241,7 +242,9 @@ function titleEditor(item) {
       copy.classList.remove('copied','needs-input');
     },2200);
   };
-  titleLine.append(title,copy,categoryText);box.append(titleLine);
+  titleLine.append(title,copy);
+  if (categoryText) titleLine.append(categoryText);
+  box.append(titleLine);
   const fields=el('div','title-fields');
   const makeSelect=(field,name) => {
     const select=el('select','tag-select');
