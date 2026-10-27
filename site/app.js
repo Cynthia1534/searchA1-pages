@@ -29,6 +29,8 @@ const titleFor = item => {
   const description = imageDescription(item);
   return audience && theme && description ? `${audience}+${theme}+${description}+图片+原` : '';
 };
+const duplicateTitle = (item, value) => Boolean(value) && state.data.materials.some(
+  other => other.id !== item.id && titleFor(other) === value);
 const label = (_field, value) => value;
 const selectedTags = field => $(field === 'audience_tags' ? 'audience-filter' : 'theme-filter').value;
 const date = value => value ? String(value).slice(0,10) : '日期待确认';
@@ -78,6 +80,15 @@ function save(item, patch, {rerender=true}={}) {
     if (Object.hasOwn(patch,key) && patch[key] && !state.data.taxonomy[field].includes(patch[key])) {
       feedback('标签不在指定列表中', true); return false;
     }
+  }
+  const nextAudience=Object.hasOwn(patch,'audienceTag') ? patch.audienceTag : tag(item,'audience_tags');
+  const nextTheme=Object.hasOwn(patch,'themeTag') ? patch.themeTag : tag(item,'theme_tags');
+  const nextDescription=Object.hasOwn(patch,'imageDescription') ? patch.imageDescription : imageDescription(item);
+  const nextTitle=nextAudience && nextTheme && nextDescription
+    ? `${nextAudience}+${nextTheme}+${nextDescription}+图片+原` : '';
+  if (duplicateTitle(item,nextTitle)) {
+    feedback('标题与另一条素材重复，请写入更具体的画面细节',true);
+    return false;
   }
   if (Object.entries(patch).every(([key, value]) => (key === 'status' ? status(item) : previous[key]) === value)) {
     feedback(patch.status ? `当前已是「${statusNames[status(item)]}」` : '内容未变化');
@@ -209,7 +220,9 @@ function titleEditor(item) {
     select.add(new Option(name+' · 待分类',''));
     state.data.taxonomy[field].forEach(value=>select.add(new Option(value,value)));
     select.value=tag(item,field);
-    select.addEventListener('change',()=>save(item,{[field==='audience_tags'?'audienceTag':'themeTag']:select.value}));
+    select.addEventListener('change',()=>{
+      if (!save(item,{[field==='audience_tags'?'audienceTag':'themeTag']:select.value})) render();
+    });
     return select;
   };
   const audience=makeSelect('audience_tags','受众标签');
@@ -230,10 +243,12 @@ function titleEditor(item) {
     counter.classList.toggle('invalid',!valid);
     const value=valid && audience.value && theme.value && description.value
       ? `${audience.value}+${theme.value}+${description.value}+图片+原` : '';
+    const duplicate=duplicateTitle(item,value);
     title.textContent=value||'选择标签并填写图片描述后生成标题';
     title.title=value;
-    copy.dataset.ready=String(Boolean(value));
-    return value;
+    title.classList.toggle('duplicate',duplicate);
+    copy.dataset.ready=String(Boolean(value) && !duplicate);
+    return duplicate ? '' : value;
   };
   description.addEventListener('input',update);
   description.addEventListener('change',()=>{
@@ -243,8 +258,13 @@ function titleEditor(item) {
   copy.addEventListener('click',async()=>{
     const value=update();
     if (!value) {
-      copyState('请补全标题','needs-input');
-      feedback('请先选择受众、主题并填写10字内的图片描述',true);
+      if (title.classList.contains('duplicate')) {
+        copyState('标题重复','needs-input');
+        feedback('标题与另一条素材重复，请写入更具体的画面细节',true);
+      } else {
+        copyState('请补全标题','needs-input');
+        feedback('请先选择受众、主题并填写10字内的图片描述',true);
+      }
       return;
     }
     if (description.value!==imageDescription(item) &&
