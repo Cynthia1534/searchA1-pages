@@ -300,7 +300,7 @@ function titleEditor(item) {
   fields.append(audience,theme,description,counter,fixedImage,fixedOriginal);box.append(fields);
   const marketName={india:'印度',indonesia:'印尼',unknown:'地区待确认'};
   const kindName={ai_image:'AI 图片',human_ai_dance_video:'真人 AI 舞蹈视频',other_ai_video:'其他 AI 视频',unknown:'类型待确认'};
-  const originName={user_profile:'我提供的主页',codex_discovery:'Codex 自主发现',unknown:'来源待确认'};
+  const originName={user_provided_profile:'我提供的主页',codex_discovery:'Codex 自主发现',unknown:'来源待确认'};
   box.append(el('span','material-facts',`${marketName[item.market_region||'unknown']} · ${kindName[item.material_kind||'unknown']} · ${originName[item.discovery_origin||'unknown']}`));
   update();
   return box;
@@ -380,14 +380,18 @@ function render() {
 function detailMedia() {
   const item=state.current;
   mediaVisual(item,state.detailIndex,$('detail-visual'));
-  if (item.platform==='youtube' && item.material_kind!=='ai_image' && state.detailIndex===0 && postURL(item)) {
-    const videoId=item.id.split(':')[1];
-    if (/^[A-Za-z0-9_-]{11}$/.test(videoId)) {
-      const play=el('button','youtube-play','播放 YouTube 视频');play.type='button';
+  if (item.material_kind==='human_ai_dance_video' || item.material_kind==='other_ai_video') {
+    const id=item.id.split(':')[1];
+    let embed=null;
+    if (item.platform==='youtube' && /^[A-Za-z0-9_-]{11}$/.test(id)) embed=`https://www.youtube-nocookie.com/embed/${id}?autoplay=1`;
+    if (item.platform==='tiktok' && /^\d{10,25}$/.test(id)) embed=`https://www.tiktok.com/embed/v2/${id}`;
+    if (item.platform==='instagram' && /^[A-Za-z0-9_-]{5,30}$/.test(id) && /\/reel\//.test(item.post_url)) embed=`https://www.instagram.com/reel/${id}/embed/`;
+    if (embed && state.detailIndex===0 && postURL(item)) {
+      const play=el('button','youtube-play','播放原帖视频');play.type='button';
       play.addEventListener('click',()=>{
         const frame=el('iframe','youtube-frame');
-        frame.src=`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1`;
-        frame.title=item.description||'YouTube 视频';frame.allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share';
+        frame.src=embed;frame.title=item.description||'原帖视频';
+        frame.allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share';
         frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';
         $('detail-visual').replaceChildren(frame);
       });
@@ -405,7 +409,7 @@ function openDetail(item) {
   state.current=item;state.detailIndex=0;detailMedia();
   $('detail-platform').textContent=(item.platform==='instagram'?'Instagram':item.platform==='youtube'?'YouTube':'TikTok')+(item.suitability==='review'?' · 仅预览初筛':' · 整帖已审核');
   $('detail-title').textContent=item.description||'候选素材';
-  $('detail-meta').textContent=`@${item.creator||'未知账号'} · 发布 ${date(item.published_at||item.published_date)} · 采集 ${captureDay(item)}`;
+  $('detail-meta').textContent=`${item.platform==='youtube'?'':'@'}${item.creator||'未知账号'} · 发布 ${date(item.published_at||item.published_date)} · 采集 ${captureDay(item)}${item.duration_seconds!=null?' · 时长 '+item.duration_seconds+' 秒':''}`;
   const chips=$('detail-tags');chips.replaceChildren();
   for (const [field,value] of ['audience_tags','theme_tags'].flatMap(field => tags(item,field).map(value=>[field,value]))) chips.append(el('span','chip',label(field,value)));
   $('detail-reason').textContent=item.recommendation_reason||'推荐理由待确认';
