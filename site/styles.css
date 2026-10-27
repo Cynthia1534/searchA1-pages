@@ -37,7 +37,7 @@
 @media(max-width:560px){.more[open]>.more-panel{left:auto;right:0}}
 /* Keep the market and source labels aligned in two centered columns. */
 .row{grid-template-columns:70px minmax(390px,500px) minmax(170px,1fr) 110px 100px 95px 226px;gap:8px}
-.material-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:center;justify-items:center;align-self:center;justify-self:center;width:min(100%,190px);gap:6px;white-space:normal;overflow:visible}
+.material-facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));align-items:center;justify-items:center;align-self:center;justify-self:center;width:min(100%,320px);gap:5px;white-space:normal;overflow:visible}
 .fact-badge{display:inline-flex;align-items:center;max-width:100%;min-height:20px;padding:2px 6px;border:1px solid #e1e5e8;border-radius:3px;background:#f7f8f9;color:#64707a;font-size:10px;line-height:1.2;white-space:nowrap}
 .fact-badge[data-group="market"][data-value="india"]{border-color:#cfe1ee;background:#edf6fc;color:#386581}
 .fact-badge[data-group="market"][data-value="indonesia"]{border-color:#d1e7d6;background:#eef8f0;color:#43734e}
@@ -46,4 +46,8 @@
 @media(max-width:1200px){.row{grid-template-columns:64px minmax(280px,1fr) minmax(130px,.6fr) 95px 83px 80px 210px;gap:6px}}
 @media(max-width:1020px){.row{grid-template-columns:60px minmax(0,1fr) 205px;grid-template-areas:'thumb title actions' 'thumb facts actions' 'thumb meta actions' 'thumb link actions';gap:3px 7px;min-height:96px}.material-facts{grid-area:facts}.row-meta{grid-area:meta;display:flex;gap:6px;flex-wrap:wrap}.row-numbers{display:none}.thumb{grid-area:thumb}.row-title{grid-area:title}.link-cell{grid-area:link}.status-cell{grid-area:actions}}
 @media(max-width:560px){.row{grid-template-columns:55px minmax(0,1fr);grid-template-areas:'thumb title' 'thumb facts' 'thumb meta' 'thumb link' 'actions actions';min-height:132px}.material-facts{gap:3px}.fact-badge{font-size:9px;padding:2px 4px}}
-.row-category{flex:none;padding:2px 4px;border:1px solid #dfe3e6;border-radius:3px;background:#f7f8f9;color:#66717a;font-size:10px;font-weight:500;white-space:nowrap}
+.fact-badge[data-group="kind"]{font-weight:600}
+.fact-badge[data-group="kind"][data-value="ai_image"]{border-color:#cddfeb;background:#edf5fb;color:#37617b}
+.fact-badge[data-group="kind"][data-value="human_ai_dance_video"]{border-color:#ded4ed;background:#f4f0fa;color:#6d528b}
+.fact-badge[data-group="kind"][data-value="other_ai_video"]{border-color:#eadbbf;background:#faf5e9;color:#806238}
+.fact-badge[data-group="kind"][data-value="unknown"]{border-color:#e1e5e8;background:#f7f8f9;color:#78838c}

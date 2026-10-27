@@ -10,6 +10,7 @@ const storageKey = 'a1-public-gallery-local-decisions-v1';
 const viewStatus = {all:null, unprocessed:'pending', later:'reserve', adopted:'adopted', rejected:'rejected'};
 const viewNames = {all:'全部素材', unprocessed:'未处理', later:'待采用', adopted:'已采用', rejected:'不采用'};
 const statusNames = {pending:'未处理', reserve:'待采用', adopted:'已采用', rejected:'不采用'};
+const categoryNames = {ai_image:'图片', human_ai_dance_video:'舞蹈类视频', other_ai_video:'情景类视频'};
 const state = {data:null, local:{}, current:null, detailIndex:0, page:1};
 try { state.local = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.local = {}; }
 const decision = item => state.local[item.id] || {};
@@ -184,7 +185,7 @@ function activeFilters() {
   for (const [id,name] of [['search','搜索'],['day','采集日期'],['market-region','市场地区'],['platform','平台'],['material-kind','素材类型'],['discovery-origin','素材来源'],['source-account','来源账号'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序'],['audience-filter','受众标签'],['theme-filter','主题标签']]) {
     const field = $(id);
     if (!field.value || (id === 'sort' && field.value === 'discovered')) continue;
-    const value = field.selectedOptions?.[0]?.textContent || field.value;
+    const value = id === 'material-kind' ? categoryNames[field.value] : field.selectedOptions?.[0]?.textContent || field.value;
     const chip = el('button','',`${name}：${value} ×`);
     chip.type = 'button';
     chip.addEventListener('click', () => { field.value = id === 'sort' ? 'discovered' : ''; state.page=1; render(); });
@@ -228,9 +229,6 @@ function titleEditor(item) {
   const titleLine=el('div','title-line');
   const title=el('span','generated-title');
   const copy=el('button','copy-title','复制标题');copy.type='button';
-  const categoryNames={ai_image:'图片',human_ai_dance_video:'舞蹈类视频',other_ai_video:'情景类视频'};
-  const categoryText=categoryNames[category(item)]
-    ? el('span','row-category',categoryNames[category(item)]) : null;
   let copyTimer;
   const copyState=(message,kind='')=>{
     clearTimeout(copyTimer);
@@ -243,7 +241,6 @@ function titleEditor(item) {
     },2200);
   };
   titleLine.append(title,copy);
-  if (categoryText) titleLine.append(categoryText);
   box.append(titleLine);
   const fields=el('div','title-fields');
   const makeSelect=(field,name) => {
@@ -325,10 +322,11 @@ function titleEditor(item) {
 function materialFacts(item) {
   const names = {
     market: {india:'印度',indonesia:'印尼',unknown:'地区待确认'},
-    origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',unknown:'来源待确认'}
+    origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',unknown:'来源待确认'},
+    kind: {...categoryNames,unknown:'待核实'}
   };
   const facts=el('div','material-facts');
-  for (const [group,value] of [['market',item.market_region],['origin',item.discovery_origin]]) {
+  for (const [group,value] of [['market',item.market_region],['origin',item.discovery_origin],['kind',category(item)]]) {
     const key=Object.hasOwn(names[group],value) ? value : 'unknown';
     const badge=el('span','fact-badge',names[group][key]);
     badge.dataset.group=group;
