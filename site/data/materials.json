@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T07:07:45+00:00",
+  "generated_at": "2026-10-27T12:50:28+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -47,6 +47,954 @@
     ]
   },
   "materials": [
+    {
+      "id": "instagram:De_0h8ymsNv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/promptfyai/p/De_0h8ymsNv/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "🥰 Happy Diwali! 🪔💫\n\nPrompt Code: P-17556059\n\n#diwalivibes #diwalicouple #happydiwali #couplegoals💑 #festivelove #diwalilights #indiancouple #traditionallook #loveandlight #promptfyai",
+      "description": "排灯节暖灯前的双人互动；来自 AI 提示词账号，首图已核验。",
+      "recommendation_reason": "首图可见最终人物或场景效果；排灯节暖灯前的双人互动；来自 AI 提示词账号，首图已核验。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "排灯节",
+      "image_description": "金灯下相依",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 85,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": 5,
+        "likes_display": "5",
+        "comments": 3,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": 5,
+          "likes_display": "5",
+          "comments": 3,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_0h8ymsNv_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De_kS9Qmd0M",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/cinetale.duo/p/De_kS9Qmd0M/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "Comment prompt ✨ \n#aigenerated #couplephotography #PreWeddingShoot #WeddingPhotography #CouplePortrait",
+      "description": "情侣并肩近景及叠影，帖子明确标注 AI generated。",
+      "recommendation_reason": "首图可见最终人物或场景效果；情侣并肩近景及叠影，帖子明确标注 AI generated。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "情侣并肩拥笑",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 83,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_kS9Qmd0M_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De_LXSUD_ec",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/minushankar3117/p/De_LXSUD_ec/",
+      "creator": "minushankar3117",
+      "published_at": null,
+      "published_date": "2026-10-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "❤️🧵 From a beautiful family photo to a timeless embroidered masterpiece! 🥹✨\n\nA father's love, a mother's warmth, and a daughter's innocent smile — stitched together with love on a beautiful jute canvas. 🧵❤️👨‍👩‍👧\n\n✨ Save this idea for your family portrait!\n💌 Share this with someone who would love this creation!\n📌 Follow for more creative AI photo prompts!\n\n🔥 HASHTAGS\n\n#AIArt #AIFamilyPortrait #EmbroideryArt #AIPhotoEditing #GeminiAI AIPhotoPrompt FamilyPortrait JuteEmbroidery TamilReels TamilCreators AICreation CreativeAI TrendingReels IndianFamily DigitalArt\n\nAI embroidered family portrait, AI family photo editing, Gemini AI photo prompt, jute fabric embroidery portrait, realistic embroidery art, family photo AI transformation, AI portrait creation, handmade embroidery effect, South Indian family portrait, Tamil AI reels, trending AI photo editing, creative family photo ideas, realistic AI image generation, embroidered couple portrait, AI art tutorial",
+      "description": "家庭肖像与麻布刺绣文字组合，文案说明由家庭照片转换。",
+      "recommendation_reason": "首图可见最终人物或场景效果；家庭肖像与麻布刺绣文字组合，文案说明由家庭照片转换。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "麻布刺绣全家福",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 79,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": 575,
+        "likes_display": "575",
+        "comments": 383,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": 575,
+          "likes_display": "575",
+          "comments": 383,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_LXSUD_ec_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De8RPQ5j6l9",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/minushankar3117/p/De8RPQ5j6l9/",
+      "creator": "minushankar3117",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "❤️ Real love, recreated in a GTA-style universe! 🎮🔥✨ From real faces to comic-book dreams 🎨💫 Would you turn your love story into AI art? 😍❤️ Tag your partner! 🫶\n\n#GTAStyle #AIArt #AICouple #GTAArt #AIPhotoEditing CouplePortrait ComicArt VectorArt PopArt AITransformation DigitalArt AIPrompt GeminiAI AIPortrait CoupleGoals\n\nGTA style AI photo editing, GTA couple portrait prompt, AI comic art couple, GTA character transformation, AI pop art portrait, vector cartoon couple, Gemini AI photo prompt, AI couple illustration, realistic face to cartoon AI, neon yellow background portrait, cinematic couple artwork, viral AI photo editing trend, GTA style portrait editing, AI art Instagram reels, couple photo transformation",
+      "description": "双人面孔转为漫画游戏风格；文案说明由真实面孔再创作。",
+      "recommendation_reason": "首图可见最终人物或场景效果；双人面孔转为漫画游戏风格；文案说明由真实面孔再创作。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "海报",
+      "image_description": "荧黄漫画双人像",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 81,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": 277,
+        "likes_display": "277",
+        "comments": 397,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": 277,
+          "likes_display": "277",
+          "comments": 397,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De8RPQ5j6l9_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De09sO0GNsX",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/laxman_done_official/p/De09sO0GNsX/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": "2026-10-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "#trendingpost \n#viralpost \n#aiprompts \n#instagram",
+      "description": "大幅人物面部与全身小像叠置；帖文标注 AI prompts。",
+      "recommendation_reason": "首图可见最终人物或场景效果；大幅人物面部与全身小像叠置；帖文标注 AI prompts。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "双影暗调女像",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 80,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De09sO0GNsX_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dey7jIMGHdU",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/laxman_done_official/p/Dey7jIMGHdU/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": "2026-10-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "#trendingpost \n#viralpost \n#aiprompts \n#instagram",
+      "description": "酒红裙和暖光儿童肖像；帖文标注 AI prompts，首图着装得体。",
+      "recommendation_reason": "首图可见最终人物或场景效果；酒红裙和暖光儿童肖像；帖文标注 AI prompts，首图着装得体。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "棚拍",
+      "image_description": "酒红裙暖光童像",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": 1337,
+        "likes_display": "1,337",
+        "comments": 15,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": 1337,
+          "likes_display": "1,337",
+          "comments": 15,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dey7jIMGHdU_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeyQx1EmNWq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/laxman_done_official/p/DeyQx1EmNWq/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": "2026-10-21",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "#trendingpost \n#viralpost \n#aiprompts \n#instagram",
+      "description": "布面油画质感的双人凝望；帖文标注 AI prompts。",
+      "recommendation_reason": "首图可见最终人物或场景效果；布面油画质感的双人凝望；帖文标注 AI prompts。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "双人油画凝望",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 80,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": 764,
+        "likes_display": "764",
+        "comments": 6,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": 764,
+          "likes_display": "764",
+          "comments": 6,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeyQx1EmNWq_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DerA10LTLhz",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/brlianfai/reel/DerA10LTLhz/",
+      "creator": "brlianfai",
+      "published_at": null,
+      "published_date": "2026-10-19",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "Kalau mereka beneran ada sama kita hari ini, kira-kira apa yg bakal kita lakuin sekarang yah?\n\nKita mungkin tersandung, jatuh, dan menghadapi kesusahan zaman. Namun tugas kita tetap sama:\nJANGAN MENYERAH! 🇮🇩\n\nMade with @higgsfield.ai \n\n“Mengheningkan Cipta” Created by Truno Prawit\nSinger Via Vallen",
+      "description": "实看视频三个时间点，人物在烽火背景中互动；文案明确写 Made with Higgsfield AI。整段画面尚待复核。",
+      "recommendation_reason": "首图可见最终人物或场景效果；实看视频三个时间点，人物在烽火背景中互动；文案明确写 Made with Higgsfield AI。整段画面尚待复核。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/brlianfai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人通用",
+      "theme_tag": null,
+      "image_description": "烽火历史群像",
+      "tags": {
+        "audience_tags": [
+          "单人通用"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 88,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": null,
+        "likes_display": "274K",
+        "comments": 4093,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": null,
+          "likes_display": "274K",
+          "comments": 4093,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DerA10LTLhz_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeYpudkEbT5",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/prompt_arafat/p/DeYpudkEbT5/",
+      "creator": "prompt_arafat",
+      "published_at": null,
+      "published_date": "2026-10-12",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "💜✨ Garba nights, royal vibes & a little AI magic! 🪄💃🔥\n\nThis Navratri, let your pictures shine like never before! 🪔✨\n\n📲 Try this AI photo trend with Prompt Saar 💜\n\n#Navratri2026 #GarbaVibes #AIPhotoEditing #TrendingReels #PromptSaar",
+      "description": "Navratri 灯光与传统服饰，说明明确提到 AI photo trend。",
+      "recommendation_reason": "首图可见最终人物或场景效果；Navratri 灯光与传统服饰，说明明确提到 AI photo trend。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompt_arafat/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "九夜节",
+      "image_description": "彩灯节庆侧颜",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "九夜节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 84,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": 1130,
+        "likes_display": "1,130",
+        "comments": 9,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": 1130,
+          "likes_display": "1,130",
+          "comments": 9,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeYpudkEbT5_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeZGgT9CAKl",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/vedant_zalte/p/DeZGgT9CAKl/",
+      "creator": "vedant_zalte",
+      "published_at": null,
+      "published_date": "2026-10-12",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "Comment 'prompt' and I'll DM you.\n\n.\n\n#ai #gemini #chatgpt #photoedit #prompt\n\n.\n\n[prompt, chatgpt, Google gemini, Ai edit, Nanobanana, AI image generation, studio quality images, AI photo editing, prompt engineering, Instagram poster design, cinematic editing, AI portrait editing, red background aesthetic, halftone texture design, modern editorial poster, content creator tools, viral Instagram design, AI photography, realistic skin tones editing, digital art creation, creative prompt ideas, social media content creation, high contrast poster, magazine style design, AI tools for creators, photo to studio edit, trending Instagram reels, visual storytelling, creator growth hacks, aesthetic poster design, AI design tutorial, quick editing hacks, professional photo editing, content creation tips, viral design ideas]",
+      "description": "红衣侧身和电影海报式排版；帖子明确提到 AI 图片编辑。",
+      "recommendation_reason": "首图可见最终人物或场景效果；红衣侧身和电影海报式排版；帖子明确提到 AI 图片编辑。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vedant_zalte/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "红衣侧身电影像",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 82,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": 2843,
+        "likes_display": "2,843",
+        "comments": 502,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": 2843,
+          "likes_display": "2,843",
+          "comments": 502,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeZGgT9CAKl_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dd_gneTCEjn",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/vedant_zalte/p/Dd_gneTCEjn/",
+      "creator": "vedant_zalte",
+      "published_at": null,
+      "published_date": "2026-10-02",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "Comment 'prompt' and I'll DM you.\n\n.\n\n#ai #gemini #chatgpt #photoedit #prompt\n\n.\n\n[prompt, chatgpt, Google gemini, Ai edit, Nanobanana, AI image generation, studio quality images, AI photo editing, prompt engineering, Instagram poster design, cinematic editing, AI portrait editing, red background aesthetic, halftone texture design, modern editorial poster, content creator tools, viral Instagram design, AI photography, realistic skin tones editing, digital art creation, creative prompt ideas, social media content creation, high contrast poster, magazine style design, AI tools for creators, photo to studio edit, trending Instagram reels, visual storytelling, creator growth hacks, aesthetic poster design, AI design tutorial, quick editing hacks, professional photo editing, content creation tips, viral design ideas]",
+      "description": "同一男子的蓝衣多重构图；帖子以 AI 编辑提示词呈现。",
+      "recommendation_reason": "首图可见最终人物或场景效果；同一男子的蓝衣多重构图；帖子以 AI 编辑提示词呈现。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vedant_zalte/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "多宫格",
+      "image_description": "蓝衣三重分身",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": 1561,
+        "likes_display": "1,561",
+        "comments": 255,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": 1561,
+          "likes_display": "1,561",
+          "comments": 255,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dd_gneTCEjn_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dd6T97SiCC_",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/vedant_zalte/p/Dd6T97SiCC_/",
+      "creator": "vedant_zalte",
+      "published_at": null,
+      "published_date": "2026-09-30",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T12:49:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T12:49:09+00:00",
+      "caption": "Comment 'prompt' and I'll DM you.\n\n.\n\n#ai #gemini #chatgpt #photoedit #prompt\n\n.\n\n[prompt, chatgpt, Google gemini, Ai edit, Nanobanana, AI image generation, studio quality images, AI photo editing, prompt engineering, Instagram poster design, cinematic editing, AI portrait editing, red background aesthetic, halftone texture design, modern editorial poster, content creator tools, viral Instagram design, AI photography, realistic skin tones editing, digital art creation, creative prompt ideas, social media content creation, high contrast poster, magazine style design, AI tools for creators, photo to studio edit, trending Instagram reels, visual storytelling, creator growth hacks, aesthetic poster design, AI design tutorial, quick editing hacks, professional photo editing, content creation tips, viral design ideas]",
+      "description": "红白粗字排版和黑衣男像；帖子标注 AI 图片编辑。",
+      "recommendation_reason": "首图可见最终人物或场景效果；红白粗字排版和黑衣男像；帖子标注 AI 图片编辑。。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vedant_zalte/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "recent_new",
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "红白巨字男像",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T12:49:09+00:00",
+      "scores": {
+        "data": {
+          "score": 82,
+          "reason": "同账号本次可读的 5 条帖子评论中位数 255；本帖 564 条，约 2.2 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        },
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-27T12:49:09+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T12:49:09+00:00",
+        "likes": 529,
+        "likes_display": "529",
+        "comments": 564,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T12:49:09+00:00",
+          "likes": 529,
+          "likes_display": "529",
+          "comments": 564,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dd6T97SiCC__0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DPEdfS_jzkD",
       "platform": "instagram",

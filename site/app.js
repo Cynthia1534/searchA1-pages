@@ -23,9 +23,12 @@ const tag = (item, field) => {
 const tags = (item, field) => tag(item, field) ? [tag(item, field)] : [];
 const imageDescription = item => Object.hasOwn(decision(item), 'imageDescription')
   ? decision(item).imageDescription : item.image_description || '';
+const category = item => item.material_kind === 'human_ai_dance_video' ? 'human_ai_dance_video'
+  : item.material_kind === 'other_ai_video' ? 'other_ai_video'
+  : item.material_kind === 'ai_image' || item.media?.[0]?.kind === 'image' ? 'ai_image' : 'unknown';
 const titleMedia = item => ['图片','视频'].includes(decision(item).titleMedia)
   ? decision(item).titleMedia
-  : ['human_ai_dance_video','other_ai_video'].includes(item.material_kind) ? '视频' : '图片';
+  : item.media?.[0]?.kind === 'video_cover' || ['human_ai_dance_video','other_ai_video'].includes(category(item)) ? '视频' : '图片';
 const titleFor = item => {
   const audience = tag(item, 'audience_tags');
   const theme = tag(item, 'theme_tags');
@@ -148,7 +151,7 @@ function matches(item) {
   if (viewStatus[view()] && status(item) !== viewStatus[view()]) return false;
   if ($('platform').value && item.platform !== $('platform').value) return false;
   if ($('market-region').value && (item.market_region || 'unknown') !== $('market-region').value) return false;
-  if ($('material-kind').value && (item.material_kind || 'unknown') !== $('material-kind').value) return false;
+  if ($('material-kind').value && category(item) !== $('material-kind').value) return false;
   if ($('discovery-origin').value && (item.discovery_origin || 'unknown') !== $('discovery-origin').value) return false;
   if ($('source-account').value && `${item.platform}:${item.creator}` !== $('source-account').value) return false;
   if ($('day').value && captureDay(item) !== $('day').value) return false;
@@ -225,6 +228,8 @@ function titleEditor(item) {
   const titleLine=el('div','title-line');
   const title=el('span','generated-title');
   const copy=el('button','copy-title','复制标题');copy.type='button';
+  const categoryNames={ai_image:'图片',human_ai_dance_video:'舞蹈类视频',other_ai_video:'情景类视频',unknown:'视频待核实'};
+  const categoryText=el('span','row-category',categoryNames[category(item)]);
   let copyTimer;
   const copyState=(message,kind='')=>{
     clearTimeout(copyTimer);
@@ -236,7 +241,7 @@ function titleEditor(item) {
       copy.classList.remove('copied','needs-input');
     },2200);
   };
-  titleLine.append(title,copy);box.append(titleLine);
+  titleLine.append(title,copy,categoryText);box.append(titleLine);
   const fields=el('div','title-fields');
   const makeSelect=(field,name) => {
     const select=el('select','tag-select');
@@ -317,7 +322,7 @@ function titleEditor(item) {
 function materialFacts(item) {
   const names = {
     market: {india:'印度',indonesia:'印尼',unknown:'地区待确认'},
-    origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',unknown:'来源待确认'}
+    origin: {user_provided_profile:'我提供的主页',codex_discovery:'Codex 自主发现',unknown:'来源待确认'}
   };
   const facts=el('div','material-facts');
   for (const [group,value] of [['market',item.market_region],['origin',item.discovery_origin]]) {
