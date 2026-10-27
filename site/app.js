@@ -190,6 +190,17 @@ function titleEditor(item) {
   const titleLine=el('div','title-line');
   const title=el('span','generated-title');
   const copy=el('button','copy-title','复制标题');copy.type='button';
+  let copyTimer;
+  const copyState=(message,kind='')=>{
+    clearTimeout(copyTimer);
+    copy.textContent=message;
+    copy.classList.toggle('copied',kind==='copied');
+    copy.classList.toggle('needs-input',kind==='needs-input');
+    copyTimer=setTimeout(()=>{
+      copy.textContent='复制标题';
+      copy.classList.remove('copied','needs-input');
+    },2200);
+  };
   titleLine.append(title,copy);box.append(titleLine);
   const fields=el('div','title-fields');
   const makeSelect=(field,name) => {
@@ -207,6 +218,10 @@ function titleEditor(item) {
   description.placeholder='图片描述 · ≤10字';description.setAttribute('aria-label','图片简单描述，最多10字');
   description.value=imageDescription(item);
   const counter=el('span','char-count');
+  const fixedImage=el('span','fixed-title-field','图片');
+  const fixedOriginal=el('span','fixed-title-field','原');
+  fixedImage.setAttribute('aria-label','标题固定字段：图片');
+  fixedOriginal.setAttribute('aria-label','标题固定字段：原');
   const update=()=>{
     const length=[...description.value].length;
     const valid=length<=10 && !description.value.includes('+');
@@ -217,7 +232,7 @@ function titleEditor(item) {
       ? `${audience.value}+${theme.value}+${description.value}+图片+原` : '';
     title.textContent=value||'选择标签并填写图片描述后生成标题';
     title.title=value;
-    copy.disabled=!value;
+    copy.dataset.ready=String(Boolean(value));
     return value;
   };
   description.addEventListener('input',update);
@@ -226,13 +241,26 @@ function titleEditor(item) {
     save(item,{imageDescription:description.value},{rerender:false});
   });
   copy.addEventListener('click',async()=>{
-    const value=update();if (!value) return;
+    const value=update();
+    if (!value) {
+      copyState('请补全标题','needs-input');
+      feedback('请先选择受众、主题并填写10字内的图片描述',true);
+      return;
+    }
     if (description.value!==imageDescription(item) &&
         !save(item,{imageDescription:description.value},{rerender:false})) return;
-    try { await navigator.clipboard.writeText(value);feedback('已复制完整标题'); }
-    catch { feedback('复制失败：请检查浏览器剪贴板权限',true); }
+    copyState('复制中…');
+    try {
+      if (!navigator.clipboard?.writeText) throw new Error('Clipboard API unavailable');
+      await navigator.clipboard.writeText(value);
+      copyState('已复制 ✓','copied');
+      feedback('已复制完整标题');
+    } catch {
+      copyState('复制失败','needs-input');
+      feedback('复制失败：请检查浏览器剪贴板权限',true);
+    }
   });
-  fields.append(audience,theme,description,counter);box.append(fields);
+  fields.append(audience,theme,description,counter,fixedImage,fixedOriginal);box.append(fields);
   update();
   return box;
 }
