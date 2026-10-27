@@ -23,11 +23,14 @@ const tag = (item, field) => {
 const tags = (item, field) => tag(item, field) ? [tag(item, field)] : [];
 const imageDescription = item => Object.hasOwn(decision(item), 'imageDescription')
   ? decision(item).imageDescription : item.image_description || '';
+const titleMedia = item => ['图片','视频'].includes(decision(item).titleMedia)
+  ? decision(item).titleMedia
+  : ['human_ai_dance_video','other_ai_video'].includes(item.material_kind) ? '视频' : '图片';
 const titleFor = item => {
   const audience = tag(item, 'audience_tags');
   const theme = tag(item, 'theme_tags');
   const description = imageDescription(item);
-  return audience && theme && description ? `${audience}+${theme}+${description}+图片+原` : '';
+  return audience && theme && description ? `${audience}+${theme}+${description}+${titleMedia(item)}+原` : '';
 };
 const duplicateTitle = (item, value) => Boolean(value) && state.data.materials.some(
   other => other.id !== item.id && titleFor(other) === value);
@@ -95,11 +98,15 @@ function save(item, patch, {rerender=true}={}) {
       feedback('标签不在指定列表中', true); return false;
     }
   }
+  if (Object.hasOwn(patch,'titleMedia') && !['图片','视频'].includes(patch.titleMedia)) {
+    feedback('标题类型只能选择图片或视频',true);return false;
+  }
   const nextAudience=Object.hasOwn(patch,'audienceTag') ? patch.audienceTag : tag(item,'audience_tags');
   const nextTheme=Object.hasOwn(patch,'themeTag') ? patch.themeTag : tag(item,'theme_tags');
   const nextDescription=Object.hasOwn(patch,'imageDescription') ? patch.imageDescription : imageDescription(item);
+  const nextMedia=Object.hasOwn(patch,'titleMedia') ? patch.titleMedia : titleMedia(item);
   const nextTitle=nextAudience && nextTheme && nextDescription
-    ? `${nextAudience}+${nextTheme}+${nextDescription}+图片+原` : '';
+    ? `${nextAudience}+${nextTheme}+${nextDescription}+${nextMedia}+原` : '';
   if (duplicateTitle(item,nextTitle)) {
     feedback('标题与另一条素材重复，请写入更具体的画面细节',true);
     return false;
@@ -248,9 +255,15 @@ function titleEditor(item) {
   description.placeholder='图片描述 · ≤10字';description.setAttribute('aria-label','图片简单描述，最多10字');
   description.value=imageDescription(item);
   const counter=el('span','char-count');
-  const fixedImage=el('span','fixed-title-field','图片');
+  const mediaSelect=el('select','title-media-select');
+  mediaSelect.setAttribute('aria-label','标题类型：图片或视频');
+  mediaSelect.add(new Option('图片','图片'));
+  mediaSelect.add(new Option('视频','视频'));
+  mediaSelect.value=titleMedia(item);
+  mediaSelect.addEventListener('change',()=>{
+    if (!save(item,{titleMedia:mediaSelect.value})) { mediaSelect.value=titleMedia(item);update(); }
+  });
   const fixedOriginal=el('span','fixed-title-field','原');
-  fixedImage.setAttribute('aria-label','标题固定字段：图片');
   fixedOriginal.setAttribute('aria-label','标题固定字段：原');
   const update=()=>{
     const length=[...description.value].length;
@@ -259,7 +272,7 @@ function titleEditor(item) {
     counter.textContent=`${length}/10`;
     counter.classList.toggle('invalid',!valid);
     const value=valid && audience.value && theme.value && description.value
-      ? `${audience.value}+${theme.value}+${description.value}+图片+原` : '';
+      ? `${audience.value}+${theme.value}+${description.value}+${mediaSelect.value}+原` : '';
     const duplicate=duplicateTitle(item,value);
     title.textContent=value||'选择标签并填写图片描述后生成标题';
     title.title=value;
@@ -297,7 +310,7 @@ function titleEditor(item) {
       feedback('复制失败：请检查浏览器剪贴板权限',true);
     }
   });
-  fields.append(audience,theme,description,counter,fixedImage,fixedOriginal);box.append(fields);
+  fields.append(audience,theme,description,counter,mediaSelect,fixedOriginal);box.append(fields);
   const marketName={india:'印度',indonesia:'印尼',unknown:'地区待确认'};
   const kindName={ai_image:'AI 图片',human_ai_dance_video:'真人 AI 舞蹈视频',other_ai_video:'其他 AI 视频',unknown:'类型待确认'};
   const originName={user_provided_profile:'我提供的主页',codex_discovery:'Codex 自主发现',unknown:'来源待确认'};
