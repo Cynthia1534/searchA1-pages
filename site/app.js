@@ -311,12 +311,24 @@ function titleEditor(item) {
     }
   });
   fields.append(audience,theme,description,counter,mediaSelect,fixedOriginal);box.append(fields);
-  const marketName={india:'印度',indonesia:'印尼',unknown:'地区待确认'};
-  const kindName={ai_image:'AI 图片',human_ai_dance_video:'真人 AI 舞蹈视频',other_ai_video:'其他 AI 视频',unknown:'类型待确认'};
-  const originName={user_provided_profile:'我提供的主页',codex_discovery:'Codex 自主发现',unknown:'来源待确认'};
-  box.append(el('span','material-facts',`${marketName[item.market_region||'unknown']} · ${kindName[item.material_kind||'unknown']} · ${originName[item.discovery_origin||'unknown']}`));
   update();
   return box;
+}
+function materialFacts(item) {
+  const names = {
+    market: {india:'印度',indonesia:'印尼',unknown:'地区待确认'},
+    kind: {ai_image:'AI 图片',human_ai_dance_video:'真人 AI 舞蹈视频',other_ai_video:'其他 AI 视频',unknown:'类型待确认'},
+    origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',unknown:'来源待确认'}
+  };
+  const facts=el('div','material-facts');
+  for (const [group,value] of [['market',item.market_region],['kind',item.material_kind],['origin',item.discovery_origin]]) {
+    const key=Object.hasOwn(names[group],value) ? value : 'unknown';
+    const badge=el('span','fact-badge',names[group][key]);
+    badge.dataset.group=group;
+    badge.dataset.value=key;
+    facts.append(badge);
+  }
+  return facts;
 }
 function row(item) {
   const article = el('article',`row ${status(item)}`);
@@ -328,6 +340,7 @@ function row(item) {
   thumb.addEventListener('click', () => openDetail(item));
   article.append(thumb);
   article.append(titleEditor(item));
+  article.append(materialFacts(item));
   const meta = el('div','row-meta');
   meta.append(el('span','platform',item.platform==='instagram'?'Instagram':item.platform==='youtube'?'YouTube':'TikTok'),el('span','account',`${item.platform==='youtube'?'':'@'}${item.creator||'未知账号'}`),el('span','meta',`发布 ${date(item.published_at||item.published_date)}`),el('span','meta',`采集 ${captureDay(item)}`));
   article.append(meta);

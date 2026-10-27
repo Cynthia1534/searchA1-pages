@@ -35,3 +35,17 @@
 .title-fields .title-media-select{width:57px;flex:0 0 57px}
 .youtube-play{border:1px solid #cfd4d9;border-radius:4px;background:#fff;padding:7px 11px;color:#315e7d;font-size:12px}.youtube-frame{width:100%;height:min(75vh,510px);border:0}
 @media(max-width:560px){.more[open]>.more-panel{left:auto;right:0}}
+/* Place market, material type, and source in the unused middle column. */
+.row{grid-template-columns:70px minmax(390px,500px) minmax(170px,1fr) 110px 100px 95px 226px;gap:8px}
+.material-facts{display:flex;align-content:center;align-items:center;flex-wrap:wrap;gap:5px;white-space:normal;overflow:visible}
+.fact-badge{display:inline-flex;align-items:center;max-width:100%;min-height:20px;padding:2px 6px;border:1px solid #e1e5e8;border-radius:3px;background:#f7f8f9;color:#64707a;font-size:10px;line-height:1.2;white-space:nowrap}
+.fact-badge[data-group="market"][data-value="india"]{border-color:#cfe1ee;background:#edf6fc;color:#386581}
+.fact-badge[data-group="market"][data-value="indonesia"]{border-color:#d1e7d6;background:#eef8f0;color:#43734e}
+.fact-badge[data-group="kind"][data-value="ai_image"]{border-color:#ddd9ec;background:#f5f3fb;color:#625b80}
+.fact-badge[data-group="kind"][data-value="human_ai_dance_video"]{border-color:#eadfcf;background:#fbf6ee;color:#856c48}
+.fact-badge[data-group="kind"][data-value="other_ai_video"]{border-color:#d6e1e8;background:#f1f6f8;color:#536f7f}
+.fact-badge[data-group="origin"][data-value="user_provided_profile"]{border-color:#dce2e7;background:#f4f6f8;color:#5b6875}
+.fact-badge[data-group="origin"][data-value="codex_discovery"]{border-color:#e1dcea;background:#f7f4fa;color:#6c607d}
+@media(max-width:1200px){.row{grid-template-columns:64px minmax(280px,1fr) minmax(130px,.6fr) 95px 83px 80px 210px;gap:6px}}
+@media(max-width:1020px){.row{grid-template-columns:60px minmax(0,1fr) 205px;grid-template-areas:'thumb title actions' 'thumb facts actions' 'thumb meta actions' 'thumb link actions';gap:3px 7px;min-height:96px}.material-facts{grid-area:facts}.row-meta{grid-area:meta;display:flex;gap:6px;flex-wrap:wrap}.row-numbers{display:none}.thumb{grid-area:thumb}.row-title{grid-area:title}.link-cell{grid-area:link}.status-cell{grid-area:actions}}
+@media(max-width:560px){.row{grid-template-columns:55px minmax(0,1fr);grid-template-areas:'thumb title' 'thumb facts' 'thumb meta' 'thumb link' 'actions actions';min-height:132px}.material-facts{gap:3px}.fact-badge{font-size:9px;padding:2px 4px}}
