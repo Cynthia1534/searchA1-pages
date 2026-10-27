@@ -27,3 +27,7 @@
 .copy-title.needs-input{border-color:#dccbb3;background:#faf5ed;color:#796041}
 @media(max-width:560px){.title-fields .image-description{flex:1 1 105px;width:auto;max-width:150px}.fixed-title-field{padding:2px 4px}}
 .generated-title.duplicate{color:#a44f4f}
+/* Keep the copy action next to the generated title instead of stretching it across the row. */
+.title-line{width:max-content;max-width:100%}
+.generated-title{flex:0 1 auto}
+.copy-title{flex:none}
