@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T02:56:29+00:00",
+  "generated_at": "2026-10-27T06:51:10+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -48,6 +48,79 @@
   },
   "materials": [
     {
+      "id": "instagram:DQYXzgVCf54",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DQYXzgVCf54/",
+      "creator": "apy.amit840",
+      "published_at": null,
+      "published_date": "2025-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T06:46:43+00:00",
+      "last_collected_at": "2026-10-27T06:46:43+00:00",
+      "caption": "South Indian Couple Ai image Generated for Google Gemini 🤞💖😇\n.\n.\n.\n.\n.\n#Aiimage #AiPhotoCareate  #GoogleGemini  #CoupleGoals #RelationshipGoals #IndianCouple #LoveStory #TogetherForever #InstaCouple #PowerCouple #CoupleFashion #TraditionalWear #EthnicStyle  #MensFashion #WomensFashion  #IndianPhotography #PhotoOfTheDay #Vibes #Romantic  #FashionGram #Trending",
+      "description": "石廊情侣合影",
+      "recommendation_reason": "情侣靠近站在石廊前，适合作为自然互动的成图构图参考；仅首图已核验。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "石廊情侣合影",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T06:51:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T06:46:43+00:00",
+        "likes": 427,
+        "likes_display": "427",
+        "comments": 220,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T06:46:43+00:00",
+          "likes": 427,
+          "likes_display": "427",
+          "comments": 220,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DQYXzgVCf54_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "tiktok:7699912535125789960",
       "platform": "tiktok",
       "post_url": "https://www.tiktok.com/@the_illu_/video/7699912535125789960",
@@ -66,6 +139,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.tiktok.com/@the_illu_",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -140,6 +217,10 @@
       "screening_scope": "full_post",
       "review_status": "pending",
       "source_profile_url": "https://www.tiktok.com/@gs__editz07",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -256,6 +337,10 @@
       "screening_scope": "full_post",
       "review_status": "pending",
       "source_profile_url": "https://www.tiktok.com/@gs__editz07",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -466,6 +551,10 @@
       "screening_scope": "full_post",
       "review_status": "pending",
       "source_profile_url": "https://www.tiktok.com/@edit_hub_official",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -614,6 +703,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/genoramedia/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -691,6 +784,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -768,6 +865,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/ns_editz.000/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -843,6 +944,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/girls_dpz_pics_01/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -918,6 +1023,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -975,6 +1084,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cute__baby__8696/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1052,6 +1165,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zarakhan44562026/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1129,6 +1246,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1188,6 +1309,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1265,6 +1390,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/arshiya_goud/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1342,6 +1471,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1419,6 +1552,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sonatiwari833/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1494,6 +1631,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1569,6 +1710,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gujjunextlevel/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1628,6 +1773,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance",
@@ -1711,6 +1860,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/risingstar_hritik/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1788,6 +1941,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1863,6 +2020,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/arshiya_goud/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1938,6 +2099,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -1997,6 +2162,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/_karthikjram/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -2074,6 +2243,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -2133,6 +2306,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance",
@@ -2216,6 +2393,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gujjunextlevel/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -2275,6 +2456,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/abhicreatorp/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -2352,6 +2537,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/vedant_zalte/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -2429,6 +2618,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/genoramedia/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -2506,6 +2699,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -2563,6 +2760,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -2638,6 +2839,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -2712,6 +2917,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -2788,6 +2997,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/vedant_zalte/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -2864,6 +3077,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/_karthikjram/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -2922,6 +3139,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "data_performance",
         "creative_discovery"
@@ -3002,6 +3223,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/edita_rx_/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -3078,6 +3303,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/satyam_graphy/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -3154,6 +3383,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/girls_dpz_pics_01/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "data_performance",
         "creative_discovery"
@@ -3234,6 +3467,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -3309,6 +3546,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/hepsi_chubbyqueen/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -3368,6 +3609,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/siddarth_edits38/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -3443,6 +3688,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/siddarth_edits38/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -3517,6 +3766,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/imelvin27/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -3592,6 +3845,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/ns_editz.000/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -3649,6 +3906,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance",
@@ -3732,6 +3993,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -3807,6 +4072,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/hepsi_chubbyqueen/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -3866,6 +4135,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/ns_editz.000/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -3923,6 +4196,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4000,6 +4277,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/raaz_ghibli_studio/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance",
@@ -4081,6 +4362,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4156,6 +4441,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4233,6 +4522,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4310,6 +4603,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/synamonessence/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance",
@@ -4393,6 +4690,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/genoramedia/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4468,6 +4769,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4525,6 +4830,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/synamonessence/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4600,6 +4909,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mahi_creation_2023/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4675,6 +4988,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4752,6 +5069,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/genoramedia/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance",
@@ -4835,6 +5156,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4894,6 +5219,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -4953,6 +5282,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptseen/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance",
@@ -5034,6 +5367,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -5091,6 +5428,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -5150,6 +5491,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/shakhil_thilakan/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -5209,6 +5554,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance",
@@ -5290,6 +5639,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/little_vihaan_14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -5349,6 +5702,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance",
@@ -5432,6 +5789,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -5507,6 +5868,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mx_prompt/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -5566,6 +5931,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mx_prompt/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -5625,6 +5994,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mx_prompt/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -5684,6 +6057,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -5758,6 +6135,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mahi_creation_2023/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "data_performance",
         "creative_discovery"
@@ -5840,6 +6221,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sachin_editz_9/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -5896,6 +6281,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -5970,6 +6359,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/karan_kushvaha57/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -6044,6 +6437,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new"
       ],
@@ -6118,6 +6515,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/little_vihaan_14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -6195,6 +6596,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -6254,6 +6659,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new"
       ],
@@ -6310,6 +6719,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new"
       ],
@@ -6384,6 +6797,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new"
       ],
@@ -6458,6 +6875,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -6533,6 +6954,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -6608,6 +7033,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new"
       ],
@@ -6682,6 +7111,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "data_performance"
@@ -6764,6 +7197,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new"
       ],
@@ -6820,6 +7257,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -6877,6 +7318,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -6952,6 +7397,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -7011,6 +7460,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -7068,6 +7521,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new"
       ],
@@ -7142,6 +7599,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -7199,6 +7660,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new"
       ],
@@ -7275,6 +7740,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "recent_new",
         "creative_discovery"
@@ -7350,6 +7819,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -7424,6 +7897,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "data_performance",
         "creative_discovery"
@@ -7506,6 +7983,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -7578,6 +8059,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -7650,6 +8135,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -7726,6 +8215,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -7802,6 +8295,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "creative_discovery"
       ],
@@ -7876,6 +8373,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "data_performance",
         "creative_discovery"
@@ -7956,6 +8457,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "data_performance",
         "creative_discovery"
@@ -8036,6 +8541,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
+      "alternate_sources": [],
+      "discovery_origin": "user_profile",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [
         "data_performance",
         "creative_discovery"
@@ -8116,6 +8625,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -8181,6 +8694,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "情侣",
@@ -8248,6 +8765,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -8313,6 +8834,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人男性",
@@ -8380,6 +8905,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -8445,6 +8974,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人男性",
@@ -8512,6 +9045,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -8577,6 +9114,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -8642,6 +9183,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人男性",
@@ -8709,6 +9254,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -8774,6 +9323,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人男性",
@@ -8841,6 +9394,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -8906,6 +9463,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -8975,6 +9536,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -9042,6 +9607,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -9107,6 +9676,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -9172,6 +9745,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人男性",
@@ -9239,6 +9816,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "宝宝儿童",
@@ -9308,6 +9889,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -9377,6 +9962,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -9446,6 +10035,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -9515,6 +10108,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "情侣",
@@ -9584,6 +10181,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人男性",
@@ -9653,6 +10254,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人男性",
@@ -9722,6 +10327,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "情侣",
@@ -9791,6 +10400,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -9858,6 +10471,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "情侣",
@@ -9927,6 +10544,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "情侣",
@@ -9996,6 +10617,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "情侣",
@@ -10065,6 +10690,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": null,
@@ -10130,6 +10759,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": null,
@@ -10195,6 +10828,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "单人男性",
@@ -10262,6 +10899,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": null,
@@ -10327,6 +10968,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "单人男性",
@@ -10396,6 +11041,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": null,
@@ -10461,6 +11110,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "亲子家庭",
@@ -10530,6 +11183,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": null,
@@ -10595,6 +11252,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": null,
@@ -10660,6 +11321,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": null,
@@ -10727,6 +11392,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -10792,6 +11461,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": null,
@@ -10857,6 +11530,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "宝宝儿童",
@@ -10924,6 +11601,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -10991,6 +11672,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "单人女性",
@@ -11058,6 +11743,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "亲子家庭",
@@ -11125,6 +11814,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "情侣",
@@ -11194,6 +11887,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "情侣",
@@ -11263,6 +11960,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "单人女性",
@@ -11330,6 +12031,10 @@
       "screening_scope": "full_post",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "亲子家庭",
@@ -11402,6 +12107,10 @@
       "screening_scope": "full_post",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "单人女性",
@@ -11476,6 +12185,10 @@
       "screening_scope": "preview_only",
       "review_status": "reserve",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "单人女性",
@@ -11533,7 +12246,7 @@
       "published_date": "2025-09-12",
       "published_precision": "second",
       "first_discovered_at": "2026-10-24T08:53:58+00:00",
-      "last_collected_at": "2026-10-24T08:59:04+00:00",
+      "last_collected_at": "2026-10-27T06:47:25+00:00",
       "caption": "#CapCut I asked Google Gemini to turn this picture into...🥹👸🪷🙈 Just try it... it works🙈🙌🔥 prompt: Convert, 4k HD realistic, A stunning portrait of a young Indian woman with long, dark, wavy hair cascading over her shoulders. She is wearing a translucent elegant red saree draped over one shoulder, revealing a fitted blouse underneath. White flowers are tucked behind her right ear. She is looking slightly to her right, with a soft, serene expression. I want same face as I uploaded no alternation 100 percent same. The background is a plain, warm-toned wall, illuminated by a warm light source from the right, creating a distinct, soft-edged shadow of her profile and hair on the wall behind her. The overall mood is retro and artistic. #fypシ゚ #gemini #saree #trending ",
       "description": "@vocalist_vino 的创意素材",
       "recommendation_reason": null,
@@ -11543,6 +12256,10 @@
       "screening_scope": "preview_only",
       "review_status": "rejected",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "单人女性",
@@ -11561,15 +12278,24 @@
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-24T08:59:04+00:00",
-        "likes": 7538,
-        "likes_display": "7538",
+        "captured_at": "2026-10-27T06:47:25+00:00",
+        "likes": 7539,
+        "likes_display": "7539",
         "comments": 69,
         "views": 440300,
         "shares": 531,
         "source": "TikTok public video-detail embedded JSON"
       },
       "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T06:47:25+00:00",
+          "likes": 7539,
+          "likes_display": "7539",
+          "comments": 69,
+          "views": 440300,
+          "shares": 531,
+          "source": "TikTok public video-detail embedded JSON"
+        },
         {
           "captured_at": "2026-10-24T08:59:04+00:00",
           "likes": 7538,
@@ -11619,6 +12345,10 @@
       "screening_scope": "preview_only",
       "review_status": "rejected",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "unknown",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": null,
@@ -11684,6 +12414,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "high",
       "audience_tag": "单人女性",
@@ -11753,6 +12487,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "high",
       "audience_tag": "单人女性",
@@ -11820,6 +12558,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "high",
       "audience_tag": "单人女性",
@@ -11887,6 +12629,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "high",
       "audience_tag": "单人女性",
@@ -11956,6 +12702,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": null,
@@ -12021,6 +12771,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
@@ -12088,6 +12842,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "low",
       "audience_tag": "单人女性",
@@ -12166,6 +12924,10 @@
       "screening_scope": "preview_only",
       "review_status": "pending",
       "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "unknown",
       "discovery_labels": [],
       "source_confidence": "high",
       "audience_tag": "单人女性",

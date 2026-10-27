@@ -31,3 +31,6 @@
 .title-line{width:max-content;max-width:100%}
 .generated-title{flex:0 1 auto}
 .copy-title{flex:none}
+.material-facts{font-size:10px;color:#7d8790;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.youtube-play{border:1px solid #cfd4d9;border-radius:4px;background:#fff;padding:7px 11px;color:#315e7d;font-size:12px}.youtube-frame{width:100%;height:min(75vh,510px);border:0}
+@media(max-width:560px){.more[open]>.more-panel{left:auto;right:0}}
