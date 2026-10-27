@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T07:00:14+00:00",
+  "generated_at": "2026-10-27T07:07:45+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -47,6 +47,80 @@
     ]
   },
   "materials": [
+    {
+      "id": "instagram:DPEdfS_jzkD",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DPEdfS_jzkD/",
+      "creator": "dartayan123",
+      "published_at": null,
+      "published_date": "2025-09-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T07:07:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T07:07:45+00:00",
+      "caption": "Foto Baju adat Bali Versi AI\n#fotoAI\n#ai\n#bajuadatbali",
+      "description": "卷发童子举臂",
+      "recommendation_reason": "巴厘传统服饰与举臂姿势结合，适合儿童个性化成图参考；仅首图已核验。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "耍帅",
+      "image_description": "卷发童子举臂",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-27T07:07:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T07:07:45+00:00",
+        "likes": 3,
+        "likes_display": "3",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T07:07:45+00:00",
+          "likes": 3,
+          "likes_display": "3",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DPEdfS_jzkD_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DQYXzgVCf54",
       "platform": "instagram",
