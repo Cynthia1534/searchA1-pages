@@ -325,7 +325,7 @@ function titleEditor(item) {
 function materialFacts(item) {
   const names = {
     market: {india:'印度',indonesia:'印尼',unknown:'地区待确认'},
-    origin: {user_provided_profile:'我提供的主页',codex_discovery:'Codex 自主发现',unknown:'来源待确认'}
+    origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',unknown:'来源待确认'}
   };
   const facts=el('div','material-facts');
   for (const [group,value] of [['market',item.market_region],['origin',item.discovery_origin]]) {
