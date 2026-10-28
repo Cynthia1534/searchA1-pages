@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T12:50:28+00:00",
+  "generated_at": "2026-10-28T03:54:35+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -47,6 +47,1962 @@
     ]
   },
   "materials": [
+    {
+      "id": "instagram:DTEaISlEyla",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DTEaISlEyla/",
+      "creator": "alici_alicee",
+      "published_at": null,
+      "published_date": "2026-01-03",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:52:16+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:52:16+00:00",
+      "caption": "PROMPT GEMINI AI PART#39 \n\nElegant indoor portrait of a woman wearing a navy blue hijab with a sheer layered navy shawl draped over the shoulders, paired with a soft light-blue inner top and white flowing pants.\nSeated gracefully on a hotel bed, relaxed yet confident pose, one hand resting on the bed, the other on her lap.\nAccessories include delicate brooch pins, stacked bracelets, and statement rings.\nSoft glamorous makeup, flawless skin, defined brows, long eyelashes, subtle blush note, nude pink lips.\nBackground features a luxury hotel room interior with warm ambient lighting, textured cream wall, modern bedside lamps.\nCinematic indoor lighting, soft shadows, warm and moody tones, editorial fashion photography style, realistic skin texture, shallow depth of field, ultra-detailed, high resolution, 4K. She wear red glasses. Buat wajah sama persis 100%. Jangan rubah bentuk wajah sedikitpun\n\nKalau bingung cara copy prompt nya,\nCaranya gini ya bebsay\n1. Screenshot prompt nya\n2. Buka google lens\n3. Klik logo camera\n4. Cari file yang sudah di ss tadi\n5. Copy prompt yang sudah disiapkan oleh google lens\n6. Open Gemini\n7. Langsung deh cari foto kamu, masukin prompt\n8. Tarraaaaaa... Simsalabim langsung jadi foto syantik kamu ❤️\n\nJangan lupa follow biar aku bisa bikin channel buat kalian smua 🥰\n\n#promptgemini #gemininanobananatrend #alice_geminiprompt",
+      "description": "深蓝头巾女性佩戴红框眼镜站在室内",
+      "recommendation_reason": "头巾和反差色眼镜配饰可形成易复用的时尚造型；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/alici_alicee/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "深蓝头巾红框眼镜像",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:52:16+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:52:16+00:00",
+        "likes": 0,
+        "likes_display": "0",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:52:16+00:00",
+          "likes": 0,
+          "likes_display": "0",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DTEaISlEyla_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DVDeqG6EQhd",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/masari_ai/p/DVDeqG6EQhd/",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": "2026-02-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:51:01+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:51:01+00:00",
+      "caption": "Prompt: \nBuatlah foto ultra realistis seorang pria sesuai ( foto terlampir ) jangan rubah wajah , mengenakan pakaian tradisional Jawa, yang terdiri dari atasan hitam pas badan dengan kerah mandarin, kancing emas, dan bros rantai emas yang rumit di dada. Dia juga mengenakan sarung batik berwarna cokelat dan putih dengan pola tradisional. Tangan pria itu tergenggam di depan, dan dia memiliki rambut hitam pendek yang ditata rapi. Latar belakangnya agak buram tetapi menunjukkan interior bangunan tradisional Jawa dengan ukiran kayu. Resolusi tinggi Ultra Hd Portrait",
+      "description": "深色立领上衣男性正面正式人像",
+      "recommendation_reason": "正式着装与木色背景适合职业肖像模板；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "棚拍",
+      "image_description": "深色立领正式男像",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:51:01+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:51:01+00:00",
+        "likes": 1,
+        "likes_display": "1",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:51:01+00:00",
+          "likes": 1,
+          "likes_display": "1",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DVDeqG6EQhd_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DPTLPFTElQM",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DPTLPFTElQM/",
+      "creator": "susands10",
+      "published_at": null,
+      "published_date": "2025-10-02",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:51:01+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:51:01+00:00",
+      "caption": "Misal 🧚‍♀️🎀💐\n\n#ai #gemini",
+      "description": "蕾丝浅色头巾女性坐在暖光室内",
+      "recommendation_reason": "蕾丝头巾与柔光空间形成温和的室内时尚造型；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/susands10/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "蕾丝浅头巾柔光肖像",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:51:01+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:51:01+00:00",
+        "likes": 389,
+        "likes_display": "389",
+        "comments": 13,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:51:01+00:00",
+          "likes": 389,
+          "likes_display": "389",
+          "comments": 13,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DPTLPFTElQM_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfALYWJmr1L",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/promptfyai/p/DfALYWJmr1L/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:47:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:47:40+00:00",
+      "caption": "✨ Happy Karwa Chauth! 🪔💑\n\nPrompt Code: P-82047017\n\n#karwachauth #karwachauthspecial #couplegoals💑 #indiancouple #loveforever #moonlightromance #traditionallove #coupleportrait #festivevibes #aiartist 💖",
+      "description": "印度节庆场景里情侣面对面共持圆盘",
+      "recommendation_reason": "节庆道具与亲密动作形成清晰的双人模板；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "节庆圆盘前情侣近像",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:47:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:47:40+00:00",
+        "likes": 5,
+        "likes_display": "5",
+        "comments": 3,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:47:40+00:00",
+          "likes": 5,
+          "likes_display": "5",
+          "comments": 3,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfALYWJmr1L_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DaCgDrjxJh0",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/masari_ai/p/DaCgDrjxJh0/",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": "2026-06-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:41:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:41:35+00:00",
+      "caption": "Prompt : Sebuah foto 8K megah dan bercahaya dari seorang pria ( foto terlampir ) dengan wajah bersih berseri beristirahat di bangku taman, menyandarkan kepalanya ke belakang, salah satu tangan bersandar di bangku dengan mata tertutup dan headphone hitam elegan. Dia mengenakan kacamata hitam, smartwatch, jaket denim,  kaos abu abu, celana hitam. Dia terlihat sangat santai.8K, akhir yang luar biasa, menangkap momen sempurna mental. pencahayaan sinematik, gradasi warna profesional, fotografi HDR, tekstur kulit yang realistis, kampanye mode mewah, kualitas majalah Vogue, Leica SL3, Hasselblad X2D, lensa 85mm, kedalaman bidang dangkal, cahaya volume, pencahayaan global, fotorealistik, ultra rinci, mahakarya, 8K, fotografi komersial, estetika premium",
+      "description": "黑色头巾与墨镜男子站在节庆人群前",
+      "recommendation_reason": "节庆人物与传统造型结合，补充印尼男性方向；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "黑头巾墨镜人群前",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:41:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:41:35+00:00",
+        "likes": 1,
+        "likes_display": "1",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:41:35+00:00",
+          "likes": 1,
+          "likes_display": "1",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DaCgDrjxJh0_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DZ_TTeVT0L1",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/masari_ai/p/DZ_TTeVT0L1/",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": "2026-06-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:41:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:41:35+00:00",
+      "caption": "Prompt : Buatlah potret resmi seorang pria dari gambar referensi. Mengenakan kemeja putih, dasi hitam, dan setelan jas hitam yang sangat elegan dengan kancing terbuka, satu tangan di dalam saku celana. Satu tangan lagi memegang kacamata aviators yang di lepas dari mata. Riasan wajah harus tetap terlihat alami, maskulin, dengan gaya rambut yang elegan, memberikan kesan mewah. Dia bergaya di depan kamera. Gambar harus disajikan dalam resolusi 8K dengan detail tinggi. Gunakan latar belakang studio foto mewah, dengan rasio aspek 3:4. Atur komposisi dan pencahayaan agar seindah dan serealistis mungkin.",
+      "description": "深色西装男性的正式肖像",
+      "recommendation_reason": "正式职业形象适合印尼男性头像模板；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "棚拍",
+      "image_description": "深色西装灯下正面像",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:41:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:41:35+00:00",
+        "likes": 0,
+        "likes_display": "0",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:41:35+00:00",
+          "likes": 0,
+          "likes_display": "0",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DZ_TTeVT0L1_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DZrHxqyyzuC",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/masari_ai/p/DZrHxqyyzuC/",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": "2026-06-16",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:41:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:41:35+00:00",
+      "caption": "Prompt : A low-angle close-up of a handsome man (face and hair referenced in the uploaded photo) from the side, leaning against a shiny stainless steel balcony railing. He is looking down and to the left with a thoughful expression. The man is wearing a black baseball cap pulled down slightly and  beige-tan graphic tee with dark lettering on the back and sleeves. In his left hand, he holds a transparent plastic cup filled with a \"Saya Akan Lawan\" iced mocha coffe with a red straw. The background is dominated by a very clean and clear dark blue sky. On the far right, the Cleen lines of a modern glass and concrete building are darkened by shadow. The scene is illuminated by strong, warm golden hour sunlight from the left, creating bright highlights that congrats with the deep shadows on his face, hat, shirt, and metal railing. His left arm rests cassually on the reflective railing. The camera angle is very low to create a dramatic effect against the expansive sky. The Sharp focus is on the man and the coffe cup, revealing the clear details of the shirt and metal textures. Vertical photo composition.",
+      "description": "暖光中的棕衣黑帽男性侧面像",
+      "recommendation_reason": "帽子轮廓和侧面光形成稳重的男性造型；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "棕衣黑帽男子侧影",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:41:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:41:35+00:00",
+        "likes": 0,
+        "likes_display": "0",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:41:35+00:00",
+          "likes": 0,
+          "likes_display": "0",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DZrHxqyyzuC_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DWzvrvZk3En",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/masari_ai/p/DWzvrvZk3En/",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": "2026-04-06",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:41:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:41:35+00:00",
+      "caption": "Prompt : Buatlah potret ultra realistis dari Seorang pria muda tampan ( foto terlampir ) dengan ekspresi santai dan sedikit tersenyum, duduk santai di atas motor sport berwarna merah di area taman terbuka. Ia mengenakan jaket bomber warna hijau army dengan berbagai patch bordir bergaya militer dan tulisan kecil di dada, dipadukan dengan kaos putih polos di dalamnya. Rambut pendek rapi, wajah bersih, pencahayaan alami pagi hari yang lembut.\nLatar belakang berupa taman dengan pepohonan rindang dan suasana sejuk, terdapat bangku taman berwarna merah di belakangnya. Background dibuat sedikit blur (bokeh) untuk menonjolkan subjek utama. Angle kamera sedikit dari bawah (low angle) sehingga memberikan kesan percaya diri dan karismatik.\nGaya fotografi cinematic, warna hangat natural, depth of field, high detail, fokus tajam pada wajah. Ukuran portrait",
+      "description": "绿色树林里的棕色上衣男性近景",
+      "recommendation_reason": "自然场景与中性着装适合日常照片转写真；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "林间棕衣短发男子",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:41:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:41:35+00:00",
+        "likes": 1,
+        "likes_display": "1",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:41:35+00:00",
+          "likes": 1,
+          "likes_display": "1",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DWzvrvZk3En_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DWnA3Yek8qK",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/masari_ai/p/DWnA3Yek8qK/",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": "2026-04-01",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:41:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:41:35+00:00",
+      "caption": "Prompt:\nProfil sampingan hiper-realistis dari seorang pria, setengah manusia setengah cyborg. Sisi kiri wajah didekonstruksi untuk menunjukkan pelat pelindung merah, roda gigi, dan kabel yang kompleks. tatapan tenang dan melankolis. Wajah bersih berseri tidak berminyak Memakai kaos hitam.  Gaya: digital terperinci dicampur dengan sketsa arsitektur latar belakang putih.\n\nPencahayaan kontras tinggi, resolusi 8k, sinematik. AR 4:5",
+      "description": "男性脸部半侧呈现红色机械结构",
+      "recommendation_reason": "真实人脸与科幻机甲结合，丰富虚拟场景创意；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "半面红色机甲肖像",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:41:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:41:35+00:00",
+        "likes": 0,
+        "likes_display": "0",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:41:35+00:00",
+          "likes": 0,
+          "likes_display": "0",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DWnA3Yek8qK_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DWjZV3BERUR",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/masari_ai/p/DWjZV3BERUR/",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": "2026-03-31",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:41:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:41:35+00:00",
+      "caption": "Prompt :\npotret artistik ultra realistis menggunakan wajah yang diunggah, orang yang duduk bersila, melihat sedikit ke atas ke samping, pose santai, hoodie streetwear modern, celana bermotif, kacamata hitam bergaya, detail kulit bersih, pencahayaan alami, wajah detail tinggi dipertahankan, latar belakang grafis abstrak kuning tebal, elemen coretan geometris, gaya kolase editorial, bayangan minimal, desain poster kontemporer, komposisi terpusat, kedalaman bidang yang lembut,  Sangat detail, fokus tajam, proporsi realistis, tanpa jari ekstra, tidak ada distorsi --AR 4:5",
+      "description": "黄色闪电图形背景前的墨镜男性",
+      "recommendation_reason": "高对比图形设计有个人海报玩法潜力；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "黄底墨镜闪电海报",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:41:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:41:35+00:00",
+        "likes": 1,
+        "likes_display": "1",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:41:35+00:00",
+          "likes": 1,
+          "likes_display": "1",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DWjZV3BERUR_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOgF84aE5-K",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/createprompt/p/DOgF84aE5-K/",
+      "creator": "createprompt",
+      "published_at": null,
+      "published_date": "2025-09-12",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:41:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:41:35+00:00",
+      "caption": "BERBAGI PROMPT AI\n\n#Prompt\n\nA beautiful little Sundanese princess with black hair stood on the bamboo wall that divided her hut, a golden cricket perched on her shoulder, the two of them looked out at the lush mountain views and the greenery of their village. She wears a long flowing silk robe and a crown of grass and flowers on her head, fantasy aesthetic, cinematic long shot, soft focus\n\nJoin Channel Telegram - https://t.me/imagesprompt\n\n•••••\n#Girl #Sunda #Bamboo #Majestic #Seni #AI #ArtificialIntelligence #AIGenerated #Bing #Prompt #Prompts #Art #Artsy #CreativePost #CreatePrompt #Bestfaves",
+      "description": "林间远景里的童话公主造型儿童",
+      "recommendation_reason": "印尼文化背景下的儿童童话场景具备亲子模板潜力；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/createprompt/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "林间童话公主小像",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:41:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:41:35+00:00",
+        "likes": 3,
+        "likes_display": "3",
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:41:35+00:00",
+          "likes": 3,
+          "likes_display": "3",
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOgF84aE5-K_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOc6T8nE1F1",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/createprompt/p/DOc6T8nE1F1/",
+      "creator": "createprompt",
+      "published_at": null,
+      "published_date": "2025-09-10",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:41:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:41:35+00:00",
+      "caption": "BERBAGI PROMPT AI\n\n#Prompt\n\nCreate a realistic illustration of a 2-year-old Indonesian boy with black hair, exuding his good looks, doing freestyle dance moves.  Capture the dynamic moment as it gracefully floats upside down in the air.  Describe his outfit consisting of a blue t-shirt, white pants, and sneakers, and emphasize his energy with sweat, water, and speed effects.  next to it is a bottle of mineral water that says 'Bestfaves Mineral Water' in the middle, and a circular whirlpool. Use a bright background to enhance the overall impact, and include a whirlpool in the background, with water splashing in all directions.  Aim for a masterpiece that encapsulates the vibrancy and dynamism of the scene.\n\nJoin Channel Telegram - https://t.me/imagesprompt\n\n•••••\n#Boy #Realistic #Bottle #Majestic #Seni #AI #ArtificialIntelligence #AIGenerated #Bing #Prompt #Prompts #Art #Artsy #CreativePost #CreatePrompt #Bestfaves",
+      "description": "蓝衣男孩在巨大浪花前跳跃",
+      "recommendation_reason": "夸张海浪场景为儿童运动照提供奇幻效果；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/createprompt/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "海边",
+      "image_description": "蓝衣男孩巨浪前跳跃",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "海边"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:41:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:41:35+00:00",
+        "likes": 2,
+        "likes_display": "2",
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:41:35+00:00",
+          "likes": 2,
+          "likes_display": "2",
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOc6T8nE1F1_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De_Z87tFACS",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/avi.edit_106/p/De_Z87tFACS/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:39:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:39:09+00:00",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 📌🫵👇👇Ultra-realistic 8K cinematic portrait of a young South Asian man wearing a textured deep-red sweatshirt, black jeans, and white sneakers, standing sideways with a confident  wearing stylish sunglasses. The background is a dark smoky studio with dramatic orange and golden rim lighting and glowing fire sparks. Massive 3D metallic textured typography with glowing neon orange borders spelling \"avinash\" vertically behind and overlapping the subject. professional poster design, vertical ratio 4:5 ratio.",
+      "description": "橙色发光几何图形衬托红衣男性",
+      "recommendation_reason": "强对比发光边框适合作为男性个人海报模板；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "橙光几何框男性像",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:39:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:39:09+00:00",
+        "likes": 495,
+        "likes_display": "495",
+        "comments": 2,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:39:09+00:00",
+          "likes": 495,
+          "likes_display": "495",
+          "comments": 2,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_Z87tFACS_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De81YwbFHSh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/avi.edit_106/p/De81YwbFHSh/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": "2026-10-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:39:09+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:39:09+00:00",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 📌🫵👇👇\"A realistic portrait of a young Indian man standing in the middle of a lush green paddy field. He is wearing a dark green shirt and a black and white checked scarf (gamchha) draped around  neck. He is joyfully raising  right hand high, holding a bunch of fresh green rice crop stalks with grains. Natural sunlight, soft-focus background with lush green trees, cinematic depth of field, 8k resolution, highly detailed.\" No smile",
+      "description": "绿色草叶背景前的男性近景写真",
+      "recommendation_reason": "户外暖色侧光为男性自然写真提供低成本参考；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "草叶前男子侧光像",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:39:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:39:09+00:00",
+        "likes": 661,
+        "likes_display": "661",
+        "comments": 2,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:39:09+00:00",
+          "likes": 661,
+          "likes_display": "661",
+          "comments": 2,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De81YwbFHSh_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7573992247176236309",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@wani.arma/video/7573992247176236309",
+      "creator": "wani.arma",
+      "published_at": "2025-11-18T09:18:19+00:00",
+      "published_date": "2025-11-18",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:33:52+00:00",
+      "duration_seconds": 17,
+      "last_collected_at": "2026-10-28T03:33:52+00:00",
+      "caption": "This beautiful Bollywood dance was created with an AI prompt. Absolutely gorgeous!. #bollywooddance  #aiprompt  #bollywoodsong ",
+      "description": "酒红色传统长裙人物在浅灰背景前旋转舞蹈",
+      "recommendation_reason": "公开原帖明确说明由 AI 提示词生成；已查看实际视频多个时间点，造型与旋转动作有模板参考价值。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@wani.arma",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "酒红长裙旋转起舞",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:33:52+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:33:52+00:00",
+        "likes": 28,
+        "likes_display": null,
+        "comments": 1,
+        "views": 339,
+        "shares": null,
+        "source": "TikTok public metadata through yt-dlp on 2026-10-28"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:33:52+00:00",
+          "likes": 28,
+          "likes_display": null,
+          "comments": 1,
+          "views": 339,
+          "shares": null,
+          "source": "TikTok public metadata through yt-dlp on 2026-10-28"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7573992247176236309_0.jpg",
+          "preview_status": "sampled_real_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De_x4aWnVhQ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/editingboy1296/p/De_x4aWnVhQ/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "करवा चौथ स्पेशल ❤ \n\nCreate an ultra-realistic, high-resolution 4-panel cinematic photo collage featuring the uploaded Indian woman celebrating Karwa Chauth at night. Preserve her original facial identity, natural facial features, proportions, and realistic skin texture, ensuring she looks consistent across all four panels.",
+      "description": "烛光环境中的节庆女性双幅成片",
+      "recommendation_reason": "同一造型以两幅画面呈现不同表情和动作；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "烛光节庆双幅肖像",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 52,
+        "likes_display": "52",
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 52,
+          "likes_display": "52",
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_x4aWnVhQ_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De_yz2rnVnI",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/editingboy1296/p/De_yz2rnVnI/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "The young man is wearing a stylish red-and-black shirt with black pants. He is gently and lovingly putting beautiful pink glass bangles onto his gorgeous girlfriend's wrist at a traditional colorful bangle stall. The girlfriend is wearing a beautiful pink kurti with elegant details, her long black hair flowing naturally. She extends her hand toward him and looks lovingly at her wrist while he carefully slides the pink bangles onto her hand.",
+      "description": "暖光灯串背景前的情侣近景像",
+      "recommendation_reason": "暖光与自然互动适合双人纪念照；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "灯串前轻靠双人像",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 92,
+        "likes_display": "92",
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 92,
+          "likes_display": "92",
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_yz2rnVnI_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfBYJ5AiNgf",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/editingboy1296/p/DfBYJ5AiNgf/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "𝐏𝐫𝐨𝐦𝐩𝐭 🤍✨💯 \n\n> An ultra-realistic 8K cinematic romantic couple portrait for Karwa Chauth. An Indian husband and wife standing on a beautifully decorated rooftop under the bright moonlight. The woman is dressed in a traditional red saree with gold borders, wearing matching bangles and heavy jewelry. She is looking at her husband's face through a traditional sieve (channi). The husband is wearing a stylish white kurta-pyjama, looking at his wife with a loving smile. The background features a glowing full moon, blurred fairy lights, and traditional earthen diyas. Mixed golden and blue lighting, shallow depth of field, realistic emotions.",
+      "description": "印度情侣在夜景中共持镂空圆盘",
+      "recommendation_reason": "节庆道具和情侣互动共同构成明确的成图主题；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "月下共持镂空圆盘",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 5,
+        "likes_display": "5",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 5,
+          "likes_display": "5",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfBYJ5AiNgf_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De5jJWrncfP",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/editingboy1296/p/De5jJWrncfP/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": "2026-10-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "Gemini\n\nULTRA-PHOTOREALISTIC VERTICAL 3:5 THREE-PANEL CINEMATIC PHOTO COLLAGE RECREATING THE REFERENCE EXACTLY: THREE HORIZONTAL SCENES STACKED VERTICALLY WITH SEAMLESS HARD PANEL DIVISIONS AND IDENTICAL WARM GOLDEN-BROWN COLOR GRADING. TOP\n\nPANEL: CLOSE-UP\n\nOF A YOUNG SOUTH ASIAN WOMAN IN A BLACK TRADITIONAL OUTFIT WITH EMBROIDERED DETAILING, DARK HAIR TIED BACK, LOOKING DOWNWARD WITH A SOFT EMOTIONAL EXPRESSION, WARM INDOOR LIGHT, WHILE A YOUNG MAN WITH TOUSLED DARK HAIR BENDS TOWARD HER IN THE FOREGROUND/RIGHT, PARTIALLY OBSCURING THE FRAME. MIDDLE PANEL: FULL-BODY VIEW OF THE SAME WOMAN STANDING IEFT IN BLACK TRADITIONAL CLOTHING, GENTLY TOUCHING THE BENT YOUNG MAN'S FACE/CHEEK WITH ONE HAND; HE WEARS A LOOSE OFF-WHITE LONG-SLEEVE SHIRT, BLACK PANTS AND SANDALS, BENDING RESPECTFULLY TOWARD HER, IN AN AGED TEXTURED COURTYARD WITH WORN BEIGE WALLS AND DUSTY FLOOR. BOTTOM PANEL: EXTREME CLOSE-UP OF THE MAN BENDING FORWARD, HIS FACE NEAR THE WOMAN'S HAND, TOUSLED BROWN-DARKHAIR, OFF-WHITE SHIRT,",
+      "description": "暖色光中的情侣多画面合成写真",
+      "recommendation_reason": "一张画面组合亲密特写与双人全景；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "暖光情侣叠幅画面",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 52,
+        "likes_display": "52",
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 52,
+          "likes_display": "52",
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De5jJWrncfP_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DVOXA0KCfjF",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DVOXA0KCfjF/",
+      "creator": "st__mry",
+      "published_at": null,
+      "published_date": "2026-02-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "prompt gemini ai terbaru bareng pasangan👇🏻\n\nEdit foto Seorang peria dan wanita muda muslimah Indonesia dan wanita mengenakan mukena warna dusty pink bermotif bunga cantik tekstur halus dengan detail renda di tepiannya, hijab menyatu rapi menutup kepala, wajah glowing skin dengan kulit putih mulus lembab berminyak sehat, pori-pori terlihat realistis, makeup soft natural (alis rapi natural, bulu mata lentik tipis, blush pink lembut, lip tint natural glossy). Ekspresi wajah tersenyum lembut, tatapan mata mengarah ke kamera, kesan anggun dan menenangkan. Memegang sajadah warna warna pink dengan motif klasik pink, tekstur kain terlihat jelas dan detail serat kain realistis. Dan peria memakai baju Koko lengan panjang warna putih dan sarung panjang warna putih, memakai peci hitam, sajadah hitam dan peria tersenyum lembut dan Latar belakang area luar ruangan setelah hujan, aspal basah dengan pantulan air (refleksi), pepohonan hijau gelap di belakang, suasana sore menjelang malam (blue hour), ada beberapa wanita lain buram di background (depth of field natural). Pencahayaan menggunakan kamera HP iPhone 14 Pro Max dengan flash aktif, cahaya flash lembut menerangi wajah, skin tone seimbang, highlight glowing di pipi dan hidung, bayangan alami di sisi wajah. Foto diambil mode portrait realistis tanpa bokeh berlebihan, fokus tajam pada subjek, latar sedikit blur natural. Komposisi setengah badan (medium shot), angle eye level, warna natural, tone hangat lembut, kualitas foto ultra-realistic, high resolution, photorealistic, cinematic realism dan jangan ubah wajah buatlah semirip mungkin\n#Semuaorang\n#jangkauanluas\n #prompt \n#aitrend \n#trendviral \n#fyp \n#couple",
+      "description": "户外树林中佩戴粉色头巾的双人婚照",
+      "recommendation_reason": "传统婚礼双人造型与自然背景结合；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/st__mry/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "粉头巾树林婚照",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 2,
+        "likes_display": "2",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 2,
+          "likes_display": "2",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DVOXA0KCfjF_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DQ_ZzHeEVmh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DQ_ZzHeEVmh/",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": "2025-11-13",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "Wanita Busana Syar\"i\nPrompt ⬇️⬇️\nBuatkan potret setengah badan seorang wanita muda cantik kulit putih mulus tidak merubah muka asli bibir mata hidung alis bentuk muka seperti foto terlampir,dia mengenakan hijab syar'i besar panjang ( syar'i style) terlihat Bros di samling bahu kiri nya yang menjepit saparo jilbab nya yang menutupi dada ,berwarna navy semu merah dan gaun lengan panjang yang berwarna senada ,dia berdiri di luar dengan membelakangi camera,ruangan di tempat yang tampak seperti lorong beratap yang terang dengan dinding abu\" dan detail arsitektur atau bingkai jendela berwarna coklat, wanita ini melihat ke camera sambil menoleh ke bahu kanannya dengan senyum tipis, eksepsinya ramah dan bahagia, pakainnya sopan dengan hijab menutupi penuh bahu dan dada,serta gaun yang memiliki lengan longgar dan jatuh, latar belakang memperlihatkan bagian dari struktur bangunan dengan elemen berwarna abu\"dan coklat\n\n#wanita #jilbabsyarii #syari #hijab #gamis #prompt #gemini #ai",
+      "description": "蓝色头巾人物位于明亮拱廊",
+      "recommendation_reason": "几何拱廊为简洁人像增加空间层次；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "蓝头巾拱廊侧影",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 1,
+        "likes_display": "1",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 1,
+          "likes_display": "1",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DQ_ZzHeEVmh_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DQ1Q96_krqX",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DQ1Q96_krqX/",
+      "creator": "yaudahadudu",
+      "published_at": null,
+      "published_date": "2025-11-09",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "Foto prewedding cuma pake prompt AI ajaa, yang mau cobain sama pasangan kamu, bisa komen JAWA, nanti aku kirim promptnya! yukk, mumpung masi GRATISSS! #nanobanana #gemini #ai #pippit #photoshoot #prewedding",
+      "description": "粉色圆形背景前的双人婚礼人像",
+      "recommendation_reason": "暖色圆景布置具有低复杂度的模板化潜力；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/yaudahadudu/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "棚拍",
+      "image_description": "粉色圆景双人婚照",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 1624,
+        "likes_display": "1,624",
+        "comments": 835,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 1624,
+          "likes_display": "1,624",
+          "comments": 835,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DQ1Q96_krqX_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOrvU4Nk8wo",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DOrvU4Nk8wo/",
+      "creator": "isnainirokhmah_",
+      "published_at": null,
+      "published_date": "2025-09-16",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "Prompt edit gemini ai : editlah seorang wanita muda muslim mengenakan hijab hitam dan abaya hitam, tersenyum lembut sambil menoleh ke belakang, berdiri dihalaman masjid al-haram yang terang pada malam hari, ka'bah terlihat jelas dilayar belakang, dikelilingi oleh lampu lembut dan kerumunan jamaah, pencahayaan simetrik, detail tinggi, suasana tenang. Wajah asli dan persis.\n\n#prompt #editgemini #oneday #umroh #kunfayakun",
+      "description": "黑色头巾人物置于夜间建筑灯光前",
+      "recommendation_reason": "夜景建筑与深色着装形成鲜明的旅行场景创意；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/isnainirokhmah_/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "夜景灯塔前黑色头巾",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 234,
+        "likes_display": "234",
+        "comments": 9,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 234,
+          "likes_display": "234",
+          "comments": 9,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOrvU4Nk8wo_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOn3QCaEb0R",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DOn3QCaEb0R/",
+      "creator": "ayuurizkaa",
+      "published_at": null,
+      "published_date": "2025-09-15",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "Happy banget bisa buat foto profil 🫶\n\nAku pakai Gemini AI \nCaranya : \n1. Buka Gemini \n2. Pilih tools nano banana 🍌\n3. Add (+) gambar/foto yang mau kamu edit\n4. Pakai Prompt nya ada di slide 2 \n\nSave biar gak lupa 😙\nSemoga membantu 🫶 \n\nThank you @googleindonesia @googlegemini",
+      "description": "米色头巾与眼镜的近景人物肖像",
+      "recommendation_reason": "日常配饰组合清晰，适合个人头像玩法；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ayuurizkaa/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "米色头巾眼镜肖像",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 1170,
+        "likes_display": "1,170",
+        "comments": 40,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 1170,
+          "likes_display": "1,170",
+          "comments": 40,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOn3QCaEb0R_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DC_PWAQTmMv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DC_PWAQTmMv/",
+      "creator": "createprompt",
+      "published_at": null,
+      "published_date": "2024-11-30",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:45+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:45+00:00",
+      "caption": "BERBAGI PROMPT AI\n\n#Prompt\n\nWanita Indonesia cantik tersenyum berhijab  putih dan pria  tampan rambut under cut dan 2 orang anak kecil mengenakan t-shirt  celana jeans berpose bebas  elegan  dinding hitam  elegan, ada tanaman daun hijau hias mengenakan gamis syari biru gelap, 3D rendering, cat minyak, gambar terlihat jernih  nyata ada teks \"My Family\"\n\nJoin Channel Telegram - https://t.me/imagesprompt\n\n•••••\n#Wanita #Hijab #MyFamily #Keluarg #Family #Potret #3D #AI #ArtificialIntelligence #AIGenerated #Bing #Prompt #Prompts #Art #Artsy #CreativePost #CreatePrompt #Bestfaves",
+      "description": "白色头巾女性与家人在室内合影",
+      "recommendation_reason": "头巾与家庭合影组合，补充单人写真以外的人群；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/createprompt/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "白头巾一家人合照",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:45+00:00",
+        "likes": 2,
+        "likes_display": "2",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:45+00:00",
+          "likes": 2,
+          "likes_display": "2",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DC_PWAQTmMv_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DPaq0DEE376",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DPaq0DEE376/",
+      "creator": "memeyyy34_",
+      "published_at": null,
+      "published_date": "2025-10-04",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T03:32:17+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T03:32:17+00:00",
+      "caption": "Prompt GEMINI ✨\nPotret hyper-realistic seorang wanita berhijab dengan wajah asli sesuai foto referensi.Ia mengenakan hijab berwarna pink pastel yang dililit rapi,dipadukan dengan sweater rajut tebal warna pink senada,serta topi baret pink dengan emblem kecil.Make-up ala Korean look foundation matte halus,blush pink dipipi,eyeshadow shimmer lembut,eyeliner hitam tipis dengan winged halus,bulu mata lentik natural, \nsoftlens terang,dan lipstik glossy.\nJangan merubah wajah asal.buat se HD mungkin.",
+      "description": "粉色头巾与贝雷帽同色搭配的写真人像",
+      "recommendation_reason": "同色系头巾、针织衫与贝雷帽形成可复用的造型方案；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/memeyyy34_/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "粉贝雷帽配玫色头巾",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T03:32:17+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T03:32:17+00:00",
+        "likes": 514,
+        "likes_display": "514",
+        "comments": 25,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T03:32:17+00:00",
+          "likes": 514,
+          "likes_display": "514",
+          "comments": 25,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DPaq0DEE376_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:De_0h8ymsNv",
       "platform": "instagram",

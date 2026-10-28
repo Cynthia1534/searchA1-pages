@@ -11,6 +11,7 @@ const viewStatus = {all:null, unprocessed:'pending', later:'reserve', adopted:'a
 const viewNames = {all:'全部素材', unprocessed:'未处理', later:'待采用', adopted:'已采用', rejected:'不采用'};
 const statusNames = {pending:'未处理', reserve:'待采用', adopted:'已采用', rejected:'不采用'};
 const categoryNames = {ai_image:'图片', human_ai_dance_video:'舞蹈类视频', other_ai_video:'情景类视频'};
+const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',facebook:'Facebook',other:'其他网站'};
 const state = {data:null, local:{}, current:null, detailIndex:0, page:1};
 try { state.local = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.local = {}; }
 const decision = item => state.local[item.id] || {};
@@ -69,9 +70,14 @@ const postURL = item => {
   try {
     const url = new URL(item.post_url);
     if (url.protocol !== 'https:') return null;
-    const hosts = item.platform === 'instagram' ? ['instagram.com','www.instagram.com'] : item.platform === 'youtube' ? ['youtube.com','www.youtube.com','youtu.be','www.youtu.be'] : ['tiktok.com','www.tiktok.com'];
+    const hosts = item.platform === 'instagram' ? ['instagram.com','www.instagram.com']
+      : item.platform === 'youtube' ? ['youtube.com','www.youtube.com','youtu.be','www.youtu.be']
+      : item.platform === 'facebook' ? ['facebook.com','www.facebook.com']
+      : item.platform === 'other' ? [url.hostname] : ['tiktok.com','www.tiktok.com'];
     const path = item.platform === 'instagram'
       ? /^\/(?:[A-Za-z0-9._]+\/)?(?:p|reel)\/[A-Za-z0-9_-]+\/?$/
+      : item.platform === 'facebook' ? /^(?:\/reel\/\d+|\/[A-Za-z0-9._-]+\/(?:posts|videos)\/\d+)\/?$/
+      : item.platform === 'other' ? /^\/[A-Za-z0-9_./%-]+$/
       : item.platform === 'youtube' ? null : /^\/@[^/]+\/(video|photo)\/\d+\/?$/;
     const youtube = item.platform === 'youtube' && (url.hostname.endsWith('youtu.be')
       ? /^\/[A-Za-z0-9_-]{11}\/?$/.test(url.pathname)
@@ -92,9 +98,9 @@ function feedback(message, error=false) {
 function save(item, patch, {rerender=true}={}) {
   const previous = decision(item);
   if (Object.hasOwn(patch, 'imageDescription') &&
-      (typeof patch.imageDescription !== 'string' || [...patch.imageDescription].length > 10 ||
+      (typeof patch.imageDescription !== 'string' || [...patch.imageDescription].length > 15 ||
        patch.imageDescription.includes('+'))) {
-    feedback('图片描述最多 10 字，且不能包含 +', true);
+    feedback('图片描述最多 15 字，且不能包含 +', true);
     return false;
   }
   for (const [key,field] of [['audienceTag','audience_tags'],['themeTag','theme_tags']]) {
@@ -257,7 +263,7 @@ function titleEditor(item) {
   const audience=makeSelect('audience_tags','受众标签');
   const theme=makeSelect('theme_tags','主题标签');
   const description=el('input','image-description');description.type='text';
-  description.placeholder='图片描述 · ≤10字';description.setAttribute('aria-label','图片简单描述，最多10字');
+  description.placeholder='简单描述 · ≤15字';description.setAttribute('aria-label','简单描述，最多15字');
   description.value=imageDescription(item);
   const counter=el('span','char-count');
   const mediaSelect=el('select','title-media-select');
@@ -272,9 +278,9 @@ function titleEditor(item) {
   fixedOriginal.setAttribute('aria-label','标题固定字段：原');
   const update=()=>{
     const length=[...description.value].length;
-    const valid=length<=10 && !description.value.includes('+');
-    description.setCustomValidity(valid?'':'最多10字，且不能包含 +');
-    counter.textContent=`${length}/10`;
+    const valid=length<=15 && !description.value.includes('+');
+    description.setCustomValidity(valid?'':'最多15字，且不能包含 +');
+    counter.textContent=`${length}/15`;
     counter.classList.toggle('invalid',!valid);
     const value=valid && audience.value && theme.value && description.value
       ? `${audience.value}+${theme.value}+${description.value}+${mediaSelect.value}+原` : '';
@@ -287,7 +293,7 @@ function titleEditor(item) {
   };
   description.addEventListener('input',update);
   description.addEventListener('change',()=>{
-    if (!description.checkValidity()) { feedback('图片描述最多10字，且不能包含 +',true);return; }
+    if (!description.checkValidity()) { feedback('简单描述最多15字，且不能包含 +',true);return; }
     save(item,{imageDescription:description.value},{rerender:false});
   });
   copy.addEventListener('click',async()=>{
@@ -298,7 +304,7 @@ function titleEditor(item) {
         feedback('标题与另一条素材重复，请写入更具体的画面细节',true);
       } else {
         copyState('请补全标题','needs-input');
-        feedback('请先选择受众、主题并填写10字内的图片描述',true);
+        feedback('请先选择受众、主题并填写15字内的简单描述',true);
       }
       return;
     }
@@ -322,7 +328,7 @@ function titleEditor(item) {
 function materialFacts(item) {
   const names = {
     market: {india:'印度',indonesia:'印尼',unknown:'地区待确认'},
-    origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',unknown:'来源待确认'},
+    origin: {user_provided_profile:'我提供的主页',codex_discovery:'Codex 自主发现',unknown:'来源待确认'},
     kind: {...categoryNames,unknown:'待核实'}
   };
   const facts=el('div','material-facts');
@@ -347,7 +353,7 @@ function row(item) {
   article.append(titleEditor(item));
   article.append(materialFacts(item));
   const meta = el('div','row-meta');
-  meta.append(el('span','platform',item.platform==='instagram'?'Instagram':item.platform==='youtube'?'YouTube':'TikTok'),el('span','account',`${item.platform==='youtube'?'':'@'}${item.creator||'未知账号'}`),el('span','meta',`发布 ${date(item.published_at||item.published_date)}`),el('span','meta',`采集 ${captureDay(item)}`));
+  meta.append(el('span','platform',platformNames[item.platform]||'其他网站'),el('span','account',`${['youtube','other'].includes(item.platform)?'':'@'}${item.creator||'未知账号'}`),el('span','meta',`发布 ${date(item.published_at||item.published_date)}`),el('span','meta',`采集 ${captureDay(item)}`));
   article.append(meta);
   const metrics = el('div','row-numbers');
   metrics.append(el('strong','',`创意 ${score(item,'creative')??'待评'}`),el('span','',`赞 ${item.metrics?.likes_display||number(item.metrics?.likes)} · 评 ${number(item.metrics?.comments)}`));
@@ -358,7 +364,7 @@ function row(item) {
   else linkCell.append(el('span','','原帖链接不可用'));
   for (const source of item.alternate_sources||[]) {
     const other=postURL(source);
-    if (other) { const link=el('a','',`${source.platform==='youtube'?'YouTube':source.platform==='instagram'?'Instagram':'TikTok'} 同作品 ↗`);link.href=other;link.target='_blank';link.rel='noopener noreferrer';linkCell.append(link); }
+    if (other) { const link=el('a','',`${platformNames[source.platform]||'其他网站'} 同作品 ↗`);link.href=other;link.target='_blank';link.rel='noopener noreferrer';linkCell.append(link); }
   }
   if (item.suitability === 'review') linkCell.append(el('span','review-note','仅预览初筛'));
   article.append(linkCell,stateActions(item));
@@ -438,7 +444,7 @@ function detailMedia() {
 }
 function openDetail(item) {
   state.current=item;state.detailIndex=0;detailMedia();
-  $('detail-platform').textContent=(item.platform==='instagram'?'Instagram':item.platform==='youtube'?'YouTube':'TikTok')+(item.suitability==='review'?' · 仅预览初筛':' · 整帖已审核');
+  $('detail-platform').textContent=(platformNames[item.platform]||'其他网站')+(item.suitability==='review'?' · 仅预览初筛':' · 整帖已审核');
   $('detail-title').textContent=item.description||'候选素材';
   $('detail-meta').textContent=`${item.platform==='youtube'?'':'@'}${item.creator||'未知账号'} · 发布 ${date(item.published_at||item.published_date)} · 采集 ${captureDay(item)}${item.duration_seconds!=null?' · 时长 '+item.duration_seconds+' 秒':''}`;
   const chips=$('detail-tags');chips.replaceChildren();
