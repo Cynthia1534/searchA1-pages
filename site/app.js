@@ -11,7 +11,7 @@ const viewStatus = {all:null, unprocessed:'pending', later:'reserve', adopted:'a
 const viewNames = {all:'全部素材', unprocessed:'未处理', later:'待采用', adopted:'已采用', rejected:'不采用'};
 const statusNames = {pending:'未处理', reserve:'待采用', adopted:'已采用', rejected:'不采用'};
 const categoryNames = {ai_image:'图片', human_ai_dance_video:'舞蹈类视频', other_ai_video:'情景类视频'};
-const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',facebook:'Facebook',other:'其他网站'};
+const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',facebook:'Facebook',threads:'Threads',other:'其他网站'};
 const state = {data:null, local:{}, current:null, detailIndex:0, page:1};
 try { state.local = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.local = {}; }
 const decision = item => state.local[item.id] || {};
@@ -57,7 +57,7 @@ const score = (item, kind) => item.scores?.[kind]?.score ?? null;
 const view = () => Object.hasOwn(viewStatus, location.hash.slice(1)) ? location.hash.slice(1) : 'all';
 const asset = (path,item) => {
   if (typeof path !== 'string') return null;
-  if (/^assets\/[A-Za-z0-9_.-]+\.(jpg|png)$/.test(path)) return new URL(path, document.baseURI).href;
+  if (/^assets\/[A-Za-z0-9_.-]+\.(jpg|png|webp)$/.test(path)) return new URL(path, document.baseURI).href;
   try {
     const url=new URL(path);
     if (item?.platform==='youtube' && url.protocol==='https:' &&
@@ -73,10 +73,12 @@ const postURL = item => {
     const hosts = item.platform === 'instagram' ? ['instagram.com','www.instagram.com']
       : item.platform === 'youtube' ? ['youtube.com','www.youtube.com','youtu.be','www.youtu.be']
       : item.platform === 'facebook' ? ['facebook.com','www.facebook.com']
+      : item.platform === 'threads' ? ['threads.com','www.threads.com','threads.net','www.threads.net']
       : item.platform === 'other' ? [url.hostname] : ['tiktok.com','www.tiktok.com'];
     const path = item.platform === 'instagram'
       ? /^\/(?:[A-Za-z0-9._]+\/)?(?:p|reel)\/[A-Za-z0-9_-]+\/?$/
       : item.platform === 'facebook' ? /^(?:\/reel\/\d+|\/[A-Za-z0-9._-]+\/(?:posts|videos)\/\d+)\/?$/
+      : item.platform === 'threads' ? /^\/@[A-Za-z0-9._]+\/post\/[A-Za-z0-9_-]+\/?$/
       : item.platform === 'other' ? /^\/[A-Za-z0-9_./%-]+$/
       : item.platform === 'youtube' ? null : /^\/@[^/]+\/(video|photo)\/\d+\/?$/;
     const youtube = item.platform === 'youtube' && (url.hostname.endsWith('youtu.be')
@@ -160,7 +162,6 @@ function matches(item) {
   if ($('market-region').value && (item.market_region || 'unknown') !== $('market-region').value) return false;
   if ($('material-kind').value && category(item) !== $('material-kind').value) return false;
   if ($('discovery-origin').value && (item.discovery_origin || 'unknown') !== $('discovery-origin').value) return false;
-  if ($('discovery-agent').value && (item.discovery_agent || 'unknown') !== $('discovery-agent').value) return false;
   if ($('source-account').value && `${item.platform}:${item.creator}` !== $('source-account').value) return false;
   if ($('day').value && captureDay(item) !== $('day').value) return false;
   if ($('day-from').value && captureDay(item) < $('day-from').value) return false;
@@ -189,7 +190,7 @@ function compareItems(a,b) {
 function activeFilters() {
   const area = $('active-filters');
   area.replaceChildren();
-  for (const [id,name] of [['search','搜索'],['day','采集日期'],['market-region','市场地区'],['platform','平台'],['material-kind','素材类型'],['discovery-origin','素材来源'],['discovery-agent','发现 Agent'],['source-account','来源账号'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序'],['audience-filter','受众标签'],['theme-filter','主题标签']]) {
+  for (const [id,name] of [['search','搜索'],['day','采集日期'],['market-region','市场地区'],['platform','平台'],['material-kind','素材类型'],['discovery-origin','素材来源'],['source-account','来源账号'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序'],['audience-filter','受众标签'],['theme-filter','主题标签']]) {
     const field = $(id);
     if (!field.value || (id === 'sort' && field.value === 'discovered')) continue;
     const value = id === 'material-kind' ? categoryNames[field.value] : field.selectedOptions?.[0]?.textContent || field.value;
@@ -329,7 +330,7 @@ function titleEditor(item) {
 function materialFacts(item) {
   const names = {
     market: {india:'印度',indonesia:'印尼',unknown:'地区待确认'},
-    origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',muse_discovery:'Muse 自主发现',unknown:'来源待确认'},
+    origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',muse_discovery:'muse导入',unknown:'自主发现'},
     kind: {...categoryNames,unknown:'待核实'}
   };
   const facts=el('div','material-facts');
