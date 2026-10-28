@@ -77,7 +77,7 @@ const postURL = item => {
       : item.platform === 'other' ? [url.hostname] : ['tiktok.com','www.tiktok.com'];
     const path = item.platform === 'instagram'
       ? /^\/(?:[A-Za-z0-9._]+\/)?(?:p|reel)\/[A-Za-z0-9_-]+\/?$/
-      : item.platform === 'facebook' ? /^(?:\/reel\/\d+|\/[A-Za-z0-9._-]+\/(?:posts|videos)\/\d+)\/?$/
+      : item.platform === 'facebook' ? /^(?:\/reel\/\d+|\/[A-Za-z0-9._-]+\/(?:posts|videos)\/\d+|\/groups\/\d+\/(?:posts|permalink)\/\d+)\/?$/
       : item.platform === 'threads' ? /^\/@[A-Za-z0-9._]+\/post\/[A-Za-z0-9_-]+\/?$/
       : item.platform === 'other' ? /^\/[A-Za-z0-9_./%-]+$/
       : item.platform === 'youtube' ? null : /^\/@[^/]+\/(video|photo)\/\d+\/?$/;
