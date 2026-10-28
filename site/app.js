@@ -8,8 +8,8 @@ const el = (tag, className = '', value) => {
 };
 const storageKey = 'a1-public-gallery-local-decisions-v1';
 const viewStatus = {all:null, unprocessed:'pending', later:'reserve', adopted:'adopted', rejected:'rejected'};
-const viewNames = {all:'全部素材', unprocessed:'未处理', later:'待采用', adopted:'已采用', rejected:'不采用'};
-const statusNames = {pending:'未处理', reserve:'待采用', adopted:'已采用', rejected:'不采用'};
+const viewNames = {all:'全部素材', unprocessed:'未处理', later:'稍后采用', adopted:'已采用', rejected:'不采用'};
+const statusNames = {pending:'未处理', reserve:'稍后采用', adopted:'已采用', rejected:'不采用'};
 const categoryNames = {ai_image:'图片', human_ai_dance_video:'舞蹈类视频', other_ai_video:'情景类视频'};
 const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',facebook:'Facebook',threads:'Threads',other:'其他网站'};
 const state = {data:null, local:{}, current:null, detailIndex:0, page:1};
@@ -77,7 +77,7 @@ const postURL = item => {
       : item.platform === 'other' ? [url.hostname] : ['tiktok.com','www.tiktok.com'];
     const path = item.platform === 'instagram'
       ? /^\/(?:[A-Za-z0-9._]+\/)?(?:p|reel)\/[A-Za-z0-9_-]+\/?$/
-      : item.platform === 'facebook' ? /^(?:\/reel\/\d+|\/[A-Za-z0-9._-]+\/(?:posts|videos)\/\d+|\/groups\/\d+\/(?:posts|permalink)\/\d+)\/?$/
+      : item.platform === 'facebook' ? /^(?:\/reel\/\d+|\/[A-Za-z0-9._-]+\/(?:posts|videos)\/(?:pfbid[A-Za-z0-9]+|\d+)|\/groups\/\d+\/(?:posts|permalink)\/\d+)\/?$/
       : item.platform === 'threads' ? /^\/@[A-Za-z0-9._]+\/post\/[A-Za-z0-9_-]+\/?$/
       : item.platform === 'other' ? /^\/[A-Za-z0-9_./%-]+$/
       : item.platform === 'youtube' ? null : /^\/@[^/]+\/(video|photo)\/\d+\/?$/;
@@ -152,7 +152,7 @@ function fillOptions() {
   daySelect.length = 1;
   days.forEach(value => daySelect.add(new Option(formatDay(value), value)));
   const sourceSelect = $('source-account'); sourceSelect.length = 1;
-  const sources = [...new Set(state.data.materials.filter(item=>item.source_profile_url && item.creator)
+  const sources = [...new Set(state.data.materials.filter(item=>item.creator)
     .map(item=>`${item.platform}:${item.creator}`))].sort();
   sources.forEach(value=>sourceSelect.add(new Option(`@${value.split(':')[1]} · ${value.split(':')[0]}`,value)));
 }
@@ -203,7 +203,7 @@ function activeFilters() {
 function mediaVisual(item,index,container) {
   container.replaceChildren();
   const src = asset(item.media?.[index]?.preview,item);
-  if (!src) { container.append(el('span','','预览未取得')); return; }
+  if (!src) { container.append(el('span','','预览暂不可用')); return; }
   const img = el('img');
   img.src=src; img.loading='lazy'; img.alt=`${item.description||'素材'} · 第 ${index+1} 张真实预览`;
   img.addEventListener('error', () => container.replaceChildren(el('span','','预览加载失败')));
@@ -216,7 +216,7 @@ function stateActions(item) {
   const group = el('div','state-actions');
   group.setAttribute('role','group');
   group.setAttribute('aria-label',`${item.description||'素材'} 的人工状态`);
-  for (const [value,name] of [['adopted','采用'],['reserve','暂存备用'],['rejected','不采用']]) {
+  for (const [value,name] of [['adopted','采用'],['reserve','稍后采用'],['rejected','不采用']]) {
     const button = el('button',`state-button${current===value?' selected':''}`,name);
     button.type='button'; button.dataset.status=value;
     button.setAttribute('aria-pressed',String(current===value));
@@ -368,7 +368,9 @@ function row(item) {
     const other=postURL(source);
     if (other) { const link=el('a','',`${platformNames[source.platform]||'其他网站'} 同作品 ↗`);link.href=other;link.target='_blank';link.rel='noopener noreferrer';linkCell.append(link); }
   }
-  if (item.suitability === 'review') linkCell.append(el('span','review-note','仅预览初筛'));
+  for (const note of item.verification_notes||[]) linkCell.append(el('span','review-note',note));
+  if (item.suitability === 'review' && !(item.verification_notes||[]).length)
+    linkCell.append(el('span','review-note','信息待核实'));
   article.append(linkCell,stateActions(item));
   return article;
 }
@@ -386,9 +388,9 @@ function render() {
   document.querySelectorAll('[data-count]').forEach(node => { node.textContent=counts[node.dataset.count]; });
   $('view-title').textContent=viewNames[current];
   $('section-title').textContent=viewNames[current];
-  $('view-description').textContent='按首次采集日期归档；仅按预览适宜性初筛，普通摄影也可收录。';
-  const review = materials.filter(item => item.suitability==='review').length;
-  $('summary').textContent=`公开快照 ${materials.length} 条 · 仅预览初筛 ${review} 条 · 人工状态仅此浏览器保存`;
+  $('view-description').textContent='按首次采集日期归档；候选与正式素材一起展示，采用决定由你作出。';
+  const duplicateCount=state.data.export_stats?.confirmed_duplicates_skipped ?? 0;
+  $('summary').textContent=`已导入 ${materials.length} · 待判断 ${counts.unprocessed} · 已采用 ${counts.adopted} · 不采用 ${counts.rejected} · 稍后采用 ${counts.later} · 重复跳过 ${duplicateCount} · 状态仅此浏览器保存`;
   activeFilters();
   const items = materials.filter(matches);
   const groups = new Map();
@@ -446,7 +448,7 @@ function detailMedia() {
 }
 function openDetail(item) {
   state.current=item;state.detailIndex=0;detailMedia();
-  $('detail-platform').textContent=(platformNames[item.platform]||'其他网站')+(item.suitability==='review'?' · 仅预览初筛':' · 整帖已审核');
+  $('detail-platform').textContent=(platformNames[item.platform]||'其他网站')+(item.record_stage==='candidate'?' · 候选素材':item.suitability==='review'?' · 信息待核实':' · 整帖已审核');
   $('detail-title').textContent=item.description||'候选素材';
   $('detail-meta').textContent=`${item.platform==='youtube'?'':'@'}${item.creator||'未知账号'} · 发布 ${date(item.published_at||item.published_date)} · 采集 ${captureDay(item)}${item.duration_seconds!=null?' · 时长 '+item.duration_seconds+' 秒':''}`;
   const chips=$('detail-tags');chips.replaceChildren();

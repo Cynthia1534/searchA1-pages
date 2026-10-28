@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T13:56:14+00:00",
-  "scope": "Public snapshot: real posts that passed initial preview suitability screening",
+  "generated_at": "2026-10-28T23:41:20+00:00",
+  "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
       "亲子家庭",
@@ -46,6 +46,12 @@
       "印度独立日"
     ]
   },
+  "export_stats": {
+    "formal": 239,
+    "candidates": 12,
+    "confirmed_duplicates_skipped": 8,
+    "suspected_duplicates_included": 0
+  },
   "materials": [
     {
       "id": "facebook:962465389618987",
@@ -65,6 +71,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.facebook.com/Winda Agusvina/",
       "alternate_sources": [],
@@ -120,6 +128,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.threads.com/@ku.cingkucing",
       "alternate_sources": [],
@@ -175,6 +185,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.threads.com/@ku.cingkucing",
       "alternate_sources": [],
@@ -230,6 +242,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.threads.com/@ku.cingkucing",
       "alternate_sources": [],
@@ -285,6 +299,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.threads.com/@ku.cingkucing",
       "alternate_sources": [],
@@ -340,6 +356,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.threads.com/@ku.cingkucing",
       "alternate_sources": [],
@@ -395,6 +413,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.facebook.com/sbcreatesofficial",
       "alternate_sources": [],
@@ -452,6 +472,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -509,6 +531,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
       "alternate_sources": [],
@@ -568,6 +592,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
       "alternate_sources": [],
@@ -645,6 +671,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
       "alternate_sources": [],
@@ -722,6 +750,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
       "alternate_sources": [],
@@ -799,6 +829,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/alici_alicee/",
       "alternate_sources": [],
@@ -876,6 +908,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/masari_ai/",
       "alternate_sources": [],
@@ -953,6 +987,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/susands10/",
       "alternate_sources": [],
@@ -1030,6 +1066,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -1107,6 +1145,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/masari_ai/",
       "alternate_sources": [],
@@ -1184,6 +1224,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/masari_ai/",
       "alternate_sources": [],
@@ -1261,6 +1303,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/masari_ai/",
       "alternate_sources": [],
@@ -1336,6 +1380,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/masari_ai/",
       "alternate_sources": [],
@@ -1411,6 +1457,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/masari_ai/",
       "alternate_sources": [],
@@ -1486,6 +1534,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/masari_ai/",
       "alternate_sources": [],
@@ -1563,6 +1613,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/createprompt/",
       "alternate_sources": [],
@@ -1638,6 +1690,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/createprompt/",
       "alternate_sources": [],
@@ -1715,6 +1769,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
       "alternate_sources": [],
@@ -1792,6 +1848,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
       "alternate_sources": [],
@@ -1867,6 +1925,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.tiktok.com/@wani.arma",
       "alternate_sources": [],
@@ -1942,6 +2004,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/editingboy1296/",
       "alternate_sources": [],
@@ -2019,6 +2083,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/editingboy1296/",
       "alternate_sources": [],
@@ -2096,6 +2162,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/editingboy1296/",
       "alternate_sources": [],
@@ -2173,6 +2241,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/editingboy1296/",
       "alternate_sources": [],
@@ -2250,6 +2320,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/st__mry/",
       "alternate_sources": [],
@@ -2325,6 +2397,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/masari_ai/",
       "alternate_sources": [],
@@ -2400,6 +2474,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/yaudahadudu/",
       "alternate_sources": [],
@@ -2477,6 +2553,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/isnainirokhmah_/",
       "alternate_sources": [],
@@ -2552,6 +2630,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/ayuurizkaa/",
       "alternate_sources": [],
@@ -2629,6 +2709,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/createprompt/",
       "alternate_sources": [],
@@ -2704,6 +2786,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/memeyyy34_/",
       "alternate_sources": [],
@@ -2781,6 +2865,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -2864,6 +2950,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
       "alternate_sources": [],
@@ -2929,6 +3017,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/minushankar3117/",
       "alternate_sources": [],
@@ -3010,6 +3100,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/minushankar3117/",
       "alternate_sources": [],
@@ -3093,6 +3185,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/laxman_done_official/",
       "alternate_sources": [],
@@ -3158,6 +3252,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/laxman_done_official/",
       "alternate_sources": [],
@@ -3241,6 +3337,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/laxman_done_official/",
       "alternate_sources": [],
@@ -3322,6 +3420,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/brlianfai/",
       "alternate_sources": [],
@@ -3403,6 +3505,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/prompt_arafat/",
       "alternate_sources": [],
@@ -3486,6 +3590,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/vedant_zalte/",
       "alternate_sources": [],
@@ -3569,6 +3675,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/vedant_zalte/",
       "alternate_sources": [],
@@ -3652,6 +3760,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/vedant_zalte/",
       "alternate_sources": [],
@@ -3741,6 +3851,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -3799,6 +3911,442 @@
       ]
     },
     {
+      "id": "tiktok:7638794577364798728",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@merz20120/video/7638794577364798728",
+      "creator": "merz20120",
+      "published_at": "2026-05-12T00:24:35+00:00",
+      "published_date": "2026-05-12",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-27T06:47:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T06:47:37+00:00",
+      "caption": "try ko ngarin mag AI #chatgpt #fyp #AI #trend : Here’s the prompt _ Transform my photo into a high-end cinematic streetwear editorial poster. Keep my face, body, pose, outfit, and original background recognizable, but enhance everything into a luxury fashion campaign aesthetic. Add 4 realistic duplicate versions of me across the frame placed naturally like motion-captured walk sequences. Keep the main/front version largest, sharpest, and most detailed, while side clones are slightly faded or motion blurred. Use dramatic overhead lighting with a subtle glow, deep shadows, long floor shadows, cool-toned cinematic color grading, strong contrast, glossy highlights, and soft film grain. Make the outfit textures crisp and premium. Add bold oversized magazine-style typography in the top corner with one powerful word related to movement or style (example: MOTION, STATIC, RUSH, ECHO). Include smaller minimal text such as collection year, slogan, barcode, or campaign details.Original.",
+      "description": "@merz20120 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T06:47:37+00:00",
+        "likes": 259,
+        "likes_display": "259",
+        "comments": 26,
+        "views": 60700,
+        "shares": 146,
+        "source": "TikTok public video-detail embedded JSON"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T06:47:37+00:00",
+          "likes": 259,
+          "likes_display": "259",
+          "comments": 26,
+          "views": 60700,
+          "shares": 146,
+          "source": "TikTok public video-detail embedded JSON"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7638794577364798728_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7431845363083906326",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mini_cute05/video/7431845363083906326",
+      "creator": "mini_cute05",
+      "published_at": "2024-10-31T07:55:45+00:00",
+      "published_date": "2024-10-31",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-27T06:47:32+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T06:47:32+00:00",
+      "caption": "Pose for Diwali with Diya | Festival of lights | Diwali photoshoot | Minisha Pathak | my clicks #diwali #pose #poseidea ",
+      "description": "@mini_cute05 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T06:47:32+00:00",
+        "likes": 10700,
+        "likes_display": "10700",
+        "comments": 30,
+        "views": 439900,
+        "shares": 1040,
+        "source": "TikTok public video-detail embedded JSON"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T06:47:32+00:00",
+          "likes": 10700,
+          "likes_display": "10700",
+          "comments": 30,
+          "views": 439900,
+          "shares": 1040,
+          "source": "TikTok public video-detail embedded JSON"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7431845363083906326_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7348200057625218337",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@...imagine...scenarios/video/7348200057625218337",
+      "creator": "...imagine...scenarios",
+      "published_at": "2024-03-19T22:09:20+00:00",
+      "published_date": "2024-03-19",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-27T06:47:19+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T06:47:19+00:00",
+      "caption": "Replying to @...imagine...scenarios he's actually too cute I can't handle it, also some people got confused but they aren't actually husband and wife he just wants her to be his wife || #imaginethis #imagine #imagines #imaginestories #imaginescenarios #scenarios #wattpad #BookTok #povs #ynpov #ynstories #wattpadtiktok #foryoupage #fyp #foryou #wattpad #wattpadforyou #scenario #fypシ #writing #stories #viral #zyxcba ",
+      "description": "@...imagine...scenarios 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T06:47:19+00:00",
+        "likes": 10500,
+        "likes_display": "10500",
+        "comments": 262,
+        "views": 177500,
+        "shares": 40,
+        "source": "TikTok public video-detail embedded JSON"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T06:47:19+00:00",
+          "likes": 10500,
+          "likes_display": "10500",
+          "comments": 262,
+          "views": 177500,
+          "shares": 40,
+          "source": "TikTok public video-detail embedded JSON"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7348200057625218337_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7492263400009911570",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@imqueen0419/video/7492263400009911570",
+      "creator": "imqueen0419",
+      "published_at": "2025-04-12T03:28:35+00:00",
+      "published_date": "2025-04-12",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-27T06:47:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T06:47:14+00:00",
+      "caption": "Been longing for this since I was teenager. Finally may masasabit na kami sa bahay! Thanks to AI for this wonderful family picture of ours.. #fyp #family #familypicture #balote #aigenerated ",
+      "description": "@imqueen0419 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T06:47:14+00:00",
+        "likes": 29300,
+        "likes_display": "29300",
+        "comments": 1523,
+        "views": 3900000,
+        "shares": 2884,
+        "source": "TikTok public video-detail embedded JSON"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T06:47:14+00:00",
+          "likes": 29300,
+          "likes_display": "29300",
+          "comments": 1523,
+          "views": 3900000,
+          "shares": 2884,
+          "source": "TikTok public video-detail embedded JSON"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7492263400009911570_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:CV0DQE5MKKz",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/CV0DQE5MKKz/",
+      "creator": "bleachfilm",
+      "published_at": null,
+      "published_date": "2021-11-03",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T06:46:52+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T06:46:52+00:00",
+      "caption": "DIWALI Photoshoot Ideas For Boys & Girl’s 🪔🪔\nWhy light crackers if you can use diya in photoshoot? 🧨🕯️\n\nWishing you and your Family A Very Happy Diwali & A Prosperous New Year from @bleachfilm & \n@photos_tricks117 team 🥰❤️\n.\n\n✨💥Diwali, is the Hindu festival of lights, which is celebrated every autumn. One of the most popular festivals of Hinduism.\nDiwali symbolises the spiritual victory of light over darkness, good over evil, and knowledge over ignorance!💥✨\n\nA festival full of sweet childhood memories, a sky full of fireworks, mouth full of sweets, and heart full of joy.\n\nMay millions of lamps illuminate your heart with endless prosperity & health \n#Bleachmyfilm\n.\nHappy diwali everyone and let’s stop this pollution with crackers and be safe ❤️\n.\n📸:- 1) @_niharikajain \n2) @nsb.pictures\n3) @santoshi_megharaj \n4) @shanika.khurmi \n.\n#diwali #happydiwali #deepavali #diwaliphotography #diwali2021 #colours #festivaloflights #festival #tradition #photography #photographers_of_india #indiapictures #_soi #diwaliphotoshoot #things2doinmumbai #fireworks #aerial #mumbai #india #mymumbai #nustaharamkhor #urban #fireworks #myindia #diwalipose #photographyposes #bharat",
+      "description": "@bleachfilm 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "india",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_CV0DQE5MKKz_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DVX1qgNEnfl",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DVX1qgNEnfl/",
+      "creator": "luxuriousbymm",
+      "published_at": null,
+      "published_date": "2026-03-01",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T06:46:47+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T06:46:47+00:00",
+      "caption": "Bollywood brides have turned wedding fashion into headline‑making luxury, with bridal outfits worth crores and lakhs that leave fans in awe. From Aishwarya Rai Bachchan’s golden Kanjeevaram saree priced around ₹75 lakhs to Sonam Kapoor’s intricately hand‑crafted red lehenga of about ₹70 lakhs, these looks are pure sartorial investment pieces. Names like Alia Bhatt, Anushka Sharma and Katrina Kaif also made headlines with bridal couture ranging from ₹50 lakh to ₹17 lakh, showcasing both tradition and high‑end designer craft.\n\nEach outfit tells a story of craftsmanship, heritage and unrivalled elegance, with artisans spending hundreds of hours on detailed embroidery, Swarovski work and custom tailoring. These bridal looks have become inspirational fashion moments that set trends far beyond weddings. In an industry where style meets ultra‑luxury, every ensemble becomes a cultural moment that fans remember long after the big day\n\nWhat’s striking is not just the price tag but the design legacy behind each piece from classic silk and gold threadwork to modern couture interpretations of tradition. These bridal outfits don’t just define a wedding look, they define an era of opulent celebrity fashion. It’s Bollywood glamour at its most luxurious and unforgettable.\n\nImages: Courtesy of Designers\n\n#LuxuryFashion #Luxurious",
+      "description": "@luxuriousbymm 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T06:46:47+00:00",
+        "likes": 3998,
+        "likes_display": "3,998",
+        "comments": 31,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T06:46:47+00:00",
+          "likes": 3998,
+          "likes_display": "3,998",
+          "comments": 31,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DVX1qgNEnfl_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "instagram:DQYXzgVCf54",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/p/DQYXzgVCf54/",
@@ -3816,6 +4364,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -3874,6 +4424,81 @@
       ]
     },
     {
+      "id": "instagram:C6ItEEiSIWC",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/C6ItEEiSIWC/",
+      "creator": "augieaditya",
+      "published_at": null,
+      "published_date": "2024-04-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-27T06:46:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-27T06:46:39+00:00",
+      "caption": "AI generated family portrait ⚡️",
+      "description": "@augieaditya 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-27T06:46:39+00:00",
+        "likes": 52,
+        "likes_display": "52",
+        "comments": 3,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-27T06:46:39+00:00",
+          "likes": 52,
+          "likes_display": "52",
+          "comments": 3,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_C6ItEEiSIWC_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "tiktok:7699912535125789960",
       "platform": "tiktok",
       "post_url": "https://www.tiktok.com/@the_illu_/video/7699912535125789960",
@@ -3891,6 +4516,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.tiktok.com/@the_illu_",
       "alternate_sources": [],
@@ -3971,6 +4600,8 @@
       "suitability": "safe",
       "initial_screening": "preview_passed",
       "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.tiktok.com/@gs__editz07",
       "alternate_sources": [],
@@ -4093,6 +4724,8 @@
       "suitability": "safe",
       "initial_screening": "preview_passed",
       "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.tiktok.com/@gs__editz07",
       "alternate_sources": [],
@@ -4309,6 +4942,8 @@
       "suitability": "safe",
       "initial_screening": "preview_passed",
       "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.tiktok.com/@edit_hub_official",
       "alternate_sources": [],
@@ -4463,6 +5098,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/genoramedia/",
       "alternate_sources": [],
@@ -4546,6 +5183,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
       "alternate_sources": [],
@@ -4629,6 +5270,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/ns_editz.000/",
       "alternate_sources": [],
@@ -4710,6 +5353,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/girls_dpz_pics_01/",
       "alternate_sources": [],
@@ -4791,6 +5436,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/laxman_done_official/",
       "alternate_sources": [],
@@ -4854,6 +5501,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cute__baby__8696/",
       "alternate_sources": [],
@@ -4937,6 +5586,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zarakhan44562026/",
       "alternate_sources": [],
@@ -5020,6 +5671,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -5085,6 +5738,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/editingboy1296/",
       "alternate_sources": [],
@@ -5168,6 +5823,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/arshiya_goud/",
       "alternate_sources": [],
@@ -5251,6 +5910,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/laxman_done_official/",
       "alternate_sources": [],
@@ -5334,6 +5995,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sonatiwari833/",
       "alternate_sources": [],
@@ -5415,6 +6078,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
       "alternate_sources": [],
@@ -5496,6 +6163,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gujjunextlevel/",
       "alternate_sources": [],
@@ -5561,6 +6230,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
       "alternate_sources": [],
@@ -5650,6 +6321,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/risingstar_hritik/",
       "alternate_sources": [],
@@ -5733,6 +6406,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
       "alternate_sources": [],
@@ -5814,6 +6491,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/arshiya_goud/",
       "alternate_sources": [],
@@ -5895,6 +6576,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
       "alternate_sources": [],
@@ -5960,6 +6643,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/_karthikjram/",
       "alternate_sources": [],
@@ -6043,6 +6728,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
       "alternate_sources": [],
@@ -6108,6 +6795,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
       "alternate_sources": [],
@@ -6197,6 +6886,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gujjunextlevel/",
       "alternate_sources": [],
@@ -6262,6 +6953,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/abhicreatorp/",
       "alternate_sources": [],
@@ -6345,6 +7038,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/vedant_zalte/",
       "alternate_sources": [],
@@ -6428,6 +7123,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/genoramedia/",
       "alternate_sources": [],
@@ -6511,6 +7208,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
       "alternate_sources": [],
@@ -6574,6 +7273,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
       "alternate_sources": [],
@@ -6655,6 +7356,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/minushankar3117/",
       "alternate_sources": [],
@@ -6735,6 +7438,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/minushankar3117/",
       "alternate_sources": [],
@@ -6817,6 +7522,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/vedant_zalte/",
       "alternate_sources": [],
@@ -6899,6 +7606,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/_karthikjram/",
       "alternate_sources": [],
@@ -6963,6 +7672,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/editingboy1296/",
       "alternate_sources": [],
@@ -7049,6 +7760,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/edita_rx_/",
       "alternate_sources": [],
@@ -7131,6 +7844,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/satyam_graphy/",
       "alternate_sources": [],
@@ -7213,6 +7928,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/girls_dpz_pics_01/",
       "alternate_sources": [],
@@ -7299,6 +8016,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
       "alternate_sources": [],
@@ -7380,6 +8099,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/hepsi_chubbyqueen/",
       "alternate_sources": [],
@@ -7445,6 +8166,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/siddarth_edits38/",
       "alternate_sources": [],
@@ -7526,6 +8249,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/siddarth_edits38/",
       "alternate_sources": [],
@@ -7589,6 +8314,181 @@
       ]
     },
     {
+      "id": "instagram:Dchr_DTImay",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/mahi_creation_2023/reel/Dchr_DTImay/",
+      "creator": "mahi_creation_2023",
+      "published_at": null,
+      "published_date": "2026-08-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:51:12+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-26T06:51:12+00:00",
+      "caption": "#post #instagram #trending #viral",
+      "description": "两名儿童在户外并肩互动，适合友伴合照参考",
+      "recommendation_reason": "首图可见最终人物或场景效果；两名儿童在户外并肩互动，适合友伴合照参考。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mahi_creation_2023/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [
+        "data_performance",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:51:34+00:00",
+      "scores": {
+        "data": {
+          "score": 95,
+          "reason": "同账号本次可读的 5 条帖子评论中位数 103；本帖 490 条，约 4.8 倍。仅比较当前快照，不代表互动增长速度。",
+          "confidence": "medium",
+          "evaluated_at": "2026-10-26T06:51:12+00:00"
+        },
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:51:12+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:51:12+00:00",
+        "likes": null,
+        "likes_display": "120K",
+        "comments": 490,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:51:12+00:00",
+          "likes": null,
+          "likes_display": "120K",
+          "comments": 490,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_Dchr_DTImay_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De8as3fIuUV",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/mahi_creation_2023/reel/De8as3fIuUV/",
+      "creator": "mahi_creation_2023",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "#post #instagram #trending #viral",
+      "description": "儿童正式服装肖像可作为节日或纪念照参考",
+      "recommendation_reason": "首图可见最终人物或场景效果；儿童正式服装肖像可作为节日或纪念照参考。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mahi_creation_2023/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:44:28+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 76,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": 93,
+        "likes_display": "93",
+        "comments": 2,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": 93,
+          "likes_display": "93",
+          "comments": 2,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_De8as3fIuUV_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "instagram:De66cntPuSt",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/imelvin27/reel/De66cntPuSt/",
@@ -7606,6 +8506,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/imelvin27/",
       "alternate_sources": [],
@@ -7687,6 +8591,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/ns_editz.000/",
       "alternate_sources": [],
@@ -7750,6 +8656,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
       "alternate_sources": [],
@@ -7839,6 +8747,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
       "alternate_sources": [],
@@ -7920,6 +8832,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/hepsi_chubbyqueen/",
       "alternate_sources": [],
@@ -7985,6 +8899,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/ns_editz.000/",
       "alternate_sources": [],
@@ -8048,6 +8964,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
       "alternate_sources": [],
@@ -8114,6 +9034,76 @@
       ]
     },
     {
+      "id": "instagram:De8g7aTCZ4a",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/_david_creation/reel/De8g7aTCZ4a/",
+      "creator": "_david_creation",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Diwali 🪔 \n.\n.\n.\n#fsy #edit #explore #viral #instagood",
+      "description": "深绿传统服饰与节日灯饰构成暖光人像",
+      "recommendation_reason": "首图可见最终人物或场景效果；深绿传统服饰与节日灯饰构成暖光人像。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "process",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/_david_creation/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "排灯节",
+      "image_description": "",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:44:28+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_De8g7aTCZ4a_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "instagram:De8IDFtIZHz",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/raaz_ghibli_studio/p/De8IDFtIZHz/",
@@ -8131,6 +9121,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/raaz_ghibli_studio/",
       "alternate_sources": [],
@@ -8218,6 +9210,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -8299,6 +9293,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
       "alternate_sources": [],
@@ -8382,6 +9378,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
       "alternate_sources": [],
@@ -8465,6 +9463,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/synamonessence/",
       "alternate_sources": [],
@@ -8554,6 +9556,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/genoramedia/",
       "alternate_sources": [],
@@ -8635,6 +9639,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
       "alternate_sources": [],
@@ -8698,6 +9704,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/synamonessence/",
       "alternate_sources": [],
@@ -8779,6 +9787,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mahi_creation_2023/",
       "alternate_sources": [],
@@ -8860,6 +9872,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/avi.edit_106/",
       "alternate_sources": [],
@@ -8943,6 +9957,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/genoramedia/",
       "alternate_sources": [],
@@ -9032,6 +10048,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
       "alternate_sources": [],
@@ -9097,6 +10115,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
       "alternate_sources": [],
@@ -9162,6 +10182,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptseen/",
       "alternate_sources": [],
@@ -9249,6 +10271,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
       "alternate_sources": [],
@@ -9312,6 +10336,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/cinetale.duo/",
       "alternate_sources": [],
@@ -9377,6 +10403,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/shakhil_thilakan/",
       "alternate_sources": [],
@@ -9442,6 +10470,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
       "alternate_sources": [],
@@ -9529,6 +10561,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/little_vihaan_14/",
       "alternate_sources": [],
@@ -9594,6 +10630,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
       "alternate_sources": [],
@@ -9666,6 +10706,74 @@
       ]
     },
     {
+      "id": "instagram:DedX9C8Ni5P",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/little_vihaan_14/reel/DedX9C8Ni5P/",
+      "creator": "little_vihaan_14",
+      "published_at": null,
+      "published_date": "2026-10-13",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Must try ✨❤️ \n.\n.\n.\n.\n.\n.\n#little_vihaan_14 #reelitfeelit #reelkarofeelkaro #reels #instagram",
+      "description": "灯光中的儿童节日造型与多画面排版",
+      "recommendation_reason": "首图可见最终人物或场景效果；灯光中的儿童节日造型与多画面排版。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "process",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/little_vihaan_14/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [
+        "recent_new",
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:44:28+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 77,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DedX9C8Ni5P_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "instagram:DeXDnrvTIBU",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/littlechamp_world14/reel/DeXDnrvTIBU/",
@@ -9683,6 +10791,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/littlechamp_world14/",
       "alternate_sources": [],
@@ -9764,6 +10876,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mx_prompt/",
       "alternate_sources": [],
@@ -9829,6 +10943,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mx_prompt/",
       "alternate_sources": [],
@@ -9894,6 +11010,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mx_prompt/",
       "alternate_sources": [],
@@ -9959,6 +11077,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/prompt.deck/",
       "alternate_sources": [],
@@ -10039,6 +11159,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/mahi_creation_2023/",
       "alternate_sources": [],
@@ -10127,6 +11251,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sachin_editz_9/",
       "alternate_sources": [],
@@ -10172,6 +11298,93 @@
       ]
     },
     {
+      "id": "instagram:DctZn-bycvc",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/queenbee_priyanka/reel/DctZn-bycvc/",
+      "creator": "queenbee_priyanka",
+      "published_at": null,
+      "published_date": "2026-08-31",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-26T06:44:08+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-26T06:44:08+00:00",
+      "caption": "Lost in the way he looks at me… ❤️✨ Some moments speak without words.….\n.\n.\nComment “🖤” for prompt\n.\n.\n#CoupleGoals #RomanticVibes #LoveInTheAir #CouplePhotography #SouthAsianCouple IndianCouple DesiLove RomanticPortrait CoupleReels LoveStory AestheticVibes CinematicPhotography IndianFashion EthnicWear BlackAnarkali DesiGirl AIPhotography AIArt AIGenerated Photorealistic CouplePrompt PromptPhotography TrendingReels ExplorePage InstaLove",
+      "description": "深色室内情侣对视，光影有亲密电影感",
+      "recommendation_reason": "首图可见最终人物或场景效果；深色室内情侣对视，光影有亲密电影感。仅核验代表性预览，后续轮播或视频未完整审核。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/queenbee_priyanka/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-26T06:44:28+00:00",
+      "scores": {
+        "data": null,
+        "creative": {
+          "score": 78,
+          "reason": "仅根据真实首图评价视觉效果与可借鉴性；不代表实际转化效果",
+          "confidence": "low",
+          "evaluated_at": "2026-10-26T06:44:08+00:00"
+        }
+      },
+      "metrics": {
+        "captured_at": "2026-10-26T06:44:08+00:00",
+        "likes": null,
+        "likes_display": "78K",
+        "comments": 1939,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-26T06:44:08+00:00",
+          "likes": null,
+          "likes_display": "78K",
+          "comments": 1939,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DctZn-bycvc_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "instagram:DbGHH6CHLlo",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/prompt.deck/p/DbGHH6CHLlo/",
@@ -10189,6 +11402,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/prompt.deck/",
       "alternate_sources": [],
@@ -10269,6 +11484,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/karan_kushvaha57/",
       "alternate_sources": [],
@@ -10349,6 +11566,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
       "alternate_sources": [],
@@ -10429,6 +11648,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/little_vihaan_14/",
       "alternate_sources": [],
@@ -10512,6 +11735,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -10577,6 +11802,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -10639,6 +11866,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -10719,6 +11948,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -10799,6 +12030,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -10880,6 +12113,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -10961,6 +12196,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -11041,6 +12278,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -11129,6 +12368,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -11191,6 +12432,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -11254,6 +12497,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -11335,6 +12580,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -11400,6 +12647,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -11463,6 +12712,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -11543,6 +12794,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -11606,6 +12859,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "alternate_sources": [],
@@ -11688,6 +12943,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "alternate_sources": [],
@@ -11769,6 +13026,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "alternate_sources": [],
@@ -11849,6 +13108,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "alternate_sources": [],
@@ -11937,6 +13198,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "alternate_sources": [],
@@ -12015,6 +13278,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "alternate_sources": [],
@@ -12093,6 +13358,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/promptfyai/",
       "alternate_sources": [],
@@ -12175,6 +13442,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "alternate_sources": [],
@@ -12257,6 +13526,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "alternate_sources": [],
@@ -12337,6 +13608,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -12423,6 +13696,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
       "alternate_sources": [],
@@ -12509,6 +13784,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/sruthi.justme/",
       "alternate_sources": [],
@@ -12595,6 +13872,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -12666,6 +13947,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -12739,6 +14024,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -12810,6 +14099,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -12883,6 +14176,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -12954,6 +14251,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13027,6 +14328,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13098,6 +14403,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13169,6 +14478,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13242,6 +14555,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13313,6 +14630,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13386,6 +14707,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13457,6 +14782,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13532,6 +14861,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13605,6 +14938,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13676,6 +15013,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13730,6 +15071,82 @@
       ]
     },
     {
+      "id": "tiktok:7691389164838866184",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@filmsbyjasmeet/video/7691389164838866184",
+      "creator": "filmsbyjasmeet",
+      "published_at": null,
+      "published_date": "2026-09-30",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T14:58:54+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-25T14:58:54+00:00",
+      "caption": "Two sweet souls destined for one another ✨ ",
+      "description": "户外草地情侣互动与场景构图；得体，视频主体待审核。",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T14:58:54+00:00",
+        "likes": 21,
+        "likes_display": null,
+        "comments": 1,
+        "views": 2490,
+        "shares": null,
+        "source": "yt-dlp public TikTok post extractor"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T14:58:54+00:00",
+          "likes": 21,
+          "likes_display": null,
+          "comments": 1,
+          "views": 2490,
+          "shares": null,
+          "source": "yt-dlp public TikTok post extractor"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7691389164838866184_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "tiktok:7658222929670409494",
       "platform": "tiktok",
       "post_url": "https://www.tiktok.com/@ai.artstudio0/video/7658222929670409494",
@@ -13747,6 +15164,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13820,6 +15241,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13878,6 +15303,82 @@
       ]
     },
     {
+      "id": "tiktok:7679337119659216136",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@as.editz16/video/7679337119659216136",
+      "creator": "as.editz16",
+      "published_at": null,
+      "published_date": "2026-08-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T14:52:30+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-25T14:52:30+00:00",
+      "caption": "Prompt 👇🦋⬇️❤️ A cute chubby South Indian toddler as Bala Murugan, standing on a dark rock, back slightly turned looking over shoulder with joyful divine smile, curly black hair in small topknot bun, big sparkling eyes, chubby cheeks, wearing traditional vibhuti tripundra on forehead with small red bindi, sacred ash mark on shoulder and arm, wearing saffron orange dhoti veshti, gold temple jewelry - beaded necklace, golden armlets, bracelets, anklets and small earrings, holding a long peacock feather staff. ##creatorsearchinsights2026viralvideo💋😘😘##As_Editz16💐🌸🌹##viralvideo##1millionaudition",
+      "description": "幼儿传统节庆造型的最终图封面；仅核验封面，适宜性待整帖审核。",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "medium",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T14:52:30+00:00",
+        "likes": 128,
+        "likes_display": null,
+        "comments": 1,
+        "views": 1865,
+        "shares": null,
+        "source": "yt-dlp public TikTok post extractor"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T14:52:30+00:00",
+          "likes": 128,
+          "likes_display": null,
+          "comments": 1,
+          "views": 1865,
+          "shares": null,
+          "source": "yt-dlp public TikTok post extractor"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7679337119659216136_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "tiktok:7677085901314444551",
       "platform": "tiktok",
       "post_url": "https://www.tiktok.com/@as.editz16/video/7677085901314444551",
@@ -13895,6 +15396,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -13970,6 +15475,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14045,6 +15554,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14120,6 +15633,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14195,6 +15712,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14270,6 +15791,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14345,6 +15870,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14420,6 +15949,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14493,6 +16026,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14568,6 +16105,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14643,6 +16184,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14718,6 +16263,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14789,6 +16336,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14860,6 +16409,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -14933,6 +16484,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15004,6 +16557,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15079,6 +16634,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15150,6 +16707,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15225,6 +16784,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15296,6 +16857,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15367,6 +16930,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15440,6 +17005,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15494,6 +17061,81 @@
       ]
     },
     {
+      "id": "instagram:DYNkX3xkhJK",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DYNkX3xkhJK/",
+      "creator": "igabriellewalsh",
+      "published_at": null,
+      "published_date": "2026-05-11",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-25T07:34:27+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-25T07:34:27+00:00",
+      "caption": "Another one around the sun ✨💫\n\nFeeling so loved and blessed. I have beautiful people in my life and am finding inspiration all around me. This year I pray for unapologetic truth and continual sharing of my love and wonder. \n\nThere’s so much to get hung up on in life. Wonder is where we find vision beyond our very small, absolutely big world. \n\nLife is a gift worth living and celebrating. 💃🏽❤️‍🔥\n\nThank you for celebrating with me and all the bday love. Love you. You are wonderful! \n\n#birthdaywishes #birthdaygirl",
+      "description": "@igabriellewalsh 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "unknown",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-25T07:34:27+00:00",
+        "likes": 2515,
+        "likes_display": "2,515",
+        "comments": 266,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-25T07:34:27+00:00",
+          "likes": 2515,
+          "likes_display": "2,515",
+          "comments": 266,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DYNkX3xkhJK_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "instagram:DQxVHmkAXVW",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/p/DQxVHmkAXVW/",
@@ -15511,6 +17153,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15582,6 +17226,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15655,6 +17301,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15728,6 +17376,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15801,6 +17451,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15874,6 +17526,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -15949,6 +17603,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16024,6 +17682,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16097,6 +17757,8 @@
       "suitability": "safe",
       "initial_screening": "preview_passed",
       "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16175,6 +17837,8 @@
       "suitability": "safe",
       "initial_screening": "preview_passed",
       "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16255,6 +17919,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "reserve",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16328,6 +17994,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "rejected",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16419,6 +18089,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "rejected",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16490,6 +18162,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16565,6 +18241,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16638,6 +18318,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16711,6 +18395,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16769,6 +18457,109 @@
       ]
     },
     {
+      "id": "tiktok:7486724342915681541",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@aiactressglobal1/video/7486724342915681541",
+      "creator": "aiactressglobal1",
+      "published_at": "2025-03-28T05:14:14+00:00",
+      "published_date": "2025-03-28",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-24T08:28:29.996888+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-24T09:10:54+00:00",
+      "caption": "🌿✨ Ethereal Elegance in Rain ✨🌿 Drenched in nature’s beauty, this AI-generated Indian model radiates grace in a stunning emerald green saree. 💚🌧️ With raindrops glistening and a serene gaze, she embodies the timeless charm of tradition and nature combined. 🌿💫 Would you love to see more AI-generated ethnic looks like this? Let us know in the comments! ⬇️👇 📍 AI-Generated | #AiActressGlobal #AIGeneratedModels #IndianBeauty #SareeLove #TraditionalElegance #RainyVibes #etherealaesthetic",
+      "description": "@aiactressglobal1 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "india",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "low",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-24T09:10:54+00:00",
+        "likes": 2557,
+        "likes_display": "2557",
+        "comments": 56,
+        "views": 116800,
+        "shares": 185,
+        "source": "TikTok public video-detail embedded JSON"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-24T09:10:54+00:00",
+          "likes": 2557,
+          "likes_display": "2557",
+          "comments": 56,
+          "views": 116800,
+          "shares": 185,
+          "source": "TikTok public video-detail embedded JSON"
+        },
+        {
+          "captured_at": "2026-10-24T08:59:02+00:00",
+          "likes": 2557,
+          "likes_display": "2557",
+          "comments": 56,
+          "views": 116800,
+          "shares": 185,
+          "source": "TikTok public video-detail embedded JSON"
+        },
+        {
+          "captured_at": "2026-10-24T08:53:56+00:00",
+          "likes": 2557,
+          "likes_display": "2557",
+          "comments": 56,
+          "views": 116800,
+          "shares": 185,
+          "source": "TikTok public video-detail embedded JSON"
+        },
+        {
+          "captured_at": "2026-10-24T08:28:29.996888+00:00",
+          "likes": 2557,
+          "likes_display": "2557",
+          "comments": 56,
+          "views": 116800,
+          "shares": 185,
+          "source": "TikTok public video-detail embedded JSON"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7486724342915681541_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "instagram:DRv1WCeD5XE",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/reel/DRv1WCeD5XE/",
@@ -16786,6 +18577,10 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取"
+      ],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16857,6 +18652,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -16913,6 +18710,81 @@
       ]
     },
     {
+      "id": "instagram:CxyYJAWPd36",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/CxyYJAWPd36/",
+      "creator": "pnqrlevtjkmo",
+      "published_at": null,
+      "published_date": "2023-09-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-24T08:28:21.188866+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-24T08:28:21.188866+00:00",
+      "caption": "Indian saree beauties ❤️\n\nAi generated actress. Follow @aiactress_global #likes #like #follow #likeforlikes #love #instagood #instagram #followforfollowback #followme #photooftheday #photography #bhfyp #instalike #l #instadaily #likeforfollow #picoftheday #fashion #beautiful #me #followers #smile #likeforlike #myself #followback #alexnevergivesup #comment #followforfollow #aishwaryarai #aiactress",
+      "description": "@pnqrlevtjkmo 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "unknown",
+      "market_region": "india",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "high",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-24T08:28:21.188866+00:00",
+        "likes": 302,
+        "likes_display": "302",
+        "comments": 3,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-24T08:28:21.188866+00:00",
+          "likes": 302,
+          "likes_display": "302",
+          "comments": 3,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_CxyYJAWPd36_0.jpg",
+          "preview_status": "image_http_200_verified",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "instagram:DOpe0mfCFjW",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/p/DOpe0mfCFjW/",
@@ -16930,6 +18802,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -17014,6 +18888,8 @@
       "suitability": "review",
       "initial_screening": "preview_passed",
       "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": null,
       "alternate_sources": [],
@@ -17066,6 +18942,1021 @@
           "kind": "image",
           "preview": "assets/instagram_Ddnxe61kihV_0.jpg",
           "preview_status": "image_http_200_verified",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2478288795984948",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/ai.dolldance20/videos/2478288795984948/",
+      "creator": "author not returned",
+      "published_at": "2026-08-31T01:59:44+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Photorealistic AI-animated woman, emerald green saree with gold trim, matching blouse, maang tikka/choker/jhumka, stone terrace at sunset, classical-inspired hand gestures and spins, garden/lanterns/gazebo",
+      "recommendation_reason": "Classical sunset terrace template",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/author not returned/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T12:30:38+00:00",
+        "likes": 2400,
+        "comments": 22,
+        "views": null,
+        "shares": null,
+        "source": "muse_csv_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 2400,
+          "comments": 22,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_facebook_2478288795984948_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1496721745524493",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61562917092883/videos/1496721745524493/",
+      "creator": "author not returned",
+      "published_at": "2026-06-11T10:03:24+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "AI female character, cream silk saree with red border and red blouse, gold jewellery, luxurious modern interior, graceful Indian-inspired spins/arm gestures/hip sways",
+      "recommendation_reason": "Graceful saree interior template",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/author not returned/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T12:30:38+00:00",
+        "likes": 2800,
+        "comments": 23,
+        "views": null,
+        "shares": null,
+        "source": "muse_csv_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 2800,
+          "comments": 23,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_facebook_1496721745524493_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2451417978663624",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61562917092883/videos/2451417978663624/",
+      "creator": "author not returned",
+      "published_at": "2026-06-22T18:22:03+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Photorealistic digital woman, sleeveless floor-length magenta-red dress with embroidered top, nude heels, minimalist marble room, traditional-style dance to Punjabi song Laung Laachi",
+      "recommendation_reason": "Punjabi traditional-style template",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/author not returned/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T12:30:38+00:00",
+        "likes": 1500,
+        "comments": 36,
+        "views": null,
+        "shares": null,
+        "source": "muse_csv_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 1500,
+          "comments": 36,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_facebook_2451417978663624_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dd21PvWGdQ_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/Dd21PvWGdQ_",
+      "creator": "rav_iranjan95",
+      "published_at": "2026-09-29T03:49:23+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Vintage 1980s South Indian family studio portrait, three people, painted arches and garden backdrop, retro abstract shirt / traditional dress",
+      "recommendation_reason": "Family template, but note oil-painting style wording - check photorealism before use",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T12:30:38+00:00",
+        "likes": 2700,
+        "comments": 130,
+        "views": null,
+        "shares": null,
+        "source": "muse_csv_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 2700,
+          "comments": 130,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_Dd21PvWGdQ__0.webp",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdLr4KnjvWf",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@alpha_rahul_/post/DdLr4KnjvWf",
+      "creator": "alpha_rahul_",
+      "published_at": "2026-09-12T09:40:11+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "South Asian couple, traditional Indian wedding, red embroidered bridal lehenga with veil/gold jewellery/henna, cream sherwani with stole and garlands, marigold backdrop, vintage faded aesthetic",
+      "recommendation_reason": "Highest likes in India photo batch; couple/wedding template",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@alpha_rahul_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T12:30:38+00:00",
+        "likes": 19000,
+        "comments": 170,
+        "views": null,
+        "shares": null,
+        "source": "muse_csv_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 19000,
+          "comments": 170,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DdLr4KnjvWf_0.webp",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DcdrR8KE-nr",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@jeebiteshkumar/post/DcdrR8KE-nr",
+      "creator": "jeebiteshkumar",
+      "published_at": "2026-08-25T12:49:54+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Young Indian man, black sunglasses, oversized red T-shirt, black cargo pants, white high-top sneakers, crimson smoke dissolving effect, dark studio",
+      "recommendation_reason": "Male fashion template, strong comment engagement",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@jeebiteshkumar",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T12:30:38+00:00",
+        "likes": 420,
+        "comments": 160,
+        "views": null,
+        "shares": null,
+        "source": "muse_csv_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 420,
+          "comments": 160,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DcdrR8KE-nr_0.webp",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1736509554255843",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/tatea.rohaeni/posts/1736509554255843/",
+      "creator": "tatea.rohaeni",
+      "published_at": "2026-06-17T07:33:45+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Close-up AI portrait, patterned grey/black/beige hijab, light pink top, pearl drop earrings, white mosque with minaret and dome in background, Ai watermark top left",
+      "recommendation_reason": "High comment volume; stylised eyes mean Codex should check realism before template use",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/tatea.rohaeni/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T12:30:38+00:00",
+        "likes": 170,
+        "comments": 390,
+        "views": null,
+        "shares": null,
+        "source": "muse_csv_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 170,
+          "comments": 390,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_1736509554255843_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1118796454348452",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/348492328045539/posts/1118796454348452/",
+      "creator": "group post - author not returned",
+      "published_at": "2026-10-07T13:05:51+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "2x2 grid collage, same young Indonesian Muslim woman, patterned semi-transparent hijab in purple/mauve/grey, chocolate-brown long-sleeve top, four close-up selfie poses",
+      "recommendation_reason": "Multi-photo hijab close-up template; nationality stated as Indonesian Muslim woman in summary",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/group post - author not returned/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T12:30:38+00:00",
+        "likes": 120,
+        "comments": 53,
+        "views": null,
+        "shares": null,
+        "source": "muse_csv_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 120,
+          "comments": 53,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_1118796454348452_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dd0wsNyCmJK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@jaana_ki_sehzadi143/post/Dd0wsNyCmJK",
+      "creator": "jaana_ki_sehzadi143",
+      "published_at": "2026-09-28T08:31:06+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Young Indonesian woman, hijab, blue-to-pink ombre gamis dress, white marble stairs, pink/blue/white hydrangeas, pink shoes and handbag",
+      "recommendation_reason": "Ombre gamis colour template; low engagement, prompt flag for Codex filter",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@jaana_ki_sehzadi143",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T12:30:38+00:00",
+        "likes": 12,
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "muse_csv_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 12,
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_Dd0wsNyCmJK_0.webp",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1044961871702902",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/AvyaLumina/videos/1044961871702902/",
+      "creator": "author not returned",
+      "published_at": "2026-08-19T03:04:12+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T06:08:36+00:00",
+      "last_collected_at": "2026-10-28T14:03:20+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Single AI female figure, bright red lehenga choli with heavy gold embroidery, dupatta, gold necklaces/jhumka/bangles, bindi/maang tikka, sunlit cobblestone street with cafe awnings, Bollywood choreography",
+      "recommendation_reason": "Red lehenga Bollywood street template",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/author not returned/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T14:03:20+00:00",
+        "likes": 3100,
+        "comments": 95,
+        "views": null,
+        "shares": null,
+        "source": "muse_json_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T14:03:20+00:00",
+          "likes": 3100,
+          "comments": 95,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 3100,
+          "comments": 95,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        },
+        {
+          "captured_at": "2026-10-28T07:06:48+00:00",
+          "likes": 3100,
+          "comments": 95,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T07:00:25+00:00",
+          "likes": 3100,
+          "comments": 95,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T06:10:42+00:00",
+          "likes": 3100,
+          "comments": 95,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T06:08:36+00:00",
+          "likes": 3100,
+          "comments": 95,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_facebook_1044961871702902_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DY_EbEDJbJm",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DY_EbEDJbJm/",
+      "creator": "liastarmoves",
+      "published_at": "2026-05-31T01:59:29+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T06:08:36+00:00",
+      "last_collected_at": "2026-10-28T14:03:20+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Photorealistic AI female dancer in a modern concrete studio, black cropped hoodie, loose dark cargo pants, sneakers, Bollywood-style dance to 'muqabala', steps, spins and hip sways",
+      "recommendation_reason": "Highest likes in the dance batch; modern Bollywood studio template",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "rejected",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认",
+        "旧系统审核淘汰，待人工判断"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/liastarmoves",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T14:03:20+00:00",
+        "likes": 16000,
+        "comments": 53,
+        "views": null,
+        "shares": null,
+        "source": "muse_json_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T14:03:20+00:00",
+          "likes": 16000,
+          "comments": 53,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 16000,
+          "comments": 53,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        },
+        {
+          "captured_at": "2026-10-28T07:06:48+00:00",
+          "likes": 16000,
+          "comments": 53,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T07:00:25+00:00",
+          "likes": 16000,
+          "comments": 53,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T06:10:42+00:00",
+          "likes": 16000,
+          "comments": 53,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T06:08:36+00:00",
+          "likes": 16000,
+          "comments": 53,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DY_EbEDJbJm_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:28506256549004945",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/jhilik.bhattacharjee.14/posts/28506256549004945/",
+      "creator": "jhilik.bhattacharjee.14",
+      "published_at": "2026-09-15T12:42:49+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T06:08:36+00:00",
+      "last_collected_at": "2026-10-28T14:03:20+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Middle-aged woman, white sari with red border and green embroidered blouse, beside older grey-haired man in white kurta and dhoti, outdoor residential setting, smiling",
+      "recommendation_reason": "Female + older couple template; memorial context in caption - Codex should check sensitivity before commercial template use",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "rejected",
+      "verification_notes": [
+        "AI属性待确认",
+        "旧系统审核淘汰，待人工判断"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/jhilik.bhattacharjee.14",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T14:03:20+00:00",
+        "likes": 730,
+        "comments": 27,
+        "views": null,
+        "shares": null,
+        "source": "muse_json_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T14:03:20+00:00",
+          "likes": 730,
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T12:30:38+00:00",
+          "likes": 730,
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "muse_csv_claim"
+        },
+        {
+          "captured_at": "2026-10-28T07:06:48+00:00",
+          "likes": 730,
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T07:00:25+00:00",
+          "likes": 730,
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T06:10:42+00:00",
+          "likes": 730,
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        },
+        {
+          "captured_at": "2026-10-28T06:08:36+00:00",
+          "likes": 730,
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "muse_json_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_28506256549004945_0.jpg",
+          "preview_status": "fetched",
           "result_status": "unknown",
           "visual_analysis": null
         }
