@@ -27,6 +27,7 @@ jobs:
           python3 - <<'PY'
           import json
           from pathlib import Path
+          from urllib.parse import urlparse
           root = Path('site')
           data = json.loads((root / 'data' / 'materials.json').read_text())
           assert data['schema_version'] == 2
@@ -40,7 +41,16 @@ jobs:
                   assert isinstance(item['tags'][field], list)
                   assert set(item['tags'][field]) <= set(allowed)
               assert item['suitability'] in {'safe', 'review'}
-              assert item['post_url'].startswith(('https://www.instagram.com/', 'https://www.tiktok.com/'))
+              post_url = urlparse(item['post_url'])
+              expected_hosts = {
+                  'instagram': {'instagram.com', 'www.instagram.com'},
+                  'tiktok': {'tiktok.com', 'www.tiktok.com'},
+                  'youtube': {'youtube.com', 'www.youtube.com', 'youtu.be'},
+                  'facebook': {'facebook.com', 'www.facebook.com'},
+                  'threads': {'threads.com', 'www.threads.com', 'threads.net', 'www.threads.net'},
+              }
+              assert post_url.scheme == 'https' and post_url.hostname in expected_hosts.get(item['platform'], set())
+              assert post_url.path not in {'', '/'}
               assert item['media']
               for media in item['media']:
                   preview = media.get('preview')
