@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T03:54:35+00:00",
+  "generated_at": "2026-10-28T04:28:09+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -47,6 +47,234 @@
     ]
   },
   "materials": [
+    {
+      "id": "instagram:DfAGCk0GrFY",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/promptgallery.ig/p/DfAGCk0GrFY/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T04:27:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T04:27:14+00:00",
+      "caption": "#prompt #gemini #geminiedits \n\n[ Google Gemini, Prompt, Nano banana, Image Editing, prompts, Gemini Edits, Photo Edits, Trending Edits, Tamil Edits, Office]",
+      "description": "浅粉色花墙前的微笑女性写真",
+      "recommendation_reason": "花墙和暖光可作为节庆女性人像场景；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "花海",
+      "image_description": "浅粉花墙前微笑肖像",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "花海"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T04:27:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T04:27:14+00:00",
+        "likes": 559,
+        "likes_display": "559",
+        "comments": 18,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T04:27:14+00:00",
+          "likes": 559,
+          "likes_display": "559",
+          "comments": 18,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfAGCk0GrFY_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfBUb_Bmn8G",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/promptgallery.ig/p/DfBUb_Bmn8G/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T04:27:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T04:27:14+00:00",
+      "caption": "#prompt #gemini #geminiedits \n\n[ Google Gemini, Prompt, Nano banana, Image Editing, prompts, Gemini Edits, Photo Edits, Trending Edits, Tamil Edits, Office]",
+      "description": "红黑文字墙前的墨镜男性海报像",
+      "recommendation_reason": "强字体背景营造戏剧化个人海报效果；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "红黑文字背景男性海报",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T04:27:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T04:27:14+00:00",
+        "likes": 260,
+        "likes_display": "260",
+        "comments": 4,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T04:27:14+00:00",
+          "likes": 260,
+          "likes_display": "260",
+          "comments": 4,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfBUb_Bmn8G_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfBe_gKIJ6f",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/promptgallery.ig/p/DfBe_gKIJ6f/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T04:27:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T04:27:14+00:00",
+      "caption": "#prompt #gemini #geminiedits \n\n[ Google Gemini, Prompt, Nano banana, Image Editing, prompts, Gemini Edits, Photo Edits, Trending Edits, Tamil Edits, Office]",
+      "description": "暖色背景里的白衬衫墨镜男性肖像",
+      "recommendation_reason": "暖光人像与墨镜形成成熟男性写真方向；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "暖光白衬衫墨镜男像",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T04:27:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-28T04:27:14+00:00",
+        "likes": 7,
+        "likes_display": "7",
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-28T04:27:14+00:00",
+          "likes": 7,
+          "likes_display": "7",
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfBe_gKIJ6f_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DTEaISlEyla",
       "platform": "instagram",
