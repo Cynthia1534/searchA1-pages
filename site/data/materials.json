@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T12:37:18+00:00",
+  "generated_at": "2026-10-28T13:56:14+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -47,6 +47,281 @@
     ]
   },
   "materials": [
+    {
+      "id": "facebook:962465389618987",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/518911853974345/posts/962465389618987/",
+      "creator": "Winda Agusvina",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "caption": null,
+      "description": "Carousel 3 images, same adult Indonesian Muslim woman, modern hijab and fitted jeans, premium cafe interior, cream ribbed sweater / white lace blouse",
+      "recommendation_reason": "Multi-photo cafe hijab template; very low engagement, new creator lead only",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Winda Agusvina/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "窗边白巾咖啡小憩",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T13:56:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_962465389618987_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dd5BRsBgcwj",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/Dd5BRsBgcwj",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "caption": null,
+      "description": "Light floral hijab, dusty-pink long-sleeve dress, seated on light grey sofa, softly lit living room",
+      "recommendation_reason": "Highest likes in Indonesia batch; home/lifestyle hijab template",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "粉裙浅巾端坐",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T13:56:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dd5BRsBgcwj_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeO9g5emYhZ",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DeO9g5emYhZ",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "caption": null,
+      "description": "Light grey hijab, pink cable-knit sweater, blue jeans, brick alley at sunset, halo backlight",
+      "recommendation_reason": "Casual everyday hijab template; prompt flag for Codex filter",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "粉衣石巷漫步",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T13:56:12+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeO9g5emYhZ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeRhMxLmUAC",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DeRhMxLmUAC",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "caption": null,
+      "description": "Navy-blue hijab, light-blue striped long-sleeve shirt, looking back over shoulder, cafe/modern interior bokeh",
+      "recommendation_reason": "Casual cafe hijab template, decent and simple",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "深蓝头巾回眸",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T13:56:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeRhMxLmUAC_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeCAZYemZQs",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DeCAZYemZQs",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "caption": null,
+      "description": "Beige hijab with brown floral pattern, matching beige embroidered tunic and trousers, rooftop railing at golden hour, city skyline",
+      "recommendation_reason": "Recent (Oct 2026) realistic hijab rooftop golden-hour template; watch prompt-sharing flag in Codex review",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "米色头巾露台夕照",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T13:56:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeCAZYemZQs_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "threads:DeZOa62mXPm",
       "platform": "threads",
