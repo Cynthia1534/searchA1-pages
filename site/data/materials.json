@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T04:28:09+00:00",
+  "generated_at": "2026-10-28T04:34:07+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -47,6 +47,64 @@
     ]
   },
   "materials": [
+    {
+      "id": "instagram:DfBihnvCDw8",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/cinetale.duo/p/DfBihnvCDw8/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-28T04:34:07+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T04:34:07+00:00",
+      "caption": "Comment prompt ✨ \n#weddingseason #WeddingPhotography #aigenerated #bride #groom",
+      "description": "新娘闭眼、伴侣靠近面颊的婚礼双人近景",
+      "recommendation_reason": "细腻面部互动适合婚礼纪念近景模板；仅核验真实首图，未声称已检查轮播全组。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "新娘闭眼双人面颊特写",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T04:34:07+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfBihnvCDw8_0.jpg",
+          "preview_status": "cached_private_thumbnail",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DfAGCk0GrFY",
       "platform": "instagram",
