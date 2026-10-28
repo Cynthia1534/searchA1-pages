@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T07:23:44+00:00",
+  "generated_at": "2026-10-28T12:37:18+00:00",
   "scope": "Public snapshot: real posts that passed initial preview suitability screening",
   "taxonomy": {
     "audience_tags": [
@@ -47,6 +47,61 @@
     ]
   },
   "materials": [
+    {
+      "id": "threads:DeZOa62mXPm",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DeZOa62mXPm",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-28T12:30:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-28T12:30:38+00:00",
+      "caption": null,
+      "description": "Royal blue long-sleeve dress, cream hijab with blue floral pattern, indoor wooden staircase railing, warm sunlight",
+      "recommendation_reason": "Indoor modest formal look, high recent engagement in this batch",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "蓝裙碎花巾倚木梯",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-28T12:37:18+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeZOa62mXPm_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "facebook:1081998741253687",
       "platform": "facebook",
