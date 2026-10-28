@@ -160,6 +160,7 @@ function matches(item) {
   if ($('market-region').value && (item.market_region || 'unknown') !== $('market-region').value) return false;
   if ($('material-kind').value && category(item) !== $('material-kind').value) return false;
   if ($('discovery-origin').value && (item.discovery_origin || 'unknown') !== $('discovery-origin').value) return false;
+  if ($('discovery-agent').value && (item.discovery_agent || 'unknown') !== $('discovery-agent').value) return false;
   if ($('source-account').value && `${item.platform}:${item.creator}` !== $('source-account').value) return false;
   if ($('day').value && captureDay(item) !== $('day').value) return false;
   if ($('day-from').value && captureDay(item) < $('day-from').value) return false;
@@ -188,7 +189,7 @@ function compareItems(a,b) {
 function activeFilters() {
   const area = $('active-filters');
   area.replaceChildren();
-  for (const [id,name] of [['search','搜索'],['day','采集日期'],['market-region','市场地区'],['platform','平台'],['material-kind','素材类型'],['discovery-origin','素材来源'],['source-account','来源账号'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序'],['audience-filter','受众标签'],['theme-filter','主题标签']]) {
+  for (const [id,name] of [['search','搜索'],['day','采集日期'],['market-region','市场地区'],['platform','平台'],['material-kind','素材类型'],['discovery-origin','素材来源'],['discovery-agent','发现 Agent'],['source-account','来源账号'],['day-from','起始'],['day-to','结束'],['suitability','内容审核'],['sort','排序'],['audience-filter','受众标签'],['theme-filter','主题标签']]) {
     const field = $(id);
     if (!field.value || (id === 'sort' && field.value === 'discovered')) continue;
     const value = id === 'material-kind' ? categoryNames[field.value] : field.selectedOptions?.[0]?.textContent || field.value;
@@ -328,7 +329,7 @@ function titleEditor(item) {
 function materialFacts(item) {
   const names = {
     market: {india:'印度',indonesia:'印尼',unknown:'地区待确认'},
-    origin: {user_provided_profile:'我提供的主页',codex_discovery:'Codex 自主发现',unknown:'来源待确认'},
+    origin: {user_provided_profile:'提供主页',codex_discovery:'自主发现',muse_discovery:'Muse 自主发现',unknown:'来源待确认'},
     kind: {...categoryNames,unknown:'待核实'}
   };
   const facts=el('div','material-facts');
