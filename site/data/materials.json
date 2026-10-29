@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T23:41:20+00:00",
+  "generated_at": "2026-10-29T01:30:25+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -47,12 +47,336 @@
     ]
   },
   "export_stats": {
-    "formal": 239,
+    "formal": 243,
     "candidates": 12,
     "confirmed_duplicates_skipped": 8,
     "suspected_duplicates_included": 0
   },
   "materials": [
+    {
+      "id": "instagram:DWG99i_kyiF",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DWG99i_kyiF/",
+      "creator": "vijaygraphics.design",
+      "published_at": null,
+      "published_date": "2026-03-20",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T01:30:22+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T01:30:22+00:00",
+      "caption": "Trending Ai Traditional wedding coupl Generate✨✨\n\n#prompt #gemini #chatgpt #tamilov",
+      "description": "彩幕木椅双人照",
+      "recommendation_reason": "Tamil 相关文案及婚礼传统服饰对应印度市场；彩色渐变棚拍背景有参考价值。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vijaygraphics.design/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "棚拍",
+      "image_description": "彩幕木椅双人照",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T01:30:22+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T01:30:22+00:00",
+        "likes": 483,
+        "likes_display": "483",
+        "comments": 764,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T01:30:22+00:00",
+          "likes": 483,
+          "likes_display": "483",
+          "comments": 764,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DWG99i_kyiF_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOgS5brAXE-",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DOgS5brAXE-/",
+      "creator": "ankitabish",
+      "published_at": null,
+      "published_date": "2025-09-12",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T01:30:22+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T01:30:22+00:00",
+      "caption": "How beautiful this trend is🥹✨🫶🏻\n.\n\nPrompt -Convert, 4K HD realistic, A stunning portrait of a young Indian woman with long, dark, wavy hair cascading over her shoulders. She is wearing a translucent, elegant red saree draped over one shoulder, revealing a fitted blouse underneath. White flowers are tucked behind her right ear. She is looking slightly to her right, with a soft, serene expression. I want same face as I uploaded no alternation 100 percent same. The background is a plain, warm-toned wall, illuminated by a warm light source from the right, creating a distinct, soft-edged shadow of her profile and hair on the wall behind her. The overall mood is retro and artistic.”\n.\n.\n.\n[gemini,google gemini,red saree,transformation,retro,retro look,Ai,vintage,trend]\n\n#réel #reelsfyp #reelitfeelit #gemini #googlegemini #trend #trendingsongs #trendingnow #explorer #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp #fypage",
+      "description": "暖光花饰侧影",
+      "recommendation_reason": "原帖描述 young Indian woman；暖色灯光在墙上形成侧影，红色纱丽与白色花饰适合作为风格参考。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ankitabish/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "暖光花饰侧影",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T01:30:22+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T01:30:22+00:00",
+        "likes": 1095,
+        "likes_display": "1,095",
+        "comments": 445,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T01:30:22+00:00",
+          "likes": 1095,
+          "likes_display": "1,095",
+          "comments": 445,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOgS5brAXE-_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DT7Unqvk39s",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DT7Unqvk39s/",
+      "creator": "ms_fans01",
+      "published_at": null,
+      "published_date": "2026-01-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T01:30:21+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T01:30:21+00:00",
+      "caption": "​\"A high-quality realistic photo of a young stylish Indian man sitting in the driver's seat of an open-top black off-road jeep. He is wearing a black denim jacket over a plain white t-shirt, slim-fit black jeans, and clean white sneakers. He has wavy dark hair, wearing round dark sunglasses and a white smartwatch. One hand is on the steering wheel, looking confidently at the camera. The background green forest during daylight. Cinematic lighting, 8k resolution, sharp focus",
+      "description": "林中越野车旁造型",
+      "recommendation_reason": "文案明确写 young stylish Indian man；森林越野车场景有模板参考价值。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ms_fans01/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "开车",
+      "image_description": "林中越野车旁造型",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "开车"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T01:30:21+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T01:30:21+00:00",
+        "likes": 2,
+        "likes_display": "2",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T01:30:21+00:00",
+          "likes": 2,
+          "likes_display": "2",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DT7Unqvk39s_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:CtTJBMepNLq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/CtTJBMepNLq/",
+      "creator": "actorprabhasfanspage_",
+      "published_at": null,
+      "published_date": "2023-06-09",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T01:30:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T01:30:20+00:00",
+      "caption": "AI Generated Image of Rebel Star #Prabhas As Thor 🥵💥💥💥\n#adipurush #salaar\nFollow @actorprabhasfanspage_ Follow @actorprabhasfanspage_\n#prabhas #radheshyam\n#prabhasunseen #baahubaliprabhas #prabhasfans  #prabhash #Adipurush #prabhasdarling #prabhasrajuonline1\n#prabhas21 #prabhasrajuuppalapati \n#prabhasoninstagram  #salaar\n#prabhassaahomovie #prabhasofficial \n#prabhas20 #prabhasoninstagram\n #prabhasfemalefans  #prabhasraju  #prabhasmyhero s😘 #prabhash #prabhassongs #prabhasrajuuppalapati #prabhaswaxstatue #actorprabhasfanspage  #prabhas #prabhasofficial #prabhasofc #prabhasakshi  #actorprabhasfanspage_",
+      "description": "雷雨中持锤战士",
+      "recommendation_reason": "印度演员题材；黑色战甲完整覆盖身体，背景光效具海报参考价值。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/actorprabhasfanspage_/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "雷雨中持锤战士",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T01:30:21+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T01:30:20+00:00",
+        "likes": 3634,
+        "likes_display": "3,634",
+        "comments": 18,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T01:30:20+00:00",
+          "likes": 3634,
+          "likes_display": "3,634",
+          "comments": 18,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_CtTJBMepNLq_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "facebook:962465389618987",
       "platform": "facebook",
