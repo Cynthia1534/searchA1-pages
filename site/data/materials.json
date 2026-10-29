@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T05:57:00+00:00",
+  "generated_at": "2026-10-29T08:34:25+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -87,6 +87,7 @@
       "audience_tag": "情侣",
       "theme_tag": "拥抱",
       "image_description": "红玫瑰花束合影",
+      "copy_title": "情侣+拥抱+红玫瑰花束合影+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -166,6 +167,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纯色暗调",
       "image_description": "黑金纱丽暗光肖像",
+      "copy_title": "单人女性+纯色暗调+黑金纱丽暗光肖像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -245,6 +247,7 @@
       "audience_tag": "情侣",
       "theme_tag": "拥抱",
       "image_description": "草坪抱起双人照",
+      "copy_title": "情侣+拥抱+草坪抱起双人照+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -324,6 +327,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "墨镜",
       "image_description": "棋盘前墨镜对弈",
+      "copy_title": "单人男性+墨镜+棋盘前墨镜对弈+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -403,6 +407,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "耍帅",
       "image_description": "石柱台阶黑衣造型",
+      "copy_title": "单人男性+耍帅+石柱台阶黑衣造型+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -482,6 +487,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "海报",
       "image_description": "彩圈烛光节日像",
+      "copy_title": "单人女性+海报+彩圈烛光节日像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -543,6 +549,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "多宫格",
       "image_description": "蓝纱肖像切片",
+      "copy_title": "单人女性+多宫格+蓝纱肖像切片+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -622,6 +629,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "绿丝纱倚红墙",
+      "copy_title": "单人女性+纱丽+绿丝纱倚红墙+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -701,6 +709,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "树下心碎三人景",
+      "copy_title": "单人男性+海报+树下心碎三人景+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -780,6 +789,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "蓝金纱丽粉底照",
+      "copy_title": "单人女性+纱丽+蓝金纱丽粉底照+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -859,6 +869,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "棚拍",
       "image_description": "酒红布景方块椅",
+      "copy_title": "单人男性+棚拍+酒红布景方块椅+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -938,6 +949,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "棚拍",
       "image_description": "白衬衫柔光肖像",
+      "copy_title": "单人女性+棚拍+白衬衫柔光肖像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -1017,6 +1029,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "海报",
       "image_description": "双手捧月夜景",
+      "copy_title": "单人女性+海报+双手捧月夜景+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -1078,6 +1091,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "旧墙绿门金色裙",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -1137,6 +1151,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "海报",
       "image_description": "破墙咖啡萌娃",
+      "copy_title": "宝宝儿童+海报+破墙咖啡萌娃+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -1198,6 +1213,7 @@
       "audience_tag": "情侣",
       "theme_tag": "海报",
       "image_description": "法庭并肩对望",
+      "copy_title": "情侣+海报+法庭并肩对望+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -1277,6 +1293,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "心形墙边双人探头",
+      "copy_title": "情侣+亲密互动+心形墙边双人探头+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -1338,6 +1355,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "红纱牵手笑望",
+      "copy_title": "情侣+亲密互动+红纱牵手笑望+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -1417,6 +1435,7 @@
       "audience_tag": "情侣",
       "theme_tag": "纱丽",
       "image_description": "淡底新婚双人照",
+      "copy_title": "情侣+纱丽+淡底新婚双人照+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -1496,6 +1515,7 @@
       "audience_tag": "情侣",
       "theme_tag": "海边",
       "image_description": "晚霞海岸双人照",
+      "copy_title": "情侣+海边+晚霞海岸双人照+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -1557,6 +1577,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": "拍立得",
       "image_description": "妈妈抱娃记事墙",
+      "copy_title": "亲子家庭+拍立得+妈妈抱娃记事墙+图片+原",
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -1618,6 +1639,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "海报",
       "image_description": "画笔桥上的萌娃",
+      "copy_title": "宝宝儿童+海报+画笔桥上的萌娃+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -1697,6 +1719,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "橙绿背景探头全家福",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -1756,6 +1779,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "印度独立日",
       "image_description": "天台挥动国旗",
+      "copy_title": "单人男性+印度独立日+天台挥动国旗+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -1817,6 +1841,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "印度独立日",
       "image_description": "白衣国旗肖像",
+      "copy_title": "单人男性+印度独立日+白衣国旗肖像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -1878,6 +1903,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "印度独立日",
       "image_description": "夕照高举三色旗",
+      "copy_title": "单人男性+印度独立日+夕照高举三色旗+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -1939,6 +1965,7 @@
       "audience_tag": "情侣",
       "theme_tag": "棚拍",
       "image_description": "彩幕木椅双人照",
+      "copy_title": "情侣+棚拍+彩幕木椅双人照+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -2018,6 +2045,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "暖光花饰侧影",
+      "copy_title": "单人女性+纱丽+暖光花饰侧影+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2097,6 +2125,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "开车",
       "image_description": "林中越野车旁造型",
+      "copy_title": "单人男性+开车+林中越野车旁造型+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -2176,6 +2205,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "雷雨中持锤战士",
+      "copy_title": "单人男性+海报+雷雨中持锤战士+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -2253,6 +2283,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "窗边白巾咖啡小憩",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2310,6 +2341,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "粉裙浅巾端坐",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2367,6 +2399,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "粉衣石巷漫步",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2424,6 +2457,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "深蓝头巾回眸",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2481,6 +2515,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "米色头巾露台夕照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2538,6 +2573,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "蓝裙碎花巾倚木梯",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2595,6 +2631,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "墨镜",
       "image_description": "金边白衣沙发坐姿",
+      "copy_title": "单人男性+墨镜+金边白衣沙发坐姿+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -2654,6 +2691,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纯色暗调",
       "image_description": "黑缎头巾蕾丝肖像",
+      "copy_title": "单人女性+纯色暗调+黑缎头巾蕾丝肖像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2715,6 +2753,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "新娘闭眼双人面颊特写",
+      "copy_title": "情侣+亲密互动+新娘闭眼双人面颊特写+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -2776,6 +2815,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "花海",
       "image_description": "浅粉花墙前微笑肖像",
+      "copy_title": "单人女性+花海+浅粉花墙前微笑肖像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -2855,6 +2895,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "红黑文字背景男性海报",
+      "copy_title": "单人男性+海报+红黑文字背景男性海报+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -2934,6 +2975,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "墨镜",
       "image_description": "暖光白衬衫墨镜男像",
+      "copy_title": "单人男性+墨镜+暖光白衬衫墨镜男像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3013,6 +3055,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "棚拍",
       "image_description": "深蓝头巾红框眼镜像",
+      "copy_title": "单人女性+棚拍+深蓝头巾红框眼镜像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -3092,6 +3135,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "棚拍",
       "image_description": "深色立领正式男像",
+      "copy_title": "单人男性+棚拍+深色立领正式男像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3171,6 +3215,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "棚拍",
       "image_description": "蕾丝浅头巾柔光肖像",
+      "copy_title": "单人女性+棚拍+蕾丝浅头巾柔光肖像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -3250,6 +3295,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "节庆圆盘前情侣近像",
+      "copy_title": "情侣+亲密互动+节庆圆盘前情侣近像+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -3329,6 +3375,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "墨镜",
       "image_description": "黑头巾墨镜人群前",
+      "copy_title": "单人男性+墨镜+黑头巾墨镜人群前+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3408,6 +3455,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "棚拍",
       "image_description": "深色西装灯下正面像",
+      "copy_title": "单人男性+棚拍+深色西装灯下正面像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3487,6 +3535,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "棕衣黑帽男子侧影",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3564,6 +3613,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "林间棕衣短发男子",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3641,6 +3691,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "半面红色机甲肖像",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3718,6 +3769,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "黄底墨镜闪电海报",
+      "copy_title": "单人男性+海报+黄底墨镜闪电海报+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -3797,6 +3849,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "林间童话公主小像",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -3874,6 +3927,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "海边",
       "image_description": "蓝衣男孩巨浪前跳跃",
+      "copy_title": "宝宝儿童+海边+蓝衣男孩巨浪前跳跃+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -3953,6 +4007,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "橙光几何框男性像",
+      "copy_title": "单人男性+海报+橙光几何框男性像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -4032,6 +4087,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "草叶前男子侧光像",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -4111,6 +4167,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "酒红长裙旋转起舞",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -4188,6 +4245,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "多宫格",
       "image_description": "烛光节庆双幅肖像",
+      "copy_title": "单人女性+多宫格+烛光节庆双幅肖像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -4267,6 +4325,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "灯串前轻靠双人像",
+      "copy_title": "情侣+亲密互动+灯串前轻靠双人像+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -4346,6 +4405,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "月下共持镂空圆盘",
+      "copy_title": "情侣+亲密互动+月下共持镂空圆盘+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -4425,6 +4485,7 @@
       "audience_tag": "情侣",
       "theme_tag": "多宫格",
       "image_description": "暖光情侣叠幅画面",
+      "copy_title": "情侣+多宫格+暖光情侣叠幅画面+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -4504,6 +4565,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "粉头巾树林婚照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -4581,6 +4643,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "蓝头巾拱廊侧影",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -4658,6 +4721,7 @@
       "audience_tag": "情侣",
       "theme_tag": "棚拍",
       "image_description": "粉色圆景双人婚照",
+      "copy_title": "情侣+棚拍+粉色圆景双人婚照+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -4737,6 +4801,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "夜景灯塔前黑色头巾",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -4814,6 +4879,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "棚拍",
       "image_description": "米色头巾眼镜肖像",
+      "copy_title": "单人女性+棚拍+米色头巾眼镜肖像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -4893,6 +4959,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "白头巾一家人合照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -4970,6 +5037,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "棚拍",
       "image_description": "粉贝雷帽配玫色头巾",
+      "copy_title": "单人女性+棚拍+粉贝雷帽配玫色头巾+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -5050,6 +5118,7 @@
       "audience_tag": "情侣",
       "theme_tag": "排灯节",
       "image_description": "金灯下相依",
+      "copy_title": "情侣+排灯节+金灯下相依+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -5135,6 +5204,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "情侣并肩拥笑",
+      "copy_title": "情侣+亲密互动+情侣并肩拥笑+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -5202,6 +5272,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "麻布刺绣全家福",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -5285,6 +5356,7 @@
       "audience_tag": "情侣",
       "theme_tag": "海报",
       "image_description": "荧黄漫画双人像",
+      "copy_title": "情侣+海报+荧黄漫画双人像+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -5370,6 +5442,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "海报",
       "image_description": "双影暗调女像",
+      "copy_title": "单人女性+海报+双影暗调女像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -5437,6 +5510,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "棚拍",
       "image_description": "酒红裙暖光童像",
+      "copy_title": "宝宝儿童+棚拍+酒红裙暖光童像+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -5522,6 +5596,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "双人油画凝望",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -5607,6 +5682,7 @@
       "audience_tag": "单人通用",
       "theme_tag": null,
       "image_description": "烽火历史群像",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人通用"
@@ -5690,6 +5766,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "九夜节",
       "image_description": "彩灯节庆侧颜",
+      "copy_title": "单人女性+九夜节+彩灯节庆侧颜+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -5775,6 +5852,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "红衣侧身电影像",
+      "copy_title": "单人男性+海报+红衣侧身电影像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -5860,6 +5938,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "多宫格",
       "image_description": "蓝衣三重分身",
+      "copy_title": "单人男性+多宫格+蓝衣三重分身+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -5946,6 +6025,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "红白巨字男像",
+      "copy_title": "单人男性+海报+红白巨字男像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -6033,6 +6113,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "耍帅",
       "image_description": "卷发童子举臂",
+      "copy_title": "宝宝儿童+耍帅+卷发童子举臂+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -6113,6 +6194,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -6189,6 +6271,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -6265,6 +6348,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -6341,6 +6425,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -6416,6 +6501,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -6473,6 +6559,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -6546,6 +6633,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "石廊情侣合影",
+      "copy_title": "情侣+亲密互动+石廊情侣合影+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -6625,6 +6713,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -6702,6 +6791,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "烟火废墟中白衫",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -6784,6 +6874,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "耍帅",
       "image_description": "黑衫男子梳发六图",
+      "copy_title": "单人男性+耍帅+黑衫男子梳发六图+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -6908,6 +6999,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "机舱制服牵手组图",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -7126,6 +7218,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "开车",
       "image_description": "豪车后视镜三连画",
+      "copy_title": "单人男性+开车+豪车后视镜三连画+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -7283,6 +7376,7 @@
       "audience_tag": "情侣",
       "theme_tag": "墨镜",
       "image_description": "隔桌墨镜对望",
+      "copy_title": "情侣+墨镜+隔桌墨镜对望+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -7370,6 +7464,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": "多宫格",
       "image_description": "家人围坐切蛋糕",
+      "copy_title": "亲子家庭+多宫格+家人围坐切蛋糕+图片+原",
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -7455,6 +7550,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "夕阳金甲神话合照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -7538,6 +7634,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "树影落在侧脸",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7621,6 +7718,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "柔光圆脸女童",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -7686,6 +7784,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "海报",
       "image_description": "红裙半透明叠影",
+      "copy_title": "单人女性+海报+红裙半透明叠影+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7771,6 +7870,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纯色暗调",
       "image_description": "红衣蓝红轮廓光",
+      "copy_title": "单人女性+纯色暗调+红衣蓝红轮廓光+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7856,6 +7956,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "海边黄纱丽侧影",
+      "copy_title": "单人女性+纱丽+海边黄纱丽侧影+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -7923,6 +8024,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "墨镜",
       "image_description": "蓝T墨镜街头回望",
+      "copy_title": "单人男性+墨镜+蓝T墨镜街头回望+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -8010,6 +8112,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "多宫格",
       "image_description": "蓝礼服女童拼图",
+      "copy_title": "宝宝儿童+多宫格+蓝礼服女童拼图+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -8095,6 +8198,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "花海",
       "image_description": "紫花树下蝶影",
+      "copy_title": "单人女性+花海+紫花树下蝶影+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -8180,6 +8284,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "满月下金饰侧脸",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -8265,6 +8370,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "母子伏桌看书",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -8348,6 +8454,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "多宫格",
       "image_description": "棕衫侧脸三连框",
+      "copy_title": "单人男性+多宫格+棕衫侧脸三连框+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -8416,6 +8523,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "双人贴脸柔光照",
+      "copy_title": "情侣+亲密互动+双人贴脸柔光照+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -8506,6 +8614,7 @@
       "audience_tag": "朋友",
       "theme_tag": "耍帅",
       "image_description": "粉红蓝衣三人照",
+      "copy_title": "朋友+耍帅+粉红蓝衣三人照+图片+原",
       "tags": {
         "audience_tags": [
           "朋友"
@@ -8593,6 +8702,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "推车夫妇林中行",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -8678,6 +8788,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "瀑布前蓝裙女童",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -8761,6 +8872,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "雨夜车内相视笑",
+      "copy_title": "情侣+亲密互动+雨夜车内相视笑+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -8828,6 +8940,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "多宫格",
       "image_description": "红纱丽室内四拼图",
+      "copy_title": "单人女性+多宫格+红纱丽室内四拼图+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -8913,6 +9026,7 @@
       "audience_tag": "朋友",
       "theme_tag": "海报",
       "image_description": "手写字组三人像",
+      "copy_title": "朋友+海报+手写字组三人像+图片+原",
       "tags": {
         "audience_tags": [
           "朋友"
@@ -8981,6 +9095,7 @@
       "audience_tag": "情侣",
       "theme_tag": "拥抱",
       "image_description": "山景下环臂相拥",
+      "copy_title": "情侣+拥抱+山景下环臂相拥+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -9071,6 +9186,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "十胜节",
       "image_description": "火焰神像前男像",
+      "copy_title": "单人男性+十胜节+火焰神像前男像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -9138,6 +9254,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "多宫格",
       "image_description": "红黑墨镜三联像",
+      "copy_title": "单人男性+多宫格+红黑墨镜三联像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -9223,6 +9340,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "生日大字配红光",
+      "copy_title": "单人男性+海报+生日大字配红光+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -9308,6 +9426,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "风暴山峰长发男",
+      "copy_title": "单人男性+海报+风暴山峰长发男+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -9393,6 +9512,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "祝福字样家庭照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -9458,6 +9578,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "米色小西装卷发童",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -9540,6 +9661,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "浅礼服婚礼双人",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -9622,6 +9744,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "银发伴侣茶桌对望",
+      "copy_title": "情侣+亲密互动+银发伴侣茶桌对望+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -9706,6 +9829,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "雾林中双重男像",
+      "copy_title": "单人男性+海报+雾林中双重男像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -9790,6 +9914,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "雕门前红金礼裙",
+      "copy_title": "单人女性+纱丽+雕门前红金礼裙+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -9857,6 +9982,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "菊花头冠闭眼照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -9944,6 +10070,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "耍帅",
       "image_description": "蓝色跑车霓虹男",
+      "copy_title": "单人男性+耍帅+蓝色跑车霓虹男+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -10028,6 +10155,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "黑白摄影",
       "image_description": "黑白西装正脸照",
+      "copy_title": "单人男性+黑白摄影+黑白西装正脸照+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -10113,6 +10241,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "红发童趣插画",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -10201,6 +10330,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "秋叶下棕衣少年",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -10284,6 +10414,7 @@
       "audience_tag": "情侣",
       "theme_tag": "拥抱",
       "image_description": "暖灯前情侣贴额",
+      "copy_title": "情侣+拥抱+暖灯前情侣贴额+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -10351,6 +10482,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "白金传统服饰伴侣",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -10433,6 +10565,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "树林黑西装抬手",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -10519,6 +10652,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -10608,6 +10742,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -10693,6 +10828,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "月光树下母子",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -10776,6 +10912,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "蓝肤神话情侣近景",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -10842,6 +10979,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "墨镜",
       "image_description": "粉衫墨镜绿廊",
+      "copy_title": "单人男性+墨镜+粉衫墨镜绿廊+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -10934,6 +11072,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "林荫间牵童同行",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -11017,6 +11156,7 @@
       "audience_tag": "情侣",
       "theme_tag": "拥抱",
       "image_description": "额头相抵的拥抱",
+      "copy_title": "情侣+拥抱+额头相抵的拥抱+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -11084,6 +11224,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "月夜双人神话服",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -11151,6 +11292,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": "拥抱",
       "image_description": "黑衣母亲抱娃",
+      "copy_title": "亲子家庭+拥抱+黑衣母亲抱娃+图片+原",
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -11239,6 +11381,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "排灯节",
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11307,6 +11450,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "婚礼额头抹红仪式",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11395,6 +11539,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "蓝纱罩面金鼻饰",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11478,6 +11623,7 @@
       "audience_tag": "情侣",
       "theme_tag": "墨镜",
       "image_description": "墨镜自拍心形字",
+      "copy_title": "情侣+墨镜+墨镜自拍心形字+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -11563,6 +11709,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "耍帅",
       "image_description": "透明伞下金色光点",
+      "copy_title": "单人男性+耍帅+透明伞下金色光点+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -11651,6 +11798,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "绿纱丽木门倚坐",
+      "copy_title": "单人女性+纱丽+绿纱丽木门倚坐+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11741,6 +11889,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "碎发遮眼暗调男",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -11824,6 +11973,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "新人挂紫花环",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -11889,6 +12039,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "粉纱丽树影侧脸",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -11974,6 +12125,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "街边双童端坐",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -12057,6 +12209,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "墨镜",
       "image_description": "双墨镜面孔叠影",
+      "copy_title": "单人男性+墨镜+双墨镜面孔叠影+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -12143,6 +12296,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "黑白摄影",
       "image_description": "黑白海浪里回望",
+      "copy_title": "单人男性+黑白摄影+黑白海浪里回望+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -12233,6 +12387,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "伞下新人贴脸自拍",
+      "copy_title": "情侣+亲密互动+伞下新人贴脸自拍+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -12300,6 +12455,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "双人背后金色光环",
+      "copy_title": "情侣+亲密互动+双人背后金色光环+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -12368,6 +12524,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "车窗外流光拖影",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -12456,6 +12613,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "逆光父亲高举娃",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -12521,6 +12679,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "多宫格",
       "image_description": "女童正侧脸拼版",
+      "copy_title": "宝宝儿童+多宫格+女童正侧脸拼版+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -12588,6 +12747,7 @@
       "audience_tag": "情侣",
       "theme_tag": "雪山",
       "image_description": "冬装情侣雪中合照",
+      "copy_title": "情侣+雪山+冬装情侣雪中合照+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -12658,6 +12818,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "节庆门廊牵童行",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -12748,6 +12909,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "人与动物",
       "image_description": "卡通猫旁幼童",
+      "copy_title": "宝宝儿童+人与动物+卡通猫旁幼童+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -12818,6 +12980,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": "亲密互动",
       "image_description": "金袖母子近景",
+      "copy_title": "亲子家庭+亲密互动+金袖母子近景+图片+原",
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -12911,6 +13074,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -12978,6 +13142,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "肩上孩子指向天空",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -13061,6 +13226,7 @@
       "audience_tag": "情侣",
       "theme_tag": "九夜节",
       "image_description": "彩灯九夜节拥抱",
+      "copy_title": "情侣+九夜节+彩灯九夜节拥抱+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -13128,6 +13294,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "九夜节",
       "image_description": "节庆灯墙红衣男",
+      "copy_title": "单人男性+九夜节+节庆灯墙红衣男+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -13195,6 +13362,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "九夜节",
       "image_description": "金灯下舞裙旋身",
+      "copy_title": "单人女性+九夜节+金灯下舞裙旋身+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -13261,6 +13429,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "校门前少年合照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -13346,6 +13515,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "印度独立日",
       "image_description": "山前国旗旁双童",
+      "copy_title": "宝宝儿童+印度独立日+山前国旗旁双童+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -13435,6 +13605,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "蓝橙花冠侧面像",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -13502,6 +13673,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -13586,6 +13758,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "旧车旁卷发低机位",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -13668,6 +13841,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "蓝肤神话童装合照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -13750,6 +13924,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "林间伴侣贴近",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -13835,6 +14010,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "人与动物",
       "image_description": "兔子玩偶旁幼童",
+      "copy_title": "宝宝儿童+人与动物+兔子玩偶旁幼童+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -13920,6 +14096,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "拼贴",
       "image_description": "暖棕相框碎纸人像",
+      "copy_title": "单人女性+拼贴+暖棕相框碎纸人像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -13986,6 +14163,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "木框里室内少女",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14050,6 +14228,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "绿纱丽红门前",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14132,6 +14311,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "绿裙木屋端坐",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14215,6 +14395,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "古石门前蓝头纱",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14298,6 +14479,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "粉面纱金鼻环新娘",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14380,6 +14562,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "金色落日马路",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14463,6 +14646,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "串灯下红金低头",
+      "copy_title": "单人女性+纱丽+串灯下红金低头+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14552,6 +14736,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "窗边风吹乱发",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14617,6 +14802,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "酒红衣金饰正脸",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14682,6 +14868,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "白雕拱门内婚纱",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14765,6 +14952,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "咖啡灯串双人对视",
+      "copy_title": "情侣+亲密互动+咖啡灯串双人对视+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -14832,6 +15020,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "红线绣成侧脸轮廓",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14896,6 +15085,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "蓝礼服花丛全身",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -14979,6 +15169,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "婚饰情侣额头相靠",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -15043,6 +15234,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "蓝衣侧脸白花发饰",
+      "copy_title": "单人女性+纱丽+蓝衣侧脸白花发饰+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -15128,6 +15320,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "古塔前侧身回望",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -15208,6 +15401,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "海报",
       "image_description": "眼妆旁手写纸片",
+      "copy_title": "单人女性+海报+眼妆旁手写纸片+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -15293,6 +15487,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "拼贴",
       "image_description": "黄舞衣叠脸海报",
+      "copy_title": "单人女性+拼贴+黄舞衣叠脸海报+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -15380,6 +15575,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "黑金服饰半身",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -15460,6 +15656,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "金饰眼部极近景",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -15542,6 +15739,7 @@
       "audience_tag": "情侣",
       "theme_tag": "80复古",
       "image_description": "好莱坞山情侣照",
+      "copy_title": "情侣+80复古+好莱坞山情侣照+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -15626,6 +15824,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "海报",
       "image_description": "暖金侧脸配字",
+      "copy_title": "单人女性+海报+暖金侧脸配字+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -15710,6 +15909,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "旧墙前侧脸剪影",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -15793,6 +15993,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "金灯珠帘新娘",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -15881,6 +16082,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "金甲华服神话男",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -15969,6 +16171,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "古树下红黑舞姿",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -16056,6 +16259,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -16131,6 +16335,7 @@
       "audience_tag": "情侣",
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "情侣"
@@ -16208,6 +16413,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -16283,6 +16489,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -16360,6 +16567,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -16435,6 +16643,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -16512,6 +16721,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -16587,6 +16797,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -16662,6 +16873,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -16739,6 +16951,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -16814,6 +17027,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -16891,6 +17105,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -16966,6 +17181,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "粉点纱丽室内照",
+      "copy_title": "单人女性+纱丽+粉点纱丽室内照+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -17045,6 +17261,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "红婚服额饰近景",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -17122,6 +17339,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "双幅新娘家庭照片",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -17197,6 +17415,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "婚礼双人并肩坐",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -17273,6 +17492,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -17348,6 +17568,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "列车窗边男子低头",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -17425,6 +17646,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": "多宫格",
       "image_description": "女童六格变装图",
+      "copy_title": "宝宝儿童+多宫格+女童六格变装图+图片+原",
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -17505,6 +17727,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -17580,6 +17803,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "海报",
       "image_description": "深红裙多人海报",
+      "copy_title": "单人女性+海报+深红裙多人海报+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -17659,6 +17883,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "多宫格",
       "image_description": "蓝裙雨景三拼图",
+      "copy_title": "单人女性+多宫格+蓝裙雨景三拼图+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -17738,6 +17963,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "花园秋千薄荷纱丽",
+      "copy_title": "单人女性+纱丽+花园秋千薄荷纱丽+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -17817,6 +18043,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "婚礼动画彩灯双人",
+      "copy_title": "情侣+亲密互动+婚礼动画彩灯双人+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -17896,6 +18123,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "黑白摄影",
       "image_description": "金色边光黑白像",
+      "copy_title": "单人男性+黑白摄影+金色边光黑白像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -17975,6 +18203,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "海报",
       "image_description": "红光扇面电影像",
+      "copy_title": "单人男性+海报+红光扇面电影像+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -18054,6 +18283,7 @@
       "audience_tag": "情侣",
       "theme_tag": "拥抱",
       "image_description": "花环婚礼低头相依",
+      "copy_title": "情侣+拥抱+花环婚礼低头相依+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -18133,6 +18363,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "紫纱丽暖灯正脸",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -18210,6 +18441,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "花环新郎与亲友",
+      "copy_title": "情侣+亲密互动+花环新郎与亲友+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -18289,6 +18521,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "仪式地毯双人端坐",
+      "copy_title": "情侣+亲密互动+仪式地毯双人端坐+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -18368,6 +18601,7 @@
       "audience_tag": "情侣",
       "theme_tag": "墨镜",
       "image_description": "红花墙黑装新人",
+      "copy_title": "情侣+墨镜+红花墙黑装新人+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -18445,6 +18679,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -18518,6 +18753,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -18591,6 +18827,7 @@
       "audience_tag": "单人男性",
       "theme_tag": null,
       "image_description": "白帽男子手捧蛋糕",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -18666,6 +18903,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -18739,6 +18977,7 @@
       "audience_tag": "单人男性",
       "theme_tag": "黑白摄影",
       "image_description": "黑背景侧脸男",
+      "copy_title": "单人男性+黑白摄影+黑背景侧脸男+图片+原",
       "tags": {
         "audience_tags": [
           "单人男性"
@@ -18816,6 +19055,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -18889,6 +19129,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": "海报",
       "image_description": "家庭群像拼字海报",
+      "copy_title": "亲子家庭+海报+家庭群像拼字海报+图片+原",
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -18966,6 +19207,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -19039,6 +19281,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -19112,6 +19355,7 @@
       "audience_tag": null,
       "theme_tag": "海报",
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": [
@@ -19187,6 +19431,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -19262,6 +19507,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -19335,6 +19581,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -19408,6 +19655,7 @@
       "audience_tag": "宝宝儿童",
       "theme_tag": null,
       "image_description": "街头人群彩服合照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "宝宝儿童"
@@ -19483,6 +19731,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "车厢暗光黑纱丽",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -19558,6 +19807,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "浅色蓝眼正面特写",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -19633,6 +19883,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "窗边父亲俯看娃",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -19708,6 +19959,7 @@
       "audience_tag": "情侣",
       "theme_tag": "亲密互动",
       "image_description": "室内黑衣双人合照",
+      "copy_title": "情侣+亲密互动+室内黑衣双人合照+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -19787,6 +20039,7 @@
       "audience_tag": "情侣",
       "theme_tag": "拥抱",
       "image_description": "新人蒙纱相拥",
+      "copy_title": "情侣+拥抱+新人蒙纱相拥+图片+原",
       "tags": {
         "audience_tags": [
           "情侣"
@@ -19864,6 +20117,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "蓝裙金发单人写真",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -19939,6 +20193,7 @@
       "audience_tag": "亲子家庭",
       "theme_tag": null,
       "image_description": "蓝黄纱丽母女照",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "亲子家庭"
@@ -20019,6 +20274,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "红蓝纱丽侧身像",
+      "copy_title": "单人女性+纱丽+红蓝纱丽侧身像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -20101,6 +20357,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "红装灯下演员侧脸",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -20178,6 +20435,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "黄衣传统舞台少女",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -20271,6 +20529,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -20346,6 +20605,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "红纱丽灰墙侧影",
+      "copy_title": "单人女性+纱丽+红纱丽灰墙侧影+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -20425,6 +20685,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "黑纱丽环形金光",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -20502,6 +20763,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "金饰特写暖色脸",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -20579,6 +20841,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "红金首饰正脸",
+      "copy_title": "单人女性+纱丽+红金首饰正脸+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -20659,6 +20922,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -20761,6 +21025,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -20834,6 +21099,7 @@
       "audience_tag": "单人女性",
       "theme_tag": null,
       "image_description": "暗调躺姿暖光脸",
+      "copy_title": null,
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -20911,6 +21177,7 @@
       "audience_tag": null,
       "theme_tag": null,
       "image_description": "",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
@@ -20984,6 +21251,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "拼贴",
       "image_description": "双幅侧脸人物像",
+      "copy_title": "单人女性+拼贴+双幅侧脸人物像+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -21070,6 +21338,7 @@
       "audience_tag": "单人女性",
       "theme_tag": "纱丽",
       "image_description": "粉红纱丽双画面",
+      "copy_title": "单人女性+纱丽+粉红纱丽双画面+图片+原",
       "tags": {
         "audience_tags": [
           "单人女性"
@@ -21148,14 +21417,19 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "绿纱丽庭院站姿",
+      "copy_title": "单人女性+纱丽+绿纱丽庭院站姿+视频+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21223,14 +21497,19 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "红边白纱丽室内造型",
+      "copy_title": "单人女性+纱丽+红边白纱丽室内造型+视频+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21298,14 +21577,17 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "粉裙室内站姿",
+      "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21372,14 +21654,19 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "80复古",
+      "image_description": "拱廊三人复古合影",
+      "copy_title": "亲子家庭+80复古+拱廊三人复古合影+图片+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21446,14 +21733,17 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "情侣",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "花环婚礼双人合影",
+      "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "情侣"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21520,14 +21810,19 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "红衣墨镜烟雾街拍",
+      "copy_title": "单人男性+海报+红衣墨镜烟雾街拍+图片+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21594,14 +21889,17 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "灰纹头巾珍珠耳饰",
+      "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21668,14 +21966,19 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "紫巾四宫格托腮照",
+      "copy_title": "单人女性+多宫格+紫巾四宫格托腮照+图片+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21742,14 +22045,17 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "蓝粉长裙花阶坐姿",
+      "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21817,14 +22123,17 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "红裙砖街双手叉腰",
+      "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -21933,14 +22242,17 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "黑衣棕发水泥棚站姿",
+      "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22050,12 +22362,13 @@
       "source_confidence": "unknown",
       "audience_tag": null,
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "白纱丽双人门前合影",
+      "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
