@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T01:30:25+00:00",
+  "generated_at": "2026-10-29T05:43:32+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -47,12 +47,1916 @@
     ]
   },
   "export_stats": {
-    "formal": 243,
+    "formal": 269,
     "candidates": 12,
     "confirmed_duplicates_skipped": 8,
     "suspected_duplicates_included": 0
   },
   "materials": [
+    {
+      "id": "instagram:De9Pia8mnXv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De9Pia8mnXv/",
+      "creator": "promptkalai",
+      "published_at": null,
+      "published_date": "2026-10-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:27+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:27+00:00",
+      "caption": "Follow and Comment \"PROMPT\" for App Link ✅🔗📲",
+      "description": "红玫瑰花束合影",
+      "recommendation_reason": "红色服饰及玫瑰花束的情侣摆拍",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptkalai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "红玫瑰花束合影",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:27+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:27+00:00",
+        "likes": 78,
+        "likes_display": "78",
+        "comments": 60,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:27+00:00",
+          "likes": 78,
+          "likes_display": "78",
+          "comments": 60,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De9Pia8mnXv_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdytH-BCFRp",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdytH-BCFRp/",
+      "creator": "prompt.deck",
+      "published_at": null,
+      "published_date": "2026-09-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:27+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:27+00:00",
+      "caption": "👀✨Turn your photo into a luxurious, cinematic Indian fashion portrait with the right AI prompt. 🖤💛\n\nGet this exact prompt in seconds with the Prompt Deck App 📲\n\n🔥 Viral prompts\n✨ Creative AI edits\n🎨 Fresh inspiration\n⚡ New prompts daily\n\nAvailable on Play Store & App Store 📱\n🔗 Link in bio\n\nSave this for your next saree edit & share it with someone who loves elegant AI portraits! 🖤✨\n\n#PromptDeck #AIPrompts #SareeAI #BlackSaree #AIPhotoEditing #AIPhotography #IndianFashion #SareeLook #SareeAesthetic #AIArt #ViralPrompts \n\n[Prompt Deck, black saree AI prompt, black and gold saree prompt, saree AI edit, Indian fashion AI prompt, luxury saree portrait, cinematic saree photography, elegant Indian portrait, AI fashion photoshoot, traditional fashion AI, saree photoshoot prompt, black saree aesthetic, gold saree styling, AI portrait prompt, AI photo editing prompt, viral AI prompt, image generation prompt, realistic AI portrait, cinematic fashion edit, Indian beauty portrait, festive saree edit, wedding saree prompt, ChatGPT image prompt, creative AI prompts, AI editing app, trending AI edits, Instagram AI photo edit, luxury fashion AI, editorial saree portrait.]",
+      "description": "黑金纱丽暗光肖像",
+      "recommendation_reason": "黑色布景中金边纱丽的人像",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纯色暗调",
+      "image_description": "黑金纱丽暗光肖像",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纯色暗调"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:27+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:27+00:00",
+        "likes": null,
+        "likes_display": "16K",
+        "comments": 859,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:27+00:00",
+          "likes": null,
+          "likes_display": "16K",
+          "comments": 859,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdytH-BCFRp_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbYXAvrGrmd",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbYXAvrGrmd/",
+      "creator": "promptkalai",
+      "published_at": null,
+      "published_date": "2026-07-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:27+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:27+00:00",
+      "caption": "AI couple prompt link in Bio 🔗📩❤️🥰 \n\n#couple#aiart #prom #gems\n\n[Al photo editing tutorial, viral Instagram edit trick, ChatGPT image generation, cinematic photo effect, Al art prompt, trending reels tutorial, easy photo editing hacks, DALL-E 3 tips, Al avatar creation, content creator tips, Tamil tech creator, viral reels strategy, aesthetic photo edit, smoky background effect, artificial intelligence tools, mobile photo editing, tech hacks and tricks, Instagram engagement growth, secret Al prompt, creative digital art, Midjourney alternative, Al photo manipulation, instant photo transformation, trending Instagram aesthetics, social media growth hacks]",
+      "description": "草坪抱起双人照",
+      "recommendation_reason": "草坪日落环境中的双人抱起动作",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptkalai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "草坪抱起双人照",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:27+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:27+00:00",
+        "likes": null,
+        "likes_display": "22K",
+        "comments": 1266,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:27+00:00",
+          "likes": null,
+          "likes_display": "22K",
+          "comments": 1266,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbYXAvrGrmd_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfCcDdom5I9",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfCcDdom5I9/",
+      "creator": "prompt.deck",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "♟️🖤 Want this Moorthy anna prompt?\n\nTransform your photos into powerful, movie-style portraits with just one prompt! ✨ From dramatic amber lighting and sleek black sunglasses to strategic chess moves and rich, dark aesthetics, create your own stylish, high-impact photoshoot with Prompt Deck.\n\nMake your next move a creative one! 🔥 Your next epic AI edit is just a prompt away.\n\n📲 Available on Play Store & App Store\n🔗 Download Prompt Deck now — link in bio!\n\n#PromptDeck #AIPrompts #AIPhotoEditing #AIArt #AIImageGeneration #ChessAesthetic #CinematicPortrait #moorthyanna #jailer2\n\n[Prompt Deck app, cinematic chess portrait prompt, woman playing chess, chess master aesthetic, black sunglasses portrait, dramatic amber lighting, dark cinematic photoshoot, strategic chess photography, confident female portrait, stylish white shirt portrait, realistic AI portrait, AI photo editing prompts, viral AI prompts, cinematic editorial photography, photorealistic AI art, AI image generation, creative AI photography, dramatic studio portrait, chessboard composition, warm golden highlights, trending AI edits, AI art prompts, powerful female photoshoot, AI creator tools, high contrast portrait, cinematic fashion photography, viral Instagram edits, AI portrait generator, luxury editorial aesthetic, photo transformation prompt]",
+      "description": "棋盘前墨镜对弈",
+      "recommendation_reason": "棋盘低机位与墨镜人物形成电影感",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "棋盘前墨镜对弈",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 363,
+        "likes_display": "363",
+        "comments": 35,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 363,
+          "likes_display": "363",
+          "comments": 35,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfCcDdom5I9_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfCwtu3G4P2",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfCwtu3G4P2/",
+      "creator": "prompt.deck",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "🖤✨ Want this bold, street-style AI portrait?\n\nTransform your photos into stunning, editorial-style portraits with just one prompt! 🔥 From oversized cargo pants and classic black-and-white outfits to grand architectural columns and warm cinematic sunlight, create your own professional fashion photoshoot with Prompt Deck.\n\nYour next stylish AI transformation is just a prompt away! 💫\n\n📲 Available on Play Store & App Store\n🔗 Download Prompt Deck now — link in bio!\n\n#PromptDeck #AIPrompts #AIPhotoEditing #AIArt #AIImageGeneration #StreetStyle #StreetwearAesthetic #CargoPantsStyle #EditorialPhotography \n\n[Prompt Deck app, street style portrait prompt, black cargo pants outfit, white tee black overshirt, urban fashion photoshoot, classical architecture background, editorial female portrait, confident streetwear pose, cinematic sunlight photography, modern casual fashion, realistic AI portrait, AI photo editing prompts, viral AI prompts, streetwear aesthetic, photorealistic AI art, AI image generation, creative AI photography, fashion portrait inspiration, trending AI edits, AI art prompts, urban editorial photoshoot, stylish casual outfit, AI creator tools, high fashion street style, professional AI photoshoot, viral Instagram edits, AI portrait generator, modern fashion photography, photo transformation prompt, cinematic street portrait]",
+      "description": "石柱台阶黑衣造型",
+      "recommendation_reason": "石柱建筑台阶上的黑衣姿态",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "石柱台阶黑衣造型",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 65,
+        "likes_display": "65",
+        "comments": 4,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 65,
+          "likes_display": "65",
+          "comments": 4,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfCwtu3G4P2_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfCKUpZjx19",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfCKUpZjx19/",
+      "creator": "zeevisha.ai",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "",
+      "description": "彩圈烛光节日像",
+      "recommendation_reason": "蜡烛与彩色几何圆环组成节日海报",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "彩圈烛光节日像",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfCKUpZjx19_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfB7X-iINy6",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfB7X-iINy6/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "#prompt #gemini #geminiedits \n\n[ Google Gemini, Prompt, Nano banana, Image Editing, prompts, Gemini Edits, Photo Edits, Trending Edits, Tamil Edits, Office]",
+      "description": "蓝纱肖像切片",
+      "recommendation_reason": "蓝色纱丽的横向分割构图",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "蓝纱肖像切片",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 678,
+        "likes_display": "678",
+        "comments": 21,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 678,
+          "likes_display": "678",
+          "comments": 21,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfB7X-iINy6_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfCpz1UGgep",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfCpz1UGgep/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "Elegance looks effortless in traditional silk.\n[green saree, traditional look, Indian ethnic wear, silk saree style, festive fashion, South Indian beauty, ethnic portrait, cultural attire, saree styling, traditional outfit, classic elegance, temple vibes, traditional aesthetic, Indian fashion trends]\n#saree #traditional #ethnicwear #indianfashion #festivevibes✨",
+      "description": "绿丝纱倚红墙",
+      "recommendation_reason": "绿色纱丽与斑驳红墙形成鲜明色彩对照",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "绿丝纱倚红墙",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 1373,
+        "likes_display": "1,373",
+        "comments": 11,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 1373,
+          "likes_display": "1,373",
+          "comments": 11,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfCpz1UGgep_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfCvjmpjwG1",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfCvjmpjwG1/",
+      "creator": "risingstar_hritik",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "💔❤️‍🩹🥺🫂\nवो किसी और, किसी और से मिलके आ रहें हैं...💔🥺\n\nSwipe left for \"Gemini\"prompts)\n@risingstar_hritik\n\nJust take a screenshot, copy with the help of google lens and see the Gemini magic.\n\nNote:👉 Proper Prompt Mere Telegram and Broadcast Channel pe Milega Friends ❤️ Channel ka Link Bio me hai 🥰 🤗 \n\nFollow me to see more magic 🪄 ✨ \n@risingstar_hritik \n\nSteps:\n1👉Open Gemini and Login\n2👉Upload a clear picture\n3👉Use the prompts mentioned in the post\n\nNOTE:- If You Like This Post Don't Forget Like,Comment, Share & Mention In Your Story\n\n#explorepage #viralpost #brokenheart #fakelove #hatelove",
+      "description": "树下心碎三人景",
+      "recommendation_reason": "树下前景与后方情侣形成叙事构图",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/risingstar_hritik/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "树下心碎三人景",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 450,
+        "likes_display": "450",
+        "comments": 210,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 450,
+          "likes_display": "450",
+          "comments": 210,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfCvjmpjwG1_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfBlHUvlYM9",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfBlHUvlYM9/",
+      "creator": "prompt.deck",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "💙✨ Want this classy, traditional-meets-modern AI portrait?\n\nTransform your photos into stunning, professional-looking portraits with just one prompt! 📸🔥 From rich navy-blue shirts and elegant traditional veshti styling to soft pink backgrounds and confident poses, create your own stylish ethnic photoshoot with Prompt Deck.\n\nYour next amazing AI transformation is just a prompt away! 💫\n\n📲 Available on Play Store & App Store\n🔗 Download Prompt Deck now — link in bio!\n\n#PromptDeck #AIPrompts #AIPhotoEditing #AIArt #CinematicPortrait #AIPortrait #ViralAIEdits #CreativeAI #PhotoTransformation #TrendingAI\n\n[Prompt Deck app, traditional male portrait prompt, navy blue shirt photoshoot, veshti outfit inspiration, modern ethnic menswear, stylish Indian male portrait, pink studio background, elegant traditional fashion, confident male pose, realistic AI portrait, AI photo editing prompts, viral AI prompts, ethnic fashion photography, photorealistic AI art, AI image generation, creative AI photography, modern traditional look, trending AI edits, AI art prompts, Indian mens fashion portrait, professional AI photoshoot, festive outfit inspiration, AI creator tools, editorial male portrait, stylish ethnic photoshoot, viral Instagram edits, AI portrait generator, traditional outfit photography, smart casual Indian fashion, photo transformation prompt]",
+      "description": "蓝金纱丽粉底照",
+      "recommendation_reason": "蓝金纱丽与粉色棚拍背景对比",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "蓝金纱丽粉底照",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 414,
+        "likes_display": "414",
+        "comments": 34,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 414,
+          "likes_display": "414",
+          "comments": 34,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfBlHUvlYM9_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De_AdoYCLXV",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De_AdoYCLXV/",
+      "creator": "prompt.deck",
+      "published_at": null,
+      "published_date": "2026-10-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "❤️✨ Want this classy, cinematic AI portrait?\n\nTransform your photos into stunning, professional-looking portraits with just one prompt! 🔥 From elegant power suits and dramatic burgundy backdrops to cinematic lighting and confident editorial poses, create your own high-fashion photoshoot with Prompt Deck.\n\nYour next stunning AI transformation is just a prompt away! 💫\n\n📲 Available on Play Store & App Store\n🔗 Download Prompt Deck now — link in bio!\n\n#PromptDeck #AIPrompts #AIPhotoEditing #AIArt #AIImageGeneration #CinematicPortrait #PowerSuitStyle #EditorialPhotography \n\n[Prompt Deck app, cinematic female portrait prompt, burgundy studio background, elegant gray power suit, professional fashion portrait, editorial photoshoot inspiration, dramatic studio lighting, confident female pose, luxury portrait aesthetic, realistic AI portrait, AI photo editing prompts, viral AI prompts, high fashion photography, photorealistic AI art, AI image generation, creative AI photography, cinematic color grading, stylish formal outfit, trending AI edits, AI art prompts, professional portrait transformation, elegant studio photoshoot, AI creator tools, modern fashion portrait, viral Instagram edits, AI portrait generator, dramatic burgundy lighting, classy female photoshoot, photo to AI art, fashion editorial aesthetic]",
+      "description": "酒红布景方块椅",
+      "recommendation_reason": "深红摄影棚与方块座椅的造型",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "棚拍",
+      "image_description": "酒红布景方块椅",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 161,
+        "likes_display": "161",
+        "comments": 13,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 161,
+          "likes_display": "161",
+          "comments": 13,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_AdoYCLXV_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De9gjnnmgzA",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De9gjnnmgzA/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": "2026-10-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "#prompt #gemini #geminiedits \n\n[ Google Gemini, Prompt, Nano banana, Image Editing, prompts, Gemini Edits, Photo Edits, Trending Edits, Tamil Edits, Office]",
+      "description": "白衬衫柔光肖像",
+      "recommendation_reason": "白色棚拍光线与人物肖像变体",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "白衬衫柔光肖像",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 1531,
+        "likes_display": "1,531",
+        "comments": 35,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 1531,
+          "likes_display": "1,531",
+          "comments": 35,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De9gjnnmgzA_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De8aG76GPUd",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De8aG76GPUd/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "#trendingpost \n#viralpost \n#aiprompts \n#instagram",
+      "description": "双手捧月夜景",
+      "recommendation_reason": "夜色与发光圆月的奇幻人物造型",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "双手捧月夜景",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De8aG76GPUd_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De8Z0VUjzO_",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De8Z0VUjzO_/",
+      "creator": "zeevisha.ai",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "",
+      "description": "旧墙绿门金色裙",
+      "recommendation_reason": "旧石墙与绿门前的传统服装造型",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "旧墙绿门金色裙",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De8Z0VUjzO__0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De8ZfxmmTXh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De8ZfxmmTXh/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "Good morning 🌞\n#aigenerated #babyportraits #BabyPhotography #BabyMilestones #chatgpt",
+      "description": "破墙咖啡萌娃",
+      "recommendation_reason": "咖啡杯破墙效果的儿童创意海报",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "海报",
+      "image_description": "破墙咖啡萌娃",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De8ZfxmmTXh_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De7Aa07jxXY",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De7Aa07jxXY/",
+      "creator": "risingstar_hritik",
+      "published_at": null,
+      "published_date": "2026-10-25",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "Badmash🥷🥷\n\nSwipe left for \"Gemini\"prompts)\n@risingstar_hritik\n\nJust take a screenshot, copy with the help of google lens and see the Gemini magic.\n\nNote:👉 Proper Prompt Mere Telegram and Broadcast Channel pe Milega Friends ❤️ Channel ka Link Bio me hai 🥰 🤗 \n\nFollow me to see more magic 🪄 ✨ \n@risingstar_hritik\n\nSteps:\n1👉Open Gemini and Login\n2👉Upload a clear picture\n3👉Use the prompts mentioned in the post\n\nNOTE:- If You Like This Post Don't Forget Like,Comment, Share & Mention In Your Story\n\n#explorepage #viralpost #mafiya #badmashi #rangdari",
+      "description": "法庭并肩对望",
+      "recommendation_reason": "印度法庭场景中的人物关系具有故事性",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/risingstar_hritik/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "海报",
+      "image_description": "法庭并肩对望",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 812,
+        "likes_display": "812",
+        "comments": 183,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 812,
+          "likes_display": "812",
+          "comments": 183,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De7Aa07jxXY_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De3rU0vk7UU",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De3rU0vk7UU/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": "2026-10-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "How is this cute couple PROMPT🩷🩷🩷🩷?????",
+      "description": "心形墙边双人探头",
+      "recommendation_reason": "米色背景与中央爱心的情侣构图",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "心形墙边双人探头",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De3rU0vk7UU_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De12ZJBj8ek",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De12ZJBj8ek/",
+      "creator": "risingstar_hritik",
+      "published_at": null,
+      "published_date": "2026-10-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "Jayegi Tu jaha Aaunga main vaha....🫂❣️\n\nSwipe left for \"Gemini\"prompts)\n@risingstar_hritik\n\nJust take a screenshot, copy with the help of google lens and see the Gemini magic.\n\nNote:👉 Proper Prompt Mere Telegram and Broadcast Channel pe Milega Friends ❤️ Channel ka Link Bio me hai 🥰 🤗 \n\nFollow me to see more magic 🪄 ✨ \n@risingstar_hritik \n\nSteps:\n1👉Open Gemini and Login\n2👉Upload a clear picture\n3👉Use the prompts mentioned in the post\n\nNOTE:- If You Like This Post Don't Forget Like,Comment, Share & Mention In Your Story\n\n #explorepage #viralpost #coupleshoot #couplesgoals #indoorphotography",
+      "description": "红纱牵手笑望",
+      "recommendation_reason": "红色传统服饰和自然双人互动",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/risingstar_hritik/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "红纱牵手笑望",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 773,
+        "likes_display": "773",
+        "comments": 201,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 773,
+          "likes_display": "773",
+          "comments": 201,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De12ZJBj8ek_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De0jT2WGLUE",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De0jT2WGLUE/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": "2026-10-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "#trendingpost \n#viralpost \n#aiprompts \n#instagram",
+      "description": "淡底新婚双人照",
+      "recommendation_reason": "白色渐隐背景衬托婚礼纱丽与西装",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "纱丽",
+      "image_description": "淡底新婚双人照",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 377,
+        "likes_display": "377",
+        "comments": 32,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 377,
+          "likes_display": "377",
+          "comments": 32,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De0jT2WGLUE_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De0-BC_mLr5",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De0-BC_mLr5/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": "2026-10-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "#trendingpost \n#aiprompts \n#instagram \n#viralpost",
+      "description": "晚霞海岸双人照",
+      "recommendation_reason": "海岸落日与两种传统服饰的双人照",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "海边",
+      "image_description": "晚霞海岸双人照",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "海边"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De0-BC_mLr5_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De0oMh2EcXY",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De0oMh2EcXY/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "Comment prompt ✨ \n#FamilyPhotography #familygoals #FamilyTime #FamilyPortrait #BabyPhotography",
+      "description": "妈妈抱娃记事墙",
+      "recommendation_reason": "母子与便签拼贴组合的温馨画面",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "拍立得",
+      "image_description": "妈妈抱娃记事墙",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "拍立得"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De0oMh2EcXY_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeirZOZkd6H",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DeirZOZkd6H/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-15",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "Comment prompt ✨ \n#BabyPhotography #BabyStyle #BabyFirsts #ArtGallery #aigenerated",
+      "description": "画笔桥上的萌娃",
+      "recommendation_reason": "铅笔桥与纸上涂鸦结合的儿童场景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "海报",
+      "image_description": "画笔桥上的萌娃",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T05:43:26+00:00",
+        "likes": 2276,
+        "likes_display": "2,276",
+        "comments": 133,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T05:43:26+00:00",
+          "likes": 2276,
+          "likes_display": "2,276",
+          "comments": 133,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeirZOZkd6H_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdnrqASExCi",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdnrqASExCi/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": "2026-09-22",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "Family Prompt 🩷🩷🩷",
+      "description": "橙绿背景探头全家福",
+      "recommendation_reason": "用橙绿两色竖向分割布局呈现亲子合照",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": null,
+      "image_description": "橙绿背景探头全家福",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdnrqASExCi_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Db4cazDAe-Q",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Db4cazDAe-Q/",
+      "creator": "mx_prompt",
+      "published_at": null,
+      "published_date": "2026-08-10",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "🇮🇳 Independence Day Special | Follow & Comment “PROMPT”\nCelebrate Independence Day with this powerful AI prompt. 🇮🇳\nWant the full prompt? Follow the page and comment “PROMPT” below.\nAll my latest AI prompts are available on WhatsApp & Telegram.\nChannel links are in bio. 🔗\n#IndependenceDay #IndependenceDay2026 #IndianFlag #Tiranga #AIPhotoPrompt AIPrompts IndianPride JaiHind AIPhotography PromptCommunity",
+      "description": "天台挥动国旗",
+      "recommendation_reason": "天台国旗与蓝天构成简洁节日成图",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mx_prompt/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "印度独立日",
+      "image_description": "天台挥动国旗",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "印度独立日"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Db4cazDAe-Q_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbyU4QVkuCl",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbyU4QVkuCl/",
+      "creator": "mx_prompt",
+      "published_at": null,
+      "published_date": "2026-08-08",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "🇮🇳 Independence Day AI Portrait Prompt |\n\nTurn your photo into a premium Independence Day portrait 🇮🇳✨\nUse this detailed AI prompt with your reference image for a realistic, cinematic result. 🔥\nSave this prompt 📌 | Copy it & create your own 🇮🇳\n#IndependenceDay #IndianIndependenceDay #AIArt #AIPrompt #AIPhoto AIImage PromptEngineering IndianFlag CreativeAI AIPhotography India 15August MXPrompt",
+      "description": "白衣国旗肖像",
+      "recommendation_reason": "白衣人物与三色旗的正面纪念照",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mx_prompt/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "印度独立日",
+      "image_description": "白衣国旗肖像",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "印度独立日"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbyU4QVkuCl_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbiE60NERW1",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbiE60NERW1/",
+      "creator": "mx_prompt",
+      "published_at": null,
+      "published_date": "2026-08-02",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-29T05:43:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T05:43:26+00:00",
+      "caption": "🇮🇳 Independence Day AI Photo Prompt 2026 🇮🇳\n\nFollow and comment prompt 🇮🇳 \nShare with you friends",
+      "description": "夕照高举三色旗",
+      "recommendation_reason": "夕阳城市背景中的挥旗动作",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mx_prompt/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "印度独立日",
+      "image_description": "夕照高举三色旗",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "印度独立日"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T05:43:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbiE60NERW1_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DWG99i_kyiF",
       "platform": "instagram",
