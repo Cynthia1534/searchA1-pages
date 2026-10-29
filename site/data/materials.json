@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T05:49:00+00:00",
+  "generated_at": "2026-10-29T05:57:00+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -1920,13 +1920,11 @@
       "description": "彩幕木椅双人照",
       "recommendation_reason": "Tamil 相关文案及婚礼传统服饰对应印度市场；彩色渐变棚拍背景有参考价值。",
       "content_nature": "final_result",
-      "suitability": "review",
-      "initial_screening": "unverified",
-      "screening_scope": "none",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
       "record_stage": "formal",
-      "verification_notes": [
-        "内容信息待核实"
-      ],
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/vijaygraphics.design/",
       "alternate_sources": [],
@@ -2001,13 +1999,11 @@
       "description": "暖光花饰侧影",
       "recommendation_reason": "原帖描述 young Indian woman；暖色灯光在墙上形成侧影，红色纱丽与白色花饰适合作为风格参考。",
       "content_nature": "final_result",
-      "suitability": "review",
-      "initial_screening": "unverified",
-      "screening_scope": "none",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
       "record_stage": "formal",
-      "verification_notes": [
-        "内容信息待核实"
-      ],
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/ankitabish/",
       "alternate_sources": [],
@@ -2082,13 +2078,11 @@
       "description": "林中越野车旁造型",
       "recommendation_reason": "文案明确写 young stylish Indian man；森林越野车场景有模板参考价值。",
       "content_nature": "final_result",
-      "suitability": "review",
-      "initial_screening": "unverified",
-      "screening_scope": "none",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
       "record_stage": "formal",
-      "verification_notes": [
-        "内容信息待核实"
-      ],
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/ms_fans01/",
       "alternate_sources": [],
@@ -2163,13 +2157,11 @@
       "description": "雷雨中持锤战士",
       "recommendation_reason": "印度演员题材；黑色战甲完整覆盖身体，背景光效具海报参考价值。",
       "content_nature": "final_result",
-      "suitability": "review",
-      "initial_screening": "unverified",
-      "screening_scope": "none",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
       "record_stage": "formal",
-      "verification_notes": [
-        "内容信息待核实"
-      ],
+      "verification_notes": [],
       "review_status": "pending",
       "source_profile_url": "https://www.instagram.com/actorprabhasfanspage_/",
       "alternate_sources": [],
