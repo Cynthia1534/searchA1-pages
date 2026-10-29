@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T08:34:25+00:00",
+  "generated_at": "2026-10-29T10:56:59+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -47,12 +47,612 @@
     ]
   },
   "export_stats": {
-    "formal": 269,
-    "candidates": 12,
-    "confirmed_duplicates_skipped": 8,
+    "formal": 279,
+    "candidates": 32,
+    "confirmed_duplicates_skipped": 18,
     "suspected_duplicates_included": 0
   },
   "materials": [
+    {
+      "id": "facebook:1120985860278282",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/779088667801338/posts/1120985860278282/",
+      "creator": "Editor Ngapak",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "蜡染衬衫三姿写真",
+      "recommendation_reason": "同一男子蜡染衬衫三姿势，男性传统装模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Editor Ngapak/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "棚拍",
+      "image_description": "蜡染衬衫椅坐肖像",
+      "copy_title": "单人男性+棚拍+蜡染衬衫椅坐肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1120985860278282_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2293360514783177",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/785095788942998/posts/2293360514783177/",
+      "creator": "Sri Ayati",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "爪哇传统四口之家",
+      "recommendation_reason": "爪哇传统装四口之家，黑金beskap与kebaya协调，家庭模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Sri Ayati/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "棚拍",
+      "image_description": "爪哇礼服四口合影",
+      "copy_title": "亲子家庭+棚拍+爪哇礼服四口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:56+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_2293360514783177_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2309635973155631",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/785095788942998/posts/2309635973155631/",
+      "creator": "Sri Ayati",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "香槟色婚礼情侣写真",
+      "recommendation_reason": "香槟色kebaya婚礼合影，花墙背景，印尼穆斯林婚礼模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Sri Ayati/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "棚拍",
+      "image_description": "香槟婚礼花墙合影",
+      "copy_title": "情侣+棚拍+香槟婚礼花墙合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:56+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_2309635973155631_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DcyTHwZjWT3",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@adam_x_____/post/DcyTHwZjWT3",
+      "creator": "adam_x_____",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "双重曝光头巾写真",
+      "recommendation_reason": "双重曝光合成：头巾大头照叠加山间全身像，拼贴模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@adam_x_____",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "山景叠影米色头巾",
+      "copy_title": "单人女性+拼贴+山景叠影米色头巾+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:55+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DcyTHwZjWT3_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdE5MrWu7xs",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdE5MrWu7xs/",
+      "creator": "Neha Khanna",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "80年代复古三口之家",
+      "recommendation_reason": "80年代霓虹复古三口之家，家庭复古模板，迪斯科球与复古车场景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/Neha Khanna/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "80复古",
+      "image_description": "霓虹八零年代全家福",
+      "copy_title": "亲子家庭+80复古+霓虹八零年代全家福+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdE5MrWu7xs_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dev0U0aDYIZ",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/Dev0U0aDYIZ",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "喀拉拉传统四口之家",
+      "recommendation_reason": "喀拉拉传统装四口之家棚拍，含幼儿与学龄女童，家庭模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "棚拍",
+      "image_description": "传统服饰四口合影",
+      "copy_title": "亲子家庭+棚拍+传统服饰四口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dev0U0aDYIZ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeGjnkRGcEq",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/DeGjnkRGcEq",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "喀拉拉婚礼四格",
+      "recommendation_reason": "一张图含四姿势婚礼合影，多宫格拼贴模板参考价值高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "婚礼情侣四宫格",
+      "copy_title": "情侣+多宫格+婚礼情侣四宫格+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:51+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeGjnkRGcEq_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DemRSvbCeDl",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@vaisshnavi369/post/DemRSvbCeDl",
+      "creator": "vaisshnavi369",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "向日葵纱丽写真",
+      "recommendation_reason": "向日葵场景配纱丽，花海主题女性模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@vaisshnavi369",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "花海",
+      "image_description": "向日葵白纱丽写真",
+      "copy_title": "单人女性+花海+向日葵白纱丽写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "花海"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:50+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DemRSvbCeDl_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Da7L8iNDAfR",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mr._sun91/post/Da7L8iNDAfR",
+      "creator": "mr._sun91",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "红库尔塔男士写真",
+      "recommendation_reason": "红色库尔塔单人写真，色彩醒目，适合男性传统装模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mr._sun91",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "红库尔塔金光写真",
+      "copy_title": "单人男性+耍帅+红库尔塔金光写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:49+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Da7L8iNDAfR_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeyzzLwmZrw",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/DeyzzLwmZrw",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "caption": null,
+      "description": "踢球男士写真",
+      "recommendation_reason": "库尔塔配足球的反差造型，单人男性模板稀缺方向",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "米金库尔塔抱球写真",
+      "copy_title": "单人男性+耍帅+米金库尔塔抱球写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-29T10:56:48+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeyzzLwmZrw_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:De9Pia8mnXv",
       "platform": "instagram",
@@ -21379,6 +21979,1518 @@
           "kind": "image",
           "preview": "assets/instagram_Ddnxe61kihV_0.jpg",
           "preview_status": "image_http_200_verified",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdNvMkiSpAO",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdNvMkiSpAO/",
+      "creator": "travelqueenaashi",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "舞台蓝裙双人舞",
+      "recommendation_reason": "舞台灯光下宝莱坞双人舞，托举与牵手，情侣舞蹈模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/travelqueenaashi",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": null,
+        "comments": 16,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": null,
+          "comments": 16,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DdNvMkiSpAO_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdjCS5wBMzm",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdjCS5wBMzm/",
+      "creator": "mamtadevim95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "户外黄纱丽双人舞",
+      "recommendation_reason": "户外草地与花园双人舞，黄印花纱丽，情侣舞蹈模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mamtadevim95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 480,
+        "comments": 29,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 480,
+          "comments": 29,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DdjCS5wBMzm_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeZuPeRIU2M",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DeZuPeRIU2M/",
+      "creator": "amazing_best_dwarka",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Garba彩棒双人舞",
+      "recommendation_reason": "Garba彩棒双人舞，寺庙喜庆场地，情侣舞蹈模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/amazing_best_dwarka",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 5312,
+        "comments": 65,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 5312,
+          "comments": 65,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DeZuPeRIU2M_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdGr5tzQ9RL",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdGr5tzQ9RL/",
+      "creator": "shivmotion_ai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "传统群舞与乡村独舞",
+      "recommendation_reason": "群舞转乡村独舞，多彩长裙与红裙换装，单人女性舞蹈模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shivmotion_ai",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 14,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 14,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DdGr5tzQ9RL_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dd-3wNXR3ha",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dd-3wNXR3ha/",
+      "creator": "flowerorfire",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "红衣Garba夜场独舞",
+      "recommendation_reason": "夜间节庆灯光下红衣Garba独舞，单人女性舞蹈模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/flowerorfire",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 13,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 13,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_Dd-3wNXR3ha_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc23Wy-J3l5",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dc23Wy-J3l5/",
+      "creator": "ravin.ai97",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "红黑纱丽手势舞",
+      "recommendation_reason": "红黑纱丽手势舞剪辑，单人女性舞蹈模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ravin.ai97",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 20000,
+        "comments": 81,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 20000,
+          "comments": 81,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_Dc23Wy-J3l5_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:n85Y9sHtJHA",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/n85Y9sHtJHA",
+      "creator": "SONGGIVER-x3u",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "绿金刺绣lehenga独舞",
+      "recommendation_reason": "绿金刺绣lehenga室内独舞，平台标注AI生成，单人女性舞蹈模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 5,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 5,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdoNbEJxwJB",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdoNbEJxwJB/",
+      "creator": null,
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "工地群舞",
+      "recommendation_reason": "工地背景群舞，工作服与安全帽，群舞模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 45000,
+        "comments": 954,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 45000,
+          "comments": 954,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DdoNbEJxwJB_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdWNP5HSefv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdWNP5HSefv/",
+      "creator": "ai_storypedia",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "舞台浪漫双人舞",
+      "recommendation_reason": "舞台聚光灯下浪漫双人舞，托举与下腰，情侣舞蹈模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ai_storypedia",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 1401,
+        "comments": 16,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 1401,
+          "comments": 16,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DdWNP5HSefv_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dd9RtjrSXJU",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dd9RtjrSXJU/",
+      "creator": "_mamathalakshmi_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "粉绿Garba旋转独舞",
+      "recommendation_reason": "Garba旋转独舞，粉绿传统裙装，节日庭院，单人女性舞蹈模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/_mamathalakshmi_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 1074,
+        "comments": 40,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 1074,
+          "comments": 40,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_Dd9RtjrSXJU_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1796201438194774",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/541258800355717/posts/1796201438194774/",
+      "creator": "Pelita Iman",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "教堂前祝福四口之家",
+      "recommendation_reason": "教堂前四口之家持祝福标语，印尼语标语明确，家庭模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Pelita Iman/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 10,
+        "comments": 4,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 10,
+          "comments": 4,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_1796201438194774_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1477442790566427",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/630510135259701/posts/1477442790566427/",
+      "creator": "Sri Sundari",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "酒红新娘头巾胸像",
+      "recommendation_reason": "酒红kebaya新娘胸像，Gemini生成，新娘头巾模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Sri Sundari/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 40,
+        "comments": 3,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 40,
+          "comments": 3,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_1477442790566427_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2286723365449556",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/kadek.sukawati.391/posts/2286723365449556/",
+      "creator": "Made Sukawati",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "黑色蕾丝传统装特写",
+      "recommendation_reason": "黑蕾丝外搭配金饰红花，巴厘岛作者，传统装特写模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/kadek.sukawati.391",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 186,
+        "comments": 48,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 186,
+          "comments": 48,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_2286723365449556_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1114210261473738",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/348492328045539/posts/1114210261473738/",
+      "creator": "Rizka Meifandia",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "米白头巾面部特写",
+      "recommendation_reason": "米白头巾面部特写，Gemini生成，室内写真模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Rizka Meifandia/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 23,
+        "comments": 12,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 23,
+          "comments": 12,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_1114210261473738_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1475092764518139",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/971896541504433/posts/1475092764518139/",
+      "creator": "Asni Ramadhani Vlog",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "稻田绿头巾写真",
+      "recommendation_reason": "绿头巾坐于稻田，巴东地点明确，户外头巾模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Asni Ramadhani Vlog/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 26,
+        "comments": 43,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 26,
+          "comments": 43,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_1475092764518139_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:28933527782931403",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/157700724274159/posts/28933527782931403/",
+      "creator": "Ayundah Muzakkar",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "黄头巾半身写真",
+      "recommendation_reason": "浅黄印花头巾配黄上衣，纯色背景半身写真，头巾模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Ayundah Muzakkar/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 117,
+        "comments": 136,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 117,
+          "comments": 136,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_28933527782931403_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DaqSKAVjIm-",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ramadhani_gj02/post/DaqSKAVjIm-",
+      "creator": "ramadhani_gj02",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "海滩男子与爱犬",
+      "recommendation_reason": "男子与爱犬海滩全身照，人与动物主题稀缺模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ramadhani_gj02",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 2,
+        "comments": null,
+        "views": 436,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 2,
+          "comments": null,
+          "views": 436,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:4690132477940146",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/naslan333/posts/4690132477940146/",
+      "creator": "Naslan Evock",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "80年代复古男士",
+      "recommendation_reason": "80年代复古男士单人照，宝莱坞海报墙场景，男性复古模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/naslan333",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 27,
+        "comments": 5,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 27,
+          "comments": 5,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_4690132477940146_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:4508271146096233",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/ar.pawan.kumar.singh/posts/4508271146096233/",
+      "creator": "Er Pawan Kumar Singh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "80年代复古情侣",
+      "recommendation_reason": "80年代复古情侣双人照，旧照片质感，情侣复古模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/ar.pawan.kumar.singh",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 89,
+        "comments": 12,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 89,
+          "comments": 12,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_4508271146096233_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dcdah9tT9pb",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dcdah9tT9pb/",
+      "creator": "saritarani3896",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-29T10:56:06+00:00",
+      "last_collected_at": "2026-10-29T10:56:06+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "雪地蓝纱丽写真",
+      "recommendation_reason": "雪地场景配蓝色纱丽，着装得体，雪山主题女性模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/saritarani3896",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-29T10:56:06+00:00",
+        "likes": 158,
+        "comments": 15,
+        "views": null,
+        "shares": null,
+        "source": "muse_spec_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-29T10:56:06+00:00",
+          "likes": 158,
+          "comments": 15,
+          "views": null,
+          "shares": null,
+          "source": "muse_spec_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_instagram_Dcdah9tT9pb_0.jpg",
+          "preview_status": "fetched",
           "result_status": "unknown",
           "visual_analysis": null
         }
