@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T12:45:50+00:00",
+  "generated_at": "2026-10-29T13:16:44+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -22017,15 +22017,19 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
-      "copy_title": null,
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "聚光灯下蓝裙双人牵手",
+      "copy_title": "情侣+亲密互动+聚光灯下蓝裙双人牵手+视频+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22093,15 +22097,19 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
-      "copy_title": null,
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "山间黄纱丽情侣牵手",
+      "copy_title": "情侣+亲密互动+山间黄纱丽情侣牵手+视频+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22169,15 +22177,17 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "情侣",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "彩色传统装双人持棒",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "情侣"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22247,13 +22257,13 @@
       "source_confidence": "unknown",
       "audience_tag": null,
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "寺庙前彩裙群像",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22321,15 +22331,17 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "月光夜景红衣回眸",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22397,15 +22409,17 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "红衣黑纱丽室内手势",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22476,13 +22490,13 @@
       "source_confidence": "unknown",
       "audience_tag": null,
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "绿金刺绣lehenga独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "muse_visual_summary_unverified",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22552,13 +22566,13 @@
       "source_confidence": "unknown",
       "audience_tag": null,
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "安全帽工地多人近景",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22626,15 +22640,17 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "情侣",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "聚光灯下红裙双人同框",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "情侣"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22702,15 +22718,17 @@
       "material_kind": "human_ai_dance_video",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "粉绿刺绣长裙门前站姿",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22777,15 +22795,19 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
-      "copy_title": null,
+      "audience_tag": "亲子家庭",
+      "theme_tag": "海报",
+      "image_description": "教堂前四人举牌合照",
+      "copy_title": "亲子家庭+海报+教堂前四人举牌合照+图片+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22852,15 +22874,17 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "酒红珠绣绿头纱胸像",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -22927,15 +22951,17 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "黑蕾丝上衣红唇近景",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -23002,15 +23028,17 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "米白头巾室内近景",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -23077,15 +23105,17 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "稻田绿衣头巾侧坐",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -23152,15 +23182,17 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "黄色花纹头巾近景",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -23230,13 +23262,13 @@
       "source_confidence": "unknown",
       "audience_tag": null,
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "海滩男子与爱犬",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "muse_visual_summary_unverified",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -23303,15 +23335,19 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
-      "copy_title": null,
+      "audience_tag": "单人男性",
+      "theme_tag": "80复古",
+      "image_description": "花纹毛衣与白色老车",
+      "copy_title": "单人男性+80复古+花纹毛衣与白色老车+图片+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -23378,15 +23414,19 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
-      "theme_tag": null,
-      "image_description": "",
-      "copy_title": null,
+      "audience_tag": "情侣",
+      "theme_tag": "80复古",
+      "image_description": "墨镜情侣复古合影",
+      "copy_title": "情侣+80复古+墨镜情侣复古合影+图片+原",
       "tags": {
-        "audience_tags": [],
-        "theme_tags": []
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
@@ -23453,15 +23493,17 @@
       "material_kind": "ai_image",
       "discovery_labels": [],
       "source_confidence": "unknown",
-      "audience_tag": null,
+      "audience_tag": "单人女性",
       "theme_tag": null,
-      "image_description": "",
+      "image_description": "雪花蓝纱丽半身肖像",
       "copy_title": null,
       "tags": {
-        "audience_tags": [],
+        "audience_tags": [
+          "单人女性"
+        ],
         "theme_tags": []
       },
-      "tag_source": null,
+      "tag_source": "codex_visual_review",
       "tag_checked_at": null,
       "scores": {
         "data": null,
