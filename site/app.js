@@ -23,8 +23,10 @@ const tag = (item, field) => {
   return field === 'audience_tags' ? item.audience_tag || '' : item.theme_tag || '';
 };
 const tags = (item, field) => tag(item, field) ? [tag(item, field)] : [];
-const imageDescription = item => Object.hasOwn(decision(item), 'imageDescription')
-  ? decision(item).imageDescription : item.image_description || '';
+const imageDescription = item => {
+  const local = decision(item).imageDescription;
+  return typeof local === 'string' && local.trim() ? local : item.image_description || '';
+};
 const category = item => item.material_kind === 'human_ai_dance_video' ? 'human_ai_dance_video'
   : item.material_kind === 'other_ai_video' ? 'other_ai_video'
   : item.material_kind === 'ai_image' || item.media?.[0]?.kind === 'image' ? 'ai_image' : 'unknown';
