@@ -482,7 +482,14 @@ async function load() {
   } catch (error) { $('loading').hidden=true;$('error').hidden=false;$('error-message').textContent=`请检查网络并重试：${error.message}`; }
 }
 $('filters').addEventListener('submit',event=>event.preventDefault());
-for (const eventName of ['input','change']) $('filters').addEventListener(eventName,()=>{state.page=1;render();});
+$('filters').addEventListener('input',event=>{
+  if (event.target instanceof HTMLInputElement) { state.page=1;render(); }
+});
+$('filters').addEventListener('change',event=>{
+  if (!(event.target instanceof HTMLInputElement && event.target.type==='search')) {
+    state.page=1;render();
+  }
+});
 $('filters').addEventListener('reset',()=>setTimeout(()=>{state.page=1;render();},0));
 $('retry').addEventListener('click',load);
 $('previous').addEventListener('click',()=>{state.page--;render();});
