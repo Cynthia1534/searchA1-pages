@@ -15,7 +15,7 @@ const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',f
 const packagedSyncApi='https://a1-art-sync.cynthiazhong1534.workers.dev';
 const state = {data:null, local:{}, legacy:{}, cloud:location.pathname.startsWith('/gallery/'),
   syncApi:packagedSyncApi.startsWith('https://') ? packagedSyncApi : '',
-  password:'',counts:null,current:null,detailIndex:0,page:1,saveQueue:new Map(),pendingSave:null};
+  password:'',counts:null,current:null,detailIndex:0,page:1,pages:1,saveQueue:new Map(),pendingSave:null};
 try { state.legacy = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.legacy = {}; }
 if (Object.keys(state.legacy).length)
   $('legacy-status').textContent=`本机有 ${Object.keys(state.legacy).length} 条旧操作可迁移。请先导出，再登录云端导入；重复导入不会覆盖。`;
@@ -457,7 +457,8 @@ function render() {
   days.forEach(day => groups.get(day).sort(compareItems));
   const ordered = days.flatMap(day => groups.get(day));
   const pages = Math.max(1,Math.ceil(ordered.length/20));
-  state.page=Math.min(state.page,pages);
+  state.pages=pages;
+  state.page=Math.max(1,Math.min(state.page,pages));
   const shown=ordered.slice((state.page-1)*20,state.page*20);
   const shownGroups = new Map();
   for (const item of shown) { const day=captureDay(item); if (!shownGroups.has(day)) shownGroups.set(day,[]); shownGroups.get(day).push(item); }
@@ -471,9 +472,27 @@ function render() {
   $('result-count').textContent=`${ordered.length} 条结果`;
   $('empty').hidden=ordered.length!==0;
   $('pagination').hidden=pages<=1;
-  $('page-label').textContent=`${state.page} / ${pages}`;
+  $('page-label').textContent=`共 ${pages} 页`;
   $('previous').disabled=state.page<=1;
   $('next').disabled=state.page>=pages;
+  $('page-jump-input').max=String(pages);
+  // Five consecutive page buttons, centered on the current page when possible.
+  const firstPage=Math.max(1,Math.min(state.page-2,pages-4));
+  const lastPage=Math.min(pages,firstPage+4);
+  const pageButtons=[];
+  for(let page=firstPage;page<=lastPage;page++){
+    const button=el('button','page-number',page);
+    button.type='button';
+    button.setAttribute('aria-label',`第 ${page} 页`);
+    if(page===state.page){
+      button.classList.add('current');
+      button.setAttribute('aria-current','page');
+    } else {
+      button.addEventListener('click',()=>goToPage(page));
+    }
+    pageButtons.push(button);
+  }
+  $('page-numbers').replaceChildren(...pageButtons);
   $('loading').hidden=true;
 }
 function detailMedia() {
@@ -631,8 +650,27 @@ $('filters').addEventListener('change',event=>{
 });
 $('filters').addEventListener('reset',()=>setTimeout(()=>{state.page=1;render();},0));
 $('retry').addEventListener('click',load);
-$('previous').addEventListener('click',()=>{state.page--;render();});
-$('next').addEventListener('click',()=>{state.page++;render();});
+function goToPage(page){
+  if(!Number.isInteger(page) || page<1 || page>state.pages || page===state.page) return;
+  state.page=page;
+  render();
+  $('cards').scrollIntoView({behavior:'smooth',block:'start'});
+}
+$('previous').addEventListener('click',()=>goToPage(state.page-1));
+$('next').addEventListener('click',()=>goToPage(state.page+1));
+$('page-jump').addEventListener('submit',event=>{
+  event.preventDefault();
+  const input=$('page-jump-input');
+  const value=input.value.trim();
+  const page=Number(value);
+  if(!value || !Number.isInteger(page) || page<1 || page>state.pages){
+    feedback(`请输入 1 至 ${state.pages} 的有效页码。`,true);
+    input.focus();
+    return;
+  }
+  goToPage(page);
+  input.value='';
+});
 $('close-detail').addEventListener('click',()=>$('detail').close());
 $('detail').addEventListener('click',event=>{if(event.target===$('detail')) $('detail').close();});
 $('detail-status').addEventListener('change',event=>{if(state.current) save(state.current,{status:event.target.value});});
