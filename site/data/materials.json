@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T06:27:35+00:00",
+  "generated_at": "2026-10-30T06:34:02+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -766,7 +766,6 @@
       "screening_scope": "none",
       "record_stage": "formal",
       "verification_notes": [
-        "预览暂不可用",
         "视频文件待获取",
         "内容信息待核实"
       ],
@@ -823,8 +822,8 @@
         {
           "position": 0,
           "kind": "video_cover",
-          "preview": null,
-          "preview_status": "cover_host_not_approved",
+          "preview": "assets/tiktok_7622884647046876423_0.jpg",
+          "preview_status": "cover_cached",
           "result_status": "unknown",
           "visual_analysis": null
         }
