@@ -12,9 +12,16 @@ const viewNames = {all:'全部素材', unprocessed:'未处理', later:'稍后采
 const statusNames = {pending:'未处理', reserve:'稍后采用', adopted:'已采用', rejected:'不采用'};
 const categoryNames = {ai_image:'图片', human_ai_dance_video:'舞蹈类视频', other_ai_video:'情景类视频'};
 const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',facebook:'Facebook',threads:'Threads',other:'其他网站'};
-const state = {data:null, local:{}, legacy:{}, cloud:location.pathname.startsWith('/gallery/'), counts:null, current:null, detailIndex:0, page:1};
+const state = {data:null, local:{}, legacy:{}, cloud:location.pathname.startsWith('/gallery/'),
+  syncApi:'',password:'',counts:null,current:null,detailIndex:0,page:1};
 try { state.legacy = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.legacy = {}; }
+try { state.password=sessionStorage.getItem('a1-sync-password')||''; } catch { /* Session storage unavailable. */ }
 if (!state.cloud) state.local=state.legacy;
+function apiFetch(path, options={}) {
+  const headers={...(options.headers||{})};
+  if (state.syncApi && state.password) headers['X-A1-Password']=state.password;
+  return fetch((state.syncApi||'')+path,{...options,headers});
+}
 const decision = item => state.local[item.id] || {};
 const status = item => statusNames[decision(item).status] ? decision(item).status :
   (state.cloud ? 'pending' : statusNames[item.review_status] ? item.review_status : 'pending');
@@ -101,6 +108,9 @@ function feedback(message, error=false) {
   feedbackTimer = setTimeout(() => { node.hidden = true; }, 3800);
 }
 async function save(item, patch, {rerender=true}={}) {
+  if (state.syncApi && !state.cloud) {
+    feedback('请先登录云端同步，再修改人工状态或标题。',true); return false;
+  }
   const previous = decision(item);
   if (Object.hasOwn(patch, 'imageDescription') &&
       (typeof patch.imageDescription !== 'string' || [...patch.imageDescription].length > 15 ||
@@ -149,7 +159,7 @@ async function save(item, patch, {rerender=true}={}) {
     const fields={status:'status',audienceTag:'audience_tag',themeTag:'theme_tag',
       imageDescription:'image_description',titleMedia:'title_media',note:'note'};
     const body=Object.fromEntries(Object.entries(patch).map(([key,value])=>[fields[key],value]));
-    const response=await fetch(`/api/material-decisions/${item.id}`,{
+    const response=await apiFetch(`/api/material-decisions/${item.id}`,{
       method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
     const payload=await response.json().catch(()=>({}));
     if (!response.ok || !payload.ok) throw new Error(payload.error||`HTTP ${response.status}`);
@@ -422,7 +432,7 @@ function render() {
   $('section-title').textContent=viewNames[current];
   $('view-description').textContent='按首次采集日期归档；候选与正式素材一起展示，采用决定由你作出。';
   const duplicateCount=state.data.export_stats?.confirmed_duplicates_skipped ?? 0;
-  $('summary').textContent=`已导入 ${materials.length} · 待判断 ${counts.unprocessed} · 已采用 ${counts.adopted} · 不采用 ${counts.rejected} · 稍后采用 ${counts.later} · 重复跳过 ${duplicateCount} · ${state.cloud?'云端同步':'仅此浏览器保存，未云端同步'}`;
+  $('summary').textContent=`已导入 ${materials.length} · 待判断 ${counts.unprocessed} · 已采用 ${counts.adopted} · 不采用 ${counts.rejected} · 稍后采用 ${counts.later} · 重复跳过 ${duplicateCount} · ${state.cloud?'云端同步':state.syncApi?'云端未登录，当前显示旧本机记录':'仅此浏览器保存，未云端同步'}`;
   activeFilters();
   const items = materials.filter(matches);
   const groups = new Map();
@@ -507,14 +517,28 @@ async function load() {
         || !Array.isArray(data.taxonomy?.audience_tags) || !Array.isArray(data.taxonomy?.theme_tags)) throw new Error('素材数据格式无效');
     const seen=new Set(); data.materials=data.materials.filter(item=>{ if(!item.id||seen.has(item.id)) return false;seen.add(item.id);return true; });
     state.data=data;fillOptions();
-    if (state.cloud) await syncDecisions(false);
+    if (!state.cloud && !state.syncApi) {
+      const configResponse=await fetch('./data/sync-config.json',{cache:'no-store'});
+      if (configResponse.ok) {
+        const config=await configResponse.json();
+        const url=new URL(config.api_base);
+        if (url.protocol!=='https:' || !/^a1-art-sync\.[a-z0-9-]+\.workers\.dev$/.test(url.hostname))
+          throw new Error('云端同步地址无效');
+        state.syncApi=url.origin;
+        $('sync-login').hidden=false;
+      }
+    }
+    if (state.cloud || state.syncApi && state.password) {
+      try { await syncDecisions(false); }
+      catch (error) { feedback(`云端连接失败：${error.message}。请检查密码后重试。`,true); }
+    }
     $('snapshot-time').textContent=`快照 ${date(data.generated_at)}`;
     render();
   } catch (error) { $('loading').hidden=true;$('error').hidden=false;$('error-message').textContent=`请检查网络并重试：${error.message}`; }
 }
 async function syncDecisions(quiet=true) {
-  if (!state.cloud) return;
-  const response=await fetch('/api/material-decisions',{cache:'no-store'});
+  if (!state.cloud && !state.syncApi) return;
+  const response=await apiFetch('/api/material-decisions',{cache:'no-store'});
   if (!response.ok) throw new Error(`人工状态 API：HTTP ${response.status}`);
   const payload=await response.json();
   if (!payload.decisions || !payload.counts) throw new Error('人工状态响应无效');
@@ -523,6 +547,8 @@ async function syncDecisions(quiet=true) {
     imageDescription:row.image_description,titleMedia:row.title_media,note:row.note,
     updatedAt:row.updated_at}]));
   state.counts=payload.counts;
+  state.cloud=true;
+  if (state.syncApi) $('sync-login').hidden=true;
   if (quiet && state.data && !document.querySelector('.image-description:focus, .tag-select:focus, #detail-note:focus')) render();
 }
 $('export-local').addEventListener('click',()=>{
@@ -540,7 +566,7 @@ $('import-local').addEventListener('change',async event=>{
     if (!state.cloud) throw new Error('请在已登录的云端工作区导入');
     const data=JSON.parse(await file.text());
     if (data.schema!=='a1-local-decisions-v1' || !data.decisions || Array.isArray(data.decisions)) throw new Error('导出文件格式不匹配');
-    const response=await fetch('/api/material-decisions/import',{method:'POST',
+    const response=await apiFetch('/api/material-decisions/import',{method:'POST',
       headers:{'Content-Type':'application/json'},body:JSON.stringify(data.decisions)});
     const payload=await response.json();
     if (!response.ok || !payload.ok) throw new Error(payload.error||`HTTP ${response.status}`);
@@ -556,7 +582,18 @@ $('import-local').addEventListener('change',async event=>{
   } catch (error) { feedback(`迁移失败：${error.message}`,true); }
   event.target.value='';
 });
-if (state.cloud) setInterval(()=>syncDecisions().catch(error=>feedback(`同步暂时失败：${error.message}`,true)),15000);
+$('sync-connect').addEventListener('click',async()=>{
+  const password=$('sync-password').value;
+  if (!password) { feedback('请填写工作区密码',true);return; }
+  state.password=password;
+  try {
+    await syncDecisions(false);
+    try {sessionStorage.setItem('a1-sync-password',password);} catch { /* In-memory login remains usable. */ }
+    $('sync-password').value=''; render();feedback('已连接云端人工状态');
+  } catch(error) { state.password='';feedback(`云端登录失败：${error.message}`,true); }
+});
+setInterval(()=>{if(state.cloud && !document.hidden)syncDecisions().catch(error=>feedback(`同步暂时失败：${error.message}`,true));},60000);
+addEventListener('focus',()=>{if(state.cloud)syncDecisions().catch(error=>feedback(`同步暂时失败：${error.message}`,true));});
 $('filters').addEventListener('submit',event=>event.preventDefault());
 $('filters').addEventListener('input',event=>{
   if (event.target instanceof HTMLInputElement) { state.page=1;render(); }
