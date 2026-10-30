@@ -146,3 +146,22 @@
   .page-numbers .page-number { min-width: 30px; }
   .pagination .page-label { width: 100%; text-align: center; }
 }
+
+
+/* Immediate per-row feedback while the D1 save is in flight. A pending
+   indicator is intentionally NOT a confirmed change of the selected state. */
+.status-cell.saving .status-label {
+  border-color:#b9cede;
+  background:#edf5fb;
+  color:#385d79;
+  font-weight:650;
+}
+.status-cell.saving .state-button:disabled,
+.status-cell.saving .undo:disabled {
+  opacity:.65;
+  cursor:progress;
+}
+.row:has(>.status-cell.saving) {
+  box-shadow:inset 4px 0 0 #7298b5;
+  background-color:#eef4f9;
+}
