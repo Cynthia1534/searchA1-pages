@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T08:56:32+00:00",
+  "generated_at": "2026-10-30T09:06:16+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -47,12 +47,774 @@
     ]
   },
   "export_stats": {
-    "formal": 333,
+    "formal": 343,
     "candidates": 32,
     "confirmed_duplicates_skipped": 38,
     "suspected_duplicates_included": 0
   },
   "materials": [
+    {
+      "id": "instagram:DfEgY7LIMOZ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfEgY7LIMOZ/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": "2026-10-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "Capturing the divine essence of Karwa Chauth, a graceful woman is adorned in a heavily embroidered traditional red saree and matching jhumkas while performing the sacred moonlit ritual with a decorated puja thali and sieve.\n\n#chatgpt #karwachauth #indianfestival #tradition #ethnicwear\n\n[karwa chauth ritual, traditional red saree, Indian festival fashion, moonlit prayer, ethnic wear aesthetic, fast and celebration, festive glowing lights, Indian culture, mangalsutra design, jhumka earrings, festive makeup look, channi ritual, divine celebration]",
+      "description": "红纱丽月夜祈愿",
+      "recommendation_reason": "红纱丽与灯盏组成印度节日四格写真",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "红纱丽月夜祈愿",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T09:05:35+00:00",
+        "likes": 1374,
+        "likes_display": "1,374",
+        "comments": 16,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T09:05:35+00:00",
+          "likes": 1374,
+          "likes_display": "1,374",
+          "comments": 16,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfEgY7LIMOZ_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfGsKzbkbmr",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfGsKzbkbmr/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "Baby diwali prompt ✨ \n#BabyPhotography #diwalivibes #DiwaliCelebration #aigenerated #Diwali",
+      "description": "彩灯环绕白衣萌娃",
+      "recommendation_reason": "花瓣与灯饰围绕儿童，适合节日亲子模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "排灯节",
+      "image_description": "彩灯环绕白衣萌娃",
+      "copy_title": "宝宝儿童+排灯节+彩灯环绕白衣萌娃+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfGsKzbkbmr_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfENtQgkc45",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfENtQgkc45/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "Karwachauth prompt ✨ \n#KarwaChauthSpecial #KarwaChauth #couplephotography #aigenerated #CouplePortrait",
+      "description": "月下烛光对望",
+      "recommendation_reason": "夜色灯盏中的情侣互动有仪式感",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "月下烛光对望",
+      "copy_title": "情侣+亲密互动+月下烛光对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfENtQgkc45_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfESLnVjwAb",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfESLnVjwAb/",
+      "creator": "zeevisha.ai",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "Follow like and comment\" Prompt\" Make sure you follow me, otherwise automation doesn't work\n\nRajasthan + AI = viral combo 🚀\nPrompt already image ke sath attached hai.\n\n👉 Save this post\n👥 Share with creators\n\n#RajasthanTrend #AIContentCreator #PromptEngineering #AIIndia #CreativeAI\n\n@zeevisha.ai",
+      "description": "蓝纱丽烟花夜景",
+      "recommendation_reason": "蓝红纱丽与烟花夜景形成动态节日氛围",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "排灯节",
+      "image_description": "蓝纱丽烟花夜景",
+      "copy_title": "单人女性+排灯节+蓝纱丽烟花夜景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfESLnVjwAb_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De_Uz4zGi4_",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De_Uz4zGi4_/",
+      "creator": "promptkalai",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "Follow and Comment \"PROMPT\" ✅🔗💖",
+      "description": "绿外套户外童装",
+      "recommendation_reason": "童装色彩与自然背景可作儿童换脸写真",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptkalai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": null,
+      "image_description": "绿外套户外童装",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T09:05:35+00:00",
+        "likes": 12,
+        "likes_display": "12",
+        "comments": 18,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T09:05:35+00:00",
+          "likes": 12,
+          "likes_display": "12",
+          "comments": 18,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_Uz4zGi4__0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DewgNNmk0on",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DewgNNmk0on/",
+      "creator": "genoramedia",
+      "published_at": null,
+      "published_date": "2026-10-21",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "Cozy Cinematic Portrait 📸\n\nComment “AI” and I’ll send you the prompts!\n\nFollow me (@genoramedia ) for more Al tips! 💜",
+      "description": "暖光侧影肖像",
+      "recommendation_reason": "侧逆光与暖色室内环境形成电影人像",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/genoramedia/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "暖光侧影肖像",
+      "copy_title": "单人女性+棚拍+暖光侧影肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T09:05:35+00:00",
+        "likes": 369,
+        "likes_display": "369",
+        "comments": 554,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T09:05:35+00:00",
+          "likes": 369,
+          "likes_display": "369",
+          "comments": 554,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DewgNNmk0on_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeuU9giE48G",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DeuU9giE48G/",
+      "creator": "genoramedia",
+      "published_at": null,
+      "published_date": "2026-10-20",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "Dark Motion Blur Portrait 📸\n\nComment “PROMPT” and I’ll send you the prompts!\n\nFollow me (@genoramedia ) for more Al tips! 🖤",
+      "description": "疾影黑白男像",
+      "recommendation_reason": "运动模糊与黑白高反差构成独特男性肖像",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/genoramedia/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "黑白摄影",
+      "image_description": "疾影黑白男像",
+      "copy_title": "单人男性+黑白摄影+疾影黑白男像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "黑白摄影"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T09:05:35+00:00",
+        "likes": 812,
+        "likes_display": "812",
+        "comments": 776,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T09:05:35+00:00",
+          "likes": 812,
+          "likes_display": "812",
+          "comments": 776,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeuU9giE48G_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcaYVdbk5O3",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcaYVdbk5O3/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": "2026-08-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "Cute trending couple prompt ❤️❤️❤️🩷🩷🩷",
+      "description": "双人贴脸浅色肖像",
+      "recommendation_reason": "近距离双人互动可转为情侣写真模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "双人贴脸浅色肖像",
+      "copy_title": "情侣+亲密互动+双人贴脸浅色肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T09:05:35+00:00",
+        "likes": null,
+        "likes_display": "102K",
+        "comments": 1057,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T09:05:35+00:00",
+          "likes": null,
+          "likes_display": "102K",
+          "comments": 1057,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcaYVdbk5O3_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbufNc2E4-x",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbufNc2E4-x/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": "2026-08-06",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "🩷🩷PROMPT🩷🩷. Want the full prompt ????",
+      "description": "逆光纱丽剪影",
+      "recommendation_reason": "强烈墙面投影突出纱丽轮廓与色块",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纯色暗调",
+      "image_description": "逆光纱丽剪影",
+      "copy_title": "单人女性+纯色暗调+逆光纱丽剪影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纯色暗调"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T09:05:35+00:00",
+        "likes": null,
+        "likes_display": "65K",
+        "comments": 8738,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T09:05:35+00:00",
+          "likes": null,
+          "likes_display": "65K",
+          "comments": 8738,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbufNc2E4-x_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DauqA0WDxT8",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DauqA0WDxT8/",
+      "creator": "zeevisha.ai",
+      "published_at": null,
+      "published_date": "2026-07-13",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "caption": "💬 Comment \"PROMPT\" & Check Your DM\n\nFollow like and comment\" Prompt\" \n\nMake sure you follow me, otherwise automation doesn't work 👍\n\n👉 Save this post\n👥 Share with creators\n\n#RajasthanTrend #AIContentCreator #PromptEngineering #AIIndia #CreativeAI\n\n✨ Follow @zeevisha.ai for Premium AI Prompts",
+      "description": "宫殿白马男像",
+      "recommendation_reason": "华丽白马与印度宫殿场景可批量替换人物",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "人与动物",
+      "image_description": "宫殿白马男像",
+      "copy_title": "单人男性+人与动物+宫殿白马男像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "人与动物"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T09:05:35+00:00",
+        "likes": null,
+        "likes_display": "22K",
+        "comments": 2127,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T09:05:35+00:00",
+          "likes": null,
+          "likes_display": "22K",
+          "comments": 2127,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DauqA0WDxT8_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DfE3BqCGiNV",
       "platform": "instagram",
