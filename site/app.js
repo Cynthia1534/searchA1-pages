@@ -17,6 +17,8 @@ const state = {data:null, local:{}, legacy:{}, cloud:location.pathname.startsWit
   syncApi:packagedSyncApi.startsWith('https://') ? packagedSyncApi : '',
   password:'',counts:null,current:null,detailIndex:0,page:1,saveQueue:new Map()};
 try { state.legacy = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.legacy = {}; }
+if (Object.keys(state.legacy).length)
+  $('legacy-status').textContent=`本机有 ${Object.keys(state.legacy).length} 条旧操作可迁移。请先导出，再登录云端导入；重复导入不会覆盖。`;
 try { state.password=sessionStorage.getItem('a1-sync-password')||''; } catch { /* Session storage unavailable. */ }
 if (!state.cloud) state.local=state.legacy;
 function apiFetch(path, options={}) {
@@ -599,7 +601,10 @@ $('sync-connect').addEventListener('click',async()=>{
   try {
     await syncDecisions(false);
     try {sessionStorage.setItem('a1-sync-password',password);} catch { /* In-memory login remains usable. */ }
-    $('sync-password').value=''; render();feedback('已连接云端人工状态');
+    $('sync-password').value=''; render();
+    feedback(Object.keys(state.legacy).length
+      ? `已连接云端；本机有 ${Object.keys(state.legacy).length} 条旧操作可导出迁移。`
+      : '已连接云端人工状态');
   } catch(error) { state.password='';feedback(`云端登录失败：${error.message}`,true); }
 });
 setInterval(()=>{if(state.cloud && !document.hidden)syncDecisions().catch(error=>feedback(`同步暂时失败：${error.message}`,true));},60000);
