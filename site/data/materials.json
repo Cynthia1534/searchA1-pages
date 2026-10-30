@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T06:34:02+00:00",
+  "generated_at": "2026-10-30T08:50:16+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -47,12 +47,368 @@
     ]
   },
   "export_stats": {
-    "formal": 328,
+    "formal": 333,
     "candidates": 32,
     "confirmed_duplicates_skipped": 38,
     "suspected_duplicates_included": 0
   },
   "materials": [
+    {
+      "id": "instagram:DfE3BqCGiNV",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfE3BqCGiNV/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": "2026-10-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "caption": "❤️ Every frame tells our love story, every moment becomes a memory. 🖤✨\n\nPrompt Code: P-07778398 \n\n#couplegoals💑 #romanticvibes #lovestory #couplephotography #blackandwhitelove #couplecollage #relationshipgoals #aestheticcouple #instalovers #trendingréels",
+      "description": "黑白九格情侣瞬间",
+      "recommendation_reason": "九宫格组合双人姿势，适合作为情侣照片模板",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "黑白九格情侣瞬间",
+      "copy_title": "情侣+多宫格+黑白九格情侣瞬间+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfE3BqCGiNV_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfFWkW0mm7I",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfFWkW0mm7I/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": "2026-10-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "caption": "May your Diwali glow as beautifully as your dreams. ✨\n\nPrompt Code: P-64009197\n\n#diwalidecor #diwalivibes #diwalilook #festivevibes #indianfashion #sareelover #sareelook #traditionallook #ethnicwear #festivefashion #diya #festivaloflights #indianculture #instadiwali #diwali2026 #goldenglow #sareeinspiration #portraitphotography #festiveglow",
+      "description": "橙裙手捧灯盏",
+      "recommendation_reason": "橙色纱丽与灯盏构成暖调排灯节写真",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "排灯节",
+      "image_description": "橙裙手捧灯盏",
+      "copy_title": "单人女性+排灯节+橙裙手捧灯盏+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfFWkW0mm7I_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfGz9S4msVh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfGz9S4msVh/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": "2026-10-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "caption": "💚🤍💛 A little piece of Kerala, forever in my heart! 🌴✨\n\nPrompt Code: P-92632564\n\n#keralapiravi #happykeralapiravi #entekeralam #godsowncountry #proudmalayali #keralaculture #keralasaree #kasavusaree #malayalipride #keralabeauty #keralatradition #keralalove #nammudekeralam #keraladiaries #keralapiravi2026",
+      "description": "椰林纱丽四格肖像",
+      "recommendation_reason": "Kerala 传统纱丽与多尺度人物拼贴，可换脸批量生成",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "椰林纱丽四格肖像",
+      "copy_title": "单人女性+拼贴+椰林纱丽四格肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfGz9S4msVh_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdTKKjvxExx",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdTKKjvxExx/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": "2026-09-15",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "caption": "-AI image- modest look!",
+      "description": "粉纱丽木屋肖像",
+      "recommendation_reason": "粉蓝纱丽与木屋内景形成朴素传统造型",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "粉纱丽木屋肖像",
+      "copy_title": "单人女性+纱丽+粉纱丽木屋肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T08:50:04+00:00",
+        "likes": 130,
+        "likes_display": "130",
+        "comments": 24,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T08:50:04+00:00",
+          "likes": 130,
+          "likes_display": "130",
+          "comments": 24,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdTKKjvxExx_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdF7dKnPHDx",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdF7dKnPHDx/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": "2026-09-09",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "caption": "-AI image- Good morning with a retro look",
+      "description": "紫红纱丽怀旧肖像",
+      "recommendation_reason": "紫红纱丽与八十年代海报背景形成怀旧造型",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "80复古",
+      "image_description": "紫红纱丽怀旧肖像",
+      "copy_title": "单人女性+80复古+紫红纱丽怀旧肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T08:50:04+00:00",
+        "likes": 94,
+        "likes_display": "94",
+        "comments": 25,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T08:50:04+00:00",
+          "likes": 94,
+          "likes_display": "94",
+          "comments": 25,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdF7dKnPHDx_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "facebook:1633029874923101",
       "platform": "facebook",
