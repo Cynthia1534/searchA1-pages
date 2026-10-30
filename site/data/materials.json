@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T09:06:16+00:00",
+  "generated_at": "2026-10-30T11:11:40+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -47,12 +47,1204 @@
     ]
   },
   "export_stats": {
-    "formal": 343,
+    "formal": 358,
     "candidates": 32,
     "confirmed_duplicates_skipped": 38,
     "suspected_duplicates_included": 0
   },
   "materials": [
+    {
+      "id": "instagram:DfE8Xq1nbjw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfE8Xq1nbjw/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": "2026-10-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:11:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:11:06+00:00",
+      "caption": "🔥 ULTRA-REALISTIC 8K MAROON SAREE CINEMATIC PROMPT 🔥\n\nUse the uploaded image as the exact visual reference. Create an ultra-realistic 8K cinematic portrait/collage of the same young Indian woman wearing an elegant deep maroon saree with intricate golden embroidered borders and matching blouse. Preserve her facial features, face shape, eyes, nose, lips, skin tone, hairstyle, and natural expression accurately.\n\nCreate three beautiful candid scenes in the same warm evening setting:\n\n1. Standing on a balcony holding a white ceramic cup, smiling softly toward the camera.\n2. Sitting comfortably on a cozy sofa while holding a cushion, giving a gentle natural smile.\n3. Standing on the balcony looking toward the city lights with a cheerful candid expression.\n\nLong natural black hair, subtle makeup, delicate earrings, warm fairy lights, hanging green plants, cozy balcony atmosphere, blurred nighttime city skyline, soft golden bokeh, realistic shadows, cinematic depth of field, natural skin texture, detailed saree fabric, professional DSLR photography, HDR, sharp focus, photorealistic, 8K ultra-HD quality.\n\nPreserve the same identity and appearance. No face change, no beautification, no plastic skin, no distorted hands, no extra fingers, no duplicate person, no watermark, no unwanted text.",
+      "description": "酒红纱丽三格写真",
+      "recommendation_reason": "酒红纱丽用全身与特写组合为三格模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "酒红纱丽三格写真",
+      "copy_title": "单人女性+多宫格+酒红纱丽三格写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:11:06+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:11:06+00:00",
+        "likes": 20,
+        "likes_display": "20",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:11:06+00:00",
+          "likes": 20,
+          "likes_display": "20",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfE8Xq1nbjw_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfFeWZfHTGK",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfFeWZfHTGK/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": "2026-10-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:11:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:11:06+00:00",
+      "caption": "╭─❖ 𝟖𝐊 𝐂𝐈𝐍𝐄𝐌𝐀𝐓𝐈𝐂 𝐏𝐑𝐎𝐌𝐏𝐓 ❖─╮\n\n> Create an ultra-realistic 8K UHD portrait using the reference photo. A young man in an all-black outfit sits relaxed on a folding chair, gazing at a giant screen showing a woman's beautiful eyes, framed with electric-blue neon. Dark navy studio, dramatic blue rim lighting, cinematic haze, glossy floor reflections, HDR, sharp details, premium movie aesthetic, vertical 9:16, preserve the original face and natural features, no text or watermark.\n\n╰─❖ 𝐔𝐋𝐓𝐑𝐀 𝐑𝐄𝐀𝐋𝐈𝐒𝐓𝐈𝐂 ❖─╯",
+      "description": "蓝霓虹巨眼男像",
+      "recommendation_reason": "电蓝巨屏眼部与黑衣男像形成电影海报视觉",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "蓝霓虹巨眼男像",
+      "copy_title": "单人男性+海报+蓝霓虹巨眼男像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:11:06+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:11:06+00:00",
+        "likes": 17,
+        "likes_display": "17",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:11:06+00:00",
+          "likes": 17,
+          "likes_display": "17",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfFeWZfHTGK_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfGhPaUHTjW",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfGhPaUHTjW/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": "2026-10-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:11:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:11:06+00:00",
+      "caption": "╭─❖ 𝟖𝐊 𝐀𝐈 𝐆𝐈𝐑𝐋 𝐏𝐑𝐎𝐌𝐏𝐓 ❖─╮\n\n> Create an ultra-realistic 8K UHD cinematic portrait of a beautiful young woman standing in front of a luxurious black SUV at night, wearing an elegant black saree with intricate golden floral embroidery and matching sleeveless blouse. Long, silky black hair, traditional golden jhumka earrings, natural makeup, soft smile, looking slightly to the side while gently touching her hair. Premium night lighting, realistic skin texture, glossy black SUV, blurred city lights, professional DSLR photography, sharp focus, luxurious atmosphere, natural colors, Instagram-ready 3:4 portrait.\n\nFace preservation: Keep the exact same face and identity as the reference photo. No face distortion, no artificial skin smoothing, no extra fingers.\n\n╰─❖ 𝐔𝐋𝐓𝐑𝐀 𝐑𝐄𝐀𝐋𝐈𝐒𝐌 ❖─╯",
+      "description": "黑纱丽夜街肖像",
+      "recommendation_reason": "黑金纱丽与路灯、车身构成城市夜景时尚写真",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "黑纱丽夜街肖像",
+      "copy_title": "单人女性+纱丽+黑纱丽夜街肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:11:06+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:11:06+00:00",
+        "likes": 15,
+        "likes_display": "15",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:11:06+00:00",
+          "likes": 15,
+          "likes_display": "15",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfGhPaUHTjW_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfCUTXWnZqM",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfCUTXWnZqM/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:11:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:11:06+00:00",
+      "caption": "Ultra-Realistic 8K Eye Portrait Collage Prompt ✨\n\nCreate an ultra-realistic, cinematic 2-panel vertical collage featuring extreme close-up portraits of a young woman’s eyes in the top panel and a young man’s eyes in the bottom panel. The woman has large expressive dark eyes, bold winged eyeliner, thick eyebrows, and loose black hair strands falling naturally across her face. The man has deep dark eyes, thick natural eyebrows, and messy textured black hair falling over his forehead. Both subjects have realistic skin texture, sharp eye details, natural eyelashes, and beautiful reflections in their pupils. Use a warm sepia monochrome color grade, soft diffused lighting, subtle film grain, high contrast, and an intimate aesthetic mood. Precisely aligned horizontal split composition, tightly cropped framing, DSLR macro photography, 85mm lens, ultra-sharp focus, photorealistic details, 8K UHD quality, 9:16 aspect ratio. No text, no watermark, no artificial skin smoothing.",
+      "description": "双人眼眸对切拼贴",
+      "recommendation_reason": "男女眼部上下分镜适合情侣锁屏生成",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": "拼贴",
+      "image_description": "双人眼眸对切拼贴",
+      "copy_title": "情侣+拼贴+双人眼眸对切拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:11:06+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:11:06+00:00",
+        "likes": 473,
+        "likes_display": "473",
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:11:06+00:00",
+          "likes": 473,
+          "likes_display": "473",
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfCUTXWnZqM_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfECwoTiLfM",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfECwoTiLfM/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": "2026-10-28",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:11:06+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:11:06+00:00",
+      "caption": "Beautiful Indian woman celebrating Karwa Chauth in a golden-yellow saree and green embroidered blouse, traditional jewelry, mehndi and colorful bangles, holding a decorated channi and puja thali, Ultra realistic fair beautiful woman, fair bright smooth skin, four-panel collage, warm golden diya lights, festive 3D bright background, HDR, 32K,",
+      "description": "黄纱丽节日四格",
+      "recommendation_reason": "黄纱丽人物与灯盏特写呈现印度节日视觉",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "黄纱丽节日四格",
+      "copy_title": "单人女性+多宫格+黄纱丽节日四格+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:11:06+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:11:06+00:00",
+        "likes": 115,
+        "likes_display": "115",
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:11:06+00:00",
+          "likes": 115,
+          "likes_display": "115",
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfECwoTiLfM_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfHSAg2nzdL",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfHSAg2nzdL/",
+      "creator": "promptseen",
+      "published_at": null,
+      "published_date": "2026-10-30",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "Swipe Left For Prompt ➡️ \n.\n.\n.\nFollow for more @promptseen\n\n#viralpost #trendingpost #prompt #explore",
+      "description": "花拱下橙裙旋身",
+      "recommendation_reason": "花拱与橙裙旋转姿态可用于人像生成",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptseen/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "花海",
+      "image_description": "花拱下橙裙旋身",
+      "copy_title": "单人女性+花海+花拱下橙裙旋身+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "花海"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:07:13+00:00",
+        "likes": 178,
+        "likes_display": "178",
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:07:13+00:00",
+          "likes": 178,
+          "likes_display": "178",
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfHSAg2nzdL_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfEdsqFGs9b",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfEdsqFGs9b/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": "2026-10-29",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "✨ Bangles, beauty & a little desi magic! 💛\n\nPrompt Code: P-78183842 \n\n#desivibes #banglelove #IndianFashion #traditionallook #aiedits #aiartist #ethnicbeauty #trendingréels #indianculture #promptfyai",
+      "description": "黄衣手挑彩色手镯",
+      "recommendation_reason": "彩色手镯店与黄衣造型构成印度生活场景",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "黄衣手挑彩色手镯",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfEdsqFGs9b_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De_WWr3H0kf",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De_WWr3H0kf/",
+      "creator": "promptseen",
+      "published_at": null,
+      "published_date": "2026-10-27",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "Swipe left for Prompt ➡️ \n.\n.\n.\n\nFollow For more @promptseen\n\n#viralpost #trendingpost #aiart #prompt",
+      "description": "白衫墨镜双格锁屏",
+      "recommendation_reason": "白衫墨镜双格构图可直接用于手机锁屏",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptseen/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人男性",
+      "theme_tag": "锁屏",
+      "image_description": "白衫墨镜双格锁屏",
+      "copy_title": "单人男性+锁屏+白衫墨镜双格锁屏+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "锁屏"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:07:13+00:00",
+        "likes": 338,
+        "likes_display": "338",
+        "comments": 5,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:07:13+00:00",
+          "likes": 338,
+          "likes_display": "338",
+          "comments": 5,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_WWr3H0kf_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De9YtzxjwDv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De9YtzxjwDv/",
+      "creator": "zeevisha.ai",
+      "published_at": null,
+      "published_date": "2026-10-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "💬 Comment \"PROMPT\" & Check Your DM\n\nFollow like and comment\" Prompt\" \n\nMake sure you follow me, otherwise automation doesn't work 👍\n\n👉 Save this post\n👥 Share with creators\n\n#RajasthanTrend #AIContentCreator #PromptEngineering #AIIndia #CreativeAI\n\n✨ Follow @zeevisha.ai for Premium AI Prompts",
+      "description": "粉纱暖光肖像",
+      "recommendation_reason": "粉色轻纱和暖光构成柔和人物写真",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/zeevisha.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "粉纱暖光肖像",
+      "copy_title": "单人女性+棚拍+粉纱暖光肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:07:13+00:00",
+        "likes": 239,
+        "likes_display": "239",
+        "comments": 250,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:07:13+00:00",
+          "likes": 239,
+          "likes_display": "239",
+          "comments": 250,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De9YtzxjwDv_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Denwo4EEdoq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Denwo4EEdoq/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-17",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "Comment prompt ✨ \n#BabyPhotography #babyportraits #BabyFirsts #BabyReels #aigenerated",
+      "description": "夏日童趣七宫格",
+      "recommendation_reason": "儿童多姿势与水边道具形成夏日组图",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "多宫格",
+      "image_description": "夏日童趣七宫格",
+      "copy_title": "宝宝儿童+多宫格+夏日童趣七宫格+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Denwo4EEdoq_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DelK9OUEScn",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DelK9OUEScn/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": "2026-10-16",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "Do follow for prompt ✨ \n#BabyPhotography #babyportraits #BabyMilestones #aigenerated #chatgpt",
+      "description": "婴儿拼字竖版海报",
+      "recommendation_reason": "人物脸部与大字母叠合形成纪念海报",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "海报",
+      "image_description": "婴儿拼字竖版海报",
+      "copy_title": "宝宝儿童+海报+婴儿拼字竖版海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:07:13+00:00",
+        "likes": 6355,
+        "likes_display": "6,355",
+        "comments": 359,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:07:13+00:00",
+          "likes": 6355,
+          "likes_display": "6,355",
+          "comments": 359,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DelK9OUEScn_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc78EIbRtJn",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc78EIbRtJn/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": "2026-09-05",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "-AI image- who likes to cook on Sundays?",
+      "description": "花裙厨房持勺肖像",
+      "recommendation_reason": "厨房场景与花裙造型有生活化模板价值",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "花裙厨房持勺肖像",
+      "copy_title": "单人女性+棚拍+花裙厨房持勺肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:07:13+00:00",
+        "likes": 124,
+        "likes_display": "124",
+        "comments": 22,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:07:13+00:00",
+          "likes": 124,
+          "likes_display": "124",
+          "comments": 22,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc78EIbRtJn_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc0qNHQPbQO",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc0qNHQPbQO/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": "2026-09-03",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "-AI image- Good evening 🌅",
+      "description": "奶白纱丽砖墙肖像",
+      "recommendation_reason": "奶白纱丽与赤陶砖墙形成暖调对比",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "奶白纱丽砖墙肖像",
+      "copy_title": "单人女性+纱丽+奶白纱丽砖墙肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:07:13+00:00",
+        "likes": 271,
+        "likes_display": "271",
+        "comments": 37,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:07:13+00:00",
+          "likes": 271,
+          "likes_display": "271",
+          "comments": 37,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc0qNHQPbQO_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcvgZbYPeuq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcvgZbYPeuq/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": "2026-09-01",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "-AI image- Good evening! 🌇",
+      "description": "黄纱丽室内坐像",
+      "recommendation_reason": "金黄纱丽与纯色墙面呈现简洁传统肖像",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "黄纱丽室内坐像",
+      "copy_title": "单人女性+纱丽+黄纱丽室内坐像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:07:13+00:00",
+        "likes": 211,
+        "likes_display": "211",
+        "comments": 29,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:07:13+00:00",
+          "likes": 211,
+          "likes_display": "211",
+          "comments": 29,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcvgZbYPeuq_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DccvugVx8Xq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DccvugVx8Xq/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": "2026-08-24",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T11:07:13+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T11:07:13+00:00",
+      "caption": "-AI image- Onam vibes...",
+      "description": "奶黄纱丽花坛合影",
+      "recommendation_reason": "奶黄纱丽与花朵摆设组成节庆居家画面",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "unverified",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "奶黄纱丽花坛合影",
+      "copy_title": "单人女性+纱丽+奶黄纱丽花坛合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T11:07:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T11:07:13+00:00",
+        "likes": 55,
+        "likes_display": "55",
+        "comments": 20,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T11:07:13+00:00",
+          "likes": 55,
+          "likes_display": "55",
+          "comments": 20,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DccvugVx8Xq_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DfEgY7LIMOZ",
       "platform": "instagram",
@@ -61,9 +1253,9 @@
       "published_at": null,
       "published_date": "2026-10-29",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "Capturing the divine essence of Karwa Chauth, a graceful woman is adorned in a heavily embroidered traditional red saree and matching jhumkas while performing the sacred moonlit ritual with a decorated puja thali and sieve.\n\n#chatgpt #karwachauth #indianfestival #tradition #ethnicwear\n\n[karwa chauth ritual, traditional red saree, Indian festival fashion, moonlit prayer, ethnic wear aesthetic, fast and celebration, festive glowing lights, Indian culture, mangalsutra design, jhumka earrings, festive makeup look, channi ritual, divine celebration]",
       "description": "红纱丽月夜祈愿",
       "recommendation_reason": "红纱丽与灯盏组成印度节日四格写真",
@@ -97,13 +1289,13 @@
         "theme_tags": []
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T09:05:35+00:00",
+        "captured_at": "2026-10-30T09:07:53+00:00",
         "likes": 1374,
         "likes_display": "1,374",
         "comments": 16,
@@ -113,7 +1305,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T09:05:35+00:00",
+          "captured_at": "2026-10-30T09:07:53+00:00",
           "likes": 1374,
           "likes_display": "1,374",
           "comments": 16,
@@ -141,9 +1333,9 @@
       "published_at": null,
       "published_date": "2026-10-29",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "Baby diwali prompt ✨ \n#BabyPhotography #diwalivibes #DiwaliCelebration #aigenerated #Diwali",
       "description": "彩灯环绕白衣萌娃",
       "recommendation_reason": "花瓣与灯饰围绕儿童，适合节日亲子模板",
@@ -179,7 +1371,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -205,9 +1397,9 @@
       "published_at": null,
       "published_date": "2026-10-28",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "Karwachauth prompt ✨ \n#KarwaChauthSpecial #KarwaChauth #couplephotography #aigenerated #CouplePortrait",
       "description": "月下烛光对望",
       "recommendation_reason": "夜色灯盏中的情侣互动有仪式感",
@@ -243,7 +1435,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -269,9 +1461,9 @@
       "published_at": null,
       "published_date": "2026-10-28",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "Follow like and comment\" Prompt\" Make sure you follow me, otherwise automation doesn't work\n\nRajasthan + AI = viral combo 🚀\nPrompt already image ke sath attached hai.\n\n👉 Save this post\n👥 Share with creators\n\n#RajasthanTrend #AIContentCreator #PromptEngineering #AIIndia #CreativeAI\n\n@zeevisha.ai",
       "description": "蓝纱丽烟花夜景",
       "recommendation_reason": "蓝红纱丽与烟花夜景形成动态节日氛围",
@@ -307,7 +1499,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -333,9 +1525,9 @@
       "published_at": null,
       "published_date": "2026-10-27",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "Follow and Comment \"PROMPT\" ✅🔗💖",
       "description": "绿外套户外童装",
       "recommendation_reason": "童装色彩与自然背景可作儿童换脸写真",
@@ -369,13 +1561,13 @@
         "theme_tags": []
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T09:05:35+00:00",
+        "captured_at": "2026-10-30T09:07:53+00:00",
         "likes": 12,
         "likes_display": "12",
         "comments": 18,
@@ -385,7 +1577,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T09:05:35+00:00",
+          "captured_at": "2026-10-30T09:07:53+00:00",
           "likes": 12,
           "likes_display": "12",
           "comments": 18,
@@ -413,9 +1605,9 @@
       "published_at": null,
       "published_date": "2026-10-21",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "Cozy Cinematic Portrait 📸\n\nComment “AI” and I’ll send you the prompts!\n\nFollow me (@genoramedia ) for more Al tips! 💜",
       "description": "暖光侧影肖像",
       "recommendation_reason": "侧逆光与暖色室内环境形成电影人像",
@@ -451,13 +1643,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T09:05:35+00:00",
+        "captured_at": "2026-10-30T09:07:53+00:00",
         "likes": 369,
         "likes_display": "369",
         "comments": 554,
@@ -467,7 +1659,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T09:05:35+00:00",
+          "captured_at": "2026-10-30T09:07:53+00:00",
           "likes": 369,
           "likes_display": "369",
           "comments": 554,
@@ -495,9 +1687,9 @@
       "published_at": null,
       "published_date": "2026-10-20",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "Dark Motion Blur Portrait 📸\n\nComment “PROMPT” and I’ll send you the prompts!\n\nFollow me (@genoramedia ) for more Al tips! 🖤",
       "description": "疾影黑白男像",
       "recommendation_reason": "运动模糊与黑白高反差构成独特男性肖像",
@@ -533,13 +1725,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T09:05:35+00:00",
+        "captured_at": "2026-10-30T09:07:53+00:00",
         "likes": 812,
         "likes_display": "812",
         "comments": 776,
@@ -549,7 +1741,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T09:05:35+00:00",
+          "captured_at": "2026-10-30T09:07:53+00:00",
           "likes": 812,
           "likes_display": "812",
           "comments": 776,
@@ -577,9 +1769,9 @@
       "published_at": null,
       "published_date": "2026-08-23",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "Cute trending couple prompt ❤️❤️❤️🩷🩷🩷",
       "description": "双人贴脸浅色肖像",
       "recommendation_reason": "近距离双人互动可转为情侣写真模板",
@@ -615,13 +1807,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T09:05:35+00:00",
+        "captured_at": "2026-10-30T09:07:53+00:00",
         "likes": null,
         "likes_display": "102K",
         "comments": 1057,
@@ -631,7 +1823,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T09:05:35+00:00",
+          "captured_at": "2026-10-30T09:07:53+00:00",
           "likes": null,
           "likes_display": "102K",
           "comments": 1057,
@@ -659,9 +1851,9 @@
       "published_at": null,
       "published_date": "2026-08-06",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "🩷🩷PROMPT🩷🩷. Want the full prompt ????",
       "description": "逆光纱丽剪影",
       "recommendation_reason": "强烈墙面投影突出纱丽轮廓与色块",
@@ -697,13 +1889,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T09:05:35+00:00",
+        "captured_at": "2026-10-30T09:07:53+00:00",
         "likes": null,
         "likes_display": "65K",
         "comments": 8738,
@@ -713,7 +1905,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T09:05:35+00:00",
+          "captured_at": "2026-10-30T09:07:53+00:00",
           "likes": null,
           "likes_display": "65K",
           "comments": 8738,
@@ -741,9 +1933,9 @@
       "published_at": null,
       "published_date": "2026-07-13",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T09:05:35+00:00",
+      "first_discovered_at": "2026-10-30T09:07:53+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T09:05:35+00:00",
+      "last_collected_at": "2026-10-30T09:07:53+00:00",
       "caption": "💬 Comment \"PROMPT\" & Check Your DM\n\nFollow like and comment\" Prompt\" \n\nMake sure you follow me, otherwise automation doesn't work 👍\n\n👉 Save this post\n👥 Share with creators\n\n#RajasthanTrend #AIContentCreator #PromptEngineering #AIIndia #CreativeAI\n\n✨ Follow @zeevisha.ai for Premium AI Prompts",
       "description": "宫殿白马男像",
       "recommendation_reason": "华丽白马与印度宫殿场景可批量替换人物",
@@ -779,13 +1971,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T09:05:35+00:00",
+      "tag_checked_at": "2026-10-30T09:07:53+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T09:05:35+00:00",
+        "captured_at": "2026-10-30T09:07:53+00:00",
         "likes": null,
         "likes_display": "22K",
         "comments": 2127,
@@ -795,7 +1987,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T09:05:35+00:00",
+          "captured_at": "2026-10-30T09:07:53+00:00",
           "likes": null,
           "likes_display": "22K",
           "comments": 2127,
@@ -823,9 +2015,9 @@
       "published_at": null,
       "published_date": "2026-10-29",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "first_discovered_at": "2026-10-30T08:54:37+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "last_collected_at": "2026-10-30T08:54:37+00:00",
       "caption": "❤️ Every frame tells our love story, every moment becomes a memory. 🖤✨\n\nPrompt Code: P-07778398 \n\n#couplegoals💑 #romanticvibes #lovestory #couplephotography #blackandwhitelove #couplecollage #relationshipgoals #aestheticcouple #instalovers #trendingréels",
       "description": "黑白九格情侣瞬间",
       "recommendation_reason": "九宫格组合双人姿势，适合作为情侣照片模板",
@@ -861,7 +2053,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "tag_checked_at": "2026-10-30T08:54:37+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -887,9 +2079,9 @@
       "published_at": null,
       "published_date": "2026-10-29",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "first_discovered_at": "2026-10-30T08:54:37+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "last_collected_at": "2026-10-30T08:54:37+00:00",
       "caption": "May your Diwali glow as beautifully as your dreams. ✨\n\nPrompt Code: P-64009197\n\n#diwalidecor #diwalivibes #diwalilook #festivevibes #indianfashion #sareelover #sareelook #traditionallook #ethnicwear #festivefashion #diya #festivaloflights #indianculture #instadiwali #diwali2026 #goldenglow #sareeinspiration #portraitphotography #festiveglow",
       "description": "橙裙手捧灯盏",
       "recommendation_reason": "橙色纱丽与灯盏构成暖调排灯节写真",
@@ -925,7 +2117,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "tag_checked_at": "2026-10-30T08:54:37+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -951,9 +2143,9 @@
       "published_at": null,
       "published_date": "2026-10-29",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "first_discovered_at": "2026-10-30T08:54:37+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "last_collected_at": "2026-10-30T08:54:37+00:00",
       "caption": "💚🤍💛 A little piece of Kerala, forever in my heart! 🌴✨\n\nPrompt Code: P-92632564\n\n#keralapiravi #happykeralapiravi #entekeralam #godsowncountry #proudmalayali #keralaculture #keralasaree #kasavusaree #malayalipride #keralabeauty #keralatradition #keralalove #nammudekeralam #keraladiaries #keralapiravi2026",
       "description": "椰林纱丽四格肖像",
       "recommendation_reason": "Kerala 传统纱丽与多尺度人物拼贴，可换脸批量生成",
@@ -989,7 +2181,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "tag_checked_at": "2026-10-30T08:54:37+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1015,9 +2207,9 @@
       "published_at": null,
       "published_date": "2026-09-15",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "first_discovered_at": "2026-10-30T08:54:37+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "last_collected_at": "2026-10-30T08:54:37+00:00",
       "caption": "-AI image- modest look!",
       "description": "粉纱丽木屋肖像",
       "recommendation_reason": "粉蓝纱丽与木屋内景形成朴素传统造型",
@@ -1053,13 +2245,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "tag_checked_at": "2026-10-30T08:54:37+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T08:50:04+00:00",
+        "captured_at": "2026-10-30T08:54:37+00:00",
         "likes": 130,
         "likes_display": "130",
         "comments": 24,
@@ -1069,7 +2261,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T08:50:04+00:00",
+          "captured_at": "2026-10-30T08:54:37+00:00",
           "likes": 130,
           "likes_display": "130",
           "comments": 24,
@@ -1097,9 +2289,9 @@
       "published_at": null,
       "published_date": "2026-09-09",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T08:50:04+00:00",
+      "first_discovered_at": "2026-10-30T08:54:37+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T08:50:04+00:00",
+      "last_collected_at": "2026-10-30T08:54:37+00:00",
       "caption": "-AI image- Good morning with a retro look",
       "description": "紫红纱丽怀旧肖像",
       "recommendation_reason": "紫红纱丽与八十年代海报背景形成怀旧造型",
@@ -1135,13 +2327,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T08:50:04+00:00",
+      "tag_checked_at": "2026-10-30T08:54:37+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T08:50:04+00:00",
+        "captured_at": "2026-10-30T08:54:37+00:00",
         "likes": 94,
         "likes_display": "94",
         "comments": 25,
@@ -1151,7 +2343,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T08:50:04+00:00",
+          "captured_at": "2026-10-30T08:54:37+00:00",
           "likes": 94,
           "likes_display": "94",
           "comments": 25,
