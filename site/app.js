@@ -263,22 +263,42 @@ function mediaVisual(item,index,container) {
 function stateActions(item) {
   const box = el('div','status-cell');
   const current = status(item);
-  box.append(el('span',`status-label ${current}`,statusNames[current]));
+  const label=el('span',`status-label ${current}`,statusNames[current]);
+  label.setAttribute('aria-live','polite');
+  box.append(label);
   const group = el('div','state-actions');
   group.setAttribute('role','group');
   group.setAttribute('aria-label',`${item.description||'素材'} 的人工状态`);
+  const commit=async (value,name)=>{
+    if(box.classList.contains('saving')) return;
+    box.classList.add('saving');
+    box.setAttribute('aria-busy','true');
+    label.textContent=`${name}保存中…`;
+    const buttons=[...box.querySelectorAll('button')];
+    buttons.forEach(button=>{button.disabled=true;});
+    try {
+      await save(item,{status:value});
+    } finally {
+      // A successful write rerenders the list. On failure, restore the
+      // original row and make it possible to retry without losing the choice.
+      box.classList.remove('saving');
+      box.removeAttribute('aria-busy');
+      buttons.forEach(button=>{button.disabled=false;});
+      if(box.isConnected) label.textContent=statusNames[status(item)];
+    }
+  };
   for (const [value,name] of [['adopted','采用'],['reserve','稍后采用'],['rejected','不采用']]) {
     const button = el('button',`state-button${current===value?' selected':''}`,name);
     button.type='button'; button.dataset.status=value;
     button.setAttribute('aria-pressed',String(current===value));
-    button.addEventListener('click', () => save(item,{status:value}));
+    button.addEventListener('click', () => {void commit(value,name);});
     group.append(button);
   }
   box.append(group);
   if (current !== 'pending') {
     const reset = el('button','undo','恢复未处理');
     reset.type='button';
-    reset.addEventListener('click', () => save(item,{status:'pending'}));
+    reset.addEventListener('click', () => {void commit('pending','恢复未处理');});
     box.append(reset);
   }
   return box;
