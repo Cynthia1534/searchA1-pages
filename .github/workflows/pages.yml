@@ -48,6 +48,7 @@ jobs:
                   'youtube': {'youtube.com', 'www.youtube.com', 'youtu.be'},
                   'facebook': {'facebook.com', 'www.facebook.com'},
                   'threads': {'threads.com', 'www.threads.com', 'threads.net', 'www.threads.net'},
+                  'other': {'hailuoai.video', 'www.hailuoai.video'},
               }
               assert post_url.scheme == 'https' and post_url.hostname in expected_hosts.get(item['platform'], set())
               assert post_url.path not in {'', '/'}
