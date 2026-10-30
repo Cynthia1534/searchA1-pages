@@ -4,7 +4,7 @@
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="A1.art AI 成图创意素材库">
   <title>A1.art · 创意素材库</title>
-  <link rel="stylesheet" href="./styles.css?v=3ecf8cab498b"><script src="./app.js?v=bc3fdd6305cd" defer></script>
+  <link rel="stylesheet" href="./styles.css?v=acb3f5e8a45a"><script src="./app.js?v=bc3fdd6305cd" defer></script>
 </head>
 <body><div class="shell">
   <header class="topbar"><a class="brand" href="#all">A1.art <span>创意素材库</span></a>
@@ -27,7 +27,7 @@
     <div id="error" class="empty" hidden><strong>数据读取失败</strong><span id="error-message"></span><button id="retry" type="button">重试</button></div>
     <div id="empty" class="empty" hidden><strong>没有符合条件的素材</strong><span>可以调整辅助筛选，或点击「重置」。</span></div>
     <section id="cards" class="rows" aria-label="素材列表"></section>
-    <nav id="pagination" class="pagination" aria-label="分页" hidden><button id="previous" type="button">上一页</button><span id="page-label"></span><button id="next" type="button">下一页</button></nav>
+    <nav id="pagination" class="pagination" aria-label="分页" hidden><button id="previous" type="button">上一页</button><div id="page-numbers" class="page-numbers" aria-label="可选页码"></div><button id="next" type="button">下一页</button><span id="page-label" class="page-label" aria-live="polite"></span><form id="page-jump" class="page-jump" autocomplete="off"><label for="page-jump-input">跳至</label><input id="page-jump-input" type="number" min="1" step="1" inputmode="numeric" placeholder="页码" aria-label="输入要跳转的页码" required><span>页</span><button type="submit">跳转</button></form></nav>
   </main>
   <footer>云端登录后，人工操作保存到共享数据库。旧浏览器记录不会自动覆盖云端，可导出后逐份迁移。</footer>
 </div>

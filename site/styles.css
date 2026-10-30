@@ -54,3 +54,95 @@
 .fact-badge[data-group="kind"][data-value="unknown"]{border-color:#e1e5e8;background:#f7f8f9;color:#78838c}
 .migration-tools{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:8px 4px;color:#697480;font-size:12px}.migration-tools button,.migration-tools label{background:#f6f8fa;border:1px solid #dce2e7;border-radius:5px;padding:5px 9px;color:#344253;cursor:pointer}.migration-tools input{max-width:180px;margin-left:6px}
 .sync-login{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:9px 12px;margin:8px 0;border:1px solid #cbdce9;border-radius:6px;background:#f4f9fc;color:#344253;font-size:12px}.sync-login[hidden]{display:none}.sync-login input{max-width:180px;padding:5px;border:1px solid #cad4df;border-radius:4px}.sync-login button{padding:5px 10px;border:1px solid #9cb8d2;border-radius:4px;background:#e7f2fa;color:#245174;cursor:pointer}
+
+/* Highlight the complete material row on hover/focus to prevent wrong-row review actions. */
+.row:hover,
+.row:focus-within {
+  background-color: #e7edf4;
+  box-shadow: inset 4px 0 0 #59748d;
+}
+.row:hover .state-button:not(.selected),
+.row:focus-within .state-button:not(.selected) {
+  background-color: #f8fafc;
+  border-color: #b9c8d6;
+}
+.row:hover .state-button:hover,
+.row:focus-within .state-button:focus-visible {
+  background-color: #d8e6f3;
+  border-color: #7398b7;
+}
+/* Five-page sliding window with quick keyboard-friendly page jumping. */
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 13px 0;
+  font-size: 12px;
+}
+.pagination > button,
+.page-numbers .page-number,
+.page-jump button {
+  min-width: 34px;
+  min-height: 32px;
+  border: 1px solid #d9dde1;
+  border-radius: 5px;
+  background: #fff;
+  color: #46525c;
+  padding: 5px 10px;
+}
+.pagination button:not(:disabled):hover {
+  border-color: #94a8ba;
+  background: #edf3f8;
+}
+.page-numbers {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 4px;
+}
+.page-numbers .page-number {
+  padding: 5px 0;
+  min-width: 34px;
+  font-variant-numeric: tabular-nums;
+}
+.page-numbers .page-number.current {
+  background: #425d74;
+  border-color: #425d74;
+  color: #fff;
+  font-weight: 700;
+  cursor: default;
+}
+.pagination .page-label {
+  white-space: nowrap;
+  color: #697580;
+  font-variant-numeric: tabular-nums;
+  padding: 0 4px;
+}
+.page-jump {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  color: #5a6670;
+}
+.page-jump input {
+  width: 62px;
+  min-height: 32px;
+  border: 1px solid #cfd7df;
+  border-radius: 5px;
+  padding: 5px 6px;
+  text-align: center;
+  color: #37434e;
+  background: #fff;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+@media (max-width: 560px) {
+  .pagination { gap: 6px; }
+  .pagination > button { padding: 5px 7px; }
+  .page-numbers { gap: 3px; }
+  .page-numbers .page-number { min-width: 30px; }
+  .pagination .page-label { width: 100%; text-align: center; }
+}
