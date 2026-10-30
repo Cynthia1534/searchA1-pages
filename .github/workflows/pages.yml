@@ -56,6 +56,8 @@ jobs:
               for media in item['media']:
                   preview = media.get('preview')
                   if preview:
+                      if item['platform'] == 'youtube' and preview.startswith('https://i.ytimg.com/vi/'):
+                          continue  # Official YouTube thumbnail; never copied into this repository.
                       assert preview.startswith('assets/') and '..' not in preview
                       image = root / preview
                       assert image.is_file() and image.stat().st_size > 0
