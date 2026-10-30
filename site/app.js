@@ -15,7 +15,7 @@ const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',f
 const packagedSyncApi='https://a1-art-sync.cynthiazhong1534.workers.dev';
 const state = {data:null, local:{}, legacy:{}, cloud:location.pathname.startsWith('/gallery/'),
   syncApi:packagedSyncApi.startsWith('https://') ? packagedSyncApi : '',
-  password:'',counts:null,current:null,detailIndex:0,page:1,saveQueue:new Map()};
+  password:'',counts:null,current:null,detailIndex:0,page:1,saveQueue:new Map(),pendingSave:null};
 try { state.legacy = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.legacy = {}; }
 if (Object.keys(state.legacy).length)
   $('legacy-status').textContent=`本机有 ${Object.keys(state.legacy).length} 条旧操作可迁移。请先导出，再登录云端导入；重复导入不会覆盖。`;
@@ -120,7 +120,12 @@ async function save(item,patch,options={}) {
 }
 async function saveNow(item, patch, {rerender=true}={}) {
   if (state.syncApi && !state.cloud) {
-    feedback('请先登录云端同步，再修改人工状态或标题。',true); return false;
+    state.pendingSave={item,patch,options:{rerender}};
+    $('sync-login').hidden=false;
+    $('sync-login').scrollIntoView({behavior:'smooth',block:'center'});
+    $('sync-password').focus({preventScroll:true});
+    feedback('尚未连接云端：请在顶部输入工作区密码，连接后将自动继续本次操作。',true);
+    return false;
   }
   const previous = decision(item);
   if (Object.hasOwn(patch, 'imageDescription') &&
@@ -602,9 +607,15 @@ $('sync-connect').addEventListener('click',async()=>{
     await syncDecisions(false);
     try {sessionStorage.setItem('a1-sync-password',password);} catch { /* In-memory login remains usable. */ }
     $('sync-password').value=''; render();
-    feedback(Object.keys(state.legacy).length
-      ? `已连接云端；本机有 ${Object.keys(state.legacy).length} 条旧操作可导出迁移。`
-      : '已连接云端人工状态');
+    const pending=state.pendingSave;
+    state.pendingSave=null;
+    if (pending) {
+      await save(pending.item,pending.patch,pending.options);
+    } else {
+      feedback(Object.keys(state.legacy).length
+        ? `已连接云端；本机有 ${Object.keys(state.legacy).length} 条旧操作可导出迁移。`
+        : '已连接云端人工状态');
+    }
   } catch(error) { state.password='';feedback(`云端登录失败：${error.message}`,true); }
 });
 setInterval(()=>{if(state.cloud && !document.hidden)syncDecisions().catch(error=>feedback(`同步暂时失败：${error.message}`,true));},60000);
