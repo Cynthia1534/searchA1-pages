@@ -1,4 +1,4 @@
-/* Public snapshot. Human decisions are stored only in this browser. */
+/* Public snapshot plus authenticated, same-origin decisions on /gallery/. */
 const $ = id => document.getElementById(id);
 const el = (tag, className = '', value) => {
   const node = document.createElement(tag);
@@ -12,11 +12,12 @@ const viewNames = {all:'全部素材', unprocessed:'未处理', later:'稍后采
 const statusNames = {pending:'未处理', reserve:'稍后采用', adopted:'已采用', rejected:'不采用'};
 const categoryNames = {ai_image:'图片', human_ai_dance_video:'舞蹈类视频', other_ai_video:'情景类视频'};
 const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',facebook:'Facebook',threads:'Threads',other:'其他网站'};
-const state = {data:null, local:{}, current:null, detailIndex:0, page:1};
-try { state.local = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.local = {}; }
+const state = {data:null, local:{}, legacy:{}, cloud:location.pathname.startsWith('/gallery/'), counts:null, current:null, detailIndex:0, page:1};
+try { state.legacy = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.legacy = {}; }
+if (!state.cloud) state.local=state.legacy;
 const decision = item => state.local[item.id] || {};
 const status = item => statusNames[decision(item).status] ? decision(item).status :
-  (statusNames[item.review_status] ? item.review_status : 'pending');
+  (state.cloud ? 'pending' : statusNames[item.review_status] ? item.review_status : 'pending');
 const tag = (item, field) => {
   const key = field === 'audience_tags' ? 'audienceTag' : 'themeTag';
   if (Object.hasOwn(decision(item), key)) return decision(item)[key] || '';
@@ -25,7 +26,7 @@ const tag = (item, field) => {
 const tags = (item, field) => tag(item, field) ? [tag(item, field)] : [];
 const imageDescription = item => {
   const local = decision(item).imageDescription;
-  return typeof local === 'string' && local.trim() ? local : item.image_description || '';
+  return typeof local === 'string' ? local : item.image_description || '';
 };
 const category = item => item.material_kind === 'human_ai_dance_video' ? 'human_ai_dance_video'
   : item.material_kind === 'other_ai_video' ? 'other_ai_video'
@@ -99,7 +100,7 @@ function feedback(message, error=false) {
   clearTimeout(feedbackTimer);
   feedbackTimer = setTimeout(() => { node.hidden = true; }, 3800);
 }
-function save(item, patch, {rerender=true}={}) {
+async function save(item, patch, {rerender=true}={}) {
   const previous = decision(item);
   if (Object.hasOwn(patch, 'imageDescription') &&
       (typeof patch.imageDescription !== 'string' || [...patch.imageDescription].length > 15 ||
@@ -129,18 +130,40 @@ function save(item, patch, {rerender=true}={}) {
     feedback(patch.status ? `当前已是「${statusNames[status(item)]}」` : '内容未变化');
     return true;
   }
-  state.local[item.id] = {...previous, ...patch};
+  if (!state.cloud) {
+    state.local[item.id]={...previous,...patch};
+    try {
+      localStorage.setItem(storageKey,JSON.stringify(state.local));
+      state.legacy=state.local;
+      feedback('仅此浏览器保存，尚未云端同步。请导出旧操作，待工作区上线后迁移。');
+      if (rerender) render();
+      return true;
+    } catch (error) {
+      if (Object.keys(previous).length) state.local[item.id]=previous;
+      else delete state.local[item.id];
+      feedback(`本机保存失败：${error.message}`,true);
+      return false;
+    }
+  }
   try {
-    localStorage.setItem(storageKey, JSON.stringify(state.local));
+    const fields={status:'status',audienceTag:'audience_tag',themeTag:'theme_tag',
+      imageDescription:'image_description',titleMedia:'title_media',note:'note'};
+    const body=Object.fromEntries(Object.entries(patch).map(([key,value])=>[fields[key],value]));
+    const response=await fetch(`/api/material-decisions/${item.id}`,{
+      method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+    const payload=await response.json().catch(()=>({}));
+    if (!response.ok || !payload.ok) throw new Error(payload.error||`HTTP ${response.status}`);
+    const saved=payload.decision;
+    state.local[item.id]={status:saved.status,audienceTag:saved.audience_tag,
+      themeTag:saved.theme_tag,imageDescription:saved.image_description,
+      titleMedia:saved.title_media,note:saved.note,updatedAt:saved.updated_at};
+    state.counts=payload.counts;
     const newStatus = status(item);
-    feedback(patch.status ? (newStatus === 'pending' ? '已恢复未处理' : `已加入${statusNames[newStatus]}`) : '已保存到此浏览器');
+    feedback(patch.status ? (newStatus === 'pending' ? '已恢复未处理，已云端同步' : `已加入${statusNames[newStatus]}，已云端同步`) : '已云端同步');
     if (rerender) render();
     return true;
-  } catch {
-    if (Object.keys(previous).length) state.local[item.id] = previous;
-    else delete state.local[item.id];
-    feedback('保存失败：此浏览器的本地存储不可用', true);
-    render();
+  } catch (error) {
+    feedback(`云端保存失败：${error.message}。输入已保留，可重试。`, true);
     return false;
   }
 }
@@ -260,7 +283,7 @@ function titleEditor(item) {
     state.data.taxonomy[field].forEach(value=>select.add(new Option(value,value)));
     select.value=tag(item,field);
     select.addEventListener('change',()=>{
-      if (!save(item,{[field==='audience_tags'?'audienceTag':'themeTag']:select.value})) render();
+      save(item,{[field==='audience_tags'?'audienceTag':'themeTag']:select.value});
     });
     return select;
   };
@@ -276,7 +299,7 @@ function titleEditor(item) {
   mediaSelect.add(new Option('视频','视频'));
   mediaSelect.value=titleMedia(item);
   mediaSelect.addEventListener('change',()=>{
-    if (!save(item,{titleMedia:mediaSelect.value})) { mediaSelect.value=titleMedia(item);update(); }
+    save(item,{titleMedia:mediaSelect.value}); update();
   });
   const fixedOriginal=el('span','fixed-title-field','原');
   fixedOriginal.setAttribute('aria-label','标题固定字段：原');
@@ -313,7 +336,7 @@ function titleEditor(item) {
       return;
     }
     if (description.value!==imageDescription(item) &&
-        !save(item,{imageDescription:description.value},{rerender:false})) return;
+        !await save(item,{imageDescription:description.value},{rerender:false})) return;
     copyState('复制中…');
     try {
       if (!navigator.clipboard?.writeText) throw new Error('Clipboard API unavailable');
@@ -383,6 +406,13 @@ function render() {
   const counts = {all:materials.length, unprocessed:0, later:0, adopted:0, rejected:0};
   const statusViews = {pending:'unprocessed',reserve:'later',adopted:'adopted',rejected:'rejected'};
   materials.forEach(item => counts[statusViews[status(item)]]++);
+  if (state.cloud && state.counts) {
+    counts.all=state.counts.all;
+    counts.unprocessed=state.counts.pending;
+    counts.later=state.counts.reserve;
+    counts.adopted=state.counts.adopted;
+    counts.rejected=state.counts.rejected;
+  }
   document.querySelectorAll('[data-nav]').forEach(link => {
     link.classList.toggle('active', link.dataset.nav===current);
     link.setAttribute('aria-current', link.dataset.nav===current ? 'page' : 'false');
@@ -392,7 +422,7 @@ function render() {
   $('section-title').textContent=viewNames[current];
   $('view-description').textContent='按首次采集日期归档；候选与正式素材一起展示，采用决定由你作出。';
   const duplicateCount=state.data.export_stats?.confirmed_duplicates_skipped ?? 0;
-  $('summary').textContent=`已导入 ${materials.length} · 待判断 ${counts.unprocessed} · 已采用 ${counts.adopted} · 不采用 ${counts.rejected} · 稍后采用 ${counts.later} · 重复跳过 ${duplicateCount} · 状态仅此浏览器保存`;
+  $('summary').textContent=`已导入 ${materials.length} · 待判断 ${counts.unprocessed} · 已采用 ${counts.adopted} · 不采用 ${counts.rejected} · 稍后采用 ${counts.later} · 重复跳过 ${duplicateCount} · ${state.cloud?'云端同步':'仅此浏览器保存，未云端同步'}`;
   activeFilters();
   const items = materials.filter(matches);
   const groups = new Map();
@@ -477,10 +507,56 @@ async function load() {
         || !Array.isArray(data.taxonomy?.audience_tags) || !Array.isArray(data.taxonomy?.theme_tags)) throw new Error('素材数据格式无效');
     const seen=new Set(); data.materials=data.materials.filter(item=>{ if(!item.id||seen.has(item.id)) return false;seen.add(item.id);return true; });
     state.data=data;fillOptions();
+    if (state.cloud) await syncDecisions(false);
     $('snapshot-time').textContent=`快照 ${date(data.generated_at)}`;
     render();
   } catch (error) { $('loading').hidden=true;$('error').hidden=false;$('error-message').textContent=`请检查网络并重试：${error.message}`; }
 }
+async function syncDecisions(quiet=true) {
+  if (!state.cloud) return;
+  const response=await fetch('/api/material-decisions',{cache:'no-store'});
+  if (!response.ok) throw new Error(`人工状态 API：HTTP ${response.status}`);
+  const payload=await response.json();
+  if (!payload.decisions || !payload.counts) throw new Error('人工状态响应无效');
+  state.local=Object.fromEntries(Object.entries(payload.decisions).map(([id,row])=>[id,{
+    status:row.status,audienceTag:row.audience_tag,themeTag:row.theme_tag,
+    imageDescription:row.image_description,titleMedia:row.title_media,note:row.note,
+    updatedAt:row.updated_at}]));
+  state.counts=payload.counts;
+  if (quiet && state.data && !document.querySelector('.image-description:focus, .tag-select:focus, #detail-note:focus')) render();
+}
+$('export-local').addEventListener('click',()=>{
+  try { state.legacy=JSON.parse(localStorage.getItem(storageKey)||'{}')||{}; } catch { state.legacy={}; }
+  const content=JSON.stringify({schema:'a1-local-decisions-v1',decisions:state.legacy,
+    exported_at:new Date().toISOString()},null,2);
+  const url=URL.createObjectURL(new Blob([content],{type:'application/json'}));
+  const link=el('a');link.href=url;link.download='a1-local-decisions.json';link.click();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+  feedback(`已导出本机 ${Object.keys(state.legacy).length} 条旧操作；请在每台用过的设备上分别导出。`);
+});
+$('import-local').addEventListener('change',async event=>{
+  const file=event.target.files?.[0]; if (!file) return;
+  try {
+    if (!state.cloud) throw new Error('请在已登录的云端工作区导入');
+    const data=JSON.parse(await file.text());
+    if (data.schema!=='a1-local-decisions-v1' || !data.decisions || Array.isArray(data.decisions)) throw new Error('导出文件格式不匹配');
+    const response=await fetch('/api/material-decisions/import',{method:'POST',
+      headers:{'Content-Type':'application/json'},body:JSON.stringify(data.decisions)});
+    const payload=await response.json();
+    if (!response.ok || !payload.ok) throw new Error(payload.error||`HTTP ${response.status}`);
+    await syncDecisions(false); render();
+    const result=payload.result;
+    if (result.conflicts.length || result.invalid.length || result.unknown.length) {
+      const url=URL.createObjectURL(new Blob([JSON.stringify(result,null,2)],{type:'application/json'}));
+      const link=el('a');link.href=url;link.download='a1-migration-result.json';link.click();
+      setTimeout(()=>URL.revokeObjectURL(url),1000);
+    }
+    feedback(`迁移：新增 ${result.inserted.length}，已有 ${result.existing.length}，冲突 ${result.conflicts.length}，未知 ${result.unknown.length}，无效 ${result.invalid.length}。${result.conflicts.length?'冲突保留在服务器记录，未覆盖。':''}`,
+      Boolean(result.conflicts.length||result.invalid.length));
+  } catch (error) { feedback(`迁移失败：${error.message}`,true); }
+  event.target.value='';
+});
+if (state.cloud) setInterval(()=>syncDecisions().catch(error=>feedback(`同步暂时失败：${error.message}`,true)),15000);
 $('filters').addEventListener('submit',event=>event.preventDefault());
 $('filters').addEventListener('input',event=>{
   if (event.target instanceof HTMLInputElement) { state.page=1;render(); }
