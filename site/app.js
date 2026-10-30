@@ -15,7 +15,7 @@ const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',f
 const packagedSyncApi='https://a1-art-sync.cynthiazhong1534.workers.dev';
 const state = {data:null, local:{}, legacy:{}, cloud:location.pathname.startsWith('/gallery/'),
   syncApi:packagedSyncApi.startsWith('https://') ? packagedSyncApi : '',
-  password:'',counts:null,current:null,detailIndex:0,page:1};
+  password:'',counts:null,current:null,detailIndex:0,page:1,saveQueue:new Map()};
 try { state.legacy = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.legacy = {}; }
 try { state.password=sessionStorage.getItem('a1-sync-password')||''; } catch { /* Session storage unavailable. */ }
 if (!state.cloud) state.local=state.legacy;
@@ -109,7 +109,14 @@ function feedback(message, error=false) {
   clearTimeout(feedbackTimer);
   feedbackTimer = setTimeout(() => { node.hidden = true; }, 3800);
 }
-async function save(item, patch, {rerender=true}={}) {
+async function save(item,patch,options={}) {
+  const previous=state.saveQueue.get(item.id)||Promise.resolve();
+  const current=previous.catch(()=>{}).then(()=>saveNow(item,patch,options));
+  state.saveQueue.set(item.id,current);
+  try { return await current; }
+  finally { if (state.saveQueue.get(item.id)===current) state.saveQueue.delete(item.id); }
+}
+async function saveNow(item, patch, {rerender=true}={}) {
   if (state.syncApi && !state.cloud) {
     feedback('请先登录云端同步，再修改人工状态或标题。',true); return false;
   }
