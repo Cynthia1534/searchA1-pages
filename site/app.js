@@ -12,8 +12,10 @@ const viewNames = {all:'全部素材', unprocessed:'未处理', later:'稍后采
 const statusNames = {pending:'未处理', reserve:'稍后采用', adopted:'已采用', rejected:'不采用'};
 const categoryNames = {ai_image:'图片', human_ai_dance_video:'舞蹈类视频', other_ai_video:'情景类视频'};
 const platformNames = {instagram:'Instagram',tiktok:'TikTok',youtube:'YouTube',facebook:'Facebook',threads:'Threads',other:'其他网站'};
+const packagedSyncApi='https://a1-art-sync.cynthiazhong1534.workers.dev';
 const state = {data:null, local:{}, legacy:{}, cloud:location.pathname.startsWith('/gallery/'),
-  syncApi:'',password:'',counts:null,current:null,detailIndex:0,page:1};
+  syncApi:packagedSyncApi.startsWith('https://') ? packagedSyncApi : '',
+  password:'',counts:null,current:null,detailIndex:0,page:1};
 try { state.legacy = JSON.parse(localStorage.getItem(storageKey) || '{}') || {}; } catch { state.legacy = {}; }
 try { state.password=sessionStorage.getItem('a1-sync-password')||''; } catch { /* Session storage unavailable. */ }
 if (!state.cloud) state.local=state.legacy;
@@ -528,6 +530,7 @@ async function load() {
         $('sync-login').hidden=false;
       }
     }
+    if (state.syncApi) $('sync-login').hidden=false;
     if (state.cloud || state.syncApi && state.password) {
       try { await syncDecisions(false); }
       catch (error) { feedback(`云端连接失败：${error.message}。请检查密码后重试。`,true); }
