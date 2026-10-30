@@ -272,8 +272,8 @@ function downloadAsset(path,type) {
 }
 function downloadEntries(item) {
   return (item.media||[]).map((media,index)=>{
-    const video=(media.kind==='video_cover'||media.kind==='video'||category(item)==='human_ai_dance_video'||category(item)==='other_ai_video')
-      && media.kind!=='image';
+    const video=media.kind==='video_cover'||media.kind==='video'
+      ||category(item)==='human_ai_dance_video'||category(item)==='other_ai_video';
     const preview=asset(media.preview,item);
     const original=[media.download,media.file,media.original,media.video_file]
       .map(path=>downloadAsset(path,video?'video':'image')).find(Boolean)||null;
