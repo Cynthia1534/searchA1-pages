@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T05:52:13+00:00",
+  "generated_at": "2026-10-30T06:27:35+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -47,12 +47,1601 @@
     ]
   },
   "export_stats": {
-    "formal": 308,
+    "formal": 328,
     "candidates": 32,
-    "confirmed_duplicates_skipped": 18,
+    "confirmed_duplicates_skipped": 38,
     "suspected_duplicates_included": 0
   },
   "materials": [
+    {
+      "id": "facebook:1633029874923101",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/reel/1633029874923101/",
+      "creator": "Achmad Fatih Ma'muri",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:31+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:31+00:00",
+      "caption": null,
+      "description": "巴迪克男士独舞",
+      "recommendation_reason": "男士dangdut koplo独舞，提示词级AI证据，batik衬衫",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "巴迪克男士独舞",
+      "copy_title": "单人男性+耍帅+巴迪克男士独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:31+00:00",
+        "likes": 13,
+        "likes_display": null,
+        "comments": 4,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:31+00:00",
+          "likes": 13,
+          "likes_display": null,
+          "comments": 4,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1633029874923101_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1361712528672670",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/reel/1361712528672670/",
+      "creator": "Hapsari Nurul Utami",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:31+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:31+00:00",
+      "caption": null,
+      "description": "头巾传统独舞",
+      "recommendation_reason": "Kling AI制作的头巾传统独舞，batik长裙，端庄",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "头巾传统独舞",
+      "copy_title": "单人女性+耍帅+头巾传统独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:31+00:00",
+        "likes": 43,
+        "likes_display": null,
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:31+00:00",
+          "likes": 43,
+          "likes_display": null,
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1361712528672670_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:QfQ5w-rAnGw",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/QfQ5w-rAnGw",
+      "creator": "Dua Ranah Music",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:31+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:31+00:00",
+      "caption": null,
+      "description": "夜广场女子群舞",
+      "recommendation_reason": "Kerinci夜广场群舞，与上一条同频道",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "朋友",
+      "theme_tag": "耍帅",
+      "image_description": "夜广场女子群舞",
+      "copy_title": "朋友+耍帅+夜广场女子群舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:31+00:00",
+        "likes": 410,
+        "likes_display": null,
+        "comments": 22,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:31+00:00",
+          "likes": 410,
+          "likes_display": null,
+          "comments": 22,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "https://i.ytimg.com/vi/QfQ5w-rAnGw/hqdefault.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:Wwr71cPv-ew",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/Wwr71cPv-ew",
+      "creator": "Dua Ranah Music",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:31+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:31+00:00",
+      "caption": null,
+      "description": "克林奇女子群舞",
+      "recommendation_reason": "Kerinci女子同步群舞，含头巾者，859赞",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "朋友",
+      "theme_tag": "耍帅",
+      "image_description": "克林奇女子群舞",
+      "copy_title": "朋友+耍帅+克林奇女子群舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:31+00:00",
+        "likes": 859,
+        "likes_display": null,
+        "comments": 29,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:31+00:00",
+          "likes": 859,
+          "likes_display": null,
+          "comments": 29,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "https://i.ytimg.com/vi/Wwr71cPv-ew/hqdefault.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:Oc7GkGFogvQ",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/Oc7GkGFogvQ",
+      "creator": "hyw6277",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:30+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:30+00:00",
+      "caption": null,
+      "description": "群岛传统独舞",
+      "recommendation_reason": "Yogyakarta传统舞独舞，kebaya与batik，姿势变化明确",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "群岛传统独舞",
+      "copy_title": "单人女性+耍帅+群岛传统独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:30+00:00",
+        "likes": 16,
+        "likes_display": null,
+        "comments": 4,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:30+00:00",
+          "likes": 16,
+          "likes_display": null,
+          "comments": 4,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "https://i.ytimg.com/vi/Oc7GkGFogvQ/hqdefault.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:oU0bVRtDlWA",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/watch?v=oU0bVRtDlWA",
+      "creator": "Ngarto Februana",
+      "published_at": null,
+      "published_date": "2026-10-13",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:29+00:00",
+      "caption": null,
+      "description": "婆罗浮屠三人舞",
+      "recommendation_reason": "婆罗浮屠前三人AI舞蹈MV，全程舞蹈，服装偏短已标注",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "朋友",
+      "theme_tag": "耍帅",
+      "image_description": "婆罗浮屠三人舞",
+      "copy_title": "朋友+耍帅+婆罗浮屠三人舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:29+00:00",
+        "likes": 0,
+        "likes_display": null,
+        "comments": 0,
+        "views": 44,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:29+00:00",
+          "likes": 0,
+          "likes_display": null,
+          "comments": 0,
+          "views": 44,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "https://i.ytimg.com/vi/oU0bVRtDlWA/hqdefault.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:85d01ec22d5762106167c258",
+      "platform": "other",
+      "post_url": "https://hailuoai.video/fr/generate/ai-video/366726978348642310",
+      "creator": "Nurkolim Wadjadi",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:29+00:00",
+      "caption": null,
+      "description": "Jaipong男子独舞",
+      "recommendation_reason": "印尼语Prompt的Jaipong男子独舞，6秒",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "Jaipong男子独舞",
+      "copy_title": "单人男性+耍帅+Jaipong男子独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_85d01ec22d5762106167c258_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:f51fe95bded75cb8a339098a",
+      "platform": "other",
+      "post_url": "https://hailuoai.video/de/generate/ai-video/364150879978057736",
+      "creator": "Endang Sukendar",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:29+00:00",
+      "caption": null,
+      "description": "Jaipongan男子独舞",
+      "recommendation_reason": "巽他Jaipongan男子独舞，AI标注明确",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "Jaipongan男子独舞",
+      "copy_title": "单人男性+耍帅+Jaipongan男子独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_f51fe95bded75cb8a339098a_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:12c67a2884285574014a9c5c",
+      "platform": "other",
+      "post_url": "https://hailuoai.video/de/generate/ai-video/343808315245309952",
+      "creator": "giyan option",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:28+00:00",
+      "caption": null,
+      "description": "爪哇双人舞转拳击",
+      "recommendation_reason": "爪哇舞概念双人短片，结尾转拳击搞笑，6秒",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "爪哇双人舞转拳击",
+      "copy_title": "情侣+亲密互动+爪哇双人舞转拳击+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_12c67a2884285574014a9c5c_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7622884647046876423",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@yuyunyuningsih.2208/video/7622884647046876423",
+      "creator": "yuyunyuningsih.2208",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:27+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:27+00:00",
+      "caption": null,
+      "description": "吊桥头巾独舞",
+      "recommendation_reason": "Garut吊桥头巾独舞，平台AI标签，2.7万赞高表现",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@yuyunyuningsih.2208",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "吊桥头巾独舞",
+      "copy_title": "单人女性+耍帅+吊桥头巾独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:27+00:00",
+        "likes": 27000,
+        "likes_display": null,
+        "comments": 1763,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:27+00:00",
+          "likes": 27000,
+          "likes_display": null,
+          "comments": 1763,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "cover_host_not_approved",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1791185975456351",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/reel/1791185975456351/",
+      "creator": "Rose Diana",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:27+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:27+00:00",
+      "caption": null,
+      "description": "头巾女子户外独舞",
+      "recommendation_reason": "Meta AI风格joget，头巾户外独舞，端庄",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "头巾女子户外独舞",
+      "copy_title": "单人女性+耍帅+头巾女子户外独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:27+00:00",
+        "likes": 14,
+        "likes_display": null,
+        "comments": 4,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:27+00:00",
+          "likes": 14,
+          "likes_display": null,
+          "comments": 4,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1791185975456351_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1856267435368491",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/reel/1856267435368491/",
+      "creator": "Ngarto Februana",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:27+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:27+00:00",
+      "caption": null,
+      "description": "舞台热舞独舞",
+      "recommendation_reason": "TopMedia AI制作的dangdut K-Pop舞台独舞，服装为舞台装已标注",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "舞台热舞独舞",
+      "copy_title": "单人女性+耍帅+舞台热舞独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1856267435368491_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1065783229108735",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/reel/1065783229108735/",
+      "creator": "Berhizab Hizab",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:27+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:27+00:00",
+      "caption": null,
+      "description": "头巾女子室内独舞",
+      "recommendation_reason": "头巾女子室内独舞，AI-generated标注，印尼语境",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "头巾女子室内独舞",
+      "copy_title": "单人女性+棚拍+头巾女子室内独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:27+00:00",
+        "likes": 18,
+        "likes_display": null,
+        "comments": 31,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:27+00:00",
+          "likes": 18,
+          "likes_display": null,
+          "comments": 31,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1065783229108735_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DebFZvGkrZw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DebFZvGkrZw/",
+      "creator": "mzlynndayaakop",
+      "published_at": null,
+      "published_date": "2026-10-13",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:26+00:00",
+      "caption": null,
+      "description": "头巾男女双人舞",
+      "recommendation_reason": "男女双人短循环舞蹈，平台AI标识，地区待确认（文案偏马来语）",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mzlynndayaakop/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "头巾男女双人舞",
+      "copy_title": "情侣+亲密互动+头巾男女双人舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:26+00:00",
+        "likes": null,
+        "likes_display": null,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:26+00:00",
+          "likes": null,
+          "likes_display": null,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DebFZvGkrZw_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dd5WE_PiVXF",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dd5WE_PiVXF/",
+      "creator": "aina_channel26",
+      "published_at": null,
+      "published_date": "2026-09-30",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:26+00:00",
+      "caption": null,
+      "description": "红白夹克晨操群舞",
+      "recommendation_reason": "3名女子晨操式群舞，YouArt制作，印尼语境强",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/aina_channel26/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "朋友",
+      "theme_tag": "耍帅",
+      "image_description": "红白夹克晨操群舞",
+      "copy_title": "朋友+耍帅+红白夹克晨操群舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:26+00:00",
+        "likes": 67,
+        "likes_display": null,
+        "comments": 20,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:26+00:00",
+          "likes": 67,
+          "likes_display": null,
+          "comments": 20,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_Dd5WE_PiVXF_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdQizSCMkeI",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdQizSCMkeI/",
+      "creator": "mdtitiklestari",
+      "published_at": null,
+      "published_date": "2026-09-13",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:26+00:00",
+      "caption": null,
+      "description": "克巴雅女子齐舞",
+      "recommendation_reason": "5名女子kebaya与batik齐舞，传统群舞模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mdtitiklestari/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "朋友",
+      "theme_tag": "耍帅",
+      "image_description": "克巴雅女子齐舞",
+      "copy_title": "朋友+耍帅+克巴雅女子齐舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:26+00:00",
+        "likes": 8,
+        "likes_display": null,
+        "comments": 1,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:26+00:00",
+          "likes": 8,
+          "likes_display": null,
+          "comments": 1,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DdQizSCMkeI_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:3029283300751519",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/reel/3029283300751519/",
+      "creator": "Priska Natalia Kaanoo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:26+00:00",
+      "caption": null,
+      "description": "巴迪克情侣对视舞",
+      "recommendation_reason": "巴迪克情侣AI舞蹈MV，端庄对视互动",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": null,
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "巴迪克情侣对视舞",
+      "copy_title": "情侣+亲密互动+巴迪克情侣对视舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:26+00:00",
+        "likes": 2,
+        "likes_display": null,
+        "comments": null,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:26+00:00",
+          "likes": 2,
+          "likes_display": null,
+          "comments": null,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_3029283300751519_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdwQjCap3Ca",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdwQjCap3Ca/",
+      "creator": "sugilico",
+      "published_at": null,
+      "published_date": "2026-09-26",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:25+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:25+00:00",
+      "caption": null,
+      "description": "印尼嘻哈男团舞",
+      "recommendation_reason": "印尼嘻哈组合多人音乐视频式舞蹈，Seedance制作，互动数据强",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/sugilico/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "朋友",
+      "theme_tag": "耍帅",
+      "image_description": "印尼嘻哈男团舞",
+      "copy_title": "朋友+耍帅+印尼嘻哈男团舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:25+00:00",
+        "likes": 63100,
+        "likes_display": null,
+        "comments": 3400,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:25+00:00",
+          "likes": 63100,
+          "likes_display": null,
+          "comments": 3400,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DdwQjCap3Ca_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Ddpx0hSCW7e",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Ddpx0hSCW7e/",
+      "creator": "sweety_r1221",
+      "published_at": null,
+      "published_date": "2026-09-23",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:25+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:25+00:00",
+      "caption": null,
+      "description": "头巾女子户外群舞",
+      "recommendation_reason": "4名头巾女子户外排舞，AI dance文案与Ai标记，地区待确认",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/sweety_r1221/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "朋友",
+      "theme_tag": "耍帅",
+      "image_description": "头巾女子户外群舞",
+      "copy_title": "朋友+耍帅+头巾女子户外群舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:25+00:00",
+        "likes": 36,
+        "likes_display": null,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:25+00:00",
+          "likes": 36,
+          "likes_display": null,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_Ddpx0hSCW7e_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdS1l1-xTo6",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdS1l1-xTo6/",
+      "creator": "hchalie",
+      "published_at": null,
+      "published_date": "2026-09-14",
+      "published_precision": "day",
+      "first_discovered_at": "2026-10-30T06:27:25+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-10-30T06:27:25+00:00",
+      "caption": null,
+      "description": "头巾女子活力独舞",
+      "recommendation_reason": "Syntx AI制作的头巾独舞，印尼创作者语境，互动较好",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "formal",
+      "verification_notes": [
+        "视频文件待获取",
+        "内容信息待核实"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/hchalie/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "low",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "头巾女子活力独舞",
+      "copy_title": "单人女性+耍帅+头巾女子活力独舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "unclassified",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:27:25+00:00",
+        "likes": 192,
+        "likes_display": null,
+        "comments": 106,
+        "views": null,
+        "shares": null,
+        "source": "muse_handoff_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:27:25+00:00",
+          "likes": 192,
+          "likes_display": null,
+          "comments": 106,
+          "views": null,
+          "shares": null,
+          "source": "muse_handoff_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DdS1l1-xTo6_0.jpg",
+          "preview_status": "cover_cached",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "tiktok:7702040407642885397",
       "platform": "tiktok",
@@ -61,9 +1650,9 @@
       "published_at": "2026-10-29T10:50:32+00:00",
       "published_date": "2026-10-29",
       "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
       "duration_seconds": 22,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
       "caption": "✨ Tren foto AI huruf 3D November pakai ChatGPT! 🤩 Ubah foto selfie kamu jadi potret dengan efek huruf 3D November viral. Wajah kamu tetap sama, efek huruf balon 3D berwarna macaron bertumpuk vertikal di tengah frame. Pria bersandar pada huruf 3D November, pakai outfit kasual santai. Latar studio warna solid lembut, pantulan ringan di lantai, pencahayaan studio lembut, nuansa cerah segar, kualitas foto realistis tinggi. Kamu bisa pakai prompt di ChatGPT untuk hasil foto yang keren 📸🔥 Foto AI huruf 3D November pakai ChatGPT, tren foto huruf 3D AI, tutorial foto huruf 3D, CapCut template huruf 3D November, potret pria dengan huruf 3D November, prompt ChatGPT foto huruf 3D, foto AI efek huruf balon 3D, potret full body pria bersandar huruf 3D November, cara buat foto AI huruf 3D November, foto AI latar studio polos, template CapCut huruf 3D November pria, prompt foto AI huruf 3D warna macaron. #capcut #capcutpioneer #pioneertemplate #idpick ",
       "description": "立体字母旁红衣照",
       "recommendation_reason": "视频前段的最终AI成图可作图片创意参考；原帖后段含教程，预览是视频抽帧而非原生图片文件",
@@ -99,13 +1688,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:43+00:00",
         "likes": 94,
         "likes_display": null,
         "comments": 6,
@@ -115,7 +1704,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:43+00:00",
           "likes": 94,
           "likes_display": null,
           "comments": 6,
@@ -143,9 +1732,9 @@
       "published_at": "2026-10-29T13:23:34+00:00",
       "published_date": "2026-10-29",
       "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
       "duration_seconds": 22,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
       "caption": "🌸 Tren AI foto hijab pink dengan suasana bunga sakura! 💗✨ Ubah foto kamu menjadi potret muslimah yang anggun mengenakan hijab berwarna pink dengan latar taman bunga sakura yang bermekaran indah. Hadirkan kelopak bunga sakura berwarna merah muda yang berguguran lembut, pepohonan sakura yang romantis, serta suasana musim semi yang tenang dan memukau. Padukan dengan busana feminin berwarna pastel, pencahayaan lembut, efek kamera sinematik, dan latar belakang blur alami untuk menghasilkan foto yang estetik dan realistis. Pertahankan wajah asli, bentuk wajah, warna kulit, dan ciri khas pengguna agar hasilnya tetap natural dan menyerupai foto sumber. Cocok untuk membuat foto AI hijab muslimah yang cantik, mengikuti tren prompt AI terbaru, dan mempercantik konten media sosial! 🌸📸, ubah foto menjadi AI foto hijab pink suasana bunga sakura, AI hijab muslimah, AI trend prompt, AI Gemini, AI ChatGPT, AI filter TikTok, tren foto AI Indonesia, prompt AI hijab pink, foto muslimah bunga sakura, foto hijab aesthetic, foto taman sakura, gaya hijab feminin, foto AI musim semi, tutorial edit foto AI, tren prompt AI terbaru, foto sakura realistis, inspirasi foto AI muslimah 🌷💗#capcut #capcutpioneer #pioneertemplate #idpick ",
       "description": "粉头巾樱花树写真",
       "recommendation_reason": "视频前段的最终AI成图可作图片创意参考；原帖后段含教程，预览是视频抽帧而非原生图片文件",
@@ -181,13 +1770,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:43+00:00",
         "likes": 95,
         "likes_display": null,
         "comments": 3,
@@ -197,7 +1786,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:43+00:00",
           "likes": 95,
           "likes_display": null,
           "comments": 3,
@@ -225,9 +1814,9 @@
       "published_at": "2026-10-29T07:21:00+00:00",
       "published_date": "2026-10-29",
       "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
       "duration_seconds": 25,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
       "caption": "✨ Potret hijab dengan cahaya layar hp di tengah kegelapan, nuansa malam yang tenang, moody dan cinematic. Cahaya biru lembut memantul di kacamata, suasana sendirian yang damai✨ template capcut ai potret hijab moody malam efek cahaya layar hp potret hijab lowlight potret hijab cinematic refleksi di kacamata foto hijabers aesthetic sendirian di malam hari trend ai potret hijab cahaya biru lembut edit foto selfie jadi potret lowlight hp prompt ai hijab portrait screen glow malam potret hijab soft moody gelap tutorial capcut ai efek cahaya pantulan layar potret wanita hijab pakai kacamata malam aesthetic potret hijab cahaya dari gawai foto ai hijab nuansa tenang malam#capcut #capcutpioneer #capcutnow ",
       "description": "手机蓝光照亮头巾",
       "recommendation_reason": "视频前段的最终AI成图可作图片创意参考；原帖后段含教程，预览是视频抽帧而非原生图片文件",
@@ -263,13 +1852,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:43+00:00",
         "likes": 16,
         "likes_display": null,
         "comments": 0,
@@ -279,7 +1868,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:43+00:00",
           "likes": 16,
           "likes_display": null,
           "comments": 0,
@@ -307,9 +1896,9 @@
       "published_at": "2026-10-29T08:18:07+00:00",
       "published_date": "2026-10-29",
       "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
       "duration_seconds": 25,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
       "caption": "✨ Tren potret hijab golden hour di taman mawar! Cahaya matahari sore yang hangat, dikelilingi bunga mawar merah muda, nuansa lembut dan segar banget✨ template capcut ai potret hijab golden hour bunga mawar efek ai potret hijab sore hari di taman bunga potret hijab aesthetic cahaya emas matahari terbenam foto ai hijabers dengan latar bunga mawar pink trend capcut potret hijab taman bunga romantis edit foto selfie jadi potret golden hour mawar prompt ai potret hijab di antara bunga mawar potret hijab sweater pink gaya santai taman tutorial capcut ai efek cahaya sore golden hour foto hijab cinematic dengan frame daun dan bunga potret hijab soft warna hangat golden hour aesthetic hijab outdoor portrait taman bunga#capcut #capcutpioneer #capcutnow ",
       "description": "玫瑰园粉头巾写真",
       "recommendation_reason": "视频前段的最终AI成图可作图片创意参考；原帖后段含教程，预览是视频抽帧而非原生图片文件",
@@ -345,13 +1934,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:43+00:00",
         "likes": 8,
         "likes_display": null,
         "comments": 1,
@@ -361,7 +1950,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:43+00:00",
           "likes": 8,
           "likes_display": null,
           "comments": 1,
@@ -389,9 +1978,9 @@
       "published_at": "2026-10-29T09:16:15+00:00",
       "published_date": "2026-10-29",
       "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
       "duration_seconds": 26,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
       "caption": "✨ Tren kolase 3 pose potret hijab gaya studio simpel! Pakai kacamata merah vintage, tone warna coklat hangat, elegan dan stylish banget✨ template capcut ai kolase 3 pose hijab studio efek ai potret hijab tiga frame kacamata merah potret hijab gaya vintage kacamata oval merah foto ai hijabers tone coklat hangat studio polos trend capcut kolase pose hijab aesthetic edit selfie jadi kolase 3 tampilan potret hijab prompt ai potret hijab studio minimalis kacamata potret hijab knitwear warna coklat elegan tutorial capcut ai kolase tiga pose portrait hijab potret hijab close up studio latar putih polos style hijab pakai sunglasses merah retro aesthetic hijab studio portrait 3 grid#capcut #capcutpioneer #capcutnow ",
       "description": "墨镜头巾多格肖像",
       "recommendation_reason": "视频前段的最终AI成图可作图片创意参考；原帖后段含教程，预览是视频抽帧而非原生图片文件",
@@ -427,13 +2016,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:43+00:00",
         "likes": 46,
         "likes_display": null,
         "comments": 2,
@@ -443,7 +2032,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:43+00:00",
           "likes": 46,
           "likes_display": null,
           "comments": 2,
@@ -464,6 +2053,708 @@
       ]
     },
     {
+      "id": "tiktok:7701555929925356808",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mimih_nings/video/7701555929925356808",
+      "creator": "mimih_nings",
+      "published_at": "2026-10-28T03:30:31+00:00",
+      "published_date": "2026-10-28",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
+      "duration_seconds": 12,
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
+      "caption": "AI Fan Dance #aividio #fotobergerak #aitrend #efekkerentiktok ",
+      "description": "龙面舞台执扇起舞",
+      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "龙面舞台执扇起舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:04:43+00:00",
+        "likes": 65,
+        "likes_display": null,
+        "comments": 9,
+        "views": 1741,
+        "shares": null,
+        "source": "public_post_metadata"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:04:43+00:00",
+          "likes": 65,
+          "likes_display": null,
+          "comments": 9,
+          "views": 1741,
+          "shares": null,
+          "source": "public_post_metadata"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7701555929925356808_0.jpg",
+          "preview_status": "cached_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7697503965411331349",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@durgaarfiana/video/7697503965411331349",
+      "creator": "durgaarfiana",
+      "published_at": "2026-10-17T05:26:51+00:00",
+      "published_date": "2026-10-17",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
+      "duration_seconds": 24,
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
+      "caption": "Effects tiktok keren🤩 Al Butterfly Dance  #trendtiktok #butterflyDance #aieffects  #fotobergerak#viral By@febri.gemblay ",
+      "description": "白裙执扇蝴蝶舞",
+      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@durgaarfiana",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "白裙执扇蝴蝶舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:04:43+00:00",
+        "likes": 55,
+        "likes_display": null,
+        "comments": 25,
+        "views": 780,
+        "shares": null,
+        "source": "public_post_metadata"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:04:43+00:00",
+          "likes": 55,
+          "likes_display": null,
+          "comments": 25,
+          "views": 780,
+          "shares": null,
+          "source": "public_post_metadata"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7697503965411331349_0.jpg",
+          "preview_status": "cached_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7694857288389037320",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mimih_nings/video/7694857288389037320",
+      "creator": "mimih_nings",
+      "published_at": "2026-10-10T02:16:32+00:00",
+      "published_date": "2026-10-10",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
+      "duration_seconds": 12,
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
+      "caption": "SENAM AEROBIK #aiefek #fotobergerak #aividio #aitrend ",
+      "description": "红白运动装领舞",
+      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "红白运动装领舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:04:43+00:00",
+        "likes": 118,
+        "likes_display": null,
+        "comments": 4,
+        "views": 4808,
+        "shares": null,
+        "source": "public_post_metadata"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:04:43+00:00",
+          "likes": 118,
+          "likes_display": null,
+          "comments": 4,
+          "views": 4808,
+          "shares": null,
+          "source": "public_post_metadata"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7694857288389037320_0.jpg",
+          "preview_status": "cached_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7692400497550003476",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@durgaarfiana/video/7692400497550003476",
+      "creator": "durgaarfiana",
+      "published_at": "2026-10-03T11:22:44+00:00",
+      "published_date": "2026-10-03",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
+      "duration_seconds": 17,
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
+      "caption": "Effects tiktok keren😍 LEGONG DANCE By@kang.aiy   #trendtiktok #LEGONGDANCE #aieffects  #fotobergerak#viral",
+      "description": "金冠双人庭院共舞",
+      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@durgaarfiana",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "情侣",
+      "theme_tag": null,
+      "image_description": "金冠双人庭院共舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:04:43+00:00",
+        "likes": 51,
+        "likes_display": null,
+        "comments": 28,
+        "views": 834,
+        "shares": null,
+        "source": "public_post_metadata"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:04:43+00:00",
+          "likes": 51,
+          "likes_display": null,
+          "comments": 28,
+          "views": 834,
+          "shares": null,
+          "source": "public_post_metadata"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7692400497550003476_0.jpg",
+          "preview_status": "cached_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7691244463301102855",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mimih_nings/video/7691244463301102855",
+      "creator": "mimih_nings",
+      "published_at": "2026-09-30T08:36:47+00:00",
+      "published_date": "2026-09-30",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
+      "duration_seconds": 12,
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
+      "caption": "gaya bebas 💃💃💃 #aividio #dance#efekai #fotobergerak ",
+      "description": "落日街头白衫旋舞",
+      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "落日街头白衫旋舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:04:43+00:00",
+        "likes": 223,
+        "likes_display": null,
+        "comments": 0,
+        "views": 9703,
+        "shares": null,
+        "source": "public_post_metadata"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:04:43+00:00",
+          "likes": 223,
+          "likes_display": null,
+          "comments": 0,
+          "views": 9703,
+          "shares": null,
+          "source": "public_post_metadata"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7691244463301102855_0.jpg",
+          "preview_status": "cached_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7689481544167099669",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@durgaarfiana/video/7689481544167099669",
+      "creator": "durgaarfiana",
+      "published_at": "2026-09-25T14:35:43+00:00",
+      "published_date": "2026-09-25",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
+      "duration_seconds": 24,
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
+      "caption": "Effects tiktok keren🤩 Bollywood Bergoyang  By@kang.Ai  #trendtiktok #bollywoodBergoyang #aieffects  #fotobergerak#viral",
+      "description": "红裙舞台群舞领舞",
+      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@durgaarfiana",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "红裙舞台群舞领舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:04:43+00:00",
+        "likes": 298,
+        "likes_display": null,
+        "comments": 0,
+        "views": 22500,
+        "shares": null,
+        "source": "public_post_metadata"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:04:43+00:00",
+          "likes": 298,
+          "likes_display": null,
+          "comments": 0,
+          "views": 22500,
+          "shares": null,
+          "source": "public_post_metadata"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7689481544167099669_0.jpg",
+          "preview_status": "cached_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7686086866361240839",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mimih_nings/video/7686086866361240839",
+      "creator": "mimih_nings",
+      "published_at": "2026-09-16T11:02:38+00:00",
+      "published_date": "2026-09-16",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
+      "duration_seconds": 12,
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
+      "caption": "Nagin Dance#aividio #fotobergerak #aitrand #aidance #efekkerentiktok ",
+      "description": "宫廷褐裙蛇舞旋身",
+      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "宫廷褐裙蛇舞旋身",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:04:43+00:00",
+        "likes": 85,
+        "likes_display": null,
+        "comments": 0,
+        "views": 3508,
+        "shares": null,
+        "source": "public_post_metadata"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:04:43+00:00",
+          "likes": 85,
+          "likes_display": null,
+          "comments": 0,
+          "views": 3508,
+          "shares": null,
+          "source": "public_post_metadata"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7686086866361240839_0.jpg",
+          "preview_status": "cached_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7684798125499796744",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mimih_nings/video/7684798125499796744",
+      "creator": "mimih_nings",
+      "published_at": "2026-09-12T23:41:43+00:00",
+      "published_date": "2026-09-12",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
+      "duration_seconds": 12,
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
+      "caption": "hee,, aahh 😁💃💃 #aidance#aividio #aitrend #fotobergerak #efekkerentiktok ",
+      "description": "云端红衣舒臂起舞",
+      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "云端红衣舒臂起舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:04:43+00:00",
+        "likes": 95,
+        "likes_display": null,
+        "comments": 0,
+        "views": 3868,
+        "shares": null,
+        "source": "public_post_metadata"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:04:43+00:00",
+          "likes": 95,
+          "likes_display": null,
+          "comments": 0,
+          "views": 3868,
+          "shares": null,
+          "source": "public_post_metadata"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7684798125499796744_0.jpg",
+          "preview_status": "cached_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7684093824502664466",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mimih_nings/video/7684093824502664466",
+      "creator": "mimih_nings",
+      "published_at": "2026-09-11T02:08:45+00:00",
+      "published_date": "2026-09-11",
+      "published_precision": "second",
+      "first_discovered_at": "2026-10-30T06:04:43+00:00",
+      "duration_seconds": 23,
+      "last_collected_at": "2026-10-30T06:04:43+00:00",
+      "caption": "💃💃💃 #aitrend #fotobergerak #aividio #efekkerentiktok ",
+      "description": "落日车顶白衫起舞",
+      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "落日车顶白衫起舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T06:04:43+00:00",
+        "likes": 991,
+        "likes_display": null,
+        "comments": 0,
+        "views": 72100,
+        "shares": null,
+        "source": "public_post_metadata"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T06:04:43+00:00",
+          "likes": 991,
+          "likes_display": null,
+          "comments": 0,
+          "views": 72100,
+          "shares": null,
+          "source": "public_post_metadata"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/tiktok_7684093824502664466_0.jpg",
+          "preview_status": "cached_video_frame",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "tiktok:7702064292681501960",
       "platform": "tiktok",
       "post_url": "https://www.tiktok.com/@rkvugcez/video/7702064292681501960",
@@ -471,9 +2762,9 @@
       "published_at": "2026-10-29T12:23:12+00:00",
       "published_date": "2026-10-29",
       "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": 26,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "✨ Tren potret anak laki-laki gaya biker keren! Jaket kulit hitam dengan motor sport mini, pose lucu dan gagah di studio latar abu polos✨ template capcut ai potret anak biker motor sport mini efek ai foto anak pakai jaket kulit motor mainan potret bayi laki-laki gaya rider keren studio foto ai anak kecil motor sport putih latar abu trend capcut potret anak gagah biker edit foto anak jadi gaya rider motor sport prompt ai potret anak laki-laki jaket kulit hitam potret studio anak motor mainan sport tutorial capcut ai template foto anak biker potret anak lucu gaya rider simpel aesthetic foto anak cowok motor sport studio ai portrait anak laki-laki biker cool#capcutpioneer #capcutnow template capcut ai potret anak biker motor sukan mini kesan ai foto anak pakai jaket kulit motor mainan potret bayi lelaki gaya rider hebat studio foto ai anak kecil motor sukan putih latar kelabu trend capcut potret anak bergaya biker edit foto anak jadi gaya rider motor sukan prompt ai potret anak lelaki jaket kulit hitam potret studio anak motor mainan sukan tutorial capcut ai template foto anak biker potret anak comel gaya rider ringkas estetik foto anak lelaki motor sukan studio ai portrait anak lelaki biker hebat#capcut #capcutpioneer #capcutnow ",
       "description": "皮衣男孩骑迷你摩托",
       "recommendation_reason": "视频前段的最终AI成图可作图片创意参考；原帖后段含教程，预览是视频抽帧而非原生图片文件",
@@ -509,13 +2800,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:43+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 37,
         "likes_display": null,
         "comments": 0,
@@ -525,7 +2816,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 37,
           "likes_display": null,
           "comments": 0,
@@ -553,9 +2844,9 @@
       "published_at": "2026-10-29T15:36:29+00:00",
       "published_date": "2026-10-29",
       "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": 26,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "✨ Potret keluarga bertingkat pose hati di hutan daun maple musim gugur! Cahaya golden hour hangat, baju seragam biru lembut, penuh cinta dan kebahagiaan keluarga muslim 🤍 potret keluarga bertingkat pose hati maple template capcut ai keluarga muslim musim gugur foto keluarga pose hati berbaris di hutan daun kuning potret keluarga hijab outdoor golden hour prompt ai keluarga 4 orang formasi bertumpuk hati trend potret keluarga maple musim gugur edit foto keluarga jadi pose hati bertingkat potret keluarga seragam biru muda aesthetic foto keluarga cinematic di hutan musim gugur muslim family portrait autumn maple tree template capcut ai potret keluarga muslim pose hati bertingkat efek ai foto keluarga musim gugur daun maple kuning potret keluarga hijab baju seragam biru muda outdoor foto ai keluarga 4 orang formasi bertumpuk buat hati trend capcut potret keluarga golden hour hutan musim gugur edit foto keluarga jadi pose hati berbaris bertingkat prompt ai potret keluarga muslim di tengah pepohonan daun kuning potret keluarga besar gaya prewedding keluarga hangat tutorial capcut ai template keluarga pose love bertingkat foto keluarga cinematic latar hutan musim gugur potret keluarga muslim outdoor aesthetic musim gugur ai portrait keluarga formasi bertingkat kasih sayang#capcut #capcutpioneer #capcutnow ",
       "description": "枫林六人叠心合照",
       "recommendation_reason": "视频前段的最终AI成图可作图片创意参考；原帖后段含教程，预览是视频抽帧而非原生图片文件",
@@ -589,13 +2880,13 @@
         "theme_tags": []
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 9,
         "likes_display": null,
         "comments": 2,
@@ -605,7 +2896,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 9,
           "likes_display": null,
           "comments": 2,
@@ -633,9 +2924,9 @@
       "published_at": "2026-10-29T17:34:19+00:00",
       "published_date": "2026-10-29",
       "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": 26,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "✨ Tren kolase multi pose ibu rumah tangga hijab! Satu wajah, banyak aktivitas rumah: masak, menyapu, cuci piring, menjemur baju. Potret hangat yang menceritakan perjuangan para hijabers ibu✨ template capcut ai kolase ibu rumah tangga hijab efek ai multi pose aktivitas rumah tangga hijab potret hijab ibu rumah tangga kolase berbagai kegiatan foto ai hijabers masak cuci piring menyapu trend capcut potret multi peran ibu hijab edit selfie jadi kolase aktivitas rumah tangga prompt ai potret ibu hijab kegiatan sehari-hari kolase potret wanita hijab pekerjaan rumah tutorial capcut ai efek banyak pose satu orang potret studio ibu rumah tangga latar coklat polos aesthetic potret ibu hijab sederhana hangat ai portrait multi-tasking ibu muslimah template capcut ai kolase ibu rumah tangga hijab efek ai multi pose aktivitas rumah tangga hijab potret hijab ibu rumah tangga kolase berbagai kegiatan foto ai hijabers masak cuci piring menyapu rumah trend capcut potret multi peran ibu hijab lelah edit selfie jadi kolase aktivitas ibu rumah tangga prompt ai potret ibu hijab kegiatan sehari-hari rumah kolase potret wanita hijab pekerjaan rumah tangga tutorial capcut ai efek banyak pose satu orang potret studio ibu rumah tangga latar krem polos aesthetic potret ibu hijab sederhana penuh makna ai portrait multi-tasking ibu muslimah#capcutpioneer #capcutnow #capcut ",
       "description": "粉裙家务多姿拼贴",
       "recommendation_reason": "视频前段的最终AI成图可作图片创意参考；原帖后段含教程，预览是视频抽帧而非原生图片文件",
@@ -671,13 +2962,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 50,
         "likes_display": null,
         "comments": 3,
@@ -687,7 +2978,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 50,
           "likes_display": null,
           "comments": 3,
@@ -715,9 +3006,9 @@
       "published_at": null,
       "published_date": "2026-10-29",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "““I once had two heroes who always looked after me. Now, my duty is to pray for them both from here a longing that will never reach them, yet one that always remains.”” 🤍🕊️”\nAlfatihah Alm. Dadang Zaelani & Alm. Ridwan Zaelani.\n.\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @syr.records \n💻 Create : fbstudioai\n.\n \n#syahrini #syr #family #ai #photo",
       "description": "白衣三代并肩合影",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -751,13 +3042,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 953,
         "likes_display": null,
         "comments": 10,
@@ -767,7 +3058,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 953,
           "likes_display": null,
           "comments": 10,
@@ -788,84 +3079,6 @@
       ]
     },
     {
-      "id": "tiktok:7701555929925356808",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@mimih_nings/video/7701555929925356808",
-      "creator": "mimih_nings",
-      "published_at": "2026-10-28T03:30:31+00:00",
-      "published_date": "2026-10-28",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
-      "duration_seconds": 12,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
-      "caption": "AI Fan Dance #aividio #fotobergerak #aitrend #efekkerentiktok ",
-      "description": "龙面舞台执扇起舞",
-      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "龙面舞台执扇起舞",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
-        "likes": 65,
-        "likes_display": null,
-        "comments": 9,
-        "views": 1741,
-        "shares": null,
-        "source": "public_post_metadata"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T05:51:07+00:00",
-          "likes": 65,
-          "likes_display": null,
-          "comments": 9,
-          "views": 1741,
-          "shares": null,
-          "source": "public_post_metadata"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7701555929925356808_0.jpg",
-          "preview_status": "cached_video_frame",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
       "id": "instagram:De_wq6pvkv3",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/p/De_wq6pvkv3/",
@@ -873,9 +3086,9 @@
       "published_at": null,
       "published_date": "2026-10-27",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "“I haven’t been with you long enough to know everything about you, but I have been with you long enough to love you and miss you dearly.” 🤍🕊️”\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @nikyrputra \n💻 Create : fbstudioai\n.\n \n#nikyrputra #npd #family #ai #photo",
       "description": "灰衬衫双人依肩",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -907,13 +3120,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 5976,
         "likes_display": null,
         "comments": 24,
@@ -923,7 +3136,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 5976,
           "likes_display": null,
           "comments": 24,
@@ -951,9 +3164,9 @@
       "published_at": null,
       "published_date": "2026-10-23",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "“Keep moving forward with strength. Even though the place you once called home is gone, their prayers and love will always live on in our hearts. 🤍🕊️”\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @aruanmarsha @michelleearuan \n💻 Create : fbstudioai\n.\n \n#aruanmarsha #marshaaruan #family #ai #photo",
       "description": "四人黑衣贴肩合影",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -987,13 +3200,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 4657,
         "likes_display": null,
         "comments": 6,
@@ -1003,7 +3216,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 4657,
           "likes_display": null,
           "comments": 6,
@@ -1031,9 +3244,9 @@
       "published_at": null,
       "published_date": "2026-10-22",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "““Your body is gone, but your love always lives in my soul.🤍”\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @amandamanopo @kennyauztin \n💻 Create : fbstudioai\n.\n \n#amandamanopo #kennyaustin #family #ai #photo",
       "description": "黑衣家庭围坐合影",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -1067,13 +3280,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 2252,
         "likes_display": null,
         "comments": 27,
@@ -1083,7 +3296,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 2252,
           "likes_display": null,
           "comments": 27,
@@ -1111,9 +3324,9 @@
       "published_at": null,
       "published_date": "2026-10-21",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "“Heaven is now your home, Mom. I miss you every single day.🤍”\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @miktambayong @devamahenra \n💻 Create : fbstudioai\n.\n \n#mikhatambayong #devamahenra #family #ai #photoshoot",
       "description": "白衣四人扶肩合照",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -1147,13 +3360,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 243,
         "likes_display": null,
         "comments": 5,
@@ -1163,7 +3376,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 243,
           "likes_display": null,
           "comments": 5,
@@ -1191,9 +3404,9 @@
       "published_at": null,
       "published_date": "2026-10-18",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "“ada yang masih inget sama trio ini…? 🤍”\nAlfatihah Almh. Yuli Rachmawati 🤲🏻🤍\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @ayutingting92 \n💻 Create : fbstudioai\n.\n \n#jupe #ayutingting #zaskiagotik #ai #friends",
       "description": "白衣一家五口合影",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -1227,13 +3440,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": null,
         "likes_display": null,
         "comments": 75,
@@ -1243,7 +3456,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": null,
           "likes_display": null,
           "comments": 75,
@@ -1264,84 +3477,6 @@
       ]
     },
     {
-      "id": "tiktok:7697503965411331349",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@durgaarfiana/video/7697503965411331349",
-      "creator": "durgaarfiana",
-      "published_at": "2026-10-17T05:26:51+00:00",
-      "published_date": "2026-10-17",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
-      "duration_seconds": 24,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
-      "caption": "Effects tiktok keren🤩 Al Butterfly Dance  #trendtiktok #butterflyDance #aieffects  #fotobergerak#viral By@febri.gemblay ",
-      "description": "白裙执扇蝴蝶舞",
-      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@durgaarfiana",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "白裙执扇蝴蝶舞",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
-        "likes": 55,
-        "likes_display": null,
-        "comments": 25,
-        "views": 780,
-        "shares": null,
-        "source": "public_post_metadata"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T05:51:07+00:00",
-          "likes": 55,
-          "likes_display": null,
-          "comments": 25,
-          "views": 780,
-          "shares": null,
-          "source": "public_post_metadata"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7697503965411331349_0.jpg",
-          "preview_status": "cached_video_frame",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
       "id": "instagram:DejYpsSJOrY",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/p/DejYpsSJOrY/",
@@ -1349,9 +3484,9 @@
       "published_at": null,
       "published_date": "2026-10-16",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "““The world keeps turning, Dad, but there is a space in my heart that will always belong to you.🤍”\nAlfatihah alm. Mustaqim 🤲🏻🤍\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @itsme.frisllyherlind \n💻 Create : fbstudioai\n.\n \n#frisly #frislyherlind #ai #konten #family",
       "description": "黑衣父女依肩合照",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -1385,13 +3520,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 9131,
         "likes_display": null,
         "comments": 29,
@@ -1401,7 +3536,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 9131,
           "likes_display": null,
           "comments": 29,
@@ -1429,9 +3564,9 @@
       "published_at": null,
       "published_date": "2026-10-14",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "“Three legendary comedy friends. 🤍”\nAlfatihah alm. Dono (Drs. H. Wahjoe Sardono, M.S.) & Alm. Kasino Hadiwibowo 🤲🏻🤍\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @indrowarkop_asli \n💻 Create : fbstudioai\n.\n \n#warkopdki #dono #kasino #indro #ai",
       "description": "三人黑衣搭肩合照",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -1465,13 +3600,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": null,
         "likes_display": null,
         "comments": 212,
@@ -1481,7 +3616,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": null,
           "likes_display": null,
           "comments": 212,
@@ -1509,9 +3644,9 @@
       "published_at": null,
       "published_date": "2026-10-12",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "“Rest peacefully there, Mother. May heaven be your home. 🤍”\nAlfatihah Almh. Ibu Nina Carolina 🤲🏻🤍\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @_mrshrlynaaa \n💻 Create : fbstudioai\n.\n \n#mpokalfa #editing #ai #edit #family",
       "description": "白衣头巾五人合影",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -1545,13 +3680,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": 1427,
         "likes_display": null,
         "comments": 2,
@@ -1561,7 +3696,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": 1427,
           "likes_display": null,
           "comments": 2,
@@ -1582,84 +3717,6 @@
       ]
     },
     {
-      "id": "tiktok:7694857288389037320",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@mimih_nings/video/7694857288389037320",
-      "creator": "mimih_nings",
-      "published_at": "2026-10-10T02:16:32+00:00",
-      "published_date": "2026-10-10",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
-      "duration_seconds": 12,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
-      "caption": "SENAM AEROBIK #aiefek #fotobergerak #aividio #aitrend ",
-      "description": "红白运动装领舞",
-      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "红白运动装领舞",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
-        "likes": 118,
-        "likes_display": null,
-        "comments": 4,
-        "views": 4808,
-        "shares": null,
-        "source": "public_post_metadata"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T05:51:07+00:00",
-          "likes": 118,
-          "likes_display": null,
-          "comments": 4,
-          "views": 4808,
-          "shares": null,
-          "source": "public_post_metadata"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7694857288389037320_0.jpg",
-          "preview_status": "cached_video_frame",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
       "id": "instagram:DeOoiOdpg6w",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/p/DeOoiOdpg6w/",
@@ -1667,9 +3724,9 @@
       "published_at": null,
       "published_date": "2026-10-08",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "“Not a day goes by without thinking of you, Mom. Not a prayer goes by without mentioning your name. I miss you always. 🤍”\nAlfatihah Almh. Ibu Hotimah Imaniar 🤲🏻🤍\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @jenniferhubner @kamariskywasink \n💻 Create : fbstudioai\n.\n \n#jennifer #justinhubner #ai #kamari #family",
       "description": "三人白衣贴肩合影",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -1703,13 +3760,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": null,
         "likes_display": null,
         "comments": 476,
@@ -1719,7 +3776,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": null,
           "likes_display": null,
           "comments": 476,
@@ -1740,474 +3797,6 @@
       ]
     },
     {
-      "id": "tiktok:7692400497550003476",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@durgaarfiana/video/7692400497550003476",
-      "creator": "durgaarfiana",
-      "published_at": "2026-10-03T11:22:44+00:00",
-      "published_date": "2026-10-03",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
-      "duration_seconds": 17,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
-      "caption": "Effects tiktok keren😍 LEGONG DANCE By@kang.aiy   #trendtiktok #LEGONGDANCE #aieffects  #fotobergerak#viral",
-      "description": "金冠双人庭院共舞",
-      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@durgaarfiana",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "情侣",
-      "theme_tag": null,
-      "image_description": "金冠双人庭院共舞",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "情侣"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
-        "likes": 51,
-        "likes_display": null,
-        "comments": 28,
-        "views": 834,
-        "shares": null,
-        "source": "public_post_metadata"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T05:51:07+00:00",
-          "likes": 51,
-          "likes_display": null,
-          "comments": 28,
-          "views": 834,
-          "shares": null,
-          "source": "public_post_metadata"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7692400497550003476_0.jpg",
-          "preview_status": "cached_video_frame",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "tiktok:7691244463301102855",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@mimih_nings/video/7691244463301102855",
-      "creator": "mimih_nings",
-      "published_at": "2026-09-30T08:36:47+00:00",
-      "published_date": "2026-09-30",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
-      "duration_seconds": 12,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
-      "caption": "gaya bebas 💃💃💃 #aividio #dance#efekai #fotobergerak ",
-      "description": "落日街头白衫旋舞",
-      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "落日街头白衫旋舞",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
-        "likes": 223,
-        "likes_display": null,
-        "comments": 0,
-        "views": 9703,
-        "shares": null,
-        "source": "public_post_metadata"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T05:51:07+00:00",
-          "likes": 223,
-          "likes_display": null,
-          "comments": 0,
-          "views": 9703,
-          "shares": null,
-          "source": "public_post_metadata"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7691244463301102855_0.jpg",
-          "preview_status": "cached_video_frame",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "tiktok:7689481544167099669",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@durgaarfiana/video/7689481544167099669",
-      "creator": "durgaarfiana",
-      "published_at": "2026-09-25T14:35:43+00:00",
-      "published_date": "2026-09-25",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
-      "duration_seconds": 24,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
-      "caption": "Effects tiktok keren🤩 Bollywood Bergoyang  By@kang.Ai  #trendtiktok #bollywoodBergoyang #aieffects  #fotobergerak#viral",
-      "description": "红裙舞台群舞领舞",
-      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@durgaarfiana",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "红裙舞台群舞领舞",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
-        "likes": 298,
-        "likes_display": null,
-        "comments": 0,
-        "views": 22500,
-        "shares": null,
-        "source": "public_post_metadata"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T05:51:07+00:00",
-          "likes": 298,
-          "likes_display": null,
-          "comments": 0,
-          "views": 22500,
-          "shares": null,
-          "source": "public_post_metadata"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7689481544167099669_0.jpg",
-          "preview_status": "cached_video_frame",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "tiktok:7686086866361240839",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@mimih_nings/video/7686086866361240839",
-      "creator": "mimih_nings",
-      "published_at": "2026-09-16T11:02:38+00:00",
-      "published_date": "2026-09-16",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
-      "duration_seconds": 12,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
-      "caption": "Nagin Dance#aividio #fotobergerak #aitrand #aidance #efekkerentiktok ",
-      "description": "宫廷褐裙蛇舞旋身",
-      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "宫廷褐裙蛇舞旋身",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
-        "likes": 85,
-        "likes_display": null,
-        "comments": 0,
-        "views": 3508,
-        "shares": null,
-        "source": "public_post_metadata"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T05:51:07+00:00",
-          "likes": 85,
-          "likes_display": null,
-          "comments": 0,
-          "views": 3508,
-          "shares": null,
-          "source": "public_post_metadata"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7686086866361240839_0.jpg",
-          "preview_status": "cached_video_frame",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "tiktok:7684798125499796744",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@mimih_nings/video/7684798125499796744",
-      "creator": "mimih_nings",
-      "published_at": "2026-09-12T23:41:43+00:00",
-      "published_date": "2026-09-12",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
-      "duration_seconds": 12,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
-      "caption": "hee,, aahh 😁💃💃 #aidance#aividio #aitrend #fotobergerak #efekkerentiktok ",
-      "description": "云端红衣舒臂起舞",
-      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "云端红衣舒臂起舞",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
-        "likes": 95,
-        "likes_display": null,
-        "comments": 0,
-        "views": 3868,
-        "shares": null,
-        "source": "public_post_metadata"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T05:51:07+00:00",
-          "likes": 95,
-          "likes_display": null,
-          "comments": 0,
-          "views": 3868,
-          "shares": null,
-          "source": "public_post_metadata"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7684798125499796744_0.jpg",
-          "preview_status": "cached_video_frame",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "tiktok:7684093824502664466",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@mimih_nings/video/7684093824502664466",
-      "creator": "mimih_nings",
-      "published_at": "2026-09-11T02:08:45+00:00",
-      "published_date": "2026-09-11",
-      "published_precision": "second",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
-      "duration_seconds": 23,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
-      "caption": "💃💃💃 #aitrend #fotobergerak #aividio #efekkerentiktok ",
-      "description": "落日车顶白衫起舞",
-      "recommendation_reason": "完整视频已取得并查看开头、中段和结尾抽帧，写实人物持续跳舞；AI属性依据作者自述与画面，未获平台独立认证",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "落日车顶白衫起舞",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
-        "likes": 991,
-        "likes_display": null,
-        "comments": 0,
-        "views": 72100,
-        "shares": null,
-        "source": "public_post_metadata"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T05:51:07+00:00",
-          "likes": 991,
-          "likes_display": null,
-          "comments": 0,
-          "views": 72100,
-          "shares": null,
-          "source": "public_post_metadata"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/tiktok_7684093824502664466_0.jpg",
-          "preview_status": "cached_video_frame",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
       "id": "instagram:Dabw6BOpsg0",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/p/Dabw6BOpsg0/",
@@ -2215,9 +3804,9 @@
       "published_at": null,
       "published_date": "2026-07-05",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "\"Andrew Rexy Neil\" @raxneil_ \n.\n.\n. \n👤 \n📸 AI\n📍Home\n.\n.\n#andrewrexyneil #ai #editing #baby #family",
       "description": "萌娃怀抱小狗坐姿",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -2251,13 +3840,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": null,
         "likes_display": null,
         "comments": 1489,
@@ -2267,7 +3856,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": null,
           "likes_display": null,
           "comments": 1489,
@@ -2295,9 +3884,9 @@
       "published_at": null,
       "published_date": "2026-07-02",
       "published_precision": "day",
-      "first_discovered_at": "2026-10-30T05:51:07+00:00",
+      "first_discovered_at": "2026-10-30T06:04:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-10-30T05:51:07+00:00",
+      "last_collected_at": "2026-10-30T06:04:42+00:00",
       "caption": "Boys Time... semakin semakin sihhhh sih ni ai\n\n.\n.\n. \n👤 \n📸 AI\n💻 GPT\n📍Home\n.\n.\n#raffiahmad #ai #editing #foto #family",
       "description": "白衬衫三代同框",
       "recommendation_reason": "完整首图呈现可借鉴的人物关系、服装或合影构图；其他轮播页若存在尚未确认",
@@ -2331,13 +3920,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-10-30T05:51:07+00:00",
+      "tag_checked_at": "2026-10-30T06:04:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T05:51:07+00:00",
+        "captured_at": "2026-10-30T06:04:42+00:00",
         "likes": null,
         "likes_display": null,
         "comments": 869,
@@ -2347,7 +3936,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-30T05:51:07+00:00",
+          "captured_at": "2026-10-30T06:04:42+00:00",
           "likes": null,
           "likes_display": null,
           "comments": 869,
