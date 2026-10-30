@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T11:11:40+00:00",
+  "generated_at": "2026-10-30T12:15:39+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,7 +48,7 @@
   },
   "export_stats": {
     "formal": 358,
-    "candidates": 32,
+    "candidates": 38,
     "confirmed_duplicates_skipped": 38,
     "suspected_duplicates_included": 0
   },
@@ -28191,6 +28191,482 @@
           "kind": "image",
           "preview": "assets/instagram_Ddnxe61kihV_0.jpg",
           "preview_status": "image_http_200_verified",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7689098557231582484",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@durgaarfiana/video/7689098557231582484",
+      "creator": "durgaarfiana",
+      "published_at": "2026-09-24T13:49:36+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-30T12:12:13+00:00",
+      "last_collected_at": "2026-10-30T12:12:13+00:00",
+      "duration_seconds": null,
+      "caption": "Effects tiktok keren  Me Vs Gaib By@kang.Ai  #trendtiktok #MeVsGhoib #aieffects   #fotobergerak#viral",
+      "description": "@durgaarfiana 的素材",
+      "recommendation_reason": "头巾角色与月夜幻影对抗，可作情景创意",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@durgaarfiana",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "头巾女夜战怪影",
+      "copy_title": "单人女性+海报+头巾女夜战怪影+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T12:12:13+00:00",
+        "likes": 58,
+        "comments": 0,
+        "views": 1203,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:12:13+00:00",
+          "likes": 58,
+          "comments": 0,
+          "views": 1203,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_tiktok_7689098557231582484_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7692682774234287381",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@durgaarfiana/video/7692682774234287381",
+      "creator": "durgaarfiana",
+      "published_at": "2026-10-04T05:38:08+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-30T12:12:13+00:00",
+      "last_collected_at": "2026-10-30T12:12:13+00:00",
+      "duration_seconds": null,
+      "caption": "Effects tiktok keren🤩 Al Fake Tears,Real Dance  #trendtiktok #FakeTearsRealDance #aieffects  #fotobergerak#viral By@LeeLoong - Effect Creator",
+      "description": "@durgaarfiana 的素材",
+      "recommendation_reason": "室内情节过渡至单人跳舞，适合动作模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@durgaarfiana",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "摇腿舞",
+      "image_description": "粉衣室内跳步转身",
+      "copy_title": "单人女性+摇腿舞+粉衣室内跳步转身+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "摇腿舞"
+        ]
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T12:12:13+00:00",
+        "likes": 154,
+        "comments": 50,
+        "views": 4231,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:12:13+00:00",
+          "likes": 154,
+          "comments": 50,
+          "views": 4231,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_tiktok_7692682774234287381_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcSEkycvDLd",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DcSEkycvDLd/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-30T12:12:13+00:00",
+      "last_collected_at": "2026-10-30T12:12:13+00:00",
+      "duration_seconds": null,
+      "caption": "-AI video- Mukkala...",
+      "description": "@karuppi.me 的素材",
+      "recommendation_reason": "海岸背景与轻快动作可作为短视频参考",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海边",
+      "image_description": "海边白衫单人舞",
+      "copy_title": "单人女性+海边+海边白衫单人舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海边"
+        ]
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T12:12:13+00:00",
+        "likes": 239,
+        "comments": 34,
+        "views": null,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:12:13+00:00",
+          "likes": 239,
+          "comments": 34,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DcSEkycvDLd_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcXzSjrR0m5",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DcXzSjrR0m5/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-30T12:12:13+00:00",
+      "last_collected_at": "2026-10-30T12:12:13+00:00",
+      "duration_seconds": null,
+      "caption": "-AI video- Neelamizhi...",
+      "description": "@karuppi.me 的素材",
+      "recommendation_reason": "蓝绿服饰和秋色树景形成对比",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "秋树林中蓝绿裙舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T12:12:13+00:00",
+        "likes": 109,
+        "comments": 26,
+        "views": null,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:12:13+00:00",
+          "likes": 109,
+          "comments": 26,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DcXzSjrR0m5_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DckqWG8RfUO",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DckqWG8RfUO/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-30T12:12:13+00:00",
+      "last_collected_at": "2026-10-30T12:12:13+00:00",
+      "duration_seconds": null,
+      "caption": "-AI video- mambatiyaan..",
+      "description": "@karuppi.me 的素材",
+      "recommendation_reason": "海边古堡与蓝衣摆臂动作有场景变化",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "海堡蓝衣轻快摆臂",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T12:12:13+00:00",
+        "likes": 344,
+        "comments": 36,
+        "views": null,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:12:13+00:00",
+          "likes": 344,
+          "comments": 36,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DckqWG8RfUO_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdAv24JziMw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdAv24JziMw/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-30T12:12:13+00:00",
+      "last_collected_at": "2026-10-30T12:12:13+00:00",
+      "duration_seconds": null,
+      "caption": "-AI vudeo- Good morning dance!",
+      "description": "@karuppi.me 的素材",
+      "recommendation_reason": "灰衣湖畔单人节奏动作，适合人物动态模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "摇腿舞",
+      "image_description": "湖畔灰衣单人律动",
+      "copy_title": "单人女性+摇腿舞+湖畔灰衣单人律动+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "摇腿舞"
+        ]
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T12:12:13+00:00",
+        "likes": 146,
+        "comments": 26,
+        "views": null,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:12:13+00:00",
+          "likes": 146,
+          "comments": 26,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DdAv24JziMw_0.jpg",
+          "preview_status": "fetched",
           "result_status": "unknown",
           "visual_analysis": null
         }
