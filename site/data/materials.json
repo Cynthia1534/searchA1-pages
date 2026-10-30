@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T16:09:29+00:00",
+  "generated_at": "2026-10-30T16:14:10+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,7 +48,7 @@
   },
   "export_stats": {
     "formal": 358,
-    "candidates": 44,
+    "candidates": 42,
     "confirmed_duplicates_skipped": 38,
     "suspected_duplicates_included": 0
   },
@@ -28191,164 +28191,6 @@
           "kind": "image",
           "preview": "assets/instagram_Ddnxe61kihV_0.jpg",
           "preview_status": "image_http_200_verified",
-          "result_status": "unknown",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "tiktok:7702468506788449557",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@zara6688998/video/7702468506788449557",
-      "creator": "zara6688998",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "published_date": null,
-      "published_precision": "unknown",
-      "first_discovered_at": "2026-10-30T16:08:46+00:00",
-      "last_collected_at": "2026-10-30T16:08:46+00:00",
-      "duration_seconds": null,
-      "caption": "Cuma dengan satu foto, kamu bisa bikin foto keluarga viral dengan konsep “kerepotan yang membahagiakan” ini 🥹❤️ Dikelilingi anak-anak, repot tapi penuh kebahagiaan 🥰 Coba buat versimu sendiri! prompt ibu dan anak foto ibu dan anak trend ibu dan anak foto keluarga viral prompt keluarga foto keluarga AI prompt ibu anak trend foto keluarga prompt gambar ibu dan anak prompt foto ibu dan anak terbaru prompt foto ibu dan anak viral cara membuat foto ibu dan anak cara edit foto ibu dan anak prompt AI ibu dan anak prompt foto keluarga dengan anak prompt foto ibu dengan banyak anak foto ibu dikelilingi anak-anak trend foto ibu dan anak terbaru foto keluarga ibu dan anak viral cara membuat foto keluarga viral prompt foto keluarga viral terbaru prompt foto keluarga studio ibu dan anak  #ibudananak #fotokeluarga  prompt ibu dan anak foto ibu dan anak trend ibu dan anak foto keluarga tular prompt keluarga foto keluarga AI prompt ibu anak trend foto keluarga prompt gambar ibu dan anak prompt foto ibu dan anak terkini prompt foto ibu dan anak tular cara buat foto ibu dan anak cara edit foto ibu dan anak prompt AI ibu dan anak prompt foto keluarga dengan anak prompt foto ibu dengan ramai anak foto ibu dikelilingi anak-anak trend foto ibu dan anak terkini foto keluarga ibu dan anak tular cara buat foto keluarga tular prompt foto keluarga tular terkini  #capcut #capcutpioneer #capcutnow",
-      "description": "@zara6688998 的素材",
-      "recommendation_reason": "四口同款服饰的成图和动态展示，适合家庭模板",
-      "content_nature": "unknown",
-      "suitability": "review",
-      "initial_screening": "unverified",
-      "screening_scope": "none",
-      "record_stage": "candidate",
-      "candidate_status": "pending",
-      "verification_notes": [
-        "视频文件待获取",
-        "AI属性待确认"
-      ],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@zara6688998",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "other_ai_video",
-      "discovery_labels": [],
-      "source_confidence": "unknown",
-      "audience_tag": "亲子家庭",
-      "theme_tag": null,
-      "image_description": "亲子同款爱心装",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "亲子家庭"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "codex_handoff",
-      "tag_checked_at": null,
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T16:08:46+00:00",
-        "likes": 16,
-        "comments": 1,
-        "views": 1154,
-        "shares": null,
-        "source": "codex_manual_claim"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T16:08:46+00:00",
-          "likes": 16,
-          "comments": 1,
-          "views": 1154,
-          "shares": null,
-          "source": "codex_manual_claim"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/candidate_tiktok_7702468506788449557_0.jpg",
-          "preview_status": "fetched",
-          "result_status": "unknown",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "tiktok:7702365319599443252",
-      "platform": "tiktok",
-      "post_url": "https://www.tiktok.com/@zara6688998/video/7702365319599443252",
-      "creator": "zara6688998",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "published_date": null,
-      "published_precision": "unknown",
-      "first_discovered_at": "2026-10-30T16:08:46+00:00",
-      "last_collected_at": "2026-10-30T16:08:46+00:00",
-      "duration_seconds": null,
-      "caption": "🔥Template kolase multi-pose super realistis sudah datang✨ Cuma satu foto bisa menghasilkan kolase dengan banyak pose berbeda📸 Tidak perlu edit yang rumit Cukup pakai template, hasilnya sangat bagus🔥 Ayo coba sekarang! Cara bikin kolase foto couple multi-pose pakai efek viral ini! Tutorial efek kolase pasangan banyak pose, tinggal ikuti! Bikin foto couple estetik multi-pose cuma pakai efek ini，Bikin foto couple estetik multi-pose cuma pakai efek ini，Efek viral foto couple banyak gaya, cocok buat anniversary! 3 langkah bikin kolase foto couple multi-pose ala TikTok，Ide foto couple: kolase multi-pose pakai efek ini, auto aesthetic! Cobain efek kolase foto pasangan multi-pose, hasilnya cute banget! Tutorial singkat efek foto couple banyak pose buat pemula，trend baru foto banyak trend baru foto banyak ai capcut edit tutorial cara edit di capcut 7 foto beda gaya yang lagi viral cara edit foto di capcut yang keren cara ngedit di capcut cara ngedit foto capcut yg viral cara berhenti langganan capcut cara edit video di capcut cara menghilangkan logo capcut cara edit manual tracking di capcut cara ngedit di capcut dengan foto ✨ Tren Kolase 7 pose ultra-realistis potret hijab 🤍 Ubah selfie menjadi 7 pose berbeda dalam satu gambar. Outfit sama, gaya candid jalan-jalan, latar putih bersih, hasil foto sangat realistis seperti sesi pemotretan fashion 📸🔥 #Godpic  #hypic #hypiccreator @hypic_global @HypicVietnam",
-      "description": "@zara6688998 的素材",
-      "recommendation_reason": "同一对情侣的多姿势白底拼贴，适合照片变体创意",
-      "content_nature": "unknown",
-      "suitability": "review",
-      "initial_screening": "unverified",
-      "screening_scope": "none",
-      "record_stage": "candidate",
-      "candidate_status": "pending",
-      "verification_notes": [
-        "视频文件待获取",
-        "AI属性待确认"
-      ],
-      "review_status": "pending",
-      "source_profile_url": "https://www.tiktok.com/@zara6688998",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "other_ai_video",
-      "discovery_labels": [],
-      "source_confidence": "unknown",
-      "audience_tag": "情侣",
-      "theme_tag": "多宫格",
-      "image_description": "黑衣情侣六姿拼贴",
-      "copy_title": "情侣+多宫格+黑衣情侣六姿拼贴+视频+原",
-      "tags": {
-        "audience_tags": [
-          "情侣"
-        ],
-        "theme_tags": [
-          "多宫格"
-        ]
-      },
-      "tag_source": "codex_handoff",
-      "tag_checked_at": null,
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-30T16:08:46+00:00",
-        "likes": 61,
-        "comments": 6,
-        "views": 3114,
-        "shares": null,
-        "source": "codex_manual_claim"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-30T16:08:46+00:00",
-          "likes": 61,
-          "comments": 6,
-          "views": 3114,
-          "shares": null,
-          "source": "codex_manual_claim"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/candidate_tiktok_7702365319599443252_0.jpg",
-          "preview_status": "fetched",
           "result_status": "unknown",
           "visual_analysis": null
         }
