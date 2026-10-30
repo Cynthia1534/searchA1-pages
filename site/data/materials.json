@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T12:21:24+00:00",
+  "generated_at": "2026-10-30T12:27:29+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,7 +48,7 @@
   },
   "export_stats": {
     "formal": 358,
-    "candidates": 40,
+    "candidates": 42,
     "confirmed_duplicates_skipped": 40,
     "suspected_duplicates_included": 0
   },
@@ -28197,6 +28197,164 @@
       ]
     },
     {
+      "id": "tiktok:7702222465904233735",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mimih_nings/video/7702222465904233735",
+      "creator": "mimih_nings",
+      "published_at": "2026-10-29T22:37:04+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-30T12:27:20+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
+      "duration_seconds": null,
+      "caption": "#efekkerentiktok #aitrend #fotobergerak #aividio #creatorsearchinsights",
+      "description": "@mimih_nings 的素材",
+      "recommendation_reason": "海面花台与伞降转场场景",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "海面花台伞降入场",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T12:27:20+00:00",
+        "likes": 133,
+        "comments": 8,
+        "views": 2806,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:27:20+00:00",
+          "likes": 133,
+          "comments": 8,
+          "views": 2806,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_tiktok_7702222465904233735_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7702381061023599879",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mimih_nings/video/7702381061023599879",
+      "creator": "mimih_nings",
+      "published_at": "2026-10-30T08:52:32+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-30T12:27:20+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
+      "duration_seconds": null,
+      "caption": "di saat ku terjatuh kamu di mana",
+      "description": "@mimih_nings 的素材",
+      "recommendation_reason": "灯光舞台上多人同步编舞",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "摇腿舞",
+      "image_description": "蓝光舞台多人齐舞",
+      "copy_title": "朋友+摇腿舞+蓝光舞台多人齐舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "摇腿舞"
+        ]
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-30T12:27:20+00:00",
+        "likes": 39,
+        "comments": 2,
+        "views": 1123,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:27:20+00:00",
+          "likes": 39,
+          "comments": 2,
+          "views": 1123,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_tiktok_7702381061023599879_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "youtube:n0SHPXFOKn0",
       "platform": "youtube",
       "post_url": "https://www.youtube.com/watch?v=n0SHPXFOKn0",
@@ -28205,7 +28363,7 @@
       "published_date": null,
       "published_precision": "unknown",
       "first_discovered_at": "2026-10-30T12:20:26+00:00",
-      "last_collected_at": "2026-10-30T12:20:26+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
       "duration_seconds": null,
       "caption": "Desi Village Kalbeliya Dance | Traditional Rajasthani Folk Dance | AI Cinematic 4K #shorts",
       "description": "@DH Shorts 的素材",
@@ -28267,7 +28425,7 @@
       "published_date": null,
       "published_precision": "unknown",
       "first_discovered_at": "2026-10-30T12:20:26+00:00",
-      "last_collected_at": "2026-10-30T12:20:26+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
       "duration_seconds": null,
       "caption": "Indian Dance Vibes | Ultra Realistic AI Short #shorts",
       "description": "@DH Shorts 的素材",
@@ -28329,7 +28487,7 @@
       "published_date": null,
       "published_precision": "unknown",
       "first_discovered_at": "2026-10-30T12:12:13+00:00",
-      "last_collected_at": "2026-10-30T12:20:26+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
       "duration_seconds": null,
       "caption": "Effects tiktok keren  Me Vs Gaib By@kang.Ai  #trendtiktok #MeVsGhoib #aieffects   #fotobergerak#viral",
       "description": "@durgaarfiana 的素材",
@@ -28372,7 +28530,7 @@
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T12:20:26+00:00",
+        "captured_at": "2026-10-30T12:27:20+00:00",
         "likes": 58,
         "comments": 0,
         "views": 1203,
@@ -28380,6 +28538,14 @@
         "source": "codex_manual_claim"
       },
       "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:27:20+00:00",
+          "likes": 58,
+          "comments": 0,
+          "views": 1203,
+          "shares": null,
+          "source": "codex_manual_claim"
+        },
         {
           "captured_at": "2026-10-30T12:20:26+00:00",
           "likes": 58,
@@ -28417,7 +28583,7 @@
       "published_date": null,
       "published_precision": "unknown",
       "first_discovered_at": "2026-10-30T12:12:13+00:00",
-      "last_collected_at": "2026-10-30T12:20:26+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
       "duration_seconds": null,
       "caption": "Effects tiktok keren🤩 Al Fake Tears,Real Dance  #trendtiktok #FakeTearsRealDance #aieffects  #fotobergerak#viral By@LeeLoong - Effect Creator",
       "description": "@durgaarfiana 的素材",
@@ -28460,7 +28626,7 @@
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T12:20:26+00:00",
+        "captured_at": "2026-10-30T12:27:20+00:00",
         "likes": 154,
         "comments": 50,
         "views": 4231,
@@ -28468,6 +28634,14 @@
         "source": "codex_manual_claim"
       },
       "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:27:20+00:00",
+          "likes": 154,
+          "comments": 50,
+          "views": 4231,
+          "shares": null,
+          "source": "codex_manual_claim"
+        },
         {
           "captured_at": "2026-10-30T12:20:26+00:00",
           "likes": 154,
@@ -28505,7 +28679,7 @@
       "published_date": null,
       "published_precision": "unknown",
       "first_discovered_at": "2026-10-30T12:12:13+00:00",
-      "last_collected_at": "2026-10-30T12:20:26+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
       "duration_seconds": null,
       "caption": "-AI video- Mukkala...",
       "description": "@karuppi.me 的素材",
@@ -28548,7 +28722,7 @@
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T12:20:26+00:00",
+        "captured_at": "2026-10-30T12:27:20+00:00",
         "likes": 239,
         "comments": 34,
         "views": null,
@@ -28556,6 +28730,14 @@
         "source": "codex_manual_claim"
       },
       "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:27:20+00:00",
+          "likes": 239,
+          "comments": 34,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        },
         {
           "captured_at": "2026-10-30T12:20:26+00:00",
           "likes": 239,
@@ -28593,7 +28775,7 @@
       "published_date": null,
       "published_precision": "unknown",
       "first_discovered_at": "2026-10-30T12:12:13+00:00",
-      "last_collected_at": "2026-10-30T12:20:26+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
       "duration_seconds": null,
       "caption": "-AI video- Neelamizhi...",
       "description": "@karuppi.me 的素材",
@@ -28634,7 +28816,7 @@
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T12:20:26+00:00",
+        "captured_at": "2026-10-30T12:27:20+00:00",
         "likes": 109,
         "comments": 26,
         "views": null,
@@ -28642,6 +28824,14 @@
         "source": "codex_manual_claim"
       },
       "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:27:20+00:00",
+          "likes": 109,
+          "comments": 26,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        },
         {
           "captured_at": "2026-10-30T12:20:26+00:00",
           "likes": 109,
@@ -28679,7 +28869,7 @@
       "published_date": null,
       "published_precision": "unknown",
       "first_discovered_at": "2026-10-30T12:12:13+00:00",
-      "last_collected_at": "2026-10-30T12:20:26+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
       "duration_seconds": null,
       "caption": "-AI video- mambatiyaan..",
       "description": "@karuppi.me 的素材",
@@ -28720,7 +28910,7 @@
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T12:20:26+00:00",
+        "captured_at": "2026-10-30T12:27:20+00:00",
         "likes": 344,
         "comments": 36,
         "views": null,
@@ -28728,6 +28918,14 @@
         "source": "codex_manual_claim"
       },
       "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:27:20+00:00",
+          "likes": 344,
+          "comments": 36,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        },
         {
           "captured_at": "2026-10-30T12:20:26+00:00",
           "likes": 344,
@@ -28765,7 +28963,7 @@
       "published_date": null,
       "published_precision": "unknown",
       "first_discovered_at": "2026-10-30T12:12:13+00:00",
-      "last_collected_at": "2026-10-30T12:20:26+00:00",
+      "last_collected_at": "2026-10-30T12:27:20+00:00",
       "duration_seconds": null,
       "caption": "-AI vudeo- Good morning dance!",
       "description": "@karuppi.me 的素材",
@@ -28808,7 +29006,7 @@
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-30T12:20:26+00:00",
+        "captured_at": "2026-10-30T12:27:20+00:00",
         "likes": 146,
         "comments": 26,
         "views": null,
@@ -28816,6 +29014,14 @@
         "source": "codex_manual_claim"
       },
       "metric_snapshots": [
+        {
+          "captured_at": "2026-10-30T12:27:20+00:00",
+          "likes": 146,
+          "comments": 26,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        },
         {
           "captured_at": "2026-10-30T12:20:26+00:00",
           "likes": 146,
