@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T16:18:13+00:00",
+  "generated_at": "2026-10-31T00:42:32+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,7 +48,7 @@
   },
   "export_stats": {
     "formal": 358,
-    "candidates": 44,
+    "candidates": 53,
     "confirmed_duplicates_skipped": 38,
     "suspected_duplicates_included": 0
   },
@@ -28191,6 +28191,587 @@
           "kind": "image",
           "preview": "assets/instagram_Ddnxe61kihV_0.jpg",
           "preview_status": "image_http_200_verified",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7698701879173188871",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@mimih_nings/video/7698701879173188871",
+      "creator": "mimih_nings",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T00:39:47+00:00",
+      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "duration_seconds": null,
+      "caption": "#aividio #fotobergerak #aitrend #efekkerentiktok",
+      "description": "@mimih_nings 的素材",
+      "recommendation_reason": "单人真人外观的执扇舞，烟雾与蝴蝶环绕有鲜明舞台效果",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@mimih_nings",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "米白长袖扇舞烟雾",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-31T00:39:47+00:00",
+        "likes": 79,
+        "comments": 10,
+        "views": 2465,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-31T00:39:47+00:00",
+          "likes": 79,
+          "comments": 10,
+          "views": 2465,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_tiktok_7698701879173188871_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DU-rsnmkXUo",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DU-rsnmkXUo/",
+      "creator": "masari_ai",
+      "published_at": "2026-02-20T00:00:00+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T00:39:47+00:00",
+      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "duration_seconds": null,
+      "caption": "Prompt:\nHyper-photorealistic cinematic candid photography seorang pria (sesuai foto terlampir) duduk menyamping di bangku taman hijau klasik sambil membaca buku terbuka di pangkuan. Tubuh sedikit condong ke depan, tangan kanan menyentuh bibir dalam pose berpikir, kepala menunduk fokus ke buku. Subjek memakai kemeja denim lengan di gulung, celana cargo krem tua, smartwatch.\n\nLokasi taman alami dengan rumput hijau lebat dan pepohonan rimbun. Matahari golden hour berada di belakang kiri subjek menghasilkan strong natural backlighting, volumetric sun rays menembus dedaunan, soft sun flare, rim light halus di tepi rambut dan bahu. Foreground dedaunan gelap di sisi kiri sebagai natural framing. Background pohon besar di sisi kanan dengan blur lembut.\nKomposisi rule of thirds: subjek di kiri frame, pohon besar di kanan sebagai visual balance. Depth of field dangkal untuk isolasi subjek. Warna warm cinematic natural, highlight keemasan, shadow hijau lembut, kontras sedang, tone realistis, tekstur sangat detail, dynamic range tinggi.\nAngle kamera: vertical medium side profile shot, slightly high angle, kamera diagonal sejajar bangku.\nLensa: 50mm prime lens, aperture f/1.8, natural perspective.\nTeknis: ISO 100, shutter speed cepat, sharp focus pada wajah dan buku, natural lighting only.\nGaya: hyper-realistic lifestyle photography, cinematic realism, ultra high detail, natural color science.\nPortrait \nResolusi: 4096×5120 piksel ultra high resolution",
+      "description": "@masari_ai 的素材",
+      "recommendation_reason": "树荫逆光与低头侧面构图可转为男士写真模板",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": null,
+      "image_description": "树荫逆光低头男像",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-31T00:39:47+00:00",
+        "likes": 1,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-31T00:39:47+00:00",
+          "likes": 1,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_instagram_DU-rsnmkXUo_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De_Qi-qlrKO",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/De_Qi-qlrKO",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T00:39:47+00:00",
+      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "duration_seconds": null,
+      "caption": "Siang Adem di Bangku Mal\n\nIstirahat siang tuh paling enak duduk sebentar, lihat orang lalu-lalang sambil ngumpulin tenaga.\nPrompt-nya udah copas-ready di reply, tinggal salin.\n\n#kucingkucing #HijabIndonesia #PastelLook #MallDay #OOTDSiang",
+      "description": "@ku.cingkucing 的素材",
+      "recommendation_reason": "同一创作者的独立场景化头巾写真；画面与历史帖子不同",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "薰衣草外套商场漫步",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_De_Qi-qlrKO_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfG5CamEebo",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfG5CamEebo",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T00:39:47+00:00",
+      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "duration_seconds": null,
+      "caption": "Cahaya Siang Jatuh Pas Sekali\nDi galeri, jendelanya tinggi-tinggi — sekali kena cahayanya, garis bayangannya kayak lukisan kedua.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n#kucingkucing #HijabIndonesia #GaleriSeni #EditorialHijab #CahayaAlami",
+      "description": "@ku.cingkucing 的素材",
+      "recommendation_reason": "同一创作者的独立场景化头巾写真；画面与历史帖子不同",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "白头巾拱廊侧望",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DfG5CamEebo_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfAE_j0kXi_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfAE_j0kXi_",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T00:39:47+00:00",
+      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "duration_seconds": null,
+      "caption": "Ngobrol Seru di Rooftop Senja\n\nMalam di rooftop tuh paling pas buat cerita panjang, anginnya adem lampunya hangat.\nPrompt-nya udah copas-ready di reply, tinggal salin.\n\n#kucingkucing #HijabIndonesia #RooftopTalk #MalamSantai #NgobrolSeru",
+      "description": "@ku.cingkucing 的素材",
+      "recommendation_reason": "同一创作者的独立场景化头巾写真；画面与历史帖子不同",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "锈红上衣夕照天台",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DfAE_j0kXi__0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfHh4sIG2Ry",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfHh4sIG2Ry",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T00:39:47+00:00",
+      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "duration_seconds": null,
+      "caption": "Blue Hour Kota Jadi Latar\n\nJam segini langitnya biru sebentar doang — dari rooftop, lampu kota mulai nyala satu-satu di belakang.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n\n#kucingkucing #HijabIndonesia #BlueHour #EditorialHijab #CityLights",
+      "description": "@ku.cingkucing 的素材",
+      "recommendation_reason": "同一创作者的独立场景化头巾写真；画面与历史帖子不同",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "酒红头巾蓝调天台",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DfHh4sIG2Ry_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De5YNChAVba",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/De5YNChAVba",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T00:39:47+00:00",
+      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "duration_seconds": null,
+      "caption": "Jalan Santai di Taman Kota\n\nPagi di taman kota tuh paling enak, udaranya masih seger buat jalan santai.\nPrompt-nya udah copas-ready di reply, tinggal salin.\n\n#kucingkucing #HijabIndonesia #DenimStyle #TamanKota #WeekendLook",
+      "description": "@ku.cingkucing 的素材",
+      "recommendation_reason": "同一创作者的独立场景化头巾写真；画面与历史帖子不同",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "牛仔外套林荫步道",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_De5YNChAVba_0.webp",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfI0uM4GWlB",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfI0uM4GWlB",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T00:39:47+00:00",
+      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "duration_seconds": null,
+      "caption": "Gowes Pagi di CFD Jakarta\n\nUdara pagi di jalanan tanpa mobil tuh rasanya beda — segernya nempel sampai siang.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n\n#kucingkucing #HijabIndonesia #CarFreeDay #GowesPagi #HijabSporty",
+      "description": "@ku.cingkucing 的素材",
+      "recommendation_reason": "同一创作者的独立场景化头巾写真；画面与历史帖子不同",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "蓝灰头巾城市骑行",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DfI0uM4GWlB_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdxTzp9gciN",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DdxTzp9gciN",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T00:39:47+00:00",
+      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "duration_seconds": null,
+      "caption": "Gowes Pagi Udara Segar 🚴‍♀️\n\nPemandangannya bikin semangat gowes hari ini.\nCek reply buat prompt AI kece kayak gini!\n\n#kucingkucing #AIHijab #HijabCycling #MountainView #AestheticPhoto",
+      "description": "@ku.cingkucing 的素材",
+      "recommendation_reason": "同一创作者的独立场景化头巾写真；画面与历史帖子不同",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "红衣头巾山路骑行",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DdxTzp9gciN_0.webp",
+          "preview_status": "fetched",
           "result_status": "unknown",
           "visual_analysis": null
         }
