@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T00:42:32+00:00",
+  "generated_at": "2026-10-31T01:42:56+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,7 +48,7 @@
   },
   "export_stats": {
     "formal": 358,
-    "candidates": 53,
+    "candidates": 54,
     "confirmed_duplicates_skipped": 38,
     "suspected_duplicates_included": 0
   },
@@ -32396,6 +32396,83 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/candidate_facebook_28506256549004945_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeD-N4Uo7Rb",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DeD-N4Uo7Rb/",
+      "creator": "shivmotion_ai",
+      "published_at": "2026-10-03T00:00:00+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T01:41:57+00:00",
+      "last_collected_at": "2026-10-31T01:41:57+00:00",
+      "duration_seconds": null,
+      "caption": "#Banjara #BanjaraCulture #BanjaraFolkDance #BanjaraSong #BanjaraTeej BanjaraFestival",
+      "description": "@shivmotion_ai 的素材",
+      "recommendation_reason": "班贾拉民俗服饰和夕阳村落场景；舞者动作连续，AI属性待确认",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shivmotion_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "红裙夕阳民俗舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-31T01:41:57+00:00",
+        "likes": 35,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-31T01:41:57+00:00",
+          "likes": 35,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DeD-N4Uo7Rb_0.jpg",
           "preview_status": "fetched",
           "result_status": "unknown",
           "visual_analysis": null
