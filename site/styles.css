@@ -191,6 +191,7 @@
 .download-thumb img{width:100%;height:100%;object-fit:contain}
 .download-choice{display:flex;align-items:start;gap:4px;font-size:10px;color:#4b5863;line-height:1.35;cursor:pointer}
 .download-choice input{flex:none;accent-color:#466e8d;margin:1px 0}
+.download-original{font-size:10px;color:#456f8d;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .download-hint{font-size:11px;color:#65717d;margin:0;line-height:1.45}
 .download-footer{display:flex;align-items:center;flex-wrap:wrap;gap:12px;border-top:1px solid #e6e9ed;padding-top:12px;font-size:11px;color:#64717b}
 #download-message{flex:1;min-width:150px}

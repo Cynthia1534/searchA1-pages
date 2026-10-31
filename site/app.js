@@ -261,37 +261,54 @@ function mediaVisual(item,index,container) {
   container.append(img);
 }
 
-/* Only explicitly bundled, same-origin media can be downloaded. Social-platform
-   embeds and video covers are never presented as original downloadable videos. */
-const picker={item:null,entries:[],selected:new Set(),active:0,busy:false};
-function downloadAsset(path,type) {
-  if(typeof path!=='string') return null;
-  const extensions=type==='video' ? /\.(?:mp4|webm|mov|m4v)$/i : /\.(?:jpg|jpeg|png|webp)$/i;
-  if(!/^assets\/[A-Za-z0-9_.-]+$/.test(path) || !extensions.test(path)) return null;
-  return new URL(path,document.baseURI).href;
-}
-function downloadEntries(item) {
-  return (item.media||[]).map((media,index)=>{
-    const video=media.kind==='video_cover'||media.kind==='video'
-      ||category(item)==='human_ai_dance_video'||category(item)==='other_ai_video';
-    const preview=asset(media.preview,item);
-    const original=[media.download,media.file,media.original,media.video_file]
-      .map(path=>downloadAsset(path,video?'video':'image')).find(Boolean)||null;
-    const file=original||(!video ? downloadAsset(media.preview,'image'):null);
-    return {index,video,preview,file,original:Boolean(original)};
-  });
+/* The picker resolves the original post on demand. Bundled thumbnails are never
+   considered downloadable files, including when the original post is blocked. */
+const picker={item:null,entries:[],selected:new Set(),active:0,busy:false,parsed:0,request:0};
+const mediaErrors={unsupported_platform:'此平台暂不能从原帖解析文件',invalid_post_url:'原帖链接格式无效',
+  unknown_material:'素材不在当前云端目录',post_login_or_access_restricted:'原帖需要登录或限制访问',
+  post_rate_limited:'平台暂时限流，请稍后重试',post_not_found:'原帖不存在或已删除',
+  post_media_not_exposed:'公开页面没有提供可解析的媒体',post_media_parse_failed:'原帖页面格式已变化',
+  post_id_mismatch_or_login_required:'原帖需要登录或未返回该帖内容',
+  no_accessible_original_media:'原帖媒体链接无法实际读取'};
+async function resolvePicker() {
+  if(!picker.item)return;
+  const item=picker.item, request=++picker.request, url=postURL(item);
+  picker.entries=[];picker.selected.clear();picker.active=0;picker.parsed=0;picker.busy=true;
+  $('download-message').textContent='正在从原帖解析实际媒体…';drawPicker();
+  try {
+    if(!url)throw Error('invalid_post_url');
+    if(!state.syncApi||!state.password)throw Error('请先登录云端工作区，再解析原帖媒体');
+    const reply=await apiFetch('/api/media-resolve?post_url='+encodeURIComponent(url),{cache:'no-store'});
+    const result=await reply.json();
+    if(!reply.ok)throw Error(mediaErrors[result.error]||result.error||`解析失败（HTTP ${reply.status}）`);
+    if(request!==picker.request)return;
+    picker.parsed=result.parsed_count||result.items.length;
+    picker.entries=result.items.map(media=>({
+      index:media.position,video:media.kind==='video',preview:media.preview_url,
+      file:media.download_url,originalURL:media.original_url,format:media.format,
+      width:media.width,height:media.height,size:media.size_bytes
+    }));
+    picker.active=picker.entries[0]?.index ?? 0;
+    $('download-message').textContent=result.unavailable_count
+      ?`已取得 ${picker.entries.length} 项；${result.unavailable_count} 项媒体无法实际读取，未列为可下载。`
+      :`已取得原帖中 ${picker.entries.length} 项实际媒体。`;
+  }catch(error){
+    if(request!==picker.request)return;
+    $('download-message').textContent='解析失败：'+error.message+'。可打开原帖查看。';
+  }finally{if(request===picker.request){picker.busy=false;drawPicker();}}
 }
 function drawPicker() {
   if(!picker.item)return;
   const item=picker.item;
   const count=picker.selected.size;
   $('download-title').textContent='选择下载 · '+(item.description||'素材');
-  $('download-summary').textContent=(item.media||[]).length+' 个媒体项 · 已选 '+count+' 个';
+  $('download-summary').textContent=picker.entries.length+' 个可下载原帖媒体 · 已选 '+count+' 个';
   $('download-count').textContent='已选择 '+count+' 个文件';
   $('download-selected').disabled=!count||picker.busy;
   $('download-selected').textContent=picker.busy?'正在准备…':count>1?'下载所选（ZIP）':'下载所选';
-  $('download-select-all').disabled=picker.busy||!picker.entries.some(e=>e.file);
+  $('download-select-all').disabled=picker.busy||!picker.entries.length;
   $('download-clear').disabled=picker.busy||!count;
+  $('download-refresh').disabled=picker.busy;
   const link=$('download-source-link'),url=postURL(item);
   link.hidden=!url;
   if(url)link.href=url;
@@ -300,7 +317,6 @@ function drawPicker() {
   for(const entry of picker.entries) {
     const card=el('div','download-item');
     if(entry.index===picker.active)card.classList.add('active');
-    if(!entry.file)card.classList.add('unavailable');
     const previewButton=el('button','download-thumb');
     previewButton.type='button';
     previewButton.setAttribute('aria-label','查看第 '+(entry.index+1)+' 项预览');
@@ -313,26 +329,28 @@ function drawPicker() {
     });
     const label=el('label','download-choice');
     const input=el('input');
-    input.type='checkbox';input.disabled=!entry.file||picker.busy;
+    input.type='checkbox';input.disabled=picker.busy;
     input.checked=picker.selected.has(entry.index);
     input.addEventListener('change',()=>{
       if(input.checked)picker.selected.add(entry.index);
       else picker.selected.delete(entry.index);
       picker.active=entry.index;drawPicker();
     });
-    const caption=entry.video
-      ?entry.file?'视频文件 · '+(entry.index+1):'仅有视频封面 · 无MP4'
-      :entry.file?(entry.original?'原始图片 · ':'预览图片 · ')+(entry.index+1):'图片不可下载';
+    const dimensions=entry.width&&entry.height?` · ${entry.width}×${entry.height}`:'';
+    const size=entry.size?` · ${(entry.size/1024/1024).toFixed(1)}MB`:'';
+    const caption=`第 ${entry.index+1} 项 · ${entry.video?'视频':'图片'} · ${entry.format.toUpperCase()}${dimensions}${size}`;
     label.append(input,el('span','',caption));
-    card.append(previewButton,label);
+    const original=el('a','download-original','原文件链接 ↗');
+    original.href=entry.originalURL;original.target='_blank';original.rel='noopener noreferrer';
+    card.append(previewButton,label,original);
     list.push(card);
   }
   gallery.replaceChildren(...list);
-  const active=picker.entries[picker.active];
+  const active=picker.entries.find(entry=>entry.index===picker.active);
   const frame=$('download-large-preview');
   frame.replaceChildren();
   if(active){
-    if(active.video&&active.file){
+    if(active.video){
       const video=el('video','download-video');
       video.src=active.file;video.controls=true;video.preload='metadata';video.playsInline=true;
       frame.append(video);
@@ -340,17 +358,18 @@ function drawPicker() {
       const image=el('img');image.src=active.preview;image.alt='选中媒体预览';
       frame.append(image);
     }else frame.append(el('span','','本项暂无可用预览'));
-    $('download-media-note').textContent=active.video&&!active.file
-      ?'此项仅存有封面，无法从本站下载原视频；可打开原帖查看。'
-      :active.file?(active.original?'可下载站内保存的媒体文件。':'可下载站内缓存的预览图片，可能不是原帖高清原图。')
-      :'没有可下载文件；请打开原帖查看。';
+    $('download-media-note').textContent='这是原帖解析出的实际'+(active.video?'视频':'图片')+'文件；短期链接过期时请重新解析。';
+  }else{
+    frame.append(el('span','','尚无可下载媒体'));
+    $('download-media-note').textContent='不会用素材库预览图代替原帖文件。';
   }
 }
 function openDownloadPicker(item) {
-  picker.item=item;picker.entries=downloadEntries(item);picker.selected=new Set();picker.active=0;picker.busy=false;
+  picker.item=item;picker.entries=[];picker.selected=new Set();picker.active=0;picker.busy=false;
   $('download-message').textContent='';
   drawPicker();
   $('download-dialog').showModal();
+  resolvePicker();
 }
 function pickerSave(blob,filename) {
   const url=URL.createObjectURL(blob);
@@ -414,28 +433,37 @@ async function downloadPicked() {
   drawPicker();
   const notice=$('download-message');
   try {
+    if(chosen.length===1){
+      const link=el('a');
+      link.href=chosen[0].file+'&download=1';
+      link.target='_blank';
+      link.rel='noopener noreferrer';
+      document.body.append(link);link.click();link.remove();
+      notice.textContent='已请求下载原文件。若链接过期，请点击重新解析。';
+      return;
+    }
     const files=[];
     let totalBytes=0;
     for(let i=0;i<chosen.length;i++){
       notice.textContent='正在读取 '+(i+1)+' / '+chosen.length+' 个文件…';
       const entry=chosen[i],response=await fetch(entry.file,{cache:'no-store'});
-      if(!response.ok)throw Error('文件读取失败（HTTP '+response.status+'）');
+      if(!response.ok)throw Error(response.status===410?'媒体链接已过期，请点击重新解析':
+        '文件读取失败（HTTP '+response.status+'）');
       const bytes=new Uint8Array(await response.arrayBuffer());
       totalBytes+=bytes.length;
       if(totalBytes>120*1024*1024)throw Error('所选文件超过120MB，请减少选择后重试');
-      const extension=new URL(entry.file).pathname.match(/\.(jpg|jpeg|png|webp|mp4|mov|m4v|webm)$/i)?.[1]||'bin';
-      const name=item.id.replace(/[^A-Za-z0-9_-]/g,'_')+'_'+String(entry.index+1).padStart(2,'0')+'.'+extension;
+      const name=item.id.replace(/[^A-Za-z0-9_-]/g,'_')+'_'+String(entry.index+1).padStart(2,'0')+'.'+entry.format;
       files.push({name,bytes});
     }
     const basename=item.id.replace(/[^A-Za-z0-9_-]/g,'_');
-    if(files.length===1)pickerSave(new Blob([files[0].bytes]),files[0].name);
-    else pickerSave(pickerZIP(files),basename+'_selected.zip');
+    pickerSave(pickerZIP(files),basename+'_selected.zip');
     notice.textContent='已准备 '+files.length+' 个文件。若浏览器未开始下载，请检查下载权限。';
   }catch(error) {
     notice.textContent='下载失败：'+error.message+'。可尝试减少选中数量或打开原帖。';
   }finally{picker.busy=false;drawPicker();}
 }
 $('download-close').addEventListener('click',()=>$('download-dialog').close());
+$('download-refresh').addEventListener('click',resolvePicker);
 $('download-dialog').addEventListener('click',event=>{
   if(event.target===$('download-dialog'))$('download-dialog').close();
 });
