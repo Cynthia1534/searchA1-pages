@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T01:52:18+00:00",
+  "generated_at": "2026-10-31T07:00:09+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -28197,6 +28197,168 @@
       ]
     },
     {
+      "id": "instagram:C8NH8qZSPq_",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/C8NH8qZSPq_/",
+      "creator": "hijabb.ai",
+      "published_at": "2024-06-14T00:00:00+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T05:24:58+00:00",
+      "last_collected_at": "2026-10-31T05:24:58+00:00",
+      "duration_seconds": null,
+      "caption": "😍 \n\n#kaumhawa #hijab #hijaboutfit #hijabootd #tobrut #gemoy #hijabfashion\n\nDISCLAIMER: Tidak ada maksud untuk membully atau merendahkan siapa pun dengan foto ini. Saya ingin menegaskan bahwa foto ini dihasilkan menggunakan kecerdasan buatan (AI). Orang yang terlihat dalam foto ini tidak nyata dan tidak ada di dunia nyata. Semua elemen dalam foto ini bersifat palsu.",
+      "description": "@hijabb.ai 的素材",
+      "recommendation_reason": "窗边都市背景与深色头巾形成区别于既有户外写真之构图；AI声明来自原帖",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/hijabb.ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "黑巾高楼窗边肖像",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-31T05:24:58+00:00",
+        "likes": 313,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-31T05:24:58+00:00",
+          "likes": 313,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_instagram_C8NH8qZSPq__0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeD-N4Uo7Rb",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DeD-N4Uo7Rb/",
+      "creator": "shivmotion_ai",
+      "published_at": "2026-10-03T00:00:00+00:00",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-10-31T01:47:55+00:00",
+      "last_collected_at": "2026-10-31T05:24:58+00:00",
+      "duration_seconds": null,
+      "caption": "#Banjara #BanjaraCulture #BanjaraFolkDance #BanjaraSong #BanjaraTeej BanjaraFestival",
+      "description": "@shivmotion_ai 的素材",
+      "recommendation_reason": "班贾拉民俗服饰和夕阳村落场景；舞者动作连续，AI属性待确认",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shivmotion_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": null,
+      "image_description": "红裙夕阳民俗舞",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": []
+      },
+      "tag_source": "codex_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-10-31T05:24:58+00:00",
+        "likes": 35,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "codex_manual_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-10-31T05:24:58+00:00",
+          "likes": 35,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        },
+        {
+          "captured_at": "2026-10-31T01:47:55+00:00",
+          "likes": 35,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "codex_manual_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_instagram_DeD-N4Uo7Rb_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "tiktok:7698701879173188871",
       "platform": "tiktok",
       "post_url": "https://www.tiktok.com/@mimih_nings/video/7698701879173188871",
@@ -28204,8 +28366,8 @@
       "published_at": "2026-10-20T00:00:00+00:00",
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T00:39:47+00:00",
-      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "first_discovered_at": "2026-10-31T00:45:04+00:00",
+      "last_collected_at": "2026-10-31T00:45:04+00:00",
       "duration_seconds": null,
       "caption": "#aividio #fotobergerak #aitrend #efekkerentiktok",
       "description": "@mimih_nings 的素材",
@@ -28245,7 +28407,7 @@
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-31T00:39:47+00:00",
+        "captured_at": "2026-10-31T00:45:04+00:00",
         "likes": 79,
         "comments": 10,
         "views": 2465,
@@ -28254,7 +28416,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-31T00:39:47+00:00",
+          "captured_at": "2026-10-31T00:45:04+00:00",
           "likes": 79,
           "comments": 10,
           "views": 2465,
@@ -28281,8 +28443,8 @@
       "published_at": "2026-02-20T00:00:00+00:00",
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T00:39:47+00:00",
-      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "first_discovered_at": "2026-10-31T00:45:04+00:00",
+      "last_collected_at": "2026-10-31T00:45:04+00:00",
       "duration_seconds": null,
       "caption": "Prompt:\nHyper-photorealistic cinematic candid photography seorang pria (sesuai foto terlampir) duduk menyamping di bangku taman hijau klasik sambil membaca buku terbuka di pangkuan. Tubuh sedikit condong ke depan, tangan kanan menyentuh bibir dalam pose berpikir, kepala menunduk fokus ke buku. Subjek memakai kemeja denim lengan di gulung, celana cargo krem tua, smartwatch.\n\nLokasi taman alami dengan rumput hijau lebat dan pepohonan rimbun. Matahari golden hour berada di belakang kiri subjek menghasilkan strong natural backlighting, volumetric sun rays menembus dedaunan, soft sun flare, rim light halus di tepi rambut dan bahu. Foreground dedaunan gelap di sisi kiri sebagai natural framing. Background pohon besar di sisi kanan dengan blur lembut.\nKomposisi rule of thirds: subjek di kiri frame, pohon besar di kanan sebagai visual balance. Depth of field dangkal untuk isolasi subjek. Warna warm cinematic natural, highlight keemasan, shadow hijau lembut, kontras sedang, tone realistis, tekstur sangat detail, dynamic range tinggi.\nAngle kamera: vertical medium side profile shot, slightly high angle, kamera diagonal sejajar bangku.\nLensa: 50mm prime lens, aperture f/1.8, natural perspective.\nTeknis: ISO 100, shutter speed cepat, sharp focus pada wajah dan buku, natural lighting only.\nGaya: hyper-realistic lifestyle photography, cinematic realism, ultra high detail, natural color science.\nPortrait \nResolusi: 4096×5120 piksel ultra high resolution",
       "description": "@masari_ai 的素材",
@@ -28322,7 +28484,7 @@
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-10-31T00:39:47+00:00",
+        "captured_at": "2026-10-31T00:45:04+00:00",
         "likes": 1,
         "comments": 0,
         "views": null,
@@ -28331,7 +28493,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-10-31T00:39:47+00:00",
+          "captured_at": "2026-10-31T00:45:04+00:00",
           "likes": 1,
           "comments": 0,
           "views": null,
@@ -28358,8 +28520,8 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T00:39:47+00:00",
-      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "first_discovered_at": "2026-10-31T00:45:04+00:00",
+      "last_collected_at": "2026-10-31T00:45:04+00:00",
       "duration_seconds": null,
       "caption": "Siang Adem di Bangku Mal\n\nIstirahat siang tuh paling enak duduk sebentar, lihat orang lalu-lalang sambil ngumpulin tenaga.\nPrompt-nya udah copas-ready di reply, tinggal salin.\n\n#kucingkucing #HijabIndonesia #PastelLook #MallDay #OOTDSiang",
       "description": "@ku.cingkucing 的素材",
@@ -28419,8 +28581,8 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T00:39:47+00:00",
-      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "first_discovered_at": "2026-10-31T00:45:04+00:00",
+      "last_collected_at": "2026-10-31T00:45:04+00:00",
       "duration_seconds": null,
       "caption": "Cahaya Siang Jatuh Pas Sekali\nDi galeri, jendelanya tinggi-tinggi — sekali kena cahayanya, garis bayangannya kayak lukisan kedua.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n#kucingkucing #HijabIndonesia #GaleriSeni #EditorialHijab #CahayaAlami",
       "description": "@ku.cingkucing 的素材",
@@ -28480,8 +28642,8 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T00:39:47+00:00",
-      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "first_discovered_at": "2026-10-31T00:45:04+00:00",
+      "last_collected_at": "2026-10-31T00:45:04+00:00",
       "duration_seconds": null,
       "caption": "Ngobrol Seru di Rooftop Senja\n\nMalam di rooftop tuh paling pas buat cerita panjang, anginnya adem lampunya hangat.\nPrompt-nya udah copas-ready di reply, tinggal salin.\n\n#kucingkucing #HijabIndonesia #RooftopTalk #MalamSantai #NgobrolSeru",
       "description": "@ku.cingkucing 的素材",
@@ -28541,8 +28703,8 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T00:39:47+00:00",
-      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "first_discovered_at": "2026-10-31T00:45:04+00:00",
+      "last_collected_at": "2026-10-31T00:45:04+00:00",
       "duration_seconds": null,
       "caption": "Blue Hour Kota Jadi Latar\n\nJam segini langitnya biru sebentar doang — dari rooftop, lampu kota mulai nyala satu-satu di belakang.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n\n#kucingkucing #HijabIndonesia #BlueHour #EditorialHijab #CityLights",
       "description": "@ku.cingkucing 的素材",
@@ -28602,8 +28764,8 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T00:39:47+00:00",
-      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "first_discovered_at": "2026-10-31T00:45:04+00:00",
+      "last_collected_at": "2026-10-31T00:45:04+00:00",
       "duration_seconds": null,
       "caption": "Jalan Santai di Taman Kota\n\nPagi di taman kota tuh paling enak, udaranya masih seger buat jalan santai.\nPrompt-nya udah copas-ready di reply, tinggal salin.\n\n#kucingkucing #HijabIndonesia #DenimStyle #TamanKota #WeekendLook",
       "description": "@ku.cingkucing 的素材",
@@ -28663,8 +28825,8 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T00:39:47+00:00",
-      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "first_discovered_at": "2026-10-31T00:45:04+00:00",
+      "last_collected_at": "2026-10-31T00:45:04+00:00",
       "duration_seconds": null,
       "caption": "Gowes Pagi di CFD Jakarta\n\nUdara pagi di jalanan tanpa mobil tuh rasanya beda — segernya nempel sampai siang.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n\n#kucingkucing #HijabIndonesia #CarFreeDay #GowesPagi #HijabSporty",
       "description": "@ku.cingkucing 的素材",
@@ -28724,8 +28886,8 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T00:39:47+00:00",
-      "last_collected_at": "2026-10-31T00:39:47+00:00",
+      "first_discovered_at": "2026-10-31T00:45:04+00:00",
+      "last_collected_at": "2026-10-31T00:45:04+00:00",
       "duration_seconds": null,
       "caption": "Gowes Pagi Udara Segar 🚴‍♀️\n\nPemandangannya bikin semangat gowes hari ini.\nCek reply buat prompt AI kece kayak gini!\n\n#kucingkucing #AIHijab #HijabCycling #MountainView #AestheticPhoto",
       "description": "@ku.cingkucing 的素材",
@@ -32396,160 +32558,6 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/candidate_facebook_28506256549004945_0.jpg",
-          "preview_status": "fetched",
-          "result_status": "unknown",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "instagram:DeD-N4Uo7Rb",
-      "platform": "instagram",
-      "post_url": "https://www.instagram.com/reel/DeD-N4Uo7Rb/",
-      "creator": "shivmotion_ai",
-      "published_at": "2026-10-03T00:00:00+00:00",
-      "published_date": null,
-      "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T01:41:57+00:00",
-      "last_collected_at": "2026-10-31T01:41:57+00:00",
-      "duration_seconds": null,
-      "caption": "#Banjara #BanjaraCulture #BanjaraFolkDance #BanjaraSong #BanjaraTeej BanjaraFestival",
-      "description": "@shivmotion_ai 的素材",
-      "recommendation_reason": "班贾拉民俗服饰和夕阳村落场景；舞者动作连续，AI属性待确认",
-      "content_nature": "unknown",
-      "suitability": "review",
-      "initial_screening": "preview_passed",
-      "screening_scope": "preview_only",
-      "record_stage": "candidate",
-      "candidate_status": "pending",
-      "verification_notes": [
-        "AI属性待确认"
-      ],
-      "review_status": "pending",
-      "source_profile_url": "https://www.instagram.com/shivmotion_ai/",
-      "alternate_sources": [],
-      "discovery_origin": "codex_discovery",
-      "discovery_agent": "codex",
-      "market_region": "india",
-      "material_kind": "human_ai_dance_video",
-      "discovery_labels": [],
-      "source_confidence": "unknown",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "红裙夕阳民俗舞",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "codex_handoff",
-      "tag_checked_at": null,
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-31T01:41:57+00:00",
-        "likes": 35,
-        "comments": 0,
-        "views": null,
-        "shares": null,
-        "source": "codex_manual_claim"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-31T01:41:57+00:00",
-          "likes": 35,
-          "comments": 0,
-          "views": null,
-          "shares": null,
-          "source": "codex_manual_claim"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "video_cover",
-          "preview": "assets/candidate_instagram_DeD-N4Uo7Rb_0.jpg",
-          "preview_status": "fetched",
-          "result_status": "unknown",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "instagram:C8NH8qZSPq_",
-      "platform": "instagram",
-      "post_url": "https://www.instagram.com/p/C8NH8qZSPq_/",
-      "creator": "hijabb.ai",
-      "published_at": "2024-06-14T00:00:00+00:00",
-      "published_date": null,
-      "published_precision": "unknown",
-      "first_discovered_at": "2026-10-31T01:51:20+00:00",
-      "last_collected_at": "2026-10-31T01:51:20+00:00",
-      "duration_seconds": null,
-      "caption": "😍 \n\n#kaumhawa #hijab #hijaboutfit #hijabootd #tobrut #gemoy #hijabfashion\n\nDISCLAIMER: Tidak ada maksud untuk membully atau merendahkan siapa pun dengan foto ini. Saya ingin menegaskan bahwa foto ini dihasilkan menggunakan kecerdasan buatan (AI). Orang yang terlihat dalam foto ini tidak nyata dan tidak ada di dunia nyata. Semua elemen dalam foto ini bersifat palsu.",
-      "description": "@hijabb.ai 的素材",
-      "recommendation_reason": "窗边都市背景与深色头巾形成区别于既有户外写真之构图；AI声明来自原帖",
-      "content_nature": "unknown",
-      "suitability": "review",
-      "initial_screening": "preview_passed",
-      "screening_scope": "preview_only",
-      "record_stage": "candidate",
-      "candidate_status": "pending",
-      "verification_notes": [
-        "AI属性待确认"
-      ],
-      "review_status": "pending",
-      "source_profile_url": "https://www.instagram.com/hijabb.ai/",
-      "alternate_sources": [],
-      "discovery_origin": "codex_discovery",
-      "discovery_agent": "codex",
-      "market_region": "indonesia",
-      "material_kind": "ai_image",
-      "discovery_labels": [],
-      "source_confidence": "unknown",
-      "audience_tag": "单人女性",
-      "theme_tag": null,
-      "image_description": "黑巾高楼窗边肖像",
-      "copy_title": null,
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": []
-      },
-      "tag_source": "codex_handoff",
-      "tag_checked_at": null,
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": {
-        "captured_at": "2026-10-31T01:51:20+00:00",
-        "likes": 313,
-        "comments": 0,
-        "views": null,
-        "shares": null,
-        "source": "codex_manual_claim"
-      },
-      "metric_snapshots": [
-        {
-          "captured_at": "2026-10-31T01:51:20+00:00",
-          "likes": 313,
-          "comments": 0,
-          "views": null,
-          "shares": null,
-          "source": "codex_manual_claim"
-        }
-      ],
-      "media": [
-        {
-          "position": 0,
-          "kind": "image",
-          "preview": "assets/candidate_instagram_C8NH8qZSPq__0.jpg",
           "preview_status": "fetched",
           "result_status": "unknown",
           "visual_analysis": null
