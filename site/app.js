@@ -93,7 +93,9 @@ const postURL = item => {
       ? /^\/(?:[A-Za-z0-9._]+\/)?(?:p|reel)\/[A-Za-z0-9_-]+\/?$/
       : item.platform === 'facebook' ? /^(?:\/reel\/\d+|\/[A-Za-z0-9._-]+\/(?:posts|videos)\/(?:pfbid[A-Za-z0-9]+|\d+)|\/groups\/\d+\/(?:posts|permalink)\/\d+)\/?$/
       : item.platform === 'threads' ? /^\/@[A-Za-z0-9._]+\/post\/[A-Za-z0-9_-]+\/?$/
-      : item.platform === 'other' ? /^\/[A-Za-z0-9_./%-]+$/
+      : item.platform === 'other' ? (url.hostname.replace(/^www\./,'')==='snapchat.com'
+        ? /^\/@[A-Za-z0-9._-]+\/spotlight\/[A-Za-z0-9_-]+\/?$/
+        : /^\/[A-Za-z0-9_./%-]+$/)
       : item.platform === 'youtube' ? null : /^\/@[^/]+\/(video|photo)\/\d+\/?$/;
     const youtube = item.platform === 'youtube' && (url.hostname.endsWith('youtu.be')
       ? /^\/[A-Za-z0-9_-]{11}\/?$/.test(url.pathname)
