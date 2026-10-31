@@ -280,7 +280,12 @@ async function resolvePicker() {
     if(!state.syncApi||!state.password)throw Error('请先登录云端工作区，再解析原帖媒体');
     const reply=await apiFetch('/api/media-resolve?post_url='+encodeURIComponent(url),{cache:'no-store'});
     const result=await reply.json();
-    if(!reply.ok)throw Error(mediaErrors[result.error]||result.error||`解析失败（HTTP ${reply.status}）`);
+    if(!reply.ok){
+      const detail=result.error==='no_accessible_original_media'&&result.diagnostics?.includes('http_403')
+        ?'原帖媒体服务拒绝读取（HTTP 403）'
+        :mediaErrors[result.error]||result.error||`解析失败（HTTP ${reply.status}）`;
+      throw Error(detail);
+    }
     if(request!==picker.request)return;
     picker.parsed=result.parsed_count||result.items.length;
     picker.entries=result.items.map(media=>({
