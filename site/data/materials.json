@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T15:38:35+00:00",
+  "generated_at": "2026-11-02T06:34:14+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -43,16 +43,401 @@
       "九夜节",
       "十胜节",
       "亡灵节",
-      "印度独立日"
+      "印度独立日",
+      "舞蹈"
     ]
   },
   "export_stats": {
-    "formal": 358,
+    "formal": 362,
     "candidates": 111,
     "confirmed_duplicates_skipped": 38,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "instagram:DfKTgRWk568",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfKTgRWk568/",
+      "creator": "shiva_arts_official",
+      "published_at": null,
+      "published_date": "2026-10-31",
+      "published_precision": "day",
+      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
+      "description": "金色礼堂婚礼拼贴",
+      "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shiva_arts_official/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "金色礼堂婚礼拼贴",
+      "copy_title": "单人女性+拼贴+金色礼堂婚礼拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-02T06:34:11+00:00",
+        "likes": 1259,
+        "likes_display": "1,259",
+        "comments": 51,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-02T06:34:11+00:00",
+          "likes": 1259,
+          "likes_display": "1,259",
+          "comments": 51,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfKTgRWk568_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/instagram_DfKTgRWk568_1.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/instagram_DfKTgRWk568_2.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfL8nq3Eyyz",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfL8nq3Eyyz/",
+      "creator": "shiva_arts_official",
+      "published_at": null,
+      "published_date": "2026-10-31",
+      "published_precision": "day",
+      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
+      "description": "白底生日人像拼贴",
+      "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shiva_arts_official/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "白底生日人像拼贴",
+      "copy_title": "单人女性+拼贴+白底生日人像拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-02T06:34:11+00:00",
+        "likes": 2016,
+        "likes_display": "2,016",
+        "comments": 46,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-02T06:34:11+00:00",
+          "likes": 2016,
+          "likes_display": "2,016",
+          "comments": 46,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfL8nq3Eyyz_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/instagram_DfL8nq3Eyyz_1.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/instagram_DfL8nq3Eyyz_2.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfHwuElE-l4",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfHwuElE-l4/",
+      "creator": "shiva_arts_official",
+      "published_at": null,
+      "published_date": "2026-10-30",
+      "published_precision": "day",
+      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
+      "description": "数字一岁生日拼贴",
+      "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shiva_arts_official/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "海报",
+      "image_description": "数字一岁生日拼贴",
+      "copy_title": "宝宝儿童+海报+数字一岁生日拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-02T06:34:11+00:00",
+        "likes": 1454,
+        "likes_display": "1,454",
+        "comments": 61,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-02T06:34:11+00:00",
+          "likes": 1454,
+          "likes_display": "1,454",
+          "comments": 61,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfHwuElE-l4_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/instagram_DfHwuElE-l4_1.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdIYHRVD94w",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdIYHRVD94w/",
+      "creator": "minushankar3117",
+      "published_at": null,
+      "published_date": "2026-09-10",
+      "published_precision": "day",
+      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "caption": "POV: You found your family photo from 1985 📸✨\n\nA little time travel to the golden era of 1980s Tamil Nadu — vintage scooter, sidecar, old bus stand, Tamil signboards, retro saree, period hairstyles and that beautiful 35mm film-camera nostalgia. 🛵❤️\n\nWant to recreate this exact retro family photo style with AI?\n\n👇 COMMENT “PROMPT” and FOLLOW me — I’ll share the full prompt you can copy and use.\n\nSave this for your next AI vintage photo transformation 🔖\n\nTag someone who would look perfect in an 80s Tamil cinema family photo! ❤️\n\n#1980s #1980sTamilNadu #TamilNadu #TamilCinema #TamilNostalgia 80sNostalgia RetroTamil VintageTamil TamilVintage RetroIndia IndianNostalgia VintageIndia AIPhoto AIPrompt AIPhotography AIPhotoPrompt AIArt GenerativeAI GeminiPrompt GeminiAI AITransformation VintagePhotography 35mmFilm FilmPhotography RetroPhotography FamilyPhoto NostalgicPhotography SouthIndian SouthIndianCinema\n\n1980s Tamil Nadu family photo, retro Tamil cinema, vintage Tamil family, 80s Indian nostalgia, Tamil vintage photography, retro scooter with sidecar, 1980s South Indian family, AI vintage photo prompt, Gemini AI photo prompt, AI photography prompt, 35mm film photography, retro Indian family portrait, Tamil cinema aesthetic, nostalgic Tamil Nadu",
+      "description": "复古车站边斗全家福",
+      "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "80复古",
+      "image_description": "复古车站边斗全家福",
+      "copy_title": "亲子家庭+80复古+复古车站边斗全家福+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-02T06:34:11+00:00",
+        "likes": null,
+        "likes_display": "11K",
+        "comments": 685,
+        "views": null,
+        "shares": null,
+        "source": "Instagram public post meta description"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-02T06:34:11+00:00",
+          "likes": null,
+          "likes_display": "11K",
+          "comments": 685,
+          "views": null,
+          "shares": null,
+          "source": "Instagram public post meta description"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdIYHRVD94w_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/instagram_DdIYHRVD94w_1.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/instagram_DdIYHRVD94w_2.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 3,
+          "kind": "image",
+          "preview": "assets/instagram_DdIYHRVD94w_3.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DfE8Xq1nbjw",
       "platform": "instagram",
@@ -2398,15 +2783,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人男性",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "巴迪克男士独舞",
-      "copy_title": "单人男性+耍帅+巴迪克男士独舞+视频+原",
+      "copy_title": "单人男性+舞蹈+巴迪克男士独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -2481,15 +2866,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人女性",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "头巾传统独舞",
-      "copy_title": "单人女性+耍帅+头巾传统独舞+视频+原",
+      "copy_title": "单人女性+舞蹈+头巾传统独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -2564,15 +2949,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "朋友",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "夜广场女子群舞",
-      "copy_title": "朋友+耍帅+夜广场女子群舞+视频+原",
+      "copy_title": "朋友+舞蹈+夜广场女子群舞+视频+原",
       "tags": {
         "audience_tags": [
           "朋友"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -2647,15 +3032,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "朋友",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "克林奇女子群舞",
-      "copy_title": "朋友+耍帅+克林奇女子群舞+视频+原",
+      "copy_title": "朋友+舞蹈+克林奇女子群舞+视频+原",
       "tags": {
         "audience_tags": [
           "朋友"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -2730,15 +3115,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人女性",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "群岛传统独舞",
-      "copy_title": "单人女性+耍帅+群岛传统独舞+视频+原",
+      "copy_title": "单人女性+舞蹈+群岛传统独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -2813,15 +3198,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "朋友",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "婆罗浮屠三人舞",
-      "copy_title": "朋友+耍帅+婆罗浮屠三人舞+视频+原",
+      "copy_title": "朋友+舞蹈+婆罗浮屠三人舞+视频+原",
       "tags": {
         "audience_tags": [
           "朋友"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -2896,15 +3281,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人男性",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "Jaipong男子独舞",
-      "copy_title": "单人男性+耍帅+Jaipong男子独舞+视频+原",
+      "copy_title": "单人男性+舞蹈+Jaipong男子独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -2961,15 +3346,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人男性",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "Jaipongan男子独舞",
-      "copy_title": "单人男性+耍帅+Jaipongan男子独舞+视频+原",
+      "copy_title": "单人男性+舞蹈+Jaipongan男子独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人男性"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3026,15 +3411,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "情侣",
-      "theme_tag": "亲密互动",
+      "theme_tag": "舞蹈",
       "image_description": "爪哇双人舞转拳击",
-      "copy_title": "情侣+亲密互动+爪哇双人舞转拳击+视频+原",
+      "copy_title": "情侣+舞蹈+爪哇双人舞转拳击+视频+原",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "亲密互动"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3091,15 +3476,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人女性",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "吊桥头巾独舞",
-      "copy_title": "单人女性+耍帅+吊桥头巾独舞+视频+原",
+      "copy_title": "单人女性+舞蹈+吊桥头巾独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3174,15 +3559,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人女性",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "头巾女子户外独舞",
-      "copy_title": "单人女性+耍帅+头巾女子户外独舞+视频+原",
+      "copy_title": "单人女性+舞蹈+头巾女子户外独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3257,15 +3642,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人女性",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "舞台热舞独舞",
-      "copy_title": "单人女性+耍帅+舞台热舞独舞+视频+原",
+      "copy_title": "单人女性+舞蹈+舞台热舞独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3322,15 +3707,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人女性",
-      "theme_tag": "棚拍",
+      "theme_tag": "舞蹈",
       "image_description": "头巾女子室内独舞",
-      "copy_title": "单人女性+棚拍+头巾女子室内独舞+视频+原",
+      "copy_title": "单人女性+舞蹈+头巾女子室内独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "棚拍"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3405,15 +3790,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "情侣",
-      "theme_tag": "亲密互动",
+      "theme_tag": "舞蹈",
       "image_description": "头巾男女双人舞",
-      "copy_title": "情侣+亲密互动+头巾男女双人舞+视频+原",
+      "copy_title": "情侣+舞蹈+头巾男女双人舞+视频+原",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "亲密互动"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3488,15 +3873,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "朋友",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "红白夹克晨操群舞",
-      "copy_title": "朋友+耍帅+红白夹克晨操群舞+视频+原",
+      "copy_title": "朋友+舞蹈+红白夹克晨操群舞+视频+原",
       "tags": {
         "audience_tags": [
           "朋友"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3571,15 +3956,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "朋友",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "克巴雅女子齐舞",
-      "copy_title": "朋友+耍帅+克巴雅女子齐舞+视频+原",
+      "copy_title": "朋友+舞蹈+克巴雅女子齐舞+视频+原",
       "tags": {
         "audience_tags": [
           "朋友"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3654,15 +4039,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "情侣",
-      "theme_tag": "亲密互动",
+      "theme_tag": "舞蹈",
       "image_description": "巴迪克情侣对视舞",
-      "copy_title": "情侣+亲密互动+巴迪克情侣对视舞+视频+原",
+      "copy_title": "情侣+舞蹈+巴迪克情侣对视舞+视频+原",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "亲密互动"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3737,15 +4122,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "朋友",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "印尼嘻哈男团舞",
-      "copy_title": "朋友+耍帅+印尼嘻哈男团舞+视频+原",
+      "copy_title": "朋友+舞蹈+印尼嘻哈男团舞+视频+原",
       "tags": {
         "audience_tags": [
           "朋友"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3820,15 +4205,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "朋友",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "头巾女子户外群舞",
-      "copy_title": "朋友+耍帅+头巾女子户外群舞+视频+原",
+      "copy_title": "朋友+舞蹈+头巾女子户外群舞+视频+原",
       "tags": {
         "audience_tags": [
           "朋友"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -3903,15 +4288,15 @@
       ],
       "source_confidence": "low",
       "audience_tag": "单人女性",
-      "theme_tag": "耍帅",
+      "theme_tag": "舞蹈",
       "image_description": "头巾女子活力独舞",
-      "copy_title": "单人女性+耍帅+头巾女子活力独舞+视频+原",
+      "copy_title": "单人女性+舞蹈+头巾女子活力独舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "耍帅"
+          "舞蹈"
         ]
       },
       "tag_source": "unclassified",
@@ -4393,14 +4778,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "龙面舞台执扇起舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+龙面舞台执扇起舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-30T06:04:43+00:00",
@@ -4471,14 +4858,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "白裙执扇蝴蝶舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+白裙执扇蝴蝶舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-30T06:04:43+00:00",
@@ -4549,14 +4938,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "红白运动装领舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+红白运动装领舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-30T06:04:43+00:00",
@@ -4627,14 +5018,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "情侣",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "金冠双人庭院共舞",
-      "copy_title": null,
+      "copy_title": "情侣+舞蹈+金冠双人庭院共舞+视频+原",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-30T06:04:43+00:00",
@@ -4705,14 +5098,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "落日街头白衫旋舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+落日街头白衫旋舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-30T06:04:43+00:00",
@@ -4783,14 +5178,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "红裙舞台群舞领舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+红裙舞台群舞领舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-30T06:04:43+00:00",
@@ -4861,14 +5258,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "宫廷褐裙蛇舞旋身",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+宫廷褐裙蛇舞旋身+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-30T06:04:43+00:00",
@@ -4939,14 +5338,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "云端红衣舒臂起舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+云端红衣舒臂起舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-30T06:04:43+00:00",
@@ -5017,14 +5418,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "落日车顶白衫起舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+落日车顶白衫起舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-30T06:04:43+00:00",
@@ -10977,14 +11380,16 @@
       ],
       "source_confidence": "medium",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "酒红长裙旋转起舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+酒红长裙旋转起舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "manual_visual",
       "tag_checked_at": "2026-10-28T03:33:52+00:00",
@@ -28231,12 +28636,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "双人转单人爪哇舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -28308,12 +28715,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "舞台卡姆普尔独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -28384,12 +28793,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "街头双人同步舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -28460,12 +28871,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "dangdut领舞伴舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -28536,12 +28949,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "森林传统男舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -28612,12 +29027,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "酒红蕾丝dangdut独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -28689,12 +29106,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "酒红头巾传统舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -28765,12 +29184,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "神秘爪哇独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -28995,12 +29416,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "哇扬剪影独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29055,12 +29478,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "寺庙五人爪哇群舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29131,12 +29556,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "婚礼厅头巾爪哇舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29207,12 +29634,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "蓝金爪哇独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29283,12 +29712,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "一人成排爪哇舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29359,12 +29790,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "头巾独舞竖屏",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29420,12 +29853,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "南印电影三人舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29497,12 +29932,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "红紫裙摆转圈",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29574,12 +30011,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "婚礼融合三人舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29651,12 +30090,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "舞台宝莱坞独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29728,12 +30169,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "阳台旁遮普独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29805,12 +30248,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "宝莱坞混音独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29881,12 +30326,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "黄衣旁遮普独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -29957,12 +30404,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "乡村旁遮普独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -30033,12 +30482,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "堡垒古典独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -30109,12 +30560,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "粉纱丽室内独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_handoff",
       "tag_checked_at": null,
@@ -32512,14 +32965,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "红裙夕阳民俗舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+红裙夕阳民俗舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_handoff",
       "tag_checked_at": null,
@@ -32597,14 +33052,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "米白长袖扇舞烟雾",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+米白长袖扇舞烟雾+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_handoff",
       "tag_checked_at": null,
@@ -33415,15 +33872,15 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "朋友",
-      "theme_tag": "摇腿舞",
+      "theme_tag": "舞蹈",
       "image_description": "蓝光舞台多人齐舞",
-      "copy_title": "朋友+摇腿舞+蓝光舞台多人齐舞+视频+原",
+      "copy_title": "朋友+舞蹈+蓝光舞台多人齐舞+视频+原",
       "tags": {
         "audience_tags": [
           "朋友"
         ],
         "theme_tags": [
-          "摇腿舞"
+          "舞蹈"
         ]
       },
       "tag_source": "codex_handoff",
@@ -33495,14 +33952,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "沙漠传统裙装旋舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+沙漠传统裙装旋舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_handoff",
       "tag_checked_at": null,
@@ -33557,14 +34016,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "红裙舞台旋身",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+红裙舞台旋身+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_handoff",
       "tag_checked_at": null,
@@ -33715,15 +34176,15 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": "摇腿舞",
+      "theme_tag": "舞蹈",
       "image_description": "粉衣室内跳步转身",
-      "copy_title": "单人女性+摇腿舞+粉衣室内跳步转身+视频+原",
+      "copy_title": "单人女性+舞蹈+粉衣室内跳步转身+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "摇腿舞"
+          "舞蹈"
         ]
       },
       "tag_source": "codex_handoff",
@@ -33811,15 +34272,15 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": "海边",
+      "theme_tag": "舞蹈",
       "image_description": "海边白衫单人舞",
-      "copy_title": "单人女性+海边+海边白衫单人舞+视频+原",
+      "copy_title": "单人女性+舞蹈+海边白衫单人舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "海边"
+          "舞蹈"
         ]
       },
       "tag_source": "codex_handoff",
@@ -33907,14 +34368,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "秋树林中蓝绿裙舞",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+秋树林中蓝绿裙舞+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_handoff",
       "tag_checked_at": null,
@@ -34001,14 +34464,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "海堡蓝衣轻快摆臂",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+海堡蓝衣轻快摆臂+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_handoff",
       "tag_checked_at": null,
@@ -34095,15 +34560,15 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": "摇腿舞",
+      "theme_tag": "舞蹈",
       "image_description": "湖畔灰衣单人律动",
-      "copy_title": "单人女性+摇腿舞+湖畔灰衣单人律动+视频+原",
+      "copy_title": "单人女性+舞蹈+湖畔灰衣单人律动+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "摇腿舞"
+          "舞蹈"
         ]
       },
       "tag_source": "codex_handoff",
@@ -34191,15 +34656,15 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "情侣",
-      "theme_tag": "亲密互动",
+      "theme_tag": "舞蹈",
       "image_description": "聚光灯下蓝裙双人牵手",
-      "copy_title": "情侣+亲密互动+聚光灯下蓝裙双人牵手+视频+原",
+      "copy_title": "情侣+舞蹈+聚光灯下蓝裙双人牵手+视频+原",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "亲密互动"
+          "舞蹈"
         ]
       },
       "tag_source": "codex_visual_review",
@@ -34271,15 +34736,15 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "情侣",
-      "theme_tag": "亲密互动",
+      "theme_tag": "舞蹈",
       "image_description": "山间黄纱丽牵手",
-      "copy_title": "情侣+亲密互动+山间黄纱丽牵手+视频+原",
+      "copy_title": "情侣+舞蹈+山间黄纱丽牵手+视频+原",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
         "theme_tags": [
-          "亲密互动"
+          "舞蹈"
         ]
       },
       "tag_source": "codex_visual_review",
@@ -34351,14 +34816,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "情侣",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "彩色传统装双人持棒",
-      "copy_title": null,
+      "copy_title": "情侣+舞蹈+彩色传统装双人持棒+视频+原",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
@@ -34429,12 +34896,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "寺庙前彩裙群像",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
@@ -34505,14 +34974,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "月光夜景红衣回眸",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+月光夜景红衣回眸+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
@@ -34583,14 +35054,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "红衣黑纱丽室内手势",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+红衣黑纱丽室内手势+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
@@ -34662,12 +35135,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "绿金刺绣lehenga独舞",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "muse_visual_summary_unverified",
       "tag_checked_at": null,
@@ -34738,12 +35213,14 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": null,
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "安全帽工地多人近景",
       "copy_title": null,
       "tags": {
         "audience_tags": [],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
@@ -34814,14 +35291,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "情侣",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "聚光灯下红裙双人同框",
-      "copy_title": null,
+      "copy_title": "情侣+舞蹈+聚光灯下红裙双人同框+视频+原",
       "tags": {
         "audience_tags": [
           "情侣"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
@@ -34892,14 +35371,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "粉绿刺绣长裙门前站姿",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+粉绿刺绣长裙门前站姿+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
@@ -35745,15 +36226,15 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": "纱丽",
+      "theme_tag": "舞蹈",
       "image_description": "绿纱丽庭院站姿",
-      "copy_title": "单人女性+纱丽+绿纱丽庭院站姿+视频+原",
+      "copy_title": "单人女性+舞蹈+绿纱丽庭院站姿+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "纱丽"
+          "舞蹈"
         ]
       },
       "tag_source": "codex_visual_review",
@@ -35825,15 +36306,15 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": "纱丽",
+      "theme_tag": "舞蹈",
       "image_description": "红边白纱丽室内造型",
-      "copy_title": "单人女性+纱丽+红边白纱丽室内造型+视频+原",
+      "copy_title": "单人女性+舞蹈+红边白纱丽室内造型+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
         "theme_tags": [
-          "纱丽"
+          "舞蹈"
         ]
       },
       "tag_source": "codex_visual_review",
@@ -35905,14 +36386,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "粉裙室内站姿",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+粉裙室内站姿+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
@@ -36451,14 +36934,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "红裙砖街双手叉腰",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+红裙砖街双手叉腰+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
@@ -36570,14 +37055,16 @@
       "discovery_labels": [],
       "source_confidence": "unknown",
       "audience_tag": "单人女性",
-      "theme_tag": null,
+      "theme_tag": "舞蹈",
       "image_description": "黑衣棕发水泥棚站姿",
-      "copy_title": null,
+      "copy_title": "单人女性+舞蹈+黑衣棕发水泥棚站姿+视频+原",
       "tags": {
         "audience_tags": [
           "单人女性"
         ],
-        "theme_tags": []
+        "theme_tags": [
+          "舞蹈"
+        ]
       },
       "tag_source": "codex_visual_review",
       "tag_checked_at": null,
