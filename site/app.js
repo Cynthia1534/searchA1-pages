@@ -30,6 +30,8 @@ const decision = item => state.local[item.id] || {};
 const status = item => statusNames[decision(item).status] ? decision(item).status :
   (state.cloud ? 'pending' : statusNames[item.review_status] ? item.review_status : 'pending');
 const tag = (item, field) => {
+  // All realistic AI dance videos use the fixed second title tag “舞蹈”.
+  if (field === 'theme_tags' && category(item) === 'human_ai_dance_video') return '舞蹈';
   const key = field === 'audience_tags' ? 'audienceTag' : 'themeTag';
   if (Object.hasOwn(decision(item), key)) return decision(item)[key] || '';
   return field === 'audience_tags' ? item.audience_tag || '' : item.theme_tag || '';
@@ -199,6 +201,8 @@ function fillOptions() {
   for (const [id,field] of [['audience-filter','audience_tags'],['theme-filter','theme_tags']]) {
     const select=$(id);select.length=1;
     for (const value of state.data.taxonomy[field]) select.add(new Option(value,value));
+    if (field === 'theme_tags' && state.data.materials.some(item => category(item) === 'human_ai_dance_video') &&
+        !state.data.taxonomy.theme_tags.includes('舞蹈')) select.add(new Option('舞蹈','舞蹈'));
   }
   const days = [...new Set(state.data.materials.map(captureDay))].sort().reverse();
   const daySelect = $('day');
@@ -566,6 +570,13 @@ function titleEditor(item) {
   };
   const audience=makeSelect('audience_tags','受众标签');
   const theme=makeSelect('theme_tags','主题标签');
+  if (category(item) === 'human_ai_dance_video') {
+    theme.length=0;
+    theme.add(new Option('舞蹈','舞蹈'));
+    theme.value='舞蹈';
+    theme.disabled=true;
+    theme.setAttribute('aria-label','主题标签：舞蹈（固定）');
+  }
   const description=el('input','image-description');description.type='text';
   description.placeholder='简单描述 · ≤15字';description.setAttribute('aria-label','简单描述，最多15字');
   description.value=imageDescription(item);
