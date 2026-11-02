@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T10:36:10+00:00",
+  "generated_at": "2026-11-02T10:38:47+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -62,9 +62,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "白头巾婚礼情侣写真",
       "recommendation_reason": "浅灰背景影棚婚礼合影，白头巾新娘与燕尾服新郎，印尼婚礼棚拍模板",
@@ -96,7 +96,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:36:05+00:00",
+      "tag_checked_at": "2026-11-02T10:38:39+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -122,9 +122,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "雨中酒红纱丽写真",
       "recommendation_reason": "雨中酒红纱丽户外写真，氛围感强，纱丽主题女性模板",
@@ -156,7 +156,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:36:01+00:00",
+      "tag_checked_at": "2026-11-02T10:38:35+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -182,9 +182,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "米白婚礼情侣写真",
       "recommendation_reason": "额头相抵的米白婚礼情侣写真，亲密互动自然，情侣婚礼模板",
@@ -216,7 +216,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:57+00:00",
+      "tag_checked_at": "2026-11-02T10:38:32+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -242,9 +242,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": 10.132042,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "白衣乡村旁遮普舞蹈",
       "recommendation_reason": "白旁遮普套装成年女性村落Bhangra，双臂上举",
@@ -276,7 +276,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:53+00:00",
+      "tag_checked_at": "2026-11-02T10:38:29+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -302,9 +302,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": 17.81,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "紫纱丽室内古典舞蹈",
       "recommendation_reason": "紫纱丽成年女性室内印度风舞蹈，抬臂摆动连续",
@@ -336,7 +336,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:48+00:00",
+      "tag_checked_at": "2026-11-02T10:38:26+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -362,9 +362,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "80年代宝莱坞男士写真",
       "recommendation_reason": "80年代长发胡须男士倚复古白车，街景海报背景",
@@ -396,7 +396,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:44+00:00",
+      "tag_checked_at": "2026-11-02T10:38:23+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -422,9 +422,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "宝蓝纱丽四姿势拼贴",
       "recommendation_reason": "宝蓝金绣纱丽女性四姿势拼贴，落日亭台背景",
@@ -456,7 +456,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:40+00:00",
+      "tag_checked_at": "2026-11-02T10:38:19+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -482,9 +482,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "青绿古装电影女主写真",
       "recommendation_reason": "青绿金绣古装女性金饰齐全，宫殿寺庙场景",
@@ -516,7 +516,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:36+00:00",
+      "tag_checked_at": "2026-11-02T10:38:16+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -542,9 +542,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "节日六口家庭写真",
       "recommendation_reason": "Navratri六口之家合影，老中青三代节日装",
@@ -576,7 +576,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:32+00:00",
+      "tag_checked_at": "2026-11-02T10:38:13+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -602,9 +602,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "深红纱丽母子写真",
       "recommendation_reason": "深红金边纱丽母亲抱白衣幼儿，动作自然",
@@ -636,7 +636,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:28+00:00",
+      "tag_checked_at": "2026-11-02T10:38:10+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -662,9 +662,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "绿纱丽母子棚拍写真",
       "recommendation_reason": "绿金边纱丽母亲怀抱新生儿亲吻额头，面部保留",
@@ -696,7 +696,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:24+00:00",
+      "tag_checked_at": "2026-11-02T10:38:07+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -722,9 +722,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "Onam一家四口写真",
       "recommendation_reason": "粉白协调喀拉拉风Onam一家四口，花环油灯背景",
@@ -756,7 +756,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:19+00:00",
+      "tag_checked_at": "2026-11-02T10:38:03+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -782,9 +782,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "宫殿黄昏情侣写真",
       "recommendation_reason": "宫殿庭院黄昏情侣对视，建筑喷泉层次丰富",
@@ -816,7 +816,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:15+00:00",
+      "tag_checked_at": "2026-11-02T10:38:00+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -842,9 +842,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "雨中白衣情侣对视",
       "recommendation_reason": "雨中大树下白衣情侣对视，情绪与雨水光影强",
@@ -876,7 +876,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:11+00:00",
+      "tag_checked_at": "2026-11-02T10:37:57+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -902,9 +902,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "情侣棚拍双重曝光",
       "recommendation_reason": "多彩印花男士加宝蓝金绣纱丽女士棚拍，双重曝光",
@@ -936,7 +936,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:07+00:00",
+      "tag_checked_at": "2026-11-02T10:37:54+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -962,9 +962,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "白绣新郎车门写真",
       "recommendation_reason": "白绣新郎坐车门持红鞘剑，头巾配饰齐全",
@@ -996,7 +996,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:35:03+00:00",
+      "tag_checked_at": "2026-11-02T10:37:51+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1022,9 +1022,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "男士杂志封面写真",
       "recommendation_reason": "男士杂志封面风近景，填补印尼男性正式模板",
@@ -1056,7 +1056,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:59+00:00",
+      "tag_checked_at": "2026-11-02T10:37:48+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1082,9 +1082,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "穆斯林婚礼拼贴写真",
       "recommendation_reason": "白婚服加金饰头饰婚礼拼贴，含婚戒与证件本叙事",
@@ -1116,7 +1116,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:55+00:00",
+      "tag_checked_at": "2026-11-02T10:37:45+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1142,9 +1142,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "藏青银色婚礼情侣写真",
       "recommendation_reason": "藏青银色婚礼情侣三张轮播，配色统一",
@@ -1176,7 +1176,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:51+00:00",
+      "tag_checked_at": "2026-11-02T10:37:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1202,9 +1202,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "粉色蕾丝头巾写真",
       "recommendation_reason": "粉色蕾丝头巾加刺绣礼服深色背景正式照",
@@ -1236,7 +1236,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:47+00:00",
+      "tag_checked_at": "2026-11-02T10:37:39+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1262,9 +1262,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "爪哇新娘五套轮播",
       "recommendation_reason": "深红金色与白蕾丝新娘服五张轮播，地域婚礼特色明确",
@@ -1296,7 +1296,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:43+00:00",
+      "tag_checked_at": "2026-11-02T10:37:36+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1322,9 +1322,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "薄荷绿缎面头巾特写",
       "recommendation_reason": "薄荷绿缎面头巾同色服装，色调统一，热带花园背景",
@@ -1356,7 +1356,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:39+00:00",
+      "tag_checked_at": "2026-11-02T10:37:33+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1382,9 +1382,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "白缎头巾正式写真",
       "recommendation_reason": "白缎头巾配水晶头饰白色西装，适合正式头巾模板",
@@ -1416,7 +1416,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:35+00:00",
+      "tag_checked_at": "2026-11-02T10:37:30+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1442,9 +1442,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "浅粉头巾窗边写真",
       "recommendation_reason": "夜间阳台浅粉头巾写真，满月城市灯光氛围自然",
@@ -1476,7 +1476,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:31+00:00",
+      "tag_checked_at": "2026-11-02T10:37:27+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1502,9 +1502,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "深灰缎面头巾特写",
       "recommendation_reason": "平台AI内容标签，深灰缎面头巾砖墙特写，质感清晰",
@@ -1536,7 +1536,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:27+00:00",
+      "tag_checked_at": "2026-11-02T10:37:24+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1562,9 +1562,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "first_discovered_at": "2026-11-02T10:37:12+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "last_collected_at": "2026-11-02T10:37:12+00:00",
       "caption": null,
       "description": "浅粉头巾室内写真",
       "recommendation_reason": "浅粉头巾加白上衣室内柔光，适合日常头巾写真模板",
@@ -1596,7 +1596,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T10:34:23+00:00",
+      "tag_checked_at": "2026-11-02T10:37:21+00:00",
       "scores": {
         "data": null,
         "creative": null
