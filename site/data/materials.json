@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T09:56:17+00:00",
+  "generated_at": "2026-11-02T10:03:21+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -62,9 +62,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "first_discovered_at": "2026-11-02T10:02:15+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "last_collected_at": "2026-11-02T10:02:15+00:00",
       "caption": null,
       "description": "橙纱丽情侣六宫格",
       "recommendation_reason": "白底六宫格传统情侣写真，动作丰富（自拍、拥抱、牵手、共舞），可作多宫格情侣模板。",
@@ -96,7 +96,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:53:14+00:00",
+      "tag_checked_at": "2026-11-02T10:03:11+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -122,9 +122,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "first_discovered_at": "2026-11-02T10:02:15+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "last_collected_at": "2026-11-02T10:02:15+00:00",
       "caption": null,
       "description": "老绅士豪车复古写真",
       "recommendation_reason": "班加罗尔Vidhana Soudha加复古车的中老年男子80年代像，填补中老年男性方向，地域标识明确。",
@@ -156,7 +156,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:53:10+00:00",
+      "tag_checked_at": "2026-11-02T10:03:06+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -182,9 +182,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "first_discovered_at": "2026-11-02T10:02:15+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "last_collected_at": "2026-11-02T10:02:15+00:00",
       "caption": null,
       "description": "光环墨镜棕衣肖像",
       "recommendation_reason": "深色背景加光环灯光的酷帅男子单人像，填补男性单人方向，造型时尚端庄。",
@@ -216,7 +216,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:53:07+00:00",
+      "tag_checked_at": "2026-11-02T10:03:02+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -242,9 +242,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "first_discovered_at": "2026-11-02T10:02:15+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "last_collected_at": "2026-11-02T10:02:15+00:00",
       "caption": null,
       "description": "神庙烟雾三重人像",
       "recommendation_reason": "男子多视角拼贴加神庙黄昏背景，宗教节日氛围浓，是少见的男性多宫格模板。",
@@ -276,7 +276,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:53:03+00:00",
+      "tag_checked_at": "2026-11-02T10:02:58+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -302,9 +302,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "first_discovered_at": "2026-11-02T10:02:15+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "last_collected_at": "2026-11-02T10:02:15+00:00",
       "caption": null,
       "description": "棕底卷发复古全家福",
       "recommendation_reason": "五口南印大家庭的1970年代复古影棚像，填补家庭亲子方向，面部与服饰细节完整。",
@@ -336,7 +336,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:52:59+00:00",
+      "tag_checked_at": "2026-11-02T10:02:53+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -362,9 +362,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "first_discovered_at": "2026-11-02T10:02:15+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "last_collected_at": "2026-11-02T10:02:15+00:00",
       "caption": null,
       "description": "山间绿纱丽相拥",
       "recommendation_reason": "茶园山间外景加传统服饰的浪漫情侣像，场景区别于影棚情侣照，适合自然风情侣模板。",
@@ -396,7 +396,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:52:55+00:00",
+      "tag_checked_at": "2026-11-02T10:02:49+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -422,9 +422,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "first_discovered_at": "2026-11-02T10:02:15+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "last_collected_at": "2026-11-02T10:02:15+00:00",
       "caption": null,
       "description": "喀拉拉笑颜依偎合照",
       "recommendation_reason": "喀拉拉Onam传统服饰的欢乐情侣像，体裁少见、画面端庄，可作南印节日情侣模板。",
@@ -456,7 +456,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:52:52+00:00",
+      "tag_checked_at": "2026-11-02T10:02:45+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -482,9 +482,9 @@
       "published_at": null,
       "published_date": null,
       "published_precision": "unknown",
-      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "first_discovered_at": "2026-11-02T10:02:15+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "last_collected_at": "2026-11-02T10:02:15+00:00",
       "caption": null,
       "description": "白衣父亲抱婴儿",
       "recommendation_reason": "白kurta男子抱粉色恐龙毯婴儿的温馨父子肖像，OPPO AI水印",
@@ -516,7 +516,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:52:41+00:00",
+      "tag_checked_at": "2026-11-02T10:02:32+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -576,7 +576,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:52:48+00:00",
+      "tag_checked_at": "2026-11-02T10:02:41+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -652,7 +652,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:52:44+00:00",
+      "tag_checked_at": "2026-11-02T10:02:36+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -712,7 +712,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T09:52:37+00:00",
+      "tag_checked_at": "2026-11-02T10:02:28+00:00",
       "scores": {
         "data": null,
         "creative": null
