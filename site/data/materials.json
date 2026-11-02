@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T07:10:59+00:00",
+  "generated_at": "2026-11-02T07:52:48+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,12 +48,876 @@
     ]
   },
   "export_stats": {
-    "formal": 380,
+    "formal": 394,
     "candidates": 111,
-    "confirmed_duplicates_skipped": 38,
+    "confirmed_duplicates_skipped": 52,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "facebook:1686204732603900",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61587705101055/videos/1686204732603900/",
+      "creator": "রাধারানী মোহনবেনু",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": 10.168934,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "Realistic moves, digital magic.\nCan you tell it's AI?\n#RealisticAI #Viral #Dance",
+      "description": "黄纱丽古典手势舞",
+      "recommendation_reason": "Bharatanatyam舞姿连续变化，黄品红纱丽古典服饰，写实风格",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/61587705101055/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "黄纱丽古典手势舞",
+      "copy_title": "单人女性+舞蹈+黄纱丽古典手势舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1686204732603900_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1644393630355305",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61587508562169/videos/1644393630355305/",
+      "creator": "Grace Tan Lukban",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": 12.164399,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "TikTok AI 🤖 \nLegong Dance 💃",
+      "description": "巴厘庭院转身群舞",
+      "recommendation_reason": "巴厘服饰双人Legong舞姿态变化，寺庙背景",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Grace Tan Lukban/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "舞蹈",
+      "image_description": "巴厘庭院转身群舞",
+      "copy_title": "朋友+舞蹈+巴厘庭院转身群舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1644393630355305_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Ddzyn-7SfPL",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Ddzyn-7SfPL/",
+      "creator": "bowoxinfinity",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": 8.126708,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "1 likes, 0 comments - bowoxinfinity on September 27, 2026: \"Tradisi Bertemu Teknologi: AI Legong Dance\n\nMenembus batas ruang dan waktu, keanggunan Tari Bali kini hadir dalam harmoni digital. Gerakan jemari yang tegas, lirikan mata yang magis, dan lambaian selendang emas dihidupkan kembali melalui kecerdasan buatan. Sebuah penghormatan modern untuk warisan budaya Indonesia yang abadi\n\n.#TariBali #AIDance #PesonaIndonesia #DigitalArt #BudayaIndonesia\".",
+      "description": "金冠三人巴厘齐舞",
+      "recommendation_reason": "三人同步Legong连续舞蹈，巴厘传统服饰与庙宇背景",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/bowoxinfinity",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "舞蹈",
+      "image_description": "金冠三人巴厘齐舞",
+      "copy_title": "朋友+舞蹈+金冠三人巴厘齐舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_Ddzyn-7SfPL_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdpsLFuTWoY",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdpsLFuTWoY/",
+      "creator": "nevoloid",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": 14.766485,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "13 likes, 0 comments - nevoloid on September 23, 2026: \"Apapun gosip yang berhembus, mari kita woles n joget aja... Muuuuussssiiikkkkkkk!!!!!\n\nCreate with Kaze Flash @kazeai.creator\".",
+      "description": "达雅克服饰手臂律动",
+      "recommendation_reason": "持续手势舞蹈，达雅克传统两件套服装，印尼语文案",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/nevoloid",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "达雅克服饰手臂律动",
+      "copy_title": "单人女性+舞蹈+达雅克服饰手臂律动+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DdpsLFuTWoY_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1426429322791451",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61593031778446/videos/1426429322791451/",
+      "creator": "Siti Hadizah",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": 10.110708,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "Mbak mbak jawa ngerap🤭🤭🤭\n\nPrompt: \nA 10-second cinematic video of a young Indonesian woman wearing a stylish modern Javanese kebaya and batik skirt, performing an energetic rap dance with dynamic...",
+      "description": "白克巴雅说唱手势",
+      "recommendation_reason": "10秒上半身说唱舞动态手势，现代爪哇kebaya配batik裙，文案公开提示词",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Siti Hadizah/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "白克巴雅说唱手势",
+      "copy_title": "单人女性+舞蹈+白克巴雅说唱手势+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1426429322791451_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeNnxXGmZ3z",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DeNnxXGmZ3z",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "Cozy Cafe Mood Hari Ini ☕\n\nNongkrong santai sambil nikmatin suasana cafe emang gak pernah salah.\nPrompt lengkap yang bisa kamu copas udah aku taro di kolom komentar ya!\n\n#kucingkucing #HijabIndonesia #CozyCafe #HijabFashion #AestheticVibes",
+      "description": "粉巾咖啡馆插兜写真",
+      "recommendation_reason": "粉头巾配橄榄绿衬衫米色长裤女子在温馨咖啡馆内的写实肖像，印尼语文案",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "粉巾咖啡馆插兜写真",
+      "copy_title": "单人女性+耍帅+粉巾咖啡馆插兜写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeNnxXGmZ3z_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeYWLLggcuK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@fr7frans/post/DeYWLLggcuK",
+      "creator": "fr7frans",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "Prewedding ala AI, Bagi yang pengen prompt GRATIS boleh follow, karna aku berbagi prompt yang sesuai di butuhkan. bebas ganti outfit, ganti lokasi/background, dan hanya modal pas photo nya aja. \nyang mau di editin jga boleh DM profil aku yah..",
+      "description": "夕阳古寺婚前合照",
+      "recommendation_reason": "白刺绣beskap配batik纱笼男子与白蕾丝kebaya配头巾女子在普兰巴南神庙黄昏婚前照4张",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@fr7frans",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "夕阳古寺婚前合照",
+      "copy_title": "情侣+亲密互动+夕阳古寺婚前合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeYWLLggcuK_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/threads_DeYWLLggcuK_1.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/threads_DeYWLLggcuK_2.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 3,
+          "kind": "image",
+          "preview": "assets/threads_DeYWLLggcuK_3.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdyA5GJFD3w",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@santhosh_shiva11/post/DdyA5GJFD3w",
+      "creator": "santhosh_shiva11",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "Our 80s family throwbacks.💕With my dear friends @arunrishikesh @sanjana_samyukta @im_kochu_bubblie \n\nPrompt: Recreate my uploaded photo as an authentic Indian family portrait from the mid-1980s. Keep my face, expression and natural skin tone recognisable. Add period-appropriate clothing, a classic 1980s hairstyle and simple jewellery. Use a modest indoor studio setting, soft flash lighting, slightly faded colours and natural analogue film grain.",
+      "description": "胶片影楼四口合照",
+      "recommendation_reason": "四口之家复刻1980年代中期印度影楼照，手绘背景与柔和闪光",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@santhosh_shiva11",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "80复古",
+      "image_description": "胶片影楼四口合照",
+      "copy_title": "亲子家庭+80复古+胶片影楼四口合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdyA5GJFD3w_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Ddtul_MDy6A",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@cutyayaan1/post/Ddtul_MDy6A",
+      "creator": "cutyayaan1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "Prompt:- Use the uploaded reference image for strict face and character consistency. Create the same adorable 6-year-old Indian boy with a cute round face, warm wheatish skin, thick fluffy textured black hair and gentle smile. Light-blue shirt, beige cargo pants, white sneakers, black rectangular sunglasses and smartwatch, premium ultra-realistic cinematic style, golden-hour lakeside background, soft bokeh, warm sunlight, natural child proportions. Follow 👉 @itsanshikaa24 @cutyayaan1",
+      "description": "墨镜男孩湖畔三影",
+      "recommendation_reason": "约6岁男孩特写、全身与半身三视图同框合成，浅蓝衬衫墨镜智能手表，体面儿童肖像",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@cutyayaan1",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "拼贴",
+      "image_description": "墨镜男孩湖畔三影",
+      "copy_title": "宝宝儿童+拼贴+墨镜男孩湖畔三影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Ddtul_MDy6A_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfFfuNtiB6b",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@barhate.sarika/post/DfFfuNtiB6b",
+      "creator": "barhate.sarika",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "❣️",
+      "description": "油灯环绕花纱丽",
+      "recommendation_reason": "浅粉花卉纱丽置身点燃陶土油灯群、金色bokeh的排灯节肖像，临近排灯节窗口",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@barhate.sarika",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "排灯节",
+      "image_description": "油灯环绕花纱丽",
+      "copy_title": "单人女性+排灯节+油灯环绕花纱丽+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfFfuNtiB6b_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfEXtJsjZTf",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/DfEXtJsjZTf",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "💓 Traditional Family Moment 💓 With My Cute Friend 🥰 @im_kochu_bubblie & @santhosh_shiva11 @sanjana_samyukta 🩷🤍🩷 Create an ultra-realistic, professional Indian family portrait using the uploaded reference photos. A beautiful South Indian family of five, consisting of a father, mother, one young son, one young daughter, and one toddler boy, standing together in a simple, elegant studio setting.",
+      "description": "紫衣五口全家福",
+      "recommendation_reason": "父母加三子女紫色协调传统服饰的米色棚拍全家福，附上传参考照片生成说明",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "棚拍",
+      "image_description": "紫衣五口全家福",
+      "copy_title": "亲子家庭+棚拍+紫衣五口全家福+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfEXtJsjZTf_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De9kbztGSrM",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/De9kbztGSrM",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "Create an ultra-realistic, high-resolution South Indian wedding portrait of a beautiful newlywed couple @jamaliyelena ♥️ @rav_iranjan95♥️ standing together on a traditional, grand wedding stage. The couple faces the camera directly, smiling warmly, with their heads gently touching and both hands forming a heart shape in front of their chests. Capture the authentic beauty of South Indian wedding traditions, luxurious silk attire, traditional gold jewelry, jasmine garlands, and a glowing golden",
+      "description": "金色婚台比心合照",
+      "recommendation_reason": "白dhoti配红金丝绸纱丽、万寿菊茉莉花环的南印婚礼舞台比心合影",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "纱丽",
+      "image_description": "金色婚台比心合照",
+      "copy_title": "情侣+纱丽+金色婚台比心合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_De9kbztGSrM_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DehFoRzjd38",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/DehFoRzjd38",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "💗 romantic couple moment 💗 With My New Firand 🥰 @its_me_rashu_rashmi 🤍🖤🤍 Create an ultra-realistic, high-quality 8K couple portrait using the uploaded reference images. Preserve 100% of both individuals' original facial features, facial structure, skin tone, hairstyle, and natural body proportions. Do not change their identities or apply artificial beauty filters.",
+      "description": "白花纱丽并肩合影",
+      "recommendation_reason": "白底花卉刺绣纱丽沙发合影，保留原面貌的情侣居家写真",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "白花纱丽并肩合影",
+      "copy_title": "情侣+亲密互动+白花纱丽并肩合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DehFoRzjd38_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Del6wolGf3-",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/Del6wolGf3-",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T07:48:39+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T07:48:39+00:00",
+      "caption": "Ultra HD 8K hyper realistic vintage old city portrait, young man @rav_iranjan95 in dark navy kurta pajama sitting on old stone steps, rust orange paisley shawl draped on shoulders, holding glass of chai in right hand, silver watch, brown kolhapuri chappal, old weathered wall and wooden door background, warm natural daylight, poetic cinematic tone --ar 3:4 --style raw --q 2 --v 6.0 --s 300",
+      "description": "茶杯披肩老街写真",
+      "recommendation_reason": "海军kurta配锈色披肩、手持热chai的老城台阶肖像，电影感复古男士写真模板",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "80复古",
+      "image_description": "茶杯披肩老街写真",
+      "copy_title": "单人男性+80复古+茶杯披肩老街写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T07:49:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Del6wolGf3-_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DfKZ9JHpv88",
       "platform": "instagram",
