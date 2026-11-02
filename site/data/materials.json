@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T06:57:46+00:00",
+  "generated_at": "2026-11-02T06:58:49+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -62,9 +62,9 @@
       "published_at": null,
       "published_date": "2026-11-01",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:43+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:43+00:00",
       "caption": "Because every lover's argument deserves a cute comeback. A three-panel romantic sequence in a sunlit garden captures a man in a black shirt offering an apology with a red rose to a woman wearing a black ethnic suit adorned with a pink floral hair accessory, ending in a heartwarming hug.\n\n#chatgpt #couplegoals #romance #lovequotes #couplecomedy\n\n[romantic reels, couple goals, love story, sorry animation, cute couple, trendy reels, love trend, relationship goals, couple aesthetic, viral reels, romantic status, couple moments, love and forgiveness, sweet romance]",
       "description": "送花和解三格合照",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -98,13 +98,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:43+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:51:45+00:00",
+        "captured_at": "2026-11-02T06:58:43+00:00",
         "likes": 763,
         "likes_display": "763",
         "comments": 52,
@@ -114,7 +114,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:51:45+00:00",
+          "captured_at": "2026-11-02T06:58:43+00:00",
           "likes": 763,
           "likes_display": "763",
           "comments": 52,
@@ -182,9 +182,9 @@
       "published_at": null,
       "published_date": "2026-11-01",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "#aiprompts \n#viralpost \n#instagram \n#trendingpost",
       "description": "绿意生日多照拼贴",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -218,7 +218,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -252,9 +252,9 @@
       "published_at": null,
       "published_date": "2026-11-01",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "#trendingpost \n#viralpost \n#Instagram \n#aiprompts",
       "description": "花拱门草坪写真",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -288,7 +288,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -330,9 +330,9 @@
       "published_at": null,
       "published_date": "2026-11-01",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "#trendingpost \n#viralpost \n#aiprompts \n#instagram",
       "description": "海浪礁石双重曝光",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -366,7 +366,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -400,9 +400,9 @@
       "published_at": null,
       "published_date": "2026-11-01",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "Comment prompt ✨ \n#couplephotography #CoupleGoals #aigenerated #chatgpt #CouplePortrait",
       "description": "海边双重曝光海报",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -436,7 +436,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -486,9 +486,9 @@
       "published_at": null,
       "published_date": "2026-11-01",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "Do follow for prompt ✨ \n#CouplePortrait #couplephotography #couplegoals #aigenerated #potraitphotography",
       "description": "花墙牵手相拥写真",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -522,7 +522,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -572,9 +572,9 @@
       "published_at": null,
       "published_date": "2026-11-01",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "ULTRA-REALISTIC 8K ROYAL BIRTHDAY PHOTOSHOOT PROMPT 🎂\nCreate an ultra-realistic 8K UHD cinematic birthday portrait using the uploaded reference photo as the exact facial identity reference. Preserve the person's original face, facial features, hairstyle, beard, skin tone, natural expression and identity with 100% accuracy. No face modification.\nA handsome young Indian man sitting confidently on a luxurious black wicker chair at an elegant outdoor birthday celebration. He is wearing a premium white formal shirt with sleeves rolled up, a black stylish wristwatch and a subtle black necklace. One hand is gently resting near his chin, creating a classy and confident pose.\nBirthday Decoration: Beautiful black and golden luxury birthday theme, glowing golden fairy lights, black and gold balloons, lush green decorative background, warm bokeh lighting and a premium celebration atmosphere.\nForeground Details: A beautiful round chocolate birthday cake decorated with chocolate frosting, four glowing candles",
       "description": "黑金气球生日写真",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -608,13 +608,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:51:45+00:00",
+        "captured_at": "2026-11-02T06:58:42+00:00",
         "likes": 20,
         "likes_display": "20",
         "comments": 0,
@@ -624,7 +624,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:51:45+00:00",
+          "captured_at": "2026-11-02T06:58:42+00:00",
           "likes": 20,
           "likes_display": "20",
           "comments": 0,
@@ -645,6 +645,178 @@
       ]
     },
     {
+      "id": "instagram:DfM1vOkD1Ai",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfM1vOkD1Ai/",
+      "creator": "minushankar3117",
+      "published_at": null,
+      "published_date": "2026-11-01",
+      "published_precision": "day",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
+      "caption": "🌅💛 One girl, three moments, one golden sunset! ✨🌼\n\nGolden hour, golden dreams & a little touch of AI magic. 🥹💛\n\nThree beautiful poses, one dreamy sunset, and a whole lot of creativity! 😍📸\n\nWould you try this stunning AI triple-exposure portrait? ✨\n\n💛 Comment “YELLOW” if you want the prompt!\n📌 Save this post to recreate this magical look!\n\n#AIArt #GeminiAI #AIPortrait #AIPhotography #AIPhotoPrompt AIPrompts AIPhotoEditing TripleExposure SunsetPortrait GoldenHourPhotography CinematicPortrait AestheticPhotography DigitalArt AIArtCommunity SunsetAesthetic\n\nAI triple exposure portrait, Gemini AI photo prompt, AI sunset photoshoot, golden hour AI portrait, ultra realistic AI photography, AI girl photo editing prompt, cinematic sunset portrait, yellow aesthetic photoshoot, dreamy golden hour photography, artistic portrait collage, AI photo transformation, Gemini AI portrait prompt, sunset beach portrait, triple exposure photo effect, realistic AI photoshoot.",
+      "description": "金色夕阳三重曝光",
+      "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "金色夕阳三重曝光",
+      "copy_title": "单人女性+拼贴+金色夕阳三重曝光+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfM1vOkD1Ai_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/instagram_DfM1vOkD1Ai_1.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfOSiHtD1Zj",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfOSiHtD1Zj/",
+      "creator": "minushankar3117",
+      "published_at": null,
+      "published_date": "2026-11-01",
+      "published_precision": "day",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
+      "caption": "The love you keep searching for outside… sometimes, you need to give it to yourself. 🥹❤️✨\n\nIf your soul could hold you, this is what it would look like. 🫂🤍\n\nHeal, forgive yourself, embrace yourself, and become your own safe place. 🦋✨\n\nSave this as a reminder: YOU deserve your own love, too. ❤️🥹\n\n✨ AI Self-Love Portrait | Gemini AI Art | Self-Love Concept Photography | Realistic AI Portrait | AI Pencil Sketch Art | Charcoal Mural Portrait | Emotional AI Art | Self-Acceptance Aesthetic | Creative AI Photography | Gemini AI Photo Editing Prompt | Viral AI Image Prompts\n\n#SelfLove #AIArt #AIPortrait #GeminiAI #SelfLoveJourney",
+      "description": "黑白壁画自我拥抱",
+      "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [
+        "creative_discovery"
+      ],
+      "source_confidence": "medium",
+      "audience_tag": "单人女性",
+      "theme_tag": "拥抱",
+      "image_description": "黑白壁画自我拥抱",
+      "copy_title": "单人女性+拥抱+黑白壁画自我拥抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfOSiHtD1Zj_0.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/instagram_DfOSiHtD1Zj_1.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/instagram_DfOSiHtD1Zj_2.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 3,
+          "kind": "image",
+          "preview": "assets/instagram_DfOSiHtD1Zj_3.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 4,
+          "kind": "image",
+          "preview": "assets/instagram_DfOSiHtD1Zj_4.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 5,
+          "kind": "image",
+          "preview": "assets/instagram_DfOSiHtD1Zj_5.jpg",
+          "preview_status": "cached_private_full_image",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
       "id": "instagram:DfL75XtmvXZ",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/p/DfL75XtmvXZ/",
@@ -652,9 +824,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "🌸 Kerala beauty at its timeless best! 🤍\n\nPrompt Code: P-20857306 \n\n#keralabeauty #traditionallook #kasavusaree #southindianbeauty #aiphotography",
       "description": "门廊茉莉白纱丽",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -688,7 +860,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -714,9 +886,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "Wrapped in tradition, glowing with grace. 🌿🌼\n\nPrompt Code: P-85078523 \n\n#keralasaree #traditionallook #southindianbeauty #keralastyle #mustardyellowsaree #ethnicelegance #indiantraditionalwear #sareelover #desivibes #jhumkalove #greenbangles #jasmineflowers #traditionalfashion #sareeportrait #aiphotography #portraits #aiartcommunity #promptfyai #indianaesthetic #trendingréels",
       "description": "姜黄纱丽四格特写",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -750,7 +922,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -776,9 +948,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "#trendingpost \n#viralpost \n#instagram \n#aiprompts",
       "description": "云天双重曝光合照",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -812,7 +984,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -846,9 +1018,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "#trendingpost \n#viralpost \n#instagram \n#aiprompts",
       "description": "白色芒草人物写真",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -882,7 +1054,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -916,9 +1088,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "Comment prompt ✨ \n#potraitphotography #flowers #pose #aigenerated #chatgpt",
       "description": "捧花纱丽写真系列",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -952,7 +1124,7 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
@@ -1002,9 +1174,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "✨ Jai & Nayanthara from Raja Rani recreated with AI magic! 💫😍\n\n🎞️ Bringing iconic Tamil cinema memories to life with AI! ❤️🔥\n\n👇 Which Tamil movie couple should I recreate next? 💖\n\n📌 Save this prompt & share it with every Raja Rani fan! ❤️\n\nRaja Rani movie AI prompt, Jai Nayanthara AI prompt, Nayanthara Gemini AI prompt, Tamil movie recreation, Raja Rani couple edit, Tamil cinema AI art, AI photo editing prompt, Gemini AI photo prompt, South Indian movie aesthetic, viral AI prompts.\n\n#RajaRani #Nayanthara #Jai #TamilCinema #aiprompt\nRajaRani Nayanthara Jai Arya NazriyaNazim TamilCinema TamilMovies Kollywood TamilMovieLovers TamilMovieScenes RajaRaniMovie NayantharaFans KollywoodQueen TamilLoveStories TamilRomance AIPrompt GeminiAIPrompt AIPhotoPrompt AIPhotoEditing GeminiAI AIArt AIPhotography AIRecreation MovieRecreation CinematicPhotography SouthIndianCinema TamilTrending TrendingReels ViralReels ExplorePage",
       "description": "烛光水池白鸽合照",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -1038,13 +1210,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:51:45+00:00",
+        "captured_at": "2026-11-02T06:58:42+00:00",
         "likes": 246,
         "likes_display": "246",
         "comments": 300,
@@ -1054,7 +1226,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:51:45+00:00",
+          "captured_at": "2026-11-02T06:58:42+00:00",
           "likes": 246,
           "likes_display": "246",
           "comments": 300,
@@ -1114,9 +1286,9 @@
       "published_at": null,
       "published_date": "2026-10-30",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:45+00:00",
+      "first_discovered_at": "2026-11-02T06:58:42+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:45+00:00",
+      "last_collected_at": "2026-11-02T06:58:42+00:00",
       "caption": "╭─❖ 𝟴𝗞 𝗣𝗥𝗢𝗠𝗣𝗧 ❖─╮\n\nCreate an ultra-realistic 8K cinematic black-and-white portrait using the uploaded image as the exact reference. Preserve the person’s 100% identical face, facial features, hairstyle, skin texture, body proportions and identity with absolutely no face change. Keep the same seated pose, black outfit, sunglasses, boots, wooden chair, horse, bridle and rope. Enhance fine details, realistic skin texture, horse hair, grass and clothing fabric, with dramatic cloudy-sky lighting, deep natural shadows, sharp DSLR-level clarity, cinematic depth of field, professional editorial photography, natural contrast, realistic textures, and a premium monochrome look. No AI-looking effect, no face distortion, no extra fingers or limbs, no unwanted objects. Vertical 3:4 composition, ultra-detailed, photorealistic, Instagram-ready.",
       "description": "墨镜黑马人像",
       "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
@@ -1150,13 +1322,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:45+00:00",
+      "tag_checked_at": "2026-11-02T06:58:42+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:51:45+00:00",
+        "captured_at": "2026-11-02T06:58:42+00:00",
         "likes": 11,
         "likes_display": "11",
         "comments": 1,
@@ -1166,7 +1338,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:51:45+00:00",
+          "captured_at": "2026-11-02T06:58:42+00:00",
           "likes": 11,
           "likes_display": "11",
           "comments": 1,
@@ -1195,178 +1367,6 @@
       ]
     },
     {
-      "id": "instagram:DfM1vOkD1Ai",
-      "platform": "instagram",
-      "post_url": "https://www.instagram.com/p/DfM1vOkD1Ai/",
-      "creator": "minushankar3117",
-      "published_at": null,
-      "published_date": "2026-11-01",
-      "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:44+00:00",
-      "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:44+00:00",
-      "caption": "🌅💛 One girl, three moments, one golden sunset! ✨🌼\n\nGolden hour, golden dreams & a little touch of AI magic. 🥹💛\n\nThree beautiful poses, one dreamy sunset, and a whole lot of creativity! 😍📸\n\nWould you try this stunning AI triple-exposure portrait? ✨\n\n💛 Comment “YELLOW” if you want the prompt!\n📌 Save this post to recreate this magical look!\n\n#AIArt #GeminiAI #AIPortrait #AIPhotography #AIPhotoPrompt AIPrompts AIPhotoEditing TripleExposure SunsetPortrait GoldenHourPhotography CinematicPortrait AestheticPhotography DigitalArt AIArtCommunity SunsetAesthetic\n\nAI triple exposure portrait, Gemini AI photo prompt, AI sunset photoshoot, golden hour AI portrait, ultra realistic AI photography, AI girl photo editing prompt, cinematic sunset portrait, yellow aesthetic photoshoot, dreamy golden hour photography, artistic portrait collage, AI photo transformation, Gemini AI portrait prompt, sunset beach portrait, triple exposure photo effect, realistic AI photoshoot.",
-      "description": "金色夕阳三重曝光",
-      "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.instagram.com/minushankar3117/",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "india",
-      "material_kind": "ai_image",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": "拼贴",
-      "image_description": "金色夕阳三重曝光",
-      "copy_title": "单人女性+拼贴+金色夕阳三重曝光+图片+原",
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": [
-          "拼贴"
-        ]
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:44+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": null,
-      "metric_snapshots": [],
-      "media": [
-        {
-          "position": 0,
-          "kind": "image",
-          "preview": "assets/instagram_DfM1vOkD1Ai_0.jpg",
-          "preview_status": "cached_private_full_image",
-          "result_status": "final_result",
-          "visual_analysis": null
-        },
-        {
-          "position": 1,
-          "kind": "image",
-          "preview": "assets/instagram_DfM1vOkD1Ai_1.jpg",
-          "preview_status": "cached_private_full_image",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
-      "id": "instagram:DfOSiHtD1Zj",
-      "platform": "instagram",
-      "post_url": "https://www.instagram.com/p/DfOSiHtD1Zj/",
-      "creator": "minushankar3117",
-      "published_at": null,
-      "published_date": "2026-11-01",
-      "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:51:44+00:00",
-      "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:51:44+00:00",
-      "caption": "The love you keep searching for outside… sometimes, you need to give it to yourself. 🥹❤️✨\n\nIf your soul could hold you, this is what it would look like. 🫂🤍\n\nHeal, forgive yourself, embrace yourself, and become your own safe place. 🦋✨\n\nSave this as a reminder: YOU deserve your own love, too. ❤️🥹\n\n✨ AI Self-Love Portrait | Gemini AI Art | Self-Love Concept Photography | Realistic AI Portrait | AI Pencil Sketch Art | Charcoal Mural Portrait | Emotional AI Art | Self-Acceptance Aesthetic | Creative AI Photography | Gemini AI Photo Editing Prompt | Viral AI Image Prompts\n\n#SelfLove #AIArt #AIPortrait #GeminiAI #SelfLoveJourney",
-      "description": "黑白壁画自我拥抱",
-      "recommendation_reason": "Codex已检查原帖及完整图组，保留AI最终结果，排除提示词、教程和推广页；依据原帖文化、文字及生成指令确认印度市场相关性。",
-      "content_nature": "final_result",
-      "suitability": "safe",
-      "initial_screening": "preview_passed",
-      "screening_scope": "full_post",
-      "record_stage": "formal",
-      "verification_notes": [],
-      "review_status": "pending",
-      "source_profile_url": "https://www.instagram.com/minushankar3117/",
-      "alternate_sources": [],
-      "discovery_origin": "user_provided_profile",
-      "discovery_agent": "codex",
-      "market_region": "india",
-      "material_kind": "ai_image",
-      "discovery_labels": [
-        "creative_discovery"
-      ],
-      "source_confidence": "medium",
-      "audience_tag": "单人女性",
-      "theme_tag": "拥抱",
-      "image_description": "黑白壁画自我拥抱",
-      "copy_title": "单人女性+拥抱+黑白壁画自我拥抱+图片+原",
-      "tags": {
-        "audience_tags": [
-          "单人女性"
-        ],
-        "theme_tags": [
-          "拥抱"
-        ]
-      },
-      "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:51:44+00:00",
-      "scores": {
-        "data": null,
-        "creative": null
-      },
-      "metrics": null,
-      "metric_snapshots": [],
-      "media": [
-        {
-          "position": 0,
-          "kind": "image",
-          "preview": "assets/instagram_DfOSiHtD1Zj_0.jpg",
-          "preview_status": "cached_private_full_image",
-          "result_status": "final_result",
-          "visual_analysis": null
-        },
-        {
-          "position": 1,
-          "kind": "image",
-          "preview": "assets/instagram_DfOSiHtD1Zj_1.jpg",
-          "preview_status": "cached_private_full_image",
-          "result_status": "final_result",
-          "visual_analysis": null
-        },
-        {
-          "position": 2,
-          "kind": "image",
-          "preview": "assets/instagram_DfOSiHtD1Zj_2.jpg",
-          "preview_status": "cached_private_full_image",
-          "result_status": "final_result",
-          "visual_analysis": null
-        },
-        {
-          "position": 3,
-          "kind": "image",
-          "preview": "assets/instagram_DfOSiHtD1Zj_3.jpg",
-          "preview_status": "cached_private_full_image",
-          "result_status": "final_result",
-          "visual_analysis": null
-        },
-        {
-          "position": 4,
-          "kind": "image",
-          "preview": "assets/instagram_DfOSiHtD1Zj_4.jpg",
-          "preview_status": "cached_private_full_image",
-          "result_status": "final_result",
-          "visual_analysis": null
-        },
-        {
-          "position": 5,
-          "kind": "image",
-          "preview": "assets/instagram_DfOSiHtD1Zj_5.jpg",
-          "preview_status": "cached_private_full_image",
-          "result_status": "final_result",
-          "visual_analysis": null
-        }
-      ]
-    },
-    {
       "id": "instagram:DfKTgRWk568",
       "platform": "instagram",
       "post_url": "https://www.instagram.com/p/DfKTgRWk568/",
@@ -1374,9 +1374,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "first_discovered_at": "2026-11-02T06:41:17+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "last_collected_at": "2026-11-02T06:41:17+00:00",
       "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
       "description": "金色礼堂婚礼拼贴",
       "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
@@ -1410,13 +1410,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "tag_checked_at": "2026-11-02T06:41:17+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:34:11+00:00",
+        "captured_at": "2026-11-02T06:41:17+00:00",
         "likes": 1259,
         "likes_display": "1,259",
         "comments": 51,
@@ -1426,7 +1426,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:34:11+00:00",
+          "captured_at": "2026-11-02T06:41:17+00:00",
           "likes": 1259,
           "likes_display": "1,259",
           "comments": 51,
@@ -1470,9 +1470,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "first_discovered_at": "2026-11-02T06:41:17+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "last_collected_at": "2026-11-02T06:41:17+00:00",
       "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
       "description": "白底生日人像拼贴",
       "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
@@ -1506,13 +1506,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "tag_checked_at": "2026-11-02T06:41:17+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:34:11+00:00",
+        "captured_at": "2026-11-02T06:41:17+00:00",
         "likes": 2016,
         "likes_display": "2,016",
         "comments": 46,
@@ -1522,7 +1522,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:34:11+00:00",
+          "captured_at": "2026-11-02T06:41:17+00:00",
           "likes": 2016,
           "likes_display": "2,016",
           "comments": 46,
@@ -1566,9 +1566,9 @@
       "published_at": null,
       "published_date": "2026-10-30",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "first_discovered_at": "2026-11-02T06:41:17+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "last_collected_at": "2026-11-02T06:41:17+00:00",
       "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
       "description": "数字一岁生日拼贴",
       "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
@@ -1602,13 +1602,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "tag_checked_at": "2026-11-02T06:41:17+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:34:11+00:00",
+        "captured_at": "2026-11-02T06:41:17+00:00",
         "likes": 1454,
         "likes_display": "1,454",
         "comments": 61,
@@ -1618,7 +1618,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:34:11+00:00",
+          "captured_at": "2026-11-02T06:41:17+00:00",
           "likes": 1454,
           "likes_display": "1,454",
           "comments": 61,
@@ -1654,9 +1654,9 @@
       "published_at": null,
       "published_date": "2026-09-10",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "first_discovered_at": "2026-11-02T06:41:16+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "last_collected_at": "2026-11-02T06:41:16+00:00",
       "caption": "POV: You found your family photo from 1985 📸✨\n\nA little time travel to the golden era of 1980s Tamil Nadu — vintage scooter, sidecar, old bus stand, Tamil signboards, retro saree, period hairstyles and that beautiful 35mm film-camera nostalgia. 🛵❤️\n\nWant to recreate this exact retro family photo style with AI?\n\n👇 COMMENT “PROMPT” and FOLLOW me — I’ll share the full prompt you can copy and use.\n\nSave this for your next AI vintage photo transformation 🔖\n\nTag someone who would look perfect in an 80s Tamil cinema family photo! ❤️\n\n#1980s #1980sTamilNadu #TamilNadu #TamilCinema #TamilNostalgia 80sNostalgia RetroTamil VintageTamil TamilVintage RetroIndia IndianNostalgia VintageIndia AIPhoto AIPrompt AIPhotography AIPhotoPrompt AIArt GenerativeAI GeminiPrompt GeminiAI AITransformation VintagePhotography 35mmFilm FilmPhotography RetroPhotography FamilyPhoto NostalgicPhotography SouthIndian SouthIndianCinema\n\n1980s Tamil Nadu family photo, retro Tamil cinema, vintage Tamil family, 80s Indian nostalgia, Tamil vintage photography, retro scooter with sidecar, 1980s South Indian family, AI vintage photo prompt, Gemini AI photo prompt, AI photography prompt, 35mm film photography, retro Indian family portrait, Tamil cinema aesthetic, nostalgic Tamil Nadu",
       "description": "复古车站边斗全家福",
       "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
@@ -1690,13 +1690,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "tag_checked_at": "2026-11-02T06:41:16+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:34:11+00:00",
+        "captured_at": "2026-11-02T06:41:16+00:00",
         "likes": null,
         "likes_display": "11K",
         "comments": 685,
@@ -1706,7 +1706,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:34:11+00:00",
+          "captured_at": "2026-11-02T06:41:16+00:00",
           "likes": null,
           "likes_display": "11K",
           "comments": 685,
