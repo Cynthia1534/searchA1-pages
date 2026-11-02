@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T06:34:14+00:00",
+  "generated_at": "2026-11-02T06:41:25+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -62,9 +62,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "first_discovered_at": "2026-11-02T06:41:17+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "last_collected_at": "2026-11-02T06:41:17+00:00",
       "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
       "description": "金色礼堂婚礼拼贴",
       "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
@@ -98,13 +98,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "tag_checked_at": "2026-11-02T06:41:17+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:34:11+00:00",
+        "captured_at": "2026-11-02T06:41:17+00:00",
         "likes": 1259,
         "likes_display": "1,259",
         "comments": 51,
@@ -114,7 +114,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:34:11+00:00",
+          "captured_at": "2026-11-02T06:41:17+00:00",
           "likes": 1259,
           "likes_display": "1,259",
           "comments": 51,
@@ -158,9 +158,9 @@
       "published_at": null,
       "published_date": "2026-10-31",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "first_discovered_at": "2026-11-02T06:41:17+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "last_collected_at": "2026-11-02T06:41:17+00:00",
       "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
       "description": "白底生日人像拼贴",
       "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
@@ -194,13 +194,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "tag_checked_at": "2026-11-02T06:41:17+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:34:11+00:00",
+        "captured_at": "2026-11-02T06:41:17+00:00",
         "likes": 2016,
         "likes_display": "2,016",
         "comments": 46,
@@ -210,7 +210,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:34:11+00:00",
+          "captured_at": "2026-11-02T06:41:17+00:00",
           "likes": 2016,
           "likes_display": "2,016",
           "comments": 46,
@@ -254,9 +254,9 @@
       "published_at": null,
       "published_date": "2026-10-30",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "first_discovered_at": "2026-11-02T06:41:17+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "last_collected_at": "2026-11-02T06:41:17+00:00",
       "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
       "description": "数字一岁生日拼贴",
       "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
@@ -290,13 +290,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "tag_checked_at": "2026-11-02T06:41:17+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:34:11+00:00",
+        "captured_at": "2026-11-02T06:41:17+00:00",
         "likes": 1454,
         "likes_display": "1,454",
         "comments": 61,
@@ -306,7 +306,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:34:11+00:00",
+          "captured_at": "2026-11-02T06:41:17+00:00",
           "likes": 1454,
           "likes_display": "1,454",
           "comments": 61,
@@ -342,9 +342,9 @@
       "published_at": null,
       "published_date": "2026-09-10",
       "published_precision": "day",
-      "first_discovered_at": "2026-11-02T06:34:11+00:00",
+      "first_discovered_at": "2026-11-02T06:41:16+00:00",
       "duration_seconds": null,
-      "last_collected_at": "2026-11-02T06:34:11+00:00",
+      "last_collected_at": "2026-11-02T06:41:16+00:00",
       "caption": "POV: You found your family photo from 1985 📸✨\n\nA little time travel to the golden era of 1980s Tamil Nadu — vintage scooter, sidecar, old bus stand, Tamil signboards, retro saree, period hairstyles and that beautiful 35mm film-camera nostalgia. 🛵❤️\n\nWant to recreate this exact retro family photo style with AI?\n\n👇 COMMENT “PROMPT” and FOLLOW me — I’ll share the full prompt you can copy and use.\n\nSave this for your next AI vintage photo transformation 🔖\n\nTag someone who would look perfect in an 80s Tamil cinema family photo! ❤️\n\n#1980s #1980sTamilNadu #TamilNadu #TamilCinema #TamilNostalgia 80sNostalgia RetroTamil VintageTamil TamilVintage RetroIndia IndianNostalgia VintageIndia AIPhoto AIPrompt AIPhotography AIPhotoPrompt AIArt GenerativeAI GeminiPrompt GeminiAI AITransformation VintagePhotography 35mmFilm FilmPhotography RetroPhotography FamilyPhoto NostalgicPhotography SouthIndian SouthIndianCinema\n\n1980s Tamil Nadu family photo, retro Tamil cinema, vintage Tamil family, 80s Indian nostalgia, Tamil vintage photography, retro scooter with sidecar, 1980s South Indian family, AI vintage photo prompt, Gemini AI photo prompt, AI photography prompt, 35mm film photography, retro Indian family portrait, Tamil cinema aesthetic, nostalgic Tamil Nadu",
       "description": "复古车站边斗全家福",
       "recommendation_reason": "ChatGPT交接，Codex已读取Instagram原帖并检查完整图组；只保留最终结果图，剔除教程与提示词截图。",
@@ -378,13 +378,13 @@
         ]
       },
       "tag_source": "manual_visual",
-      "tag_checked_at": "2026-11-02T06:34:11+00:00",
+      "tag_checked_at": "2026-11-02T06:41:16+00:00",
       "scores": {
         "data": null,
         "creative": null
       },
       "metrics": {
-        "captured_at": "2026-11-02T06:34:11+00:00",
+        "captured_at": "2026-11-02T06:41:16+00:00",
         "likes": null,
         "likes_display": "11K",
         "comments": 685,
@@ -394,7 +394,7 @@
       },
       "metric_snapshots": [
         {
-          "captured_at": "2026-11-02T06:34:11+00:00",
+          "captured_at": "2026-11-02T06:41:16+00:00",
           "likes": null,
           "likes_display": "11K",
           "comments": 685,
