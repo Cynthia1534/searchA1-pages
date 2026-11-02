@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T08:09:36+00:00",
+  "generated_at": "2026-11-02T09:56:17+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,12 +48,688 @@
     ]
   },
   "export_stats": {
-    "formal": 394,
+    "formal": 405,
     "candidates": 111,
-    "confirmed_duplicates_skipped": 52,
+    "confirmed_duplicates_skipped": 63,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "threads:DemJegVE83n",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mohdvasim78/post/DemJegVE83n",
+      "creator": "mohdvasim78",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "caption": null,
+      "description": "橙纱丽情侣六宫格",
+      "recommendation_reason": "白底六宫格传统情侣写真，动作丰富（自拍、拥抱、牵手、共舞），可作多宫格情侣模板。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mohdvasim78",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "橙纱丽情侣六宫格",
+      "copy_title": "情侣+多宫格+橙纱丽情侣六宫格+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:53:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DemJegVE83n_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1695090905963708",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/SBDarshanapurOfficial/posts/1695090905963708/",
+      "creator": "SBDarshanapurOfficial",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "caption": null,
+      "description": "老绅士豪车复古写真",
+      "recommendation_reason": "班加罗尔Vidhana Soudha加复古车的中老年男子80年代像，填补中老年男性方向，地域标识明确。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/SBDarshanapurOfficial",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "80复古",
+      "image_description": "老绅士豪车复古写真",
+      "copy_title": "单人男性+80复古+老绅士豪车复古写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:53:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1695090905963708_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De00h6ckxsR",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@jamaliyelena/post/De00h6ckxsR",
+      "creator": "jamaliyelena",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "caption": null,
+      "description": "光环墨镜棕衣肖像",
+      "recommendation_reason": "深色背景加光环灯光的酷帅男子单人像，填补男性单人方向，造型时尚端庄。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@jamaliyelena",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "光环墨镜棕衣肖像",
+      "copy_title": "单人男性+耍帅+光环墨镜棕衣肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:53:07+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_De00h6ckxsR_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeeYsRnE6Ht",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@gourangahens/post/DeeYsRnE6Ht",
+      "creator": "gourangahens",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "caption": null,
+      "description": "神庙烟雾三重人像",
+      "recommendation_reason": "男子多视角拼贴加神庙黄昏背景，宗教节日氛围浓，是少见的男性多宫格模板。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@gourangahens",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "拼贴",
+      "image_description": "神庙烟雾三重人像",
+      "copy_title": "单人男性+拼贴+神庙烟雾三重人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:53:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeeYsRnE6Ht_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdanCCFGXyA",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/DdanCCFGXyA",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "caption": null,
+      "description": "棕底卷发复古全家福",
+      "recommendation_reason": "五口南印大家庭的1970年代复古影棚像，填补家庭亲子方向，面部与服饰细节完整。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "80复古",
+      "image_description": "棕底卷发复古全家福",
+      "copy_title": "亲子家庭+80复古+棕底卷发复古全家福+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:52:59+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdanCCFGXyA_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DbNFjkoCSoW",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arunrishikesh/post/DbNFjkoCSoW",
+      "creator": "arunrishikesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "caption": null,
+      "description": "山间绿纱丽相拥",
+      "recommendation_reason": "茶园山间外景加传统服饰的浪漫情侣像，场景区别于影棚情侣照，适合自然风情侣模板。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arunrishikesh",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "山间绿纱丽相拥",
+      "copy_title": "情侣+拥抱+山间绿纱丽相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:52:55+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DbNFjkoCSoW_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeMfdlPirvk",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sanjana_samyukta/post/DeMfdlPirvk",
+      "creator": "sanjana_samyukta",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "caption": null,
+      "description": "喀拉拉笑颜依偎合照",
+      "recommendation_reason": "喀拉拉Onam传统服饰的欢乐情侣像，体裁少见、画面端庄，可作南印节日情侣模板。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sanjana_samyukta",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "喀拉拉笑颜依偎合照",
+      "copy_title": "情侣+亲密互动+喀拉拉笑颜依偎合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:52:52+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeMfdlPirvk_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:122182974740895051",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61576851531195/posts/122182974740895051/",
+      "creator": "Richa Shishir Mishra",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T09:52:26+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T09:52:26+00:00",
+      "caption": null,
+      "description": "白衣父亲抱婴儿",
+      "recommendation_reason": "白kurta男子抱粉色恐龙毯婴儿的温馨父子肖像，OPPO AI水印",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://facebook.com/people/Richa-Shishir-Mishra/61576851531195/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "拥抱",
+      "image_description": "白衣父亲抱婴儿",
+      "copy_title": "亲子家庭+拥抱+白衣父亲抱婴儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:52:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_122182974740895051_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfL42_gI7Zv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfL42_gI7Zv/",
+      "creator": "nandaarsynt",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T08:08:24+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T08:08:24+00:00",
+      "caption": "51K likes, 85 comments - nandaarsynt on October 31, 2026: \"A little Halloween magic with @googleindonesia! 🎃👻\n\nTernyata bikin Halloween inspired photos bisa segampang ini! Tinggal upload foto, masukin prompt and let Gemini do its magic!\n\nPenasaran cara bikinnya? Swipe sampai akhir Aku spill tutorial nya🫶🏻\n\n#NanoBanana #HalloweenDay #Sponsored @googleindonesia\".",
+      "description": "万圣节印尼风",
+      "recommendation_reason": "万圣节印尼恐怖风轮播：白衣手电走廊、海盗装、宝藏与公主镜面迷宫，印尼语提示词要求印尼氛围",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/nandaarsynt",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "古堡万圣节造型写真",
+      "copy_title": "单人女性+棚拍+古堡万圣节造型写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:52:48+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfL42_gI7Zv_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/instagram_DfL42_gI7Zv_1.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/instagram_DfL42_gI7Zv_2.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbyMBKPT23R",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbyMBKPT23R/",
+      "creator": "sanjana_pawar0018",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T08:08:24+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T08:08:24+00:00",
+      "caption": "2,042 likes, 14 comments - sanjana_pawar0018 on August 8, 2026: \"𝐦𝐲 𝐜𝐡𝐚𝐦💗🫶🏻🌎\n•\n•\n•\nHa photo chargpt ne banvla aahe pn khup sundar aahe aayusht mi mzya papansobt chatgpt mule ha photo Banu shkle nahi tr he kadhich possible zal nast pn tysm chatgpt...🫶🏻❤️‍🩹🫂 tuzymule aaj mi mzya papana sobt hya photo mdhe aahe real mdhe kadhi possible nhi zal pn khup varshanantr ha asa photo baghyala miltoy tysm...❤️‍🩹🌎🤌🏻\n•\n•\n•\n#papà #explorepage #ᴠɪʀᴀʟᴘᴏst \n#missyoupapa🥺🌎❤️\".",
+      "description": "户外紫衣合影",
+      "recommendation_reason": "戴眼镜中年男子与淡紫刺绣salwar kameez女子户外合影，马拉地语文案",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/sanjana_pawar0018",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "拥抱",
+      "image_description": "紫衣女儿父亲依偎",
+      "copy_title": "亲子家庭+拥抱+紫衣女儿父亲依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:52:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbyMBKPT23R_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DasaSX7TOV-",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DasaSX7TOV-/",
+      "creator": "ponni6383",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T08:08:24+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T08:08:24+00:00",
+      "caption": "\"Create a full-body, ultra-realistic portrait of the woman in the uploaded photo wearing an elegant net silver zircon saree with a matching sleeve blouse featuring zircon stone designs. She has soft glamorous makeup, matching zircon jewelry, high heels, and a sparkling luxury background with cinematic lighting, 4K quality. Preserve her natural facial features and expression while keeping the image realistic.\" - @ponni6383 on July 12, 2026",
+      "description": "银灰网纱纱丽",
+      "recommendation_reason": "银灰网纱锆石纱丽配金色幕布的全身 glam 肖像",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ponni6383",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "银灰网纱纱丽写真",
+      "copy_title": "单人女性+纱丽+银灰网纱纱丽写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T09:52:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DasaSX7TOV-_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "facebook:1686204732603900",
       "platform": "facebook",
