@@ -14,6 +14,17 @@ EXPECTED_HOSTS = {
     'other': {'hailuoai.video', 'www.hailuoai.video', 'snapchat.com', 'www.snapchat.com'},
 }
 
+EXPECTED_THEMES = set('性感舞蹈 摇腿舞 花海 雪山 海边 80复古 拼贴 海报 锁屏 多宫格 耍帅 闪光灯 拍立得 人与动物 孕照 黑白摄影 纱丽 骑马 开车 拥抱 亲密互动 墨镜 棚拍 纯色暗调 排灯节 克里希纳诞辰 象头神节 九夜节 十胜节 亡灵节 印度独立日 舞蹈'.split())
+
+
+def validate_taxonomy(taxonomy):
+    assert set(taxonomy) == {'audience_tags', 'theme_tags'}
+    assert taxonomy['audience_tags'] == ['亲子家庭','宝宝儿童','单人男性','单人女性','情侣','朋友','单人通用']
+    themes = taxonomy['theme_tags']
+    # Accept the previous snapshot during the existing cross-repository sync.
+    assert len(themes) == len(set(themes))
+    assert set(themes) in (EXPECTED_THEMES, EXPECTED_THEMES - {'舞蹈'})
+
 
 def valid_post_url(platform, value):
     try:
@@ -34,8 +45,7 @@ def validate_snapshot(root=Path('site')):
     data = json.loads((root / 'data' / 'materials.json').read_text())
     assert data['schema_version'] == 2
     taxonomy = data['taxonomy']
-    assert set(taxonomy) == {'audience_tags', 'theme_tags'}
-    assert len(taxonomy['audience_tags']) == 7 and len(taxonomy['theme_tags']) == 31
+    validate_taxonomy(taxonomy)
     assert isinstance(data['materials'], list)
     for item in data['materials']:
         assert set(item['tags']) == set(taxonomy)
@@ -43,6 +53,8 @@ def validate_snapshot(root=Path('site')):
             assert isinstance(item['tags'][field], list)
             assert set(item['tags'][field]) <= set(allowed)
         assert item['suitability'] in {'safe', 'review'}
+        if '舞蹈' in taxonomy['theme_tags'] and item.get('material_kind') == 'human_ai_dance_video':
+            assert item.get('theme_tag') == '舞蹈', item['id']
         assert valid_post_url(item['platform'], item['post_url']), item['id']
         assert item['media']
         for media in item['media']:
