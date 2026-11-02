@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T10:03:21+00:00",
+  "generated_at": "2026-11-02T10:36:10+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,12 +48,1572 @@
     ]
   },
   "export_stats": {
-    "formal": 405,
+    "formal": 431,
     "candidates": 111,
-    "confirmed_duplicates_skipped": 63,
+    "confirmed_duplicates_skipped": 89,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "facebook:1580680363542120",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/1207130750897085/posts/1580680363542120/",
+      "creator": "Sri Ayati",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "白头巾婚礼情侣写真",
+      "recommendation_reason": "浅灰背景影棚婚礼合影，白头巾新娘与燕尾服新郎，印尼婚礼棚拍模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Sri Ayati/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "棚拍",
+      "image_description": "黑西装白婚纱合照",
+      "copy_title": "情侣+棚拍+黑西装白婚纱合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:36:05+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1580680363542120_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdvCLtdow1S",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arghyack/post/DdvCLtdow1S",
+      "creator": "arghyack",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "雨中酒红纱丽写真",
+      "recommendation_reason": "雨中酒红纱丽户外写真，氛围感强，纱丽主题女性模板",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arghyack",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "酒红纱丽雨中赏花",
+      "copy_title": "单人女性+纱丽+酒红纱丽雨中赏花+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:36:01+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdvCLtdow1S_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeUWLX-CK4P",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ayushi.glam.vibe/post/DeUWLX-CK4P",
+      "creator": "ayushi.glam.vibe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "米白婚礼情侣写真",
+      "recommendation_reason": "额头相抵的米白婚礼情侣写真，亲密互动自然，情侣婚礼模板",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ayushi.glam.vibe",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "米白婚服贴额相依",
+      "copy_title": "情侣+亲密互动+米白婚服贴额相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeUWLX-CK4P_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1366460308357948",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61591793284152/videos/1366460308357948/",
+      "creator": "PriyaGop",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": 10.132042,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "白衣乡村旁遮普舞蹈",
+      "recommendation_reason": "白旁遮普套装成年女性村落Bhangra，双臂上举",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/PriyaGop/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "白旁遮普服院落舞",
+      "copy_title": "单人女性+舞蹈+白旁遮普服院落舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:53+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1366460308357948_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2224425788329325",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/karuppi.me/videos/2224425788329325/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": 17.81,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "紫纱丽室内古典舞蹈",
+      "recommendation_reason": "紫纱丽成年女性室内印度风舞蹈，抬臂摆动连续",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "紫纱丽室内手势舞",
+      "copy_title": "单人女性+舞蹈+紫纱丽室内手势舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:48+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_2224425788329325_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdIJ4pSEtns",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@adarsh_sharma.k/post/DdIJ4pSEtns",
+      "creator": "adarsh_sharma.k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "80年代宝莱坞男士写真",
+      "recommendation_reason": "80年代长发胡须男士倚复古白车，街景海报背景",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@adarsh_sharma.k",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "80复古",
+      "image_description": "棕衫卷发倚老车",
+      "copy_title": "单人男性+80复古+棕衫卷发倚老车+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdIJ4pSEtns_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:3035945206747458",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/soniya.jaiswal.488742/posts/3035945206747458/",
+      "creator": "Soniya Jaiswal",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "宝蓝纱丽四姿势拼贴",
+      "recommendation_reason": "宝蓝金绣纱丽女性四姿势拼贴，落日亭台背景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/soniya.jaiswal.488742",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "蓝纱丽四重人像",
+      "copy_title": "单人女性+拼贴+蓝纱丽四重人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_3035945206747458_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DawxGUkAcmF",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@nishithammu/post/DawxGUkAcmF",
+      "creator": "nishithammu",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "青绿古装电影女主写真",
+      "recommendation_reason": "青绿金绣古装女性金饰齐全，宫殿寺庙场景",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@nishithammu",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "宫殿金饰古装肖像",
+      "copy_title": "单人女性+海报+宫殿金饰古装肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:36+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DawxGUkAcmF_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeVzhC6iCcz",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@yamika_khanna/post/DeVzhC6iCcz",
+      "creator": "yamika_khanna",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "节日六口家庭写真",
+      "recommendation_reason": "Navratri六口之家合影，老中青三代节日装",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@yamika_khanna",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "九夜节",
+      "image_description": "橙衣六口节日合照",
+      "copy_title": "亲子家庭+九夜节+橙衣六口节日合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "九夜节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:32+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeVzhC6iCcz_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dce-0FWCH-a",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/Dce-0FWCH-a",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "深红纱丽母子写真",
+      "recommendation_reason": "深红金边纱丽母亲抱白衣幼儿，动作自然",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "拥抱",
+      "image_description": "红纱丽母亲抱童",
+      "copy_title": "亲子家庭+拥抱+红纱丽母亲抱童+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:28+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dce-0FWCH-a_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeuhJ8rEb-3",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/DeuhJ8rEb-3",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "绿纱丽母子棚拍写真",
+      "recommendation_reason": "绿金边纱丽母亲怀抱新生儿亲吻额头，面部保留",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "拥抱",
+      "image_description": "绿纱丽母亲亲吻婴儿",
+      "copy_title": "亲子家庭+拥抱+绿纱丽母亲亲吻婴儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeuhJ8rEb-3_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DcVOldGCUjh",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@vaisshnavi369/post/DcVOldGCUjh",
+      "creator": "vaisshnavi369",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "Onam一家四口写真",
+      "recommendation_reason": "粉白协调喀拉拉风Onam一家四口，花环油灯背景",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@vaisshnavi369",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "棚拍",
+      "image_description": "粉衣一家四口合照",
+      "copy_title": "亲子家庭+棚拍+粉衣一家四口合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DcVOldGCUjh_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DemUSgFjap0",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/DemUSgFjap0",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "宫殿黄昏情侣写真",
+      "recommendation_reason": "宫殿庭院黄昏情侣对视，建筑喷泉层次丰富",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "宫殿黄昏牵手相望",
+      "copy_title": "情侣+亲密互动+宫殿黄昏牵手相望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:15+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DemUSgFjap0_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DerjayBk0hj",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@jamaliyelena/post/DerjayBk0hj",
+      "creator": "jamaliyelena",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "雨中白衣情侣对视",
+      "recommendation_reason": "雨中大树下白衣情侣对视，情绪与雨水光影强",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@jamaliyelena",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "白衣雨中抚脸对视",
+      "copy_title": "情侣+亲密互动+白衣雨中抚脸对视+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DerjayBk0hj_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdZAt31kxm_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@kunnuvlog09/post/DdZAt31kxm_",
+      "creator": "kunnuvlog09",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "情侣棚拍双重曝光",
+      "recommendation_reason": "多彩印花男士加宝蓝金绣纱丽女士棚拍，双重曝光",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@kunnuvlog09",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拼贴",
+      "image_description": "彩衫蓝纱丽双重肖像",
+      "copy_title": "情侣+拼贴+彩衫蓝纱丽双重肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:07+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdZAt31kxm__0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeIZFwdE6b8",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DeIZFwdE6b8",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "白绣新郎车门写真",
+      "recommendation_reason": "白绣新郎坐车门持红鞘剑，头巾配饰齐全",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "开车",
+      "image_description": "白绣新郎坐车门",
+      "copy_title": "单人男性+开车+白绣新郎坐车门+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "开车"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:35:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeIZFwdE6b8_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:10228061895773125",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/m.iqbal.azis/posts/10228061895773125/",
+      "creator": "M. Iqbal Azis",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "男士杂志封面写真",
+      "recommendation_reason": "男士杂志封面风近景，填补印尼男性正式模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/m.iqbal.azis",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "黑金男士杂志封面",
+      "copy_title": "单人男性+海报+黑金男士杂志封面+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:59+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_10228061895773125_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2538522579967413",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/widyawati.452066/posts/2538522579967413/",
+      "creator": "Widyawati 452066",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "穆斯林婚礼拼贴写真",
+      "recommendation_reason": "白婚服加金饰头饰婚礼拼贴，含婚戒与证件本叙事",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/widyawati.452066",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "米金婚服六宫格",
+      "copy_title": "情侣+多宫格+米金婚服六宫格+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:55+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_2538522579967413_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:3378353552554756",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/2659713177752134/posts/3378353552554756/",
+      "creator": "Sri Ayati",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "藏青银色婚礼情侣写真",
+      "recommendation_reason": "藏青银色婚礼情侣三张轮播，配色统一",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/groups/2659713177752134",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "棚拍",
+      "image_description": "藏青银色婚礼合照",
+      "copy_title": "情侣+棚拍+藏青银色婚礼合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:51+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_3378353552554756_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1861252028390122",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/1384406129408050/posts/1861252028390122/",
+      "creator": "Inakqn Ahsya",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "粉色蕾丝头巾写真",
+      "recommendation_reason": "粉色蕾丝头巾加刺绣礼服深色背景正式照",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/groups/1384406129408050",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "粉蕾丝头巾暗背景",
+      "copy_title": "单人女性+棚拍+粉蕾丝头巾暗背景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1861252028390122_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1024939979906786",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/506889788378477/posts/1024939979906786/",
+      "creator": "Ghani Ghina",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "爪哇新娘五套轮播",
+      "recommendation_reason": "深红金色与白蕾丝新娘服五张轮播，地域婚礼特色明确",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/groups/506889788378477",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "爪哇新娘双重肖像",
+      "copy_title": "单人女性+拼贴+爪哇新娘双重肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1024939979906786_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dco8pqTE2YF",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ratu_sary/post/Dco8pqTE2YF",
+      "creator": "ratu_sary",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "薄荷绿缎面头巾特写",
+      "recommendation_reason": "薄荷绿缎面头巾同色服装，色调统一，热带花园背景",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ratu_sary",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "锁屏",
+      "image_description": "绿缎头巾叶影特写",
+      "copy_title": "单人女性+锁屏+绿缎头巾叶影特写+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "锁屏"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:39+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dco8pqTE2YF_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2544029546119352",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/afwankurniawan.afwankurniawan/posts/2544029546119352/",
+      "creator": "Afwan Kurniawan",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "白缎头巾正式写真",
+      "recommendation_reason": "白缎头巾配水晶头饰白色西装，适合正式头巾模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/afwankurniawan.afwankurniawan",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "白缎头巾星空肖像",
+      "copy_title": "单人女性+棚拍+白缎头巾星空肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_2544029546119352_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1524478076109297",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/reny.leaf/posts/1524478076109297/",
+      "creator": "Reny Leaf",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "浅粉头巾窗边写真",
+      "recommendation_reason": "夜间阳台浅粉头巾写真，满月城市灯光氛围自然",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/reny.leaf",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "锁屏",
+      "image_description": "月夜窗边粉巾肖像",
+      "copy_title": "单人女性+锁屏+月夜窗边粉巾肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "锁屏"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:31+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1524478076109297_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:122324399972214181",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/tokonayla.annuur/posts/122324399972214181/",
+      "creator": "TokoNayla Annuur",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "深灰缎面头巾特写",
+      "recommendation_reason": "平台AI内容标签，深灰缎面头巾砖墙特写，质感清晰",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/tokonayla.annuur",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "纯色暗调",
+      "image_description": "灰缎头巾低头特写",
+      "copy_title": "单人女性+纯色暗调+灰缎头巾低头特写+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纯色暗调"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:27+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_122324399972214181_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1119951823769001",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/ana.ana.259839/posts/1119951823769001/",
+      "creator": "Ana Ana",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-02T10:34:11+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-02T10:34:11+00:00",
+      "caption": null,
+      "description": "浅粉头巾室内写真",
+      "recommendation_reason": "浅粉头巾加白上衣室内柔光，适合日常头巾写真模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/ana.ana.259839",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "浅粉头巾室内肖像",
+      "copy_title": "单人女性+棚拍+浅粉头巾室内肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-02T10:34:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1119951823769001_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "threads:DemJegVE83n",
       "platform": "threads",
