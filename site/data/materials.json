@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T10:38:47+00:00",
+  "generated_at": "2026-11-03T09:23:24+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,12 +48,132 @@
     ]
   },
   "export_stats": {
-    "formal": 431,
+    "formal": 433,
     "candidates": 111,
-    "confirmed_duplicates_skipped": 89,
+    "confirmed_duplicates_skipped": 91,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "threads:DfFmlNHk_mo",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ratu_sary/post/DfFmlNHk_mo",
+      "creator": "ratu_sary",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T09:22:50+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T09:22:50+00:00",
+      "caption": "Gunakan wajah asli dari foto referensi tanpa mengubah identitas. Potret ultra-realistis wanita dewasa duduk bersimpuh, mata terpejam khusyuk berdoa dengan kedua tangan menengadah. Mengenakan mukena satin pink pastel berhias renda mewah, kristal dan mutiara menjuntai. Di hadapannya terdapat Al-Qur’an pink berornamen emas di atas rehal ukir. Latar ruangan pink elegan dengan bunga mawar, tirai satin, lentera bercahaya hangat, dan karpet floral. Rasio 9:16",
+      "description": "写实女性闭眼祈祷、粉色礼拜衣与头饰，明亮但细节可见，未见明显裸露或过曝。",
+      "recommendation_reason": "原帖印尼语",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ratu_sary",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "粉色礼拜衣祈祷",
+      "copy_title": "单人女性+棚拍+粉色礼拜衣祈祷+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T09:23:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfFmlNHk_mo_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRZNgriIci",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DfRZNgriIci",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T09:22:50+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T09:22:50+00:00",
+      "caption": "Couple portrait with @nirvi2405 🩷 { \"design_type\": \"Ultra-Realistic Romantic Close-Up Couple Portrait\", \"prompt\": \"Create an intimate cinematic extreme close-up portrait of a romantic couple facing each other, their faces just inches apart, eyes gently closed, capturing a tender emotional moment. The woman's long flowing hair frames her face, with delicate eyelashes and natural expressions. The man's face is softly positioned above hers, creating a beautiful romantic composition.",
+      "description": "闭眼情侣近景，清晰真实人像，衣着未显示裸露，无明显过曝。嵌入页MP4标记是audio/mp4，未见视频标签、video/mp4、video_url；帖子配图为静态主媒体。",
+      "recommendation_reason": "配图罗马字印地语歌词，原帖注明印度歌曲歌手",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "闭眼情侣近景",
+      "copy_title": "情侣+亲密互动+闭眼情侣近景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T09:23:06+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRZNgriIci_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "facebook:1580680363542120",
       "platform": "facebook",
