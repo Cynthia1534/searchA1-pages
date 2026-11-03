@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T12:44:12+00:00",
+  "generated_at": "2026-11-03T23:54:41+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,12 +48,1260 @@
     ]
   },
   "export_stats": {
-    "formal": 446,
+    "formal": 466,
     "candidates": 111,
-    "confirmed_duplicates_skipped": 104,
+    "confirmed_duplicates_skipped": 124,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "threads:DfOw67LEx_V",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@_t__s__k_/post/DfOw67LEx_V",
+      "creator": "_t__s__k_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "NOVEMBER AROUND THE WORLD 30-DAY FIVE WORDS CHALLENGE. \n\nDay 1 The words: Press badge, camera and microphone, notepad and pen, scales of justice, candlelight vigil\n\nHost by: @xcl_shanie\n\n#novemberaroundtheworld #nov5wordschallenge #xcl_shanie",
+      "description": "飞报环绕记者双人像",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@_t__s__k_",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "海报",
+      "image_description": "飞报环绕记者双人像",
+      "copy_title": "朋友+海报+飞报环绕记者双人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:54:27+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfOw67LEx_V_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeBAqgsExn0",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@_t__s__k_/post/DeBAqgsExn0",
+      "creator": "_t__s__k_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "Being with my Sister 💙 is a refreshing moments for me. 💛\nShe is the most cute/caring person in threads.🥰\nAnd happy to have her as my sister is good's gift.☺️\nFeatures\n@im_kochu_bubblie 🤗 @_t__s__k_",
+      "description": "黄衫蓝裙兄妹合照",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@_t__s__k_",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲密互动",
+      "image_description": "黄衫蓝裙兄妹合照",
+      "copy_title": "亲子家庭+亲密互动+黄衫蓝裙兄妹合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:54:21+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeBAqgsExn0_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfJBYUfGksg",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@purvis_corner/post/DfJBYUfGksg",
+      "creator": "purvis_corner",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "listening to the waves and finding a little stillness. 🌊☁️ sometimes a quiet moment by the water is all the reset you need.\n\n#coastalvibes #oceanbreeze #candidmoments #chillday #seaside",
+      "description": "礁石听海松弛写真",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@purvis_corner",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海边",
+      "image_description": "礁石听海松弛写真",
+      "copy_title": "单人女性+海边+礁石听海松弛写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海边"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:54:15+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfJBYUfGksg_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfQwkoGGgS2",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@purvis_corner/post/DfQwkoGGgS2",
+      "creator": "purvis_corner",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "Raw, real, and unapologetically unfiltered. ✨\n\n#BareFaced #SkinTexture #BrownGirlMagic #MacroPortrait #GoldenHourGlow",
+      "description": "自然雀斑近距肖像",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@purvis_corner",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "自然雀斑近距肖像",
+      "copy_title": "单人女性+棚拍+自然雀斑近距肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:54:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfQwkoGGgS2_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfGd1flkoL_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@looksatgopika/post/DfGd1flkoL_",
+      "creator": "looksatgopika",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "POV: I’m dragging you on my next city adventure. 🏙️✨\n\n#StreetStyle #UrbanPortrait #DenimVibes #IndustrialAesthetic #PortraitPhotography",
+      "description": "红衫牛仔街巷邀约",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@looksatgopika",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "红衫牛仔街巷邀约",
+      "copy_title": "单人女性+耍帅+红衫牛仔街巷邀约+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:54:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfGd1flkoL__0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfOFujEEqrH",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@looksatgopika/post/DfOFujEEqrH",
+      "creator": "looksatgopika",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "Effortless days and denim haze. 🖤✨\n\n#portraitphotography #casualstyle #aestheticvibes #effortlesschic #denimlook",
+      "description": "黑背心牛仔夏日街拍",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@looksatgopika",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "墨镜",
+      "image_description": "黑背心牛仔夏日街拍",
+      "copy_title": "单人女性+墨镜+黑背心牛仔夏日街拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfOFujEEqrH_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRRKOMCDqG",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@loveismylife240/post/DfRRKOMCDqG",
+      "creator": "loveismylife240",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "Royal prompt \nWith my beautiful sweetie @sanjana_samyukta 💕 @loveismylife240 ❤️❤️❤️\n\nCreate a photorealistic love effect poster, exact same layout, poses, outfits and background as reference. Cinematic double exposure effect. Background large faded side profiles: man on left side profile facing left with full beard, black hair, woman on right side profile facing right with long black wavy hair, both looking away, warm brown textured background.",
+      "description": "酒红婚服三景拼贴",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@loveismylife240",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拼贴",
+      "image_description": "酒红婚服三景拼贴",
+      "copy_title": "情侣+拼贴+酒红婚服三景拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:52+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRRKOMCDqG_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DecIpy1k2ah",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@im_kochu_bubblie/post/DecIpy1k2ah",
+      "creator": "im_kochu_bubblie",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "A friend by chance, a brother by choice! 🫂✨ \n\nHappy birthday 🎂 to my favorite unpaid bodyguard and the brother @_t__s__k_ 🥰 I never asked for (but am so glad I have). Have the best day! \n\nPrompt : Create a high-fidelity, photorealistic birthday editorial portrait of the young adult man from the reference photo, preserving his identity. He stands upright in a full-length pose, body facing the camera, head tilted down and turned slightly to his right, eyes looking at his hands.",
+      "description": "深棕西装生日贺卡",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@im_kochu_bubblie",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "深棕西装生日贺卡",
+      "copy_title": "单人男性+海报+深棕西装生日贺卡+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DecIpy1k2ah_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfMGqAjE7ct",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@im_kochu_bubblie/post/DfMGqAjE7ct",
+      "creator": "im_kochu_bubblie",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "Nothing beats the magic of November 1st in God’s Own Country. 🌴✨ No matter where life takes us, Kerala isn't just a map outline—it’s a feeling we never outgrow. Happy Kerala Piravi! 🌼🛶\n\n#Kerala #Piravi2026 #ProudMalayali #GodsOwnCountry #Backwaters\n\nPrompt: A top-down overhead shot captures a smiling Kerala woman lying flat on her back inside a dark wooden canoe, tossing fresh white jasmine blossoms into the air above emerald-green backwaters.",
+      "description": "喀拉拉水乡节日贺图",
+      "recommendation_reason": "Original caption explicitly Kerala Piravi, Proud Malayali and Kerala backwaters; traditional Kerala dress and Malayalam greeting in the inspected result.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@im_kochu_bubblie",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "喀拉拉水乡节日贺图",
+      "copy_title": "单人女性+海报+喀拉拉水乡节日贺图+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfMGqAjE7ct_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRFRKkGabK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@cinetale.duo/post/DfRFRKkGabK",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "Comment prompt ✨ \n\n#aigenerated #couplephotography #weddingseason #weddingday #weddingcard",
+      "description": "金色宫殿婚礼请柬",
+      "recommendation_reason": "Indian wedding invitation designs, Indian couple and ceremonial clothing, palace architecture and Hindi/Indian wedding context; AI-generated declared in the original caption.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "海报",
+      "image_description": "金色宫殿婚礼请柬",
+      "copy_title": "情侣+海报+金色宫殿婚礼请柬+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRFRKkGabK_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/threads_DfRFRKkGabK_2.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 4,
+          "kind": "image",
+          "preview": "assets/threads_DfRFRKkGabK_4.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 6,
+          "kind": "image",
+          "preview": "assets/threads_DfRFRKkGabK_6.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRGajVEwxe",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@devil_sam24/post/DfRGajVEwxe",
+      "creator": "devil_sam24",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "It’s office time",
+      "description": "眼镜型男手势构图",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@devil_sam24",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "棚拍",
+      "image_description": "眼镜型男手势构图",
+      "copy_title": "单人男性+棚拍+眼镜型男手势构图+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRGajVEwxe_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/threads_DfRGajVEwxe_1.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfQ8E34oFIT",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@yogi00053/post/DfQ8E34oFIT",
+      "creator": "yogi00053",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "Create a stunning, high-quality full size body portrait. Use the reference image Man's Original face 💯 and don't use reference image hairstyle. Use the reference image women face 💯. Her Attires: A beautiful young woman with long, flowing dark brown hair, soft makeup. She is wearing a luxurious deep burgundy evening gown featuring intricate floral beadwork, sparkling crystals and delicate embroidery. Add matching crystal earrings, gold necklace and a stylish golden wristwatch.",
+      "description": "酒红礼服节日合照",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@yogi00053",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "棚拍",
+      "image_description": "酒红礼服节日合照",
+      "copy_title": "情侣+棚拍+酒红礼服节日合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfQ8E34oFIT_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/threads_DfQ8E34oFIT_1.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRkBXjoCYT",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@yogi00053/post/DfRkBXjoCYT",
+      "creator": "yogi00053",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "Create a highly photo-realistic professional studio full size body portrait. Use the reference image Man's Original face 💯 and don't use reference image hairstyle. Use the reference image women face 💯. An Indian couple posing together against a dark teal and black textured backdrop. His physique: A handsome man is tall and athletic physique, muscular physique with a sharp jawline and broad shoulders. His Hairstyle:",
+      "description": "墨绿金边纱丽合影",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@yogi00053",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "纱丽",
+      "image_description": "墨绿金边纱丽合影",
+      "copy_title": "情侣+纱丽+墨绿金边纱丽合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRkBXjoCYT_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/threads_DfRkBXjoCYT_1.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfReRvTlH7h",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@santhosh_shiva11/post/DfReRvTlH7h",
+      "creator": "santhosh_shiva11",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "I came here in threads to share a little creativity, never knowing how many beautiful hearts  I would connect with.💓 Thank you for making it 4 million! 🥰🍃✨\n\n#4MillionFollowers  #GratefulHeart #ThankYouEveryone #ThreadsCommunity  #CreativeJourney  #AICommunity #ForeverGrateful #MilestoneCelebration #WithLove ❤️\n\nPrompt @santhosh_shiva11 Create a premium 9:16 vertical luxury editorial campaign celebrating a milestone of 4 million followers on Threads.",
+      "description": "巨笔环绕庆粉贺图",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@santhosh_shiva11",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "巨笔环绕庆粉贺图",
+      "copy_title": "单人女性+海报+巨笔环绕庆粉贺图+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfReRvTlH7h_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRuoegDZkO",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@santhosh_shiva11/post/DfRuoegDZkO",
+      "creator": "santhosh_shiva11",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "Classic 60s glam is officially back.. 🎀✨\n\n Prompt: Waist-up portrait of a young woman with medium warm skin tone, large expressive brown eyes, soft glam makeup with winged eyeliner and rose lips, small black bindi on her forehead, gently smiling and gazing slightly off-camera; long dark hair styled in a high ponytail with short wispy bangs and a pink ribbon, a delicate white flower tucked behind one ear.",
+      "description": "粉纱复古发带肖像",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@santhosh_shiva11",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "粉纱复古发带肖像",
+      "copy_title": "单人女性+棚拍+粉纱复古发带肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRuoegDZkO_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfE5v1-D-tp",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@santhosh_shiva11/post/DfE5v1-D-tp",
+      "creator": "santhosh_shiva11",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "The quietest moments always hold the most secrets.🧡\nWith dear friend @loveismylife240 \n\nPromot: Create an ultra-realistic cinematic romantic portrait of a young South Asian couple standing closely together beside a textured stone wall in a warmly illuminated evening setting. The male wears a relaxed black button-down shirt with light-blue jeans, a silver wristwatch and subtle chain.",
+      "description": "夜街粉裙四格合照",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@santhosh_shiva11",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "夜街粉裙四格合照",
+      "copy_title": "情侣+多宫格+夜街粉裙四格合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:53:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfE5v1-D-tp_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfPVjWBn1HL",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@official_suvankar_guitarist/post/DfPVjWBn1HL",
+      "creator": "official_suvankar_guitarist",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "@meta.ai ▓▓ ⬇️ \nMaintain the same face and person (use attached photo for accurate face Hyper-realistic cinematic) Ultra-realistic Convert the uploaded photo into a full body Cinematic, moody night portrait of a beautiful happy young @priyankavyas3691 ▓▓▓▓ wearing a short white dress with small flowers on the hem with an open shoulder, smart watch in one hand.She holding a large bouquet of clear, glowing LED big bobo balloons.\nFeaturing-The background is a bustling, blurred night market (bokeh).",
+      "description": "夜市蓝光礼服",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@official_suvankar_guitarist",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "夜市蓝光礼服",
+      "copy_title": "单人女性+海报+夜市蓝光礼服+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:52:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfPVjWBn1HL_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfP2TIGnwvd",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@official_suvankar_guitarist/post/DfP2TIGnwvd",
+      "creator": "official_suvankar_guitarist",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "@meta.ai ▓▓▓, PHOTOREALISTIC CINEMATIC NIGHTTIME COUPLE PORTRAIT — SAME ORIGINAL IMAGE RECREATION Recreate the uploaded reference image as closely as possible. Use the original photograph as the exact visual reference for both the @official_suvankar_guitarist▓▓▓ ▓▓ and my love @ayushi.glam.vibe ▓▓▓▓. Preserve their original facial identities, natural skin tones, hairstyles, facial features, body proportions, clothing, sitting positions, expressions, and the entire nighttime cityscape.",
+      "description": "夜景双人情歌封面",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@official_suvankar_guitarist",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "海报",
+      "image_description": "夜景双人情歌封面",
+      "copy_title": "情侣+海报+夜景双人情歌封面+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:52:53+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfP2TIGnwvd_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfROQpEoe2y",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@official_suvankar_guitarist/post/DfROQpEoe2y",
+      "creator": "official_suvankar_guitarist",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "@meta.ai ▓▓▓▓: AI Photo Prompt: Create an ultra-realistic cinematic 8K HD photograph of me and my beautiful wife decorating the rooftop of our huge, luxurious, beautiful family house for Kali Puja. I am standing on a safe step ladder, carefully hanging colorful LED fairy lights around the rooftop, while my wife stands beside me, smiling and lovingly helping me arrange the lights. Both of us are enjoying the festive preparations together.",
+      "description": "露台梯旁温柔对望",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@official_suvankar_guitarist",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "露台梯旁温柔对望",
+      "copy_title": "情侣+亲密互动+露台梯旁温柔对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:52:48+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfROQpEoe2y_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRksfvn3kE",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@official_suvankar_guitarist/post/DfRksfvn3kE",
+      "creator": "official_suvankar_guitarist",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T23:52:33+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T23:52:33+00:00",
+      "caption": "@meta.ai ▓▓▓▓my love @ayushi.glam.vibe ▓▓ 🫂 Realistic candid photo of a young Indian couple in a tight hug, the man in a white linen shirt with rolled sleeves gently kissing the woman's cheek, the woman in a navy blue shirt smiling softly with closed eyes, long wavy dark hair, he holds a phone with a heart-sticker case.",
+      "description": "窗边贴面轻吻",
+      "recommendation_reason": "India-market suitability, not an inference of nationality: Indian-language / Indian creator prompt context, realistic people and locally usable portrait, couple or wedding design; no clearly incompatible market signal.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@official_suvankar_guitarist",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "窗边贴面轻吻",
+      "copy_title": "情侣+拥抱+窗边贴面轻吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T23:52:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRksfvn3kE_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DfHrwD0Gr-N",
       "platform": "instagram",
