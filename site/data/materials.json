@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T09:23:24+00:00",
+  "generated_at": "2026-11-03T12:44:12+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,12 +48,800 @@
     ]
   },
   "export_stats": {
-    "formal": 433,
+    "formal": 446,
     "candidates": 111,
-    "confirmed_duplicates_skipped": 91,
+    "confirmed_duplicates_skipped": 104,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "instagram:DfHrwD0Gr-N",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfHrwD0Gr-N/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "promptfyai on October 30, 2026: \"🌿✨ Simplicity, grace, and a touch of Kerala beauty 🤍🌼\n\nPrompt Code: P-05712660 \n\n#keralasaree #traditionallook #keralabeauty #ethnicwear #sareelovers #southindianbeauty #desielegance #IndianFashion #AestheticVibes #promptfyai\".",
+      "description": "河畔白金纱丽",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "河畔白金纱丽",
+      "copy_title": "单人女性+纱丽+河畔白金纱丽+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:44:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfHrwD0Gr-N_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfKPJr_Gpu1",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfKPJr_Gpu1/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "promptfyai on October 31, 2026: \"A moment where beauty meets the serenity of nature. 🤍🌿\n\nPrompt Code: P-98338182\n\n#lotuslove #floralportrait #indianbeauty #ethnicelegance #traditionallook #indianfashion #portraitphotography #aestheticportrait #natureandbeauty #pinklotus #keralavibes #southindianbeauty #ethnicfashion #cinematicportrait #photographylovers #instaportrait #portraitinspiration #dreamyaesthetic #trendingréels\".",
+      "description": "粉荷人像撕纸拼贴",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "粉荷人像撕纸拼贴",
+      "copy_title": "单人女性+拼贴+粉荷人像撕纸拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:44:00+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfKPJr_Gpu1_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfOtRCPGqvV",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfOtRCPGqvV/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "promptfyai on November 1, 2026: \"Wrapped in tradition, glowing with grace, and blooming with the beauty of Kerala's timeless charm. 🤍🌸\n\nPrompt Code: P-42997176\n\n#keralabeauty #traditionallook #southindianbeauty #keralasaree #kasavusaree #desielegance #ethnicwear #traditionalvibes #malayalibeauty #indianwoman #sareelover #goldenelegance #naturalbeauty #culturalcharm #gracefullook #indiantraditionalwear #keralastyle #sareequeen #portraitphotography #timelessbeauty\".",
+      "description": "绿金纱丽花簪",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "纱丽",
+      "image_description": "绿金纱丽花簪",
+      "copy_title": "单人女性+纱丽+绿金纱丽花簪+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "纱丽"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:56+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfOtRCPGqvV_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRJwwmCIdt",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ayushi.glam.vibe/post/DfRJwwmCIdt",
+      "creator": "ayushi.glam.vibe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "@meta.ai With my cute didi @priyankavyas3691 🥰 Create a photorealistic real photo of two Indian young women friends under a clear umbrella in rain on a cherry blossom street. Use the exact same face from the reference photo I uploaded, 100% same face, both with pure BLACK hair, NO pink hair, keep hair black only. Girl left: black hair long wavy with pink rose and bow clip, white and pink frilly lolita dress with big bow on chest, ruffle sleeves, pearl choker necklace, pink handbag with bow.",
+      "description": "樱花雨街共撑伞",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ayushi.glam.vibe",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "花海",
+      "image_description": "樱花雨街共撑伞",
+      "copy_title": "朋友+花海+樱花雨街共撑伞+图片+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "花海"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:52+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRJwwmCIdt_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRN6tHk2qI",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ayushi.glam.vibe/post/DfRN6tHk2qI",
+      "creator": "ayushi.glam.vibe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "With my best friend @manojnakti1401 Create a photorealistic cinematic romantic poster, exact same pose, outfits and background as reference, warm golden sunlight through window, soft floral foreground with pink and white flowers blurred. Man behind: wearing black coat over black shirt, messy black curly hair, trimmed beard, looking to side with soft expression.",
+      "description": "暖窗花影相拥",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ayushi.glam.vibe",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "暖窗花影相拥",
+      "copy_title": "情侣+拥抱+暖窗花影相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:49+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRN6tHk2qI_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/threads_DfRN6tHk2qI_1.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRPrMPE8rg",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ayushi.glam.vibe/post/DfRPrMPE8rg",
+      "creator": "ayushi.glam.vibe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "@meta.ai \nWith my love @official_suvankar_guitarist 💕 @ayushi.glam.vibe ❤️❤️❤️\nA beautiful young romantic couple sitting closely together, handsome Indian man in early 20s with messy curly hair, light stubble beard, wearing royal blue open shirt over white t-shirt, silver chain necklace and bracelet, smiling, and a beautiful Indian woman with long black hair, wearing royal blue blazer and white high-neck top, resting her head on the man's shoulder, hand on chin, soft smile, inside a large",
+      "description": "霓虹花环情侣拼贴",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ayushi.glam.vibe",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "海报",
+      "image_description": "霓虹花环情侣拼贴",
+      "copy_title": "情侣+海报+霓虹花环情侣拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRPrMPE8rg_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:395beb1354b323e97dd449dd",
+      "platform": "other",
+      "post_url": "https://snapchat.com/@casthana1/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZXlmYWJlZHJqAaD2BfFGAaD2BfEqAAAAAw",
+      "creator": "casthana1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": 22.105011,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "Stories\nSpotlight\nChat\nLenses\nSnapchat+\nSnapchat Ads\nDownload\nLog In\nLike\n10\nComment\n1\nRecommend\nShare\n4\nCopy link\nEmbed\nMore options\nChitransh Asthana\nOct 1, 2026\n\nLove is the gift 💝 keep it safe 💫 made it with #ai #AIVideo #AICouple #AITransformation #SnapchatSpotlight #AICreator #spotlight #snapchat\n\nOriginal Sound\ncasthana1\nComments\nUp Next\nComments\nUmaera\n·\n4w\n\nAm(A)z(I)ng🔥😭\n\nReply\nSign in to comment\nUp next\nView More\nPrivacy Policy\nTerms of Service\nFunny Videos\nExplore Topics",
+      "description": "夜站奔向恋人重逢",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.snapchat.com/@casthana1",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "夜站奔向恋人重逢",
+      "copy_title": "情侣+拥抱+夜站奔向恋人重逢+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_395beb1354b323e97dd449dd_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:a59c00e52544b0f7915c4dd0",
+      "platform": "other",
+      "post_url": "https://snapchat.com/@casthana1/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYdHllcXJrY3RwAaClbKaeAaClbKaFAAAAAQ",
+      "creator": "casthana1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": 15.066667,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "Stories\nSpotlight\nChat\nLenses\nSnapchat+\nSnapchat Ads\nDownload\nLog In\nLike\n616\nComment\nRecommend\n30\nShare\n10\nCopy link\nEmbed\nMore options\nChitransh Asthana\nSep 15, 2026\n\n❤️ sun sathiya ✨ AI made this dance video 🤯🔥Would you try this? 👀 #sun sathiya #AIDance #AIVideo #Bollywood #AI #Spotlight #Snapchat #Trending\n\nOriginal Sound\ncasthana1\nRelated:\nhow to create spotlight effect\ncouple dance tutorial\ncreative dance ideas\ndance rehearsal tips\ndance for beginners\nlearn choreography\nComments\nUp Next\nDetails\nComments\nBe the first to comment!\nSign in to comment\nUp next\nView More\nDetails\nPrivacy Policy\nTerms of Service\nFunny Videos\nExplore Topics",
+      "description": "暗金双人同步转身",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.snapchat.com/@casthana1",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "舞蹈",
+      "image_description": "暗金双人同步转身",
+      "copy_title": "情侣+舞蹈+暗金双人同步转身+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_a59c00e52544b0f7915c4dd0_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:33936d3f23bcd2b197a8a307",
+      "platform": "other",
+      "post_url": "https://snapchat.com/@casthana1/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYcnRiYWdyY2lsAaCgmr8uAaCgmr8TAAAAAQ",
+      "creator": "casthana1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": 15.043878,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "Stories\nSpotlight\nChat\nLenses\nSnapchat+\nSnapchat Ads\nDownload\nLog In\nLike\n15K\nComment\n59\nRecommend\n1.2K\nShare\n4.2K\nCopy link\nEmbed\nMore options\nChitransh Asthana\nSep 14, 2026\n\n❤️ Janam Janam ✨AI made this dance video 🤯🔥Would you try this? 👀 #JanamJanam #AIDance #AIVideo #Bollywood #AI #Trending #Spotlight #Snapchat\n\ncasthana1\nContains: Janam Janam - Pritam;Arijit Singh;Antara Mitra\nRelated:\nhow to dance with partner\ndance moves tutorial\ncreative dance ideas\nlearn dance moves\ndance costume ideas\nstage performance tips\nComments\nUp Next\nDetails\nComments\n🦢\n·\n6w\n\nI thought she is dure fishan 🤦🏻\n\nReply\nView 4 replies\n\n4\n\n𝑼𝒏𝒌𝒏𝒐𝒘𝒏 🖤🥀\n·\n7w\n\nIts real??\n\nReply\nView 2 replies\n\n3\n\nÚñïqµê_girl119🐼\n·\n6w\n\nAi h😂😂\n\nReply\n\n4\n\nFuture\n·\n6w\n\nIts ai my bro😂\n\nReply\n\n3\n\nD££P 🖤\n·\n1w\n\nWanna recreate 🫠😍😍💗\n\nReply\nRoSe🌷leadY\n·\n3w\n\nmy fvrt Dance 😍😍😍\n\nReply\nTabasoom\n·\n5w\n\nNo it's Ai\n\nReply\n✈🎭\n·\n3w\n\nFrma name\n\nReply\nFatima Malik❤️\n·\n6w\n\nlook like jaggi and kartika❤️\n\nReply\nصiaمa عlی \n·\n6w\n\nI think Haniya\n\nReply\n\n10\n\nR\n·\n3d\n\nM❤️❤️❤️❤️❤️❤️\n\nReply\nصiaمa عlی \n·\n6w\n\nHaniya Aamir\n\nReply\n\n1\n\nAnnu Gudi💕\n·\n1w\n\nIs it hania\n\nReply\nMiss Cute Girl 🥰💕\n·\n3w\n\nWaooo ❤️❤️❤️\n\nReply\n~UNKNOWN\n·\n3w\n\nNo hania aimir ha orya real ha\n\nReply\nMukesh Singh 64 Mukesh Rajput\n·\n1w\n\n❤️❤️😍😍😂😂\n\nReply\nKanak Meeणा😇🎧\n·\n3w\n\nHania Amir\n\nReply\nPratiksha\n·\n4w\n\nKb tk bs aise dekhte rhege single baithe baithe ye meri feed mujhe mar dalegi kisi din😭😭\n\nReply\nGurjar\n·\n2w\n\nAi wali\n\nReply\nMd\n·\n1w\n\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n\nReply\nJyoti Kumari\n·\n1w\n\n😊😊😊😊\n\nReply\nView more\nSign in to comment\nUp next\nView More\nDetails\nPrivacy Policy\nTerms of Service\nFunny Videos\nExplore Topics",
+      "description": "红裙舞台双人旋转",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.snapchat.com/@casthana1",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "舞蹈",
+      "image_description": "红裙舞台双人旋转",
+      "copy_title": "情侣+舞蹈+红裙舞台双人旋转+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_33936d3f23bcd2b197a8a307_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfDmghPk44m",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ratu_sary/post/DfDmghPk44m",
+      "creator": "ratu_sary",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "Prompt siap pakai: Potret ultra-realistis 8K rasio 9:16, seorang wanita Muslimah dewasa mengenakan hijab satin berwarna peach aprikot yang dibalut rapi dan cadar transparan senada berhias kilauan halus. Bagian dahi dihiasi aksesori mutiara putih dengan ornamen permata berkilau di tengah, serta anting berlian elegan. Matanya indah dengan makeup glamor, eyeliner tegas, bulu mata lentik, dan alis rapi. Mengenakan gaun panjang peach mewah berlengan lebar, dihiasi bordir perak, kristal, manik-manik, dan payet berkilauan. Kedua tangan bertumpuk anggun di depan tubuh. Latar belakang gradasi biru muda lembut, pencahayaan studio halus, detail kain sangat realistis, elegan, mewah, fokus tajam, kualitas fotografi profesional.",
+      "description": "桃色珠饰面纱",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ratu_sary",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "桃色珠饰面纱",
+      "copy_title": "单人女性+棚拍+桃色珠饰面纱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:32+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfDmghPk44m_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRKY54iBjW",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DfRKY54iBjW",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "\"SILENT CONFIDENCE, LOUD STYLE\" Prompt by: @manojnakti1401 ​{ \"design_type\": \"Ultra-Realistic Cinematic Attitude Portrait\", \"prompt\": \"Create an ultra-realistic, full-body cinematic portrait of a stylish young man standing with his back slightly turned while looking confidently over his shoulder toward the camera. He wears a black fitted shirt with rolled-up sleeves, featuring a large, highly detailed, roaring lion face graphic printed on the back.",
+      "description": "红蓝光狮纹衬衫",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "纯色暗调",
+      "image_description": "红蓝光狮纹衬衫",
+      "copy_title": "单人男性+纯色暗调+红蓝光狮纹衬衫+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "纯色暗调"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:28+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRKY54iBjW_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRTHh0CEc_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DfRTHh0CEc_",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "\"Two hearts became one, and then we became three.\"\n@priyankavyas3691 & @manojnakti1401 \nKeep 100 percent exact facial features and figures as attached images. { \"design_type\": \"Luxury Indian Wedding Family Portrait\", \"style\": \"Ultra-Realistic Cinematic Photography\", \"aspect_ratio\": \"9:16\", \"quality\": \"8K Ultra HD\", \"prompt\": \"Create a breathtaking, photorealistic portrait of a beautiful young family of three at a luxurious Indian wedding celebration.",
+      "description": "婚宴灯下抱女儿",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "拥抱",
+      "image_description": "婚宴灯下抱女儿",
+      "copy_title": "亲子家庭+拥抱+婚宴灯下抱女儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:25+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRTHh0CEc__0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRWu0diAwc",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DfRWu0diAwc",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03T12:43:14+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03T12:43:14+00:00",
+      "caption": "\"Welcome to our Duck Theme Park\" 🦆 @manojnakti1401 & @ayushi.glam.vibe { \"design_type\": \"Cute Duck Theme Park Couple Photoshoot\", \"prompt\": \"Create an ultra-realistic full-body couple portrait at a colorful Duck Theme Park. The man wears a cream oversized duck-print sweatshirt, mustard shorts, and yellow duck sunglasses. The woman wears a matching cream duck-print sweatshirt, mustard mini skirt with white lace trim, yellow duck headband, and carries a cute duck-decorated handbag.",
+      "description": "萌鸭乐园同款穿搭",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "萌鸭乐园同款穿搭",
+      "copy_title": "情侣+亲密互动+萌鸭乐园同款穿搭+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-03T12:43:21+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRWu0diAwc_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "threads:DfFmlNHk_mo",
       "platform": "threads",
