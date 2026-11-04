@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T23:54:41+00:00",
+  "generated_at": "2026-11-04T01:26:06+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -48,9 +48,9 @@
     ]
   },
   "export_stats": {
-    "formal": 466,
-    "candidates": 111,
-    "confirmed_duplicates_skipped": 124,
+    "formal": 493,
+    "candidates": 129,
+    "confirmed_duplicates_skipped": 151,
     "suspected_duplicates_included": 1
   },
   "materials": [
@@ -2204,6 +2204,1626 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/threads_DfRZNgriIci_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DZJ_2gfEbLo",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@iramyrna24/post/DZJ_2gfEbLo",
+      "creator": "iramyrna24",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Batiknya kece amat 😍\nPrompt nya ada di bawah ya ⬇️",
+      "description": "爪哇蜡染裙坐姿",
+      "recommendation_reason": "黑蕾丝金花刺绣 kebaya 配黑金 batik 沙龙、金饰与雕花木椅的影棚坐姿，暖光氛围完整，是少见的高完成度 kebaya 成人女性模板；着装端庄。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@iramyrna24",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "爪哇蜡染裙坐姿",
+      "copy_title": "单人女性+棚拍+爪哇蜡染裙坐姿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DZJ_2gfEbLo_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dd5pErIkUy_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/Dd5pErIkUy_",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Hangatnya Senyum Di Siang Hari ☀️\n\nDi antara helai daun yang berbisik pelan pada angin hari, senyum ini merekah layaknya bunga yang menyambut mentari.\nIngin tahu cara menangkap cahaya seindah ini dalam kata? Cek replies, ya, ada prompt-nya untukmu.\n\n#kucingkucing #HijabIndonesia #MorningVibes #CahayaIndonesia #SenyumDamai",
+      "description": "花园米色头巾微笑",
+      "recommendation_reason": "休闲头巾方向：米色头巾、锈红长袖上衣配米色内搭与橄榄绿工装裤的花园户外写真，宽松得体，日常可复刻；本账号在本批仅占 1 条。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "花园米色头巾微笑",
+      "copy_title": "单人女性+耍帅+花园米色头巾微笑+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dd5pErIkUy__0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2917460221972101",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/sri.ayati.376/posts/2917460221972101/",
+      "creator": "Sri Ayati",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "2 hasil 1 prompt suka banget hasil nya 🥰\n\nPrompt pengantin couple by Sri Ayati \n\nIndonesian muslim modern wedding couple, groom standing wearing light grey three-piece suit with patterned blue tie,...",
+      "description": "银灰婚礼情侣舞台像",
+      "recommendation_reason": "多图单帖（轮播 2 张同主题变体）：银灰闪光 kebaya + 头巾 + 面纱新娘与浅灰三件套新郎的豪华婚礼舞台像，填补穆斯林婚礼情侣方向。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://facebook.com/sri.ayati.376",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "棚拍",
+      "image_description": "银灰婚礼情侣舞台像",
+      "copy_title": "情侣+棚拍+银灰婚礼情侣舞台像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_2917460221972101_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRjOxwmu5N",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@luthfianfani/post/DfRjOxwmu5N",
+      "creator": "luthfianfani",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Walaupun cuma AI tapi sukaaaaa bgtttt, seneng jadi punya foto yg properrr nih aku&suamikk ❤️",
+      "description": "黑西装藕荷头巾情侣",
+      "recommendation_reason": "2026-11-03 当天新帖，黑西装丈夫 + 藕荷色头巾蕾丝裙妻子的白底影棚情侣像，端庄简洁，夫妻用户照片可直接复刻。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@luthfianfani",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "棚拍",
+      "image_description": "黑西装藕荷头巾情侣",
+      "copy_title": "情侣+棚拍+黑西装藕荷头巾情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRjOxwmu5N_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2205914910805233",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/1354215335975199/posts/2205914910805233/",
+      "creator": "Sri Ayati",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Yang request foto keluarga \nAyah Ibu ,anak cowo cewe \nPrompt by Sri Ayati \nMaaf tidak open edit\nBoleh save untuk bahan swap wajah \n\nProfessional studio family portrait of an Indonesian family of...",
+      "description": "爪哇传统一家四口",
+      "recommendation_reason": "父亲、头巾母亲、少女、幼子（戴 blangkon）四口爪哇传统正装影棚像，文化元素密集且得体，是本轮文化辨识度最高的家庭项；作者已声明不再接单，故按成图模板而非服务广告计。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://facebook.com/sri.ayati.376",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "棚拍",
+      "image_description": "爪哇传统一家四口",
+      "copy_title": "亲子家庭+棚拍+爪哇传统一家四口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_2205914910805233_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dedy_8TmgNd",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@fitriabudiii/post/Dedy_8TmgNd",
+      "creator": "fitriabudiii",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "yaampun! Prompt apa lagi sih ini cakep banget 😍\nfix gausah ke studio foto keluarga cemara. wkwk! cuman pake prompt dah jadi! HD pulaaa 🙂‍↔️✨\ncanggih emang! 🤣",
+      "description": "淡黄巴迪克一家四口",
+      "recommendation_reason": "淡黄传统服饰 + 棕色 batik 沙龙的一家四口影棚像，含抱婴儿母亲与幼子，配色统一、得体，是可直接复刻的家庭模板。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@fitriabudiii",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "棚拍",
+      "image_description": "淡黄巴迪克一家四口",
+      "copy_title": "亲子家庭+棚拍+淡黄巴迪克一家四口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dedy_8TmgNd_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeO8jq3E0mY",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@meisyaadityasesyar/post/DeO8jq3E0mY",
+      "creator": "meisyaadityasesyar",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Foto yg gapernah jadi nyata hehehe. \nThank you AI",
+      "description": "八口之家影棚合影",
+      "recommendation_reason": "八人大家庭影棚合影（警察制服父亲、两名头巾女性、婴儿、少年少女同框），一次填补大家庭方向，面部与站位完整，普通用户全家福照片可 plausibly 生成。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@meisyaadityasesyar",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "棚拍",
+      "image_description": "八口之家影棚合影",
+      "copy_title": "亲子家庭+棚拍+八口之家影棚合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeO8jq3E0mY_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DXOqh_FGB3g",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@roseptika/post/DXOqh_FGB3g",
+      "creator": "roseptika",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Ini mah gausah prewed mahal mahal ga si? Pake AI jd cakep sama realistic woy",
+      "description": "黑衣花墙婚礼合影",
+      "recommendation_reason": "情侣方向：黑衣黑头巾新娘与黑衣新郎牵手，配白牡丹与绣球花墙、灰墙影棚光，端庄的婚礼合影模板，直接对应 prewedding 平替需求，复刻路径清晰。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@roseptika",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "黑衣花墙婚礼合影",
+      "copy_title": "情侣+亲密互动+黑衣花墙婚礼合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DXOqh_FGB3g_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfEGwoNGlNq",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@taniaamxx/post/DfEGwoNGlNq",
+      "creator": "taniaamxx",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Ikitan prompt cakep juga hasilnya, ya meskipun ai 🤣",
+      "description": "紫色蕾丝头巾棚拍",
+      "recommendation_reason": "近期（2026-10-28）深紫头巾配同色蕾丝绣花长袖裙、金色胸针的白底棚拍，简洁端庄，适合头巾颜色与蕾丝款式模板。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@taniaamxx",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "紫色蕾丝头巾棚拍",
+      "copy_title": "单人女性+棚拍+紫色蕾丝头巾棚拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfEGwoNGlNq_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DaqIHFuAcvh",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@veyvalentania/post/DaqIHFuAcvh",
+      "creator": "veyvalentania",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Prompt: @heymee_401",
+      "description": "白蕾丝卡巴雅新娘",
+      "recommendation_reason": "黑底影棚白蕾丝 kebaya 新娘像：茉莉花饰盘发、银饰、batik 沙龙，柔和轮廓光，填补 kebaya 新娘（非头巾）方向，造型端庄可复刻。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@veyvalentania",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "白蕾丝卡巴雅新娘",
+      "copy_title": "单人女性+棚拍+白蕾丝卡巴雅新娘+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DaqIHFuAcvh_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DcGsLpWnbNy",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mrclskha/post/DcGsLpWnbNy",
+      "creator": "mrclskha",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Prompt Gambar Create a luxury Indonesian fashion editorial portrait in a vertical 9:16 composition, photographed from a dramatic high-angle top-down perspective. A beautiful young Indonesian Muslim woman is seated gracefully on a clean white studio floor, looking directly up toward the camera with a soft, elegant, confident expression. She wears a smooth ivory-white hijab wrapped neatly around her head and neck, decorated with a delicate gold floral hair ornament positioned beside the hijab.",
+      "description": "红白绣花卡巴雅影棚",
+      "recommendation_reason": "白色影棚地面上的高角度时尚编辑照：象牙白头巾配金色花饰、白缎 kebaya、深酒红束身绣花上衣与 batik 沙龙，传统与高定结合，视觉层次强，可作 kebaya 影棚模板。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mrclskha",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "红白绣花卡巴雅影棚",
+      "copy_title": "单人女性+棚拍+红白绣花卡巴雅影棚+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DcGsLpWnbNy_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DScffwLkvtf",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DScffwLkvtf/",
+      "creator": "fauzyzie",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "1 likes, 2 comments - fauzyzie on December 19, 2025: \"🔴 Who wants the prompt ➡️ Check the comments column ⬇️\n\n==========================================\n#Ai #tutorials #GeminiAi #nanobanana #hijabtraveler #DiengPlateau #Indonesia\".",
+      "description": "迪恩高原雾中头巾",
+      "recommendation_reason": "雾中山地梯田前的 dusty-rose 头巾加针织围巾、深色羽绒服写真，印尼地标明确，普通用户照片可 plausibly 生成为旅行写真模板；得体，面部保留。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/fauzyzie",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "耍帅",
+      "image_description": "迪恩高原雾中头巾",
+      "copy_title": "单人女性+耍帅+迪恩高原雾中头巾+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DScffwLkvtf_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcyUMo5GoG7",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcyUMo5GoG7/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "promptfyai on September 2, 2026: \"Some moments are meant to be felt, not posed. ❤️✨\n\nPrompt Code: P-6WZ949VH \n\n#couplephoto #couples #aiphotography #aiphoto #photoediting #aiimagegeneration \n#aiphotoedit #trendingsongs❤️ \n#coupleedits💍 #aiartist #aigenerated \n#couplephoto #CinematicAI\n#photography📷 #southindiancouple \n#keralacouple #keralasaree \n#couplephotography \n#cinematiccouple \n#couplegoals❤\".",
+      "description": "喀拉拉传统对笑情侣",
+      "recommendation_reason": "藏青衬衫+白 mundu 金边男子与米白纱丽绿 blouse 茉莉花女子灰墙前对笑，喀拉拉传统情侣像，地域特色强；仅因 AI 证据为标签级列为待定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "喀拉拉传统对笑情侣",
+      "copy_title": "情侣+亲密互动+喀拉拉传统对笑情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcyUMo5GoG7_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DenXji-GVqA",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@vicky_jack0.2/post/DenXji-GVqA",
+      "creator": "vicky_jack0.2",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Prompt ❤️👇@vicky_jack0.2 \n\nPhotorealistic close-up of a handsome  Indian man with full dark beard, voluminous natural brown hair with highlights. Wearing black sunglasses with blue reflective lenses, holding the frame with one hand, looking sideways confidently. Bright turquoise graphic jacket over black t-shirt. Sharp details, natural lighting, fashion photography style. No Face Change Age 18",
+      "description": "蓝镜青绿夹克男像",
+      "recommendation_reason": "蓝镜墨镜+亮绿花纹衬衫+络腮胡的户外男士特写，色彩对比强，墨镜方向的撞色版。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@vicky_jack0.2",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "蓝镜青绿夹克男像",
+      "copy_title": "单人男性+墨镜+蓝镜青绿夹克男像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DenXji-GVqA_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfJq5uroJUB",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@pappu_premi_66/post/DfJq5uroJUB",
+      "creator": "pappu_premi_66",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Create an ultra-realistic 8K full-body portrait of the same young Indian boy the reference photo. Preserve exact face, hairstyle, beard, skin tone, and identity. Wearing a black wool shawl with subtle brown paisley embroidery and fringed borders, black T-shirt, black trousers, sunglasses, black wristwatch, and white sneakers. One hand holding the shawl near the chest, the other in the pocket, one foot forward, head slightly turned sideways.9:16.",
+      "description": "黑衣披肩甘蔗田男",
+      "recommendation_reason": "全黑+棕纹披肩+墨镜+白球鞋的甘蔗田全身男像，fit check 式时尚展示，耍帅方向的具体场景版。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@pappu_premi_66",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "黑衣披肩甘蔗田男",
+      "copy_title": "单人男性+耍帅+黑衣披肩甘蔗田男+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfJq5uroJUB_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DexEYO9k57H",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sagir_786/post/DexEYO9k57H",
+      "creator": "sagir_786",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Ultra-realistic 4K double-exposure portrait of a stylish Indian man with beard. Background: giant close-up with black sunglasses and black jacket with red lining. Foreground: standing pose in navy blue jacket, white T-shirt, and jeans. Soft lighting, cinematic, 4k resolution --ar 4:5",
+      "description": "双重曝光墨镜男像",
+      "recommendation_reason": "巨型墨镜特写背景+全身前景的双重曝光男像，藏青飞行夹克+牛仔裤，属本轮优先的拼贴方向在男像上的应用，形式新颖。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sagir_786",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "拼贴",
+      "image_description": "双重曝光墨镜男像",
+      "copy_title": "单人男性+拼贴+双重曝光墨镜男像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DexEYO9k57H_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeyxOMAnwUq",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@biru.babu2025/post/DeyxOMAnwUq",
+      "creator": "biru.babu2025",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "prompt ✨ 👇 ✨ 😍 🎉 \nUltra-Realistic Romantic Indian Couple Portrait\", \"style\": \"Photorealistic, cinematic, black-and-white photography\", \"aspect_ratio\": \"3:4\", \"quality\": \"8K Ultra HD, DSLR quality, sharp focus\", \"couple\": { \"man\": { \"appearance\": \"Young Indian man \"outfit\": \"White formal shirt with sleeves rolled up, black trousers.\", \"pose\": \"Standing close to the woman, gently holding the back of her head with one hand while embracing her with the other.\" }, \"woman\": {",
+      "description": "黑白楼梯深情吻",
+      "recommendation_reason": "黑白楼梯深情吻情侣像，白衬衫男+黑衣女全身着装得体，黑白摄影方向的情侣版，区别于彩色情侣照。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@biru.babu2025",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "黑白摄影",
+      "image_description": "黑白楼梯深情吻",
+      "copy_title": "情侣+黑白摄影+黑白楼梯深情吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "黑白摄影"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeyxOMAnwUq_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DePFOIJifNV",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@md_sharuk_shaikh__07/post/DePFOIJifNV",
+      "creator": "md_sharuk_shaikh__07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "#Ai Ultra-realistic high-quality portrait of a young Indian man standing in a vast green field filled with tall white feathery Kans grass flowers. Preserve the reference person's face, hairstyle, facial features, skin tone, body proportions, and identity exactly. He is wearing a black full-sleeve button-up shirt with an open collar, light blue jeans, black sunglasses, and a subtle chain. He stands naturally facing slightly sideways, looking downward toward the white grass flower in his hand.",
+      "description": "黑衣墨镜田野男像",
+      "recommendation_reason": "黑衬衫+墨镜+银链、手持 Kans 草的晴空田野男像，自然场景区别于影棚男像，墨镜方向的具体场景版。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@md_sharuk_shaikh__07",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "黑衣墨镜田野男像",
+      "copy_title": "单人男性+墨镜+黑衣墨镜田野男像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DePFOIJifNV_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeozDF8n5Mw",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sandip_mahato1st/post/DeozDF8n5Mw",
+      "creator": "sandip_mahato1st",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Tranding couples prompt 💯✅⤵️ \nIndian young couple @sandip_mahato1st  photoshoot, 6 poses grid collage on pure white background, man in pink and black check shirt, beige pants, white sneakers, woman in bright pink saree with golden border, long wavy hair with white gajra, red bangles and sindoor, romantic couple - selfie squatting, walking away holding hands, wearing sunglasses, walking together, talking on phone, pointing together, squatting pointing down, studio lighting, high detail",
+      "description": "白底六格情侣写真",
+      "recommendation_reason": "白底 3x2 六格情侣写真：粉黑格纹衬衫男+亮粉纱丽女，自拍、牵手远行、共扶墨镜等 6 姿势，属本轮优先的情侣+多宫格方向，点赞 2135 为本批情侣类最高之一。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sandip_mahato1st",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "白底六格情侣写真",
+      "copy_title": "情侣+多宫格+白底六格情侣写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeozDF8n5Mw_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdsOJDOk40s",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sandyboy1319/post/DdsOJDOk40s",
+      "creator": "sandyboy1319",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Prompt 👇 👇\nUltra-realistic portrait of a stylish young Indian man, same face and identity as reference, voluminous messy wavy black hair, black rectangular sunglasses, light beard and moustache, maroon textured open-collar shirt, silver earring and bracelets, one hand adjusting sunglasses, confident soft expression, blurred outdoor background with warm orange bokeh, cinematic lighting, shallow depth of field, DSLR look, highly detailed, 4K.",
+      "description": "酒红衬衫墨镜男像",
+      "recommendation_reason": "酒红开领衬衫+黑方框墨镜+扶镜动作的黄昏男像，暖调散景电影感，墨镜男像方向的干净版本。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sandyboy1319",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "酒红衬衫墨镜男像",
+      "copy_title": "单人男性+墨镜+酒红衬衫墨镜男像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdsOJDOk40s_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DebURlCiLfW",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mr.amolpatil_7171/post/DebURlCiLfW",
+      "creator": "mr.amolpatil_7171",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Prompt: Create an ultra-realistic, high-quality portrait photograph of a young Indian man standing casually outdoors in front of a modern building. He has thick, voluminous, dark black hair styled in a fashionable, swept-up quiff with a slightly messy texture and tapered sides. He has a youthful face, medium warm-brown skin, dark eyebrows, a light moustache, subtle facial hair, and a relaxed, confident expression.",
+      "description": "白Polo墨镜街头男",
+      "recommendation_reason": "白 Polo 条纹肩+牛仔裤+黑墨镜城市街头男像，tilak 细节，属低优先探索里的墨镜男像，造型干净具体。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mr.amolpatil_7171",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "墨镜",
+      "image_description": "白Polo墨镜街头男",
+      "copy_title": "单人男性+墨镜+白Polo墨镜街头男+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "墨镜"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DebURlCiLfW_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRJJlfjPsP",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@gb_creativeimages/post/DfRJJlfjPsP",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "#diwali #prompt #festival",
+      "description": "仙女棒排灯节全家",
+      "recommendation_reason": "米白统一着装四口之家手持仙女棒、金色散景+发光 Happy Diwali 字样，排灯节贺卡式全家福，昨日（11 月 2 日）最新。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@gb_creativeimages",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "排灯节",
+      "image_description": "仙女棒排灯节全家",
+      "copy_title": "亲子家庭+排灯节+仙女棒排灯节全家+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRJJlfjPsP_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:4045273009100306",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/pappu.thakur.296574/posts/4045273009100306/",
+      "creator": "pappu.thakur.296574",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "🤷‍♂️💥📌 𝐏𝐑𝐎𝐌𝐏𝐓 𝐏𝐈𝐍𝐍𝐄𝐃 𝐂𝐎𝐌𝐌𝐄𝐍𝐓 💥👇\n           🤷‍♂️👇 Good afternoon 👇🤷‍♂️\n    \n\n👇Create a photo from the prompt and post it in the comments section.👇\n.\n.\n.\n.\n #aiphotography \n #papputhakur #foryou...",
+      "description": "红纱丽剪贴簿拼贴",
+      "recommendation_reason": "剪贴簿风四格情侣拼贴：红纱丽+格纹衬衫户外四姿势，撕纸边+干花装饰，属本轮优先的情侣+拼贴方向，形式区别于白底多宫格。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/pappu.thakur.296574",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拼贴",
+      "image_description": "红纱丽双人剪贴簿",
+      "copy_title": "情侣+拼贴+红纱丽双人剪贴簿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_4045273009100306_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfBTMTAk_3N",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rohitdostboy0/post/DfBTMTAk_3N",
+      "creator": "rohitdostboy0",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Ultra-realistic 22K UHD cinematic romantic couple portrait of me and my girlfriend, using our uploaded photos as 100% exact face and identity references. Preserve both our facial structures, eyes, nose, lips, skin tones, and natural features exactly, with no beautification or identity changes. Keep my age 25, natural body proportions, beard, and default fade hairstyle exactly as in my reference photo.",
+      "description": "树下黑纱丽拥抱",
+      "recommendation_reason": "黑纱丽红 blouse 女子在前、男子身后环抱的树下拥抱像，属本轮优先的拥抱主题，姿势自然得体，近期（10 月 27 日）。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rohitdostboy0",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "树下黑纱丽拥抱",
+      "copy_title": "情侣+拥抱+树下黑纱丽拥抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfBTMTAk_3N_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfFj_LPE_-J",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ishan.edits94/post/DfFj_LPE_-J",
+      "creator": "ishan.edits94",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Create a 3x3 photo collage grid, 9 images of the SAME couple [use attached face references, keep faces identical in all 9] - South Asian couple, man and woman in late 20s. Golden hour beach sunset, wet reflective sand, sun in background. Different romantic poses: holding hands walking, man lifting woman, dancing twirl, sitting on sand hugging with bouquet, forehead to forehead hugging, piggyback, dipping kiss.",
+      "description": "海滩日落九宫格",
+      "recommendation_reason": "3x3 九宫格海滩日落情侣写真，牵手、托举、旋转、拥抱、额贴、背骑等 9 种姿势一次给全，是本轮优先的情侣+多宫格方向，近期（10 月 29 日）。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ishan.edits94",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "海滩日落九宫格",
+      "copy_title": "情侣+多宫格+海滩日落九宫格+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfFj_LPE_-J_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DcA8Ox2Dezz",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@cutie_28427/post/DcA8Ox2Dezz",
+      "creator": "cutie_28427",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Prompt:🇮🇳🇮🇳\n\"Beautiful Indian woman with long dark hair, smiling gently while kneeling on a pebble beach, wearing a vibrant yellow patterned kurta with white inner and brown dupatta. She holds sand in her hand, soft natural daylight, coastal cliffs in background, serene and joyful mood, photorealistic, cinematic, 8k.\"",
+      "description": "黄衣海滩拾沙女",
+      "recommendation_reason": "黄衣 kurta 卵石海滩拾沙肖像，海岸悬崖背景干净，属低优先探索里的海边单人像，构图具体不落俗。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@cutie_28427",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海边",
+      "image_description": "黄衣海滩拾沙女",
+      "copy_title": "单人女性+海边+黄衣海滩拾沙女+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海边"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DcA8Ox2Dezz_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DW1V5XUARV5",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ig.akash___10/post/DW1V5XUARV5",
+      "creator": "ig.akash___10",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-03",
+      "caption": "Prompt mom😌\n A realistic emotional portrait of an Indian mother and her son. The mother is wearing traditional Indian attire (saree), sitting on a wooden chair with a soft glowing halo light behind her head. The young man is sitting on the floor beside her, resting his head on her lap peacefully with eyes closed. The mother gently places her hand on his head with a loving expression. Soft cinematic lighting, warm tones, slightly dreamy atmosphere with small glowing particles in the air,",
+      "description": "母子光环深情像",
+      "recommendation_reason": "母亲纱丽端坐、成年儿子头枕膝上的光环深情像，母子情感浓度高，属本轮优先的亲子家庭方向；画面端庄，无暴露。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ig.akash___10",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲密互动",
+      "image_description": "母子光环深情像",
+      "copy_title": "亲子家庭+亲密互动+母子光环深情像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-04T01:25:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DW1V5XUARV5_0.webp",
           "preview_status": "verified",
           "result_status": "final_result",
           "visual_analysis": null
@@ -35324,6 +36944,1716 @@
           "kind": "image",
           "preview": "assets/instagram_Ddnxe61kihV_0.jpg",
           "preview_status": "image_http_200_verified",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:ei4b1DS4QCE",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/ei4b1DS4QCE",
+      "creator": "SSfunnyvideo-tg3by",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Muse交付真人实拍剧情；保留待分类，不标为AI视频。",
+      "recommendation_reason": "丛林中少年警察追捕条纹衫男子，结尾倒挂树上喜剧被擒，无对白可懂",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@SSfunnyvideo-tg3by",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 3095,
+        "comments": 27,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 3095,
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 3095,
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 3095,
+          "comments": 27,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube_ei4b1DS4QCE_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:0rbP0T2N3SY",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/0rbP0T2N3SY",
+      "creator": "InduceLoveStudio",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "Muse交付真人实拍剧情；保留待分类，不标为AI视频。",
+      "recommendation_reason": "Karwa Chauth仪式背景下夫妻闹别扭，随后屋顶仪式互动气氛缓和",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@InduceLoveStudio",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "unknown",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": null,
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": []
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 15000,
+        "comments": 1038,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 15000,
+          "comments": 1038,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 15000,
+          "comments": 1038,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 15000,
+          "comments": 1038,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube_0rbP0T2N3SY_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:gE1z2dpsdKk",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/gE1z2dpsdKk",
+      "creator": "InduceLoveStudio",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "雨中哭泣后和解",
+      "recommendation_reason": "雨夜女子哭泣独行，男子随后同行相视微笑，情绪转变直观",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@InduceLoveStudio",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "雨中哭泣后和解",
+      "copy_title": "情侣+亲密互动+雨中哭泣后和解+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 19000,
+        "comments": 1013,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 19000,
+          "comments": 1013,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 19000,
+          "comments": 1013,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 19000,
+          "comments": 1013,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube_gE1z2dpsdKk_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:PsGTSYQcSa4",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/PsGTSYQcSa4",
+      "creator": "aistoryhindi",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "婆媳检查后和解",
+      "recommendation_reason": "院中婆媳冲突、儿媳躺卧医生检查、婆婆道歉和解，态度反转清晰",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@aistoryhindi",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲密互动",
+      "image_description": "婆媳检查后和解",
+      "copy_title": "亲子家庭+亲密互动+婆媳检查后和解+视频+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 23000,
+        "comments": 1033,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 23000,
+          "comments": 1033,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 23000,
+          "comments": 1033,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 23000,
+          "comments": 1033,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube_PsGTSYQcSa4_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:_DsoSnldfAg",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/_DsoSnldfAg",
+      "creator": "watchever414",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "父子两年重逢拥抱",
+      "recommendation_reason": "室内访谈中男孩说想念爸爸，随后父亲回家父子紧紧拥抱，情绪明确",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@watchever414",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "拥抱",
+      "image_description": "父子两年重逢拥抱",
+      "copy_title": "亲子家庭+拥抱+父子两年重逢拥抱+视频+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 188,
+        "comments": 2,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 188,
+          "comments": 2,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 188,
+          "comments": 2,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 188,
+          "comments": 2,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube__DsoSnldfAg_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:_Cm7qdDL5FI",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/_Cm7qdDL5FI",
+      "creator": "NewVersion",
+      "published_at": "2026-10-23",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "杜尔迦陶罐祭舞",
+      "recommendation_reason": "成年女性白纱丽红边持陶罐跳Dhunuchi仪式舞，烟雾节日氛围，竖屏满幅",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@NVersion-26",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "杜尔迦陶罐祭舞",
+      "copy_title": "单人女性+舞蹈+杜尔迦陶罐祭舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 14,
+        "comments": 0,
+        "views": 713,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 14,
+          "comments": 0,
+          "views": 713,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 14,
+          "comments": 0,
+          "views": 713,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 14,
+          "comments": 0,
+          "views": 713,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube__Cm7qdDL5FI_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:X1cHHTYQjZQ",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/X1cHHTYQjZQ",
+      "creator": "76 Channel",
+      "published_at": "2026-08-15",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "三人绿卡巴雅爪哇舞",
+      "recommendation_reason": "三名成年女性同款绿kebaya+蜡染长裙舞台同步爪哇campursari joget，竖屏满幅",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@76channel",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "舞蹈",
+      "image_description": "三人绿卡巴雅爪哇舞",
+      "copy_title": "朋友+舞蹈+三人绿卡巴雅爪哇舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 223,
+        "comments": 6,
+        "views": 45195,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 223,
+          "comments": 6,
+          "views": 45195,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 223,
+          "comments": 6,
+          "views": 45195,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 223,
+          "comments": 6,
+          "views": 45195,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube_X1cHHTYQjZQ_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:OLg3BJKBRbc",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/OLg3BJKBRbc",
+      "creator": "HMT Creative",
+      "published_at": "2026-10-17",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "四人婚礼抖肩舞",
+      "recommendation_reason": "1女3男四位成年朋友婚礼大厅同步抖肩、摆臂、迈步，竖屏满幅",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@satishvudutha4958",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "舞蹈",
+      "image_description": "四人婚礼抖肩舞",
+      "copy_title": "朋友+舞蹈+四人婚礼抖肩舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 1181,
+        "comments": 25,
+        "views": 101900,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 1181,
+          "comments": 25,
+          "views": 101900,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 1181,
+          "comments": 25,
+          "views": 101900,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 1181,
+          "comments": 25,
+          "views": 101900,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube_OLg3BJKBRbc_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:KD_G_Kpw1tE",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/KD_G_Kpw1tE",
+      "creator": "HMT Creative",
+      "published_at": "2026-10-18",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "三人婚礼拉丁快舞",
+      "recommendation_reason": "三名成年女性同步超快莎莎/拉丁融合婚礼快舞，竖屏满幅，节奏强",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@satishvudutha4958",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "舞蹈",
+      "image_description": "三人婚礼拉丁快舞",
+      "copy_title": "朋友+舞蹈+三人婚礼拉丁快舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 10770,
+        "comments": 121,
+        "views": 1102975,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 10770,
+          "comments": 121,
+          "views": 1102975,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 10770,
+          "comments": 121,
+          "views": 1102975,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 10770,
+          "comments": 121,
+          "views": 1102975,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube_KD_G_Kpw1tE_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "youtube:uNeipB_nmZQ",
+      "platform": "youtube",
+      "post_url": "https://www.youtube.com/shorts/uNeipB_nmZQ",
+      "creator": "Ethnic AI Style",
+      "published_at": "2026-01-05",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "蓝纱丽田间转身",
+      "recommendation_reason": "蓝纱丽女子在绿田中连续转身、行走、摆动展示，竖屏满幅，成年真人感",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "视频文件待获取",
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.youtube.com/@ethnicaistyle",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "蓝纱丽田间转身",
+      "copy_title": "单人女性+舞蹈+蓝纱丽田间转身+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 3038,
+        "comments": 1006,
+        "views": 480055,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 3038,
+          "comments": 1006,
+          "views": 480055,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 3038,
+          "comments": 1006,
+          "views": 480055,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 3038,
+          "comments": 1006,
+          "views": 480055,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/candidate_youtube_uNeipB_nmZQ_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7644401347848080661",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@user8812012028127/photo/7644401347848080661",
+      "creator": "user8812012028127",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "彩色坐姿黑白侧脸",
+      "recommendation_reason": "同一女性彩色坐姿全身（黑上衣灰牛仔裤厚底鞋、奶茶色半编长发大笑）与黑白侧脸特写并置的艺术构图，黑白摄影 A+B 形式新颖，可复刻性强。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@user8812012028127",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "黑白摄影",
+      "image_description": "彩色坐姿黑白侧脸",
+      "copy_title": "单人女性+黑白摄影+彩色坐姿黑白侧脸+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "黑白摄影"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 15400,
+        "comments": 304,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 15400,
+          "comments": 304,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 15400,
+          "comments": 304,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 15400,
+          "comments": 304,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_tiktok_7644401347848080661_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "tiktok:7639400530128735495",
+      "platform": "tiktok",
+      "post_url": "https://www.tiktok.com/@wan.ilalang/photo/7639400530128735495",
+      "creator": "wan.ilalang",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "五十岁男子电影海报",
+      "recommendation_reason": "50 岁左右东南亚男子电影海报：上方大脸特写配墨镜奶油西装，下方山崖日出全身像，绿谷河流雾气，构图与电影感强，普通用户照片可复刻为“人生电影海报”模板。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.tiktok.com/@wan.ilalang",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "五十岁男子电影海报",
+      "copy_title": "单人男性+海报+五十岁男子电影海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 1007,
+        "comments": 118,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 1007,
+          "comments": 118,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 1007,
+          "comments": 118,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 1007,
+          "comments": 118,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_tiktok_7639400530128735495_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfQ9vSZEyEq",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@untold.diary.26/post/DfQ9vSZEyEq",
+      "creator": "untold.diary.26",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": "Kalau waktu bisa diulang, kurasa aku akan tetap memiih untuk mengenalmu dan melewati ini semua lagi dan lagi..\n🩷\nUdah jam 12. \nAyok makan siaang ☺️",
+      "description": "双格拥抱额吻情侣",
+      "recommendation_reason": "双格拼贴情侣像：上格背后拥抱对视，下格额吻闭眼微笑，契合拥抱/亲密互动优先主题，画面温柔无性感化，近期帖（2026-11-02）。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.net/@untold.diary.26",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拼贴",
+      "image_description": "双格拥抱额吻情侣",
+      "copy_title": "情侣+拼贴+双格拥抱额吻情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 12,
+        "comments": null,
+        "views": 5503,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 12,
+          "comments": null,
+          "views": 5503,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 12,
+          "comments": null,
+          "views": 5503,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 12,
+          "comments": null,
+          "views": 5503,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DfQ9vSZEyEq_0.webp",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:pfbid0QodCZx2Vj5zku74aPWAD7kqWJUwRzd58G4tRwSnjya6S7jWJFk8mcxXt31eVKF6tl",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/madhav.yad.2025/posts/pfbid0QodCZx2Vj5zku74aPWAD7kqWJUwRzd58G4tRwSnjya6S7jWJFk8mcxXt31eVKF6tl/",
+      "creator": "madhav.yad.2025",
+      "published_at": "2026-10-23",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": "Hlw everyone good afternoon \nHow do these pics looks I am feeling awsome 🌹🌹🙏friends what u think pls comment ❤❤❤🙏🙏🙏🙏",
+      "description": "白底六格情侣俯拍",
+      "recommendation_reason": "白底 3x2 六格情侣俯拍：红纱丽女子+两版男子（戴镜年长版与年轻版）多姿势，形式与 IN-16 相近但为俯拍视角；仅因 AI 证据弱列为待定。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/madhav.yad.2025",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "白底六格情侣俯拍",
+      "copy_title": "情侣+多宫格+白底六格情侣俯拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 10,
+        "comments": 20,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 10,
+          "comments": 20,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 10,
+          "comments": 20,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 10,
+          "comments": 20,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_pfbid0QodCZx2Vj5zku74aPWAD7kqWJUwRzd58G4tRwSnjya6S7jWJFk8mcxXt31eVKF6tl_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:pfbid02spMNpCZ8ge7ynwjQFwTwTSUurzeYckW5FpGWqQZKdpH3BbeNx5tb9vJdqbCoUCEKl",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/AkashMadhaswad/posts/pfbid02spMNpCZ8ge7ynwjQFwTwTSUurzeYckW5FpGWqQZKdpH3BbeNx5tb9vJdqbCoUCEKl/",
+      "creator": "AkashMadhaswad",
+      "published_at": "2025-10-21",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": "Happy Diwali 🎇🪔🎉🎆",
+      "description": "三代同堂抱婴全家",
+      "recommendation_reason": "黄衣男子+黄粉纱丽抱婴年长女性+金珊瑚纱丽年轻女子的室内三代全家福，含婴儿的亲子家庭版，点赞 1057、评论 155 为本批家庭类互动最高。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/AkashMadhaswad",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "排灯节",
+      "image_description": "三代同堂抱婴全家",
+      "copy_title": "亲子家庭+排灯节+三代同堂抱婴全家+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 1057,
+        "comments": 155,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 1057,
+          "comments": 155,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 1057,
+          "comments": 155,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 1057,
+          "comments": 155,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_facebook_pfbid02spMNpCZ8ge7ynwjQFwTwTSUurzeYckW5FpGWqQZKdpH3BbeNx5tb9vJdqbCoUCEKl_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfLgAx-PWoT",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfLgAx-PWoT/",
+      "creator": "attitude___boy___kundn__raj_88",
+      "published_at": "2026-10-31",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": "13 likes, 0 comments - attitude___boy___kundn__raj_88 on October 31, 2026",
+      "description": "排灯节三口点灯",
+      "recommendation_reason": "红纱丽母亲+粉 kurta 男童+深蓝 kurta 父亲的排灯节夜晚三口像，rangoli 油灯前景完整，Meta AI 水印为明确 AI 证据。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/attitude___boy___kundn__raj_88",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "排灯节",
+      "image_description": "排灯节三口点灯",
+      "copy_title": "亲子家庭+排灯节+排灯节三口点灯+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": 13,
+        "comments": 0,
+        "views": null,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 13,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": 13,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": 13,
+          "comments": 0,
+          "views": null,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_instagram_DfLgAx-PWoT_0.webp",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfPhCP2Flka",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sarita_gupta_0987/post/DfPhCP2Flka",
+      "creator": "sarita_gupta_0987",
+      "published_at": "2026-11-02",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": "Maa baap se to har din Diwali Hai kyunki man baap hi vah diye Hain Jo hamari har andheron ko Mita dete Hain... ..\n#trading #viralpost #fecbookpost #nonfollowers",
+      "description": "油灯前两代同堂",
+      "recommendation_reason": "绿纱丽女子+黑金纱丽年长女性+格纹衬衫男子的油灯地面三人像，印地语“父母即除暗之灯”文案，两代同堂视角少见，昨日（11 月 2 日）最新。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sarita_gupta_0987",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "排灯节",
+      "image_description": "油灯前两代同堂",
+      "copy_title": "亲子家庭+排灯节+油灯前两代同堂+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": null,
+        "comments": null,
+        "views": 2,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": null,
+          "comments": null,
+          "views": 2,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": null,
+          "comments": null,
+          "views": 2,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": null,
+          "comments": null,
+          "views": 2,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DfPhCP2Flka_0.jpg",
+          "preview_status": "fetched",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DevzYzfFEH3",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@kiran_sonkar_volg_youtube_chan/post/DevzYzfFEH3",
+      "creator": "kiran_sonkar_volg_youtube_chan",
+      "published_at": "2026-10-21",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-03",
+      "last_collected_at": "2026-11-04T01:16:26+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "烟花夜空三口之家",
+      "recommendation_reason": "黄纱丽母亲抱幼儿+白衣父亲的烟花夜空三口之家，节日氛围直接，Meta AI 水印为明确 AI 证据。",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@kiran_sonkar_volg_youtube_chan",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "排灯节",
+      "image_description": "烟花夜空三口之家",
+      "copy_title": "亲子家庭+排灯节+烟花夜空三口之家+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-04T01:16:26+00:00",
+        "likes": null,
+        "comments": null,
+        "views": 1,
+        "shares": null,
+        "source": "muse_pr13_review_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": null,
+          "comments": null,
+          "views": 1,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:26+00:00",
+          "likes": null,
+          "comments": null,
+          "views": 1,
+          "shares": null,
+          "source": "muse_pr13_review_source_claim"
+        },
+        {
+          "captured_at": "2026-11-04T01:16:19+00:00",
+          "likes": null,
+          "comments": null,
+          "views": 1,
+          "shares": null,
+          "source": "muse_pr13_review_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_threads_DevzYzfFEH3_0.jpg",
+          "preview_status": "fetched",
           "result_status": "unknown",
           "visual_analysis": null
         }
