@@ -14,7 +14,7 @@ EXPECTED_HOSTS = {
     'other': {'hailuoai.video', 'www.hailuoai.video', 'snapchat.com', 'www.snapchat.com'},
 }
 
-EXPECTED_THEMES = set('性感舞蹈 摇腿舞 花海 雪山 海边 80复古 拼贴 海报 锁屏 多宫格 耍帅 闪光灯 拍立得 人与动物 孕照 黑白摄影 纱丽 骑马 开车 拥抱 亲密互动 墨镜 棚拍 纯色暗调 排灯节 克里希纳诞辰 象头神节 九夜节 十胜节 亡灵节 印度独立日 舞蹈'.split())
+EXPECTED_THEMES = set('性感舞蹈 摇腿舞 花海 雪山 海边 80复古 拼贴 海报 锁屏 多宫格 耍帅 闪光灯 拍立得 人与动物 孕照 黑白摄影 多重曝光 剧情 纱丽 骑马 开车 拥抱 亲密互动 墨镜 棚拍 纯色暗调 排灯节 克里希纳诞辰 象头神节 九夜节 十胜节 亡灵节 印度独立日 舞蹈'.split())
 
 
 def validate_taxonomy(taxonomy):
@@ -24,6 +24,9 @@ def validate_taxonomy(taxonomy):
     # Accept the previous snapshot during the existing cross-repository sync.
     assert len(themes) == len(set(themes))
     assert set(themes) in (EXPECTED_THEMES, EXPECTED_THEMES - {'舞蹈'})
+    # Newly introduced labels must appear in the exact requested UI order.
+    black_white = themes.index('黑白摄影')
+    assert themes[black_white:black_white + 4] == ['黑白摄影','多重曝光','剧情','纱丽']
 
 
 def valid_post_url(platform, value):
