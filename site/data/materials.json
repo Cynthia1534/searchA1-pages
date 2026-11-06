@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T01:26:06+00:00",
+  "generated_at": "2026-11-06T03:52:12+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -50,12 +50,3036 @@
     ]
   },
   "export_stats": {
-    "formal": 493,
-    "candidates": 129,
-    "confirmed_duplicates_skipped": 151,
+    "formal": 543,
+    "candidates": 139,
+    "confirmed_duplicates_skipped": 201,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "threads:DfV8d61Hzty",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@biru.babu2025/post/DfV8d61Hzty",
+      "creator": "biru.babu2025",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "A Indian kid boy smiling and holding two sparklers in both hands in front of him, wearing a white festive shirt, and grey baggy jeans dark background with glowing sparks, dramatic lighting on his face, festive Diwali atmosphere, text \"HAPPY DIWALI\" written above in stylish white font, cinematic portrait. Face same as reference image. Ratio 4:5.",
+      "description": "幼童手持两束烟花",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@biru.babu2025",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "排灯节",
+      "image_description": "幼童手持两束烟花",
+      "copy_title": "宝宝儿童+排灯节+幼童手持两束烟花+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:51:56+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfV8d61Hzty_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfWuD_9FB0f",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@adarsh_sharma.k/post/DfWuD_9FB0f",
+      "creator": "adarsh_sharma.k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Create an ultra-realistic 4K professional portrait of a young Indian male photographer sitting confidently on a luxurious white @adarsh_sharma.k  chair at a beautifully decorated indoor event. He has a neatly styled black hairstyle, a well-trimmed beard and mustache, and a natural confident expression. He is wearing a light blue and white printed casual shirt with rolled-up sleeves, holding a professional black Nikon DSLR camera mounted on a stabilizer gimbal @threads @meta @chatgpt @instagram",
+      "description": "白椅手持相机肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@adarsh_sharma.k",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "棚拍",
+      "image_description": "白椅手持相机肖像",
+      "copy_title": "单人男性+棚拍+白椅手持相机肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:51:50+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfWuD_9FB0f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXqk0aAVJK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/DfXqk0aAVJK",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Ultra HD 8K photorealistic cinematic portrait, man @rav_iranjan95 with medium wavy black hair small goatee tattoos on neck and hands wearing cream off-white three-piece suit white formal shirt cream tie black watch rings hoop earrings lying back on sandy beach eyes closed calm peaceful serene expression, surrounded by 14 fluffy husky puppies with grey white brown fur classic husky markings piled around chest shoulders arms sides paws on suit looking at camera cute, sandy beach paw prints sea.",
+      "description": "海滩西装与幼犬",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "人与动物",
+      "image_description": "海滩西装与幼犬",
+      "copy_title": "单人男性+人与动物+海滩西装与幼犬+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "人与动物"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:51:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXqk0aAVJK_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfQqC67klQV",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@editingboy1296/post/DfQqC67klQV",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Create an ultra-realistic 8K full-body mirror selfie using the uploaded boy's exact face reference. Wearing a dark green hoodie, cream cargo pants, white sneakers, and a silver watch. Standing casually with one hand holding a smartphone and the other in pocket. Stylish wavy mirror with glowing blue LED border, modern room, black sofa, plants and warm lights. Preserve 100% original face and hairstyle. DSLR quality, cinematic lighting, 9:16, no watermark. @editingboy1296",
+      "description": "霓虹镜框连帽衫像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "霓虹镜框连帽衫像",
+      "copy_title": "单人男性+耍帅+霓虹镜框连帽衫像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:51:36+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfQqC67klQV_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De9sHxxE8Vq",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rohitdostboy0/post/De9sHxxE8Vq",
+      "creator": "rohitdostboy0",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Prompt – THE RDB Ultra-realistic 22K UHD stylish fashion poster using my uploaded photo for a 100% exact face and identity match. Preserve my facial structure, eyes, nose, lips, beard, skin tone, natural age, body proportions and Curtain Mullet haircut exactly with no changes. Create a 2-pose fashion composition on the same soft pastel lavender, pink, baby-blue and white dreamy abstract background from the reference.",
+      "description": "白紫背景双影写真",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rohitdostboy0",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "白紫背景双影写真",
+      "copy_title": "单人男性+海报+白紫背景双影写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:51:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_De9sHxxE8Vq_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfYRyviEsAW",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@pappu_premi_66/post/DfYRyviEsAW",
+      "creator": "pappu_premi_66",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Create an ultra-realistic cinematic Diwali couple portrait using the two uploaded reference photos. Keep both faces 100% identical to their respective reference photos. Do not change facial features, skin tone, hairstyle, or identity. @alpha_rahul__ The couple is sitting together on the floor in a beautiful traditional Diwali setting, lighting diyas together with their hands.",
+      "description": "绿纱丽双人点灯",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@pappu_premi_66",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "排灯节",
+      "image_description": "绿纱丽双人点灯",
+      "copy_title": "情侣+排灯节+绿纱丽双人点灯+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:51:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfYRyviEsAW_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dbe2mofnY2n",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@nishithammu/post/Dbe2mofnY2n",
+      "creator": "nishithammu",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "AI Image Generation Prompt: Create an ultra-realistic, cinematic romantic collage featuring a beautiful young South Indian husband and wife in six different relationship moments, arranged in a premium modern collage layout with elegant white borders and a luxurious warm color palette. Preserve the same couple's facial identity, expressions, and proportions consistently across every frame. Scene 1 – Traditional Romance: The husband lovingly embraces his wife from behind.",
+      "description": "六格浪漫日常合照",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@nishithammu",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "六格浪漫日常合照",
+      "copy_title": "情侣+多宫格+六格浪漫日常合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:51:16+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dbe2mofnY2n_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfJtolHCAC4",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mr._sun91/post/DfJtolHCAC4",
+      "creator": "mr._sun91",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Ultra-realistic portrait of a stylish young man standing on a roadside, holding white sunglasses in both hands, wearing an oversized pastel purple t-shirt, light blue baggy jeans, white sneakers, and a silver pendant necklace, trendy voluminous swept hairstyle, soft confident expression,  cinematic photography, dark blurred forest background, vibrant green leaves hanging above, glowing green bokeh lights, soft misty white light effects on both sides, shallow depth of field, creamy bokeh, ultra",
+      "description": "绿荫紫衣街头肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mr._sun91",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "绿荫紫衣街头肖像",
+      "copy_title": "单人男性+耍帅+绿荫紫衣街头肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:51:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfJtolHCAC4_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXES02k_b9",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mohdvasim78/post/DfXES02k_b9",
+      "creator": "mohdvasim78",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Couple celebrating Diwali with their little son, seated together lighting sparklers, woman in a royal purple embroidered lehenga, man and child in matching black festive outfits, beautiful smiles, Ultra realistic fair beautiful couple, fair bright smooth skin, glowing diyas, colorful rangoli, lanterns, fireworks and “Happy Diwali” sign, luxurious festive bright background, HDR, 32K,",
+      "description": "三口之家烟花合照",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mohdvasim78",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "排灯节",
+      "image_description": "三口之家烟花合照",
+      "copy_title": "亲子家庭+排灯节+三口之家烟花合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:51:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXES02k_b9_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXL32jk-zS",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@md_sharuk_shaikh__07/post/DfXL32jk-zS",
+      "creator": "md_sharuk_shaikh__07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Prompt 🌠🌠⬇️⬇️Full-body straight-on portrait, relaxed confident stance, sparkler raised slightly, glowing diyas and colorful rangoli around him.",
+      "description": "黑衣烟花夜景写真",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@md_sharuk_shaikh__07",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "排灯节",
+      "image_description": "黑衣烟花夜景写真",
+      "copy_title": "单人男性+排灯节+黑衣烟花夜景写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:50:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXL32jk-zS_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DSENpIGAUSD",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ig.akash___10/post/DSENpIGAUSD",
+      "creator": "ig.akash___10",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Prompt 👇\nUltra-realistic 16k cinematic portrait of a stylish  boy(keep face exactly 100% as in the reference image). He is interacting with a large stylized letter\"A\"in a mix of golden cursive font labeled \"Akash\"Leaning slightly towards it with a confident Style. Wearing midnight teal white shirt , cargo jeans black, white shoes. Smart watch. Background. Straight pose, Three-quarter view with natural, cinematic lighting and full-body proportions.",
+      "description": "金色字母前站姿",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ig.akash___10",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "金色字母前站姿",
+      "copy_title": "单人男性+海报+金色字母前站姿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:50:50+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DSENpIGAUSD_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXfyOdExwd",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@gourangahens/post/DfXfyOdExwd",
+      "creator": "gourangahens",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Celebrating festive nights wrapped in love and lights. Save the prompt and create yours! ⚡️✨\nPrompt:\nA cinematic romantic portrait of a South Asian couple standing amidst dazzling fireworks and ground sparklers. The man wears a maroon kurta with a white stole and white pants, and the woman wears an embroidered maroon lehenga with a sheer dupatta, photorealistic, 8k --ar 9:16\nVisuals & Prompts by @gourangahens",
+      "description": "烟花前甜蜜互动",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@gourangahens",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "排灯节",
+      "image_description": "烟花前甜蜜互动",
+      "copy_title": "情侣+排灯节+烟花前甜蜜互动+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:50:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXfyOdExwd_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfWcHP2DMgP",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@biru.babu2025/post/DfWcHP2DMgP",
+      "creator": "biru.babu2025",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Surreal romantic photo, happy handsome Indian man with beard in light blue shirt leaning through a torn hole in a beige textured wall, pouring a metal bucket full of pink roses, white daisies and petals down, below a beautiful young Indian woman with long curly hair in a long blue dress sitting on floor laughing joyfully looking up catching flowers, cascade of flowers in mid-air, soft natural light, ultra photorealistic, cinematic, joyful love story, 8k --ar 3:4.",
+      "description": "破墙倾洒鲜花合照",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@biru.babu2025",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "海报",
+      "image_description": "破墙倾洒鲜花合照",
+      "copy_title": "情侣+海报+破墙倾洒鲜花合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:50:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfWcHP2DMgP_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXBsXNI9M0",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arghyack/post/DfXBsXNI9M0",
+      "creator": "arghyack",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Follow @arghyack \n\nPrompt \n\nRealistic night photo of a joyful young South Asian woman laughing warmly at a festival. She has medium-brown skin, neat dark hair, a small dark bindi, and ornate tiered silver jhumka earrings. She wears a deep crimson-red anarkali dress with intricate gold zardozi embroidery. In her hand, she holds an extended, glowing sparkler scattering sharp white-gold sparks that warmly illuminate her face. The subject is in sharp focus with a shallow depth of field, set",
+      "description": "红裙手持节日烟花",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arghyack",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "排灯节",
+      "image_description": "红裙手持节日烟花",
+      "copy_title": "单人女性+排灯节+红裙手持节日烟花+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:50:31+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXBsXNI9M0_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXT-Mqn8kF",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@adarsh_sharma.k/post/DfXT-Mqn8kF",
+      "creator": "adarsh_sharma.k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Enjoy this Diwali Prompt 💐✨ Create an ultra-realistic 8K cinematic Diwali night couple photoshoot, using the uploaded reference photos to preserve the exact facial identity of both individuals. Do not change, blend, or distort their faces. POSE & BODY LANGUAGE: A beautiful Indian couple standing together on a rooftop at night. The man stands on the left side, gently holding the woman's raised right hand above her head. @threads @meta @instagram",
+      "description": "紫黑礼服牵手舞步",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@adarsh_sharma.k",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "排灯节",
+      "image_description": "紫黑礼服牵手舞步",
+      "copy_title": "情侣+排灯节+紫黑礼服牵手舞步+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:50:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXT-Mqn8kF_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXfR0wjUj_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/DfXfR0wjUj_",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "💗 Studio Romance Couple Moment 💗 With My Dear Friend 🥰 @meena__nair__ 🩷🖤🩷 Create an ultra-realistic, cinematic romantic couple portrait using the uploaded reference photos. Pose & Composition: A handsome young Indian man standing closely behind a beautiful Indian woman, gently wrapping one arm around her waist while lovingly kissing her cheek near her ear. The woman is leaning slightly back against him, looking directly at the camera with a soft, confident and romantic expression.",
+      "description": "粉色纱丽额吻合照",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "粉色纱丽额吻合照",
+      "copy_title": "情侣+拥抱+粉色纱丽额吻合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:50:18+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXfR0wjUj__0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfR2JcgiR01",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@editingboy1296/post/DfR2JcgiR01",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "CREATE AN ULTRA-realistic, premium editorial fashion photography collage in a vertical 9:16 composition, featuring the same beautiful young Indian woman in multiple elegant portrait poses. Subject & Appearance: A graceful young Indian woman with a radiant natural smile, expressive eyes, delicate facial features, and long dark hair styled in an elegant low bun adorned with fresh white jasmine flowers (Gajra). Maintain identical facial identity, hairstyle, makeup, and appearance across all panels.",
+      "description": "红金纱丽三格写真",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "红金纱丽三格写真",
+      "copy_title": "单人女性+拼贴+红金纱丽三格写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:50:12+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfR2JcgiR01_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfWFlFrkkvP",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@edita_rx_/post/DfWFlFrkkvP",
+      "creator": "edita_rx_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "🔥 VIRAL AI TRENDS ARE EVERYWHERE RIGHT NOW 👀\n\nCreated using Google Gemini, ChatGPT & other AI tools to create ultra-realistic edits, figurines and cinematic visuals. 🤖✨\n\n📌 Transparency Note: Some photos used in this post were downloaded from Google for references/inspiration. \n\n#chatgpt #geminiai #aiart #aiedit #viralreels #trendingreels #QuietLuxury #explorepage #instaviral #reelitfeelit #chatgpt #fyp",
+      "description": "楼梯扶栏墨镜肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edita_rx_/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "纯色暗调",
+      "image_description": "楼梯扶栏墨镜肖像",
+      "copy_title": "单人男性+纯色暗调+楼梯扶栏墨镜肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "纯色暗调"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:50:06+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfWFlFrkkvP_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXHjb5DaOe",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sandip_mahato1st/post/DfXHjb5DaOe",
+      "creator": "sandip_mahato1st",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Prompt 💯✅⤵️ \nbeautiful young Indian couple, matching magenta and cream ethnic wedding outfit, woman in heavily embellished fuchsia lehenga with gold embroidery and latkan, man @sandip_mahato1st  in cream kurta pajama with fuchsia embroidered Nehru jacket with Radha Krishna motif, romantic pose looking at each other, luxury floral decor background, cinematic lighting, sharp focus, photorealistic",
+      "description": "粉金婚服牵手对望",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sandip_mahato1st",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "粉金婚服牵手对望",
+      "copy_title": "情侣+亲密互动+粉金婚服牵手对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:59+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXHjb5DaOe_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfVFZqxk9Nh",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sagir_786/post/DfVFZqxk9Nh",
+      "creator": "sagir_786",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "​A smiling young Indian man with styled dark hair and a trimmed beard sits casually inside the loop of a giant 3D capital letter \"S\". He is wearing an open grey plaid flannel shirt over a red t-shirt, dark jeans, and a black wristwatch, resting his chin on his hand. The letter \"S\" is deep matte teal-blue with a bevelled silver metallic chrome border. Clean studio lighting, soft light-blue seamless background, realistic shadows, 8k portrait.",
+      "description": "巨型字母中落座",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sagir_786",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "巨型字母中落座",
+      "copy_title": "单人男性+海报+巨型字母中落座+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:53+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfVFZqxk9Nh_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De9sc_ck16J",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rohitdostboy0/post/De9sc_ck16J",
+      "creator": "rohitdostboy0",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Prompt – THE RDB Ultra-realistic 22K UHD cinematic red-and-black birthday fashion poster using my uploaded photo for a 100% exact face and identity match. Preserve my facial structure, eyes, nose, lips, beard, skin tone, natural age, body proportions and Curtain Mullet haircut exactly with no changes. Recreate the reference composition: dark crimson starry background, huge glowing textured red moon/circle behind me, dramatic red-black atmosphere, cinematic glow and premium poster editing.",
+      "description": "红月黑衣多重肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rohitdostboy0",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "红月黑衣多重肖像",
+      "copy_title": "单人男性+海报+红月黑衣多重肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_De9sc_ck16J_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DZpI_F9DMf1",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mr._sun91/post/DZpI_F9DMf1",
+      "creator": "mr._sun91",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Prompt 👇🏻 \nA stylish young man standing outdoors beside a black street lamp, holding a smartphone with both hands and looking confidently to the side. He wears a navy blue button-up shirt with bright yellow inner collar and sleeve accents, beige slim-fit trousers, a smartwatch, and brown leather loafers. His pose is relaxed with crossed legs, creating a modern fashion-portrait look. Behind him is a massive artistic black-and-white close-up portrait of the same man’s face, filling the",
+      "description": "蓝衣烟雾双影肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mr._sun91",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "多重曝光",
+      "image_description": "蓝衣烟雾双影肖像",
+      "copy_title": "单人男性+多重曝光+蓝衣烟雾双影肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "多重曝光"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DZpI_F9DMf1_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXUWsWE5fQ",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mohdvasim78/post/DfXUWsWE5fQ",
+      "creator": "mohdvasim78",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Seven-panel Diwali collage of the same young Indian woman in seven different festive outfits—green, maroon, peach, yellow, blue and lavender lehengas—lighting diyas, holding sweets, making rangoli, enjoying sparklers and decorating with flowers. Ultra realistic fair beautiful woman, fair bright smooth skin, golden festive lights, luxurious 3D bright Diwali background, cinematic photography, HDR, 32K,",
+      "description": "七色节日礼服拼图",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mohdvasim78",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "七色节日礼服拼图",
+      "copy_title": "单人女性+多宫格+七色节日礼服拼图+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:34+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXUWsWE5fQ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfWOq0JF8ax",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@kunnuvlog09/post/DfWOq0JF8ax",
+      "creator": "kunnuvlog09",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Create an ultra-realistic 4K DSLR portrait using. A smiling Indian couple, girl wears a lime-green mirror-work lehenga, embellished sleeveless blouse and flowing dupatta, paired with silver jewelry and maang tikka. Her wavy black hair flows naturally as. The boy has dark voluminous spiky hairs and wearing matching outfits with girl's outfits. Both holds glowing diya. Celebrating diwali.",
+      "description": "绿金礼服双人执灯",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@kunnuvlog09",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "排灯节",
+      "image_description": "绿金礼服双人执灯",
+      "copy_title": "情侣+排灯节+绿金礼服双人执灯+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:28+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfWOq0JF8ax_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DSHRt2zAbBh",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ig.akash___10/post/DSHRt2zAbBh",
+      "creator": "ig.akash___10",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Prompt 👇 Prompt \n32 k Ultra Hyper Realistic, a full-body outdoor shot of a teenager/young man boy,He has smooth skin,  voluminous hair,  Background  styled voluminously with individual strands visible . He is wearing a beautiful white-Sky blue cotton shirt, unbuttoned, with a white tee inside and blacke damage loose  jeans with sky blue  colour Air Jordan latest sneaker , tattoo on one hand .The young man is leaning casually against a white surface, looking directly .",
+      "description": "白衬衫露台时尚肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ig.akash___10",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "白衬衫露台时尚肖像",
+      "copy_title": "单人男性+耍帅+白衬衫露台时尚肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:22+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DSHRt2zAbBh_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfWcjEBDIdh",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@biru.babu2025/post/DfWcjEBDIdh",
+      "creator": "biru.babu2025",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Prompt 💫 ✨ 👇 ✨ 😍 \nA 6-panel grid collage, same couple on beach at golden sunset, man in light blue shirt and beige pants, woman in light blue maxi dress and sunglasses, panels show: 1) woman hugging man from side, 2) man twirling woman, 3) facing each other dancing, 4) man dipping woman for kiss, 5) man carrying woman bridal style, 6) hugging watching sunset, shallow water reflection, warm pastel painting style, soft oil painting illustration, romantic, cohesive lighting --ar 3:4",
+      "description": "蓝衣海边六格合照",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@biru.babu2025",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多宫格",
+      "image_description": "蓝衣海边六格合照",
+      "copy_title": "情侣+多宫格+蓝衣海边六格合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:16+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfWcjEBDIdh_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXhv_wDfB9",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arghyack/post/DfXhv_wDfB9",
+      "creator": "arghyack",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Follow @arghyack \n\nGemini Prompt\n\nCreate a hyper-realistic, cinematic portrait of the person in the uploaded photo with the exact same facial features, identity, and expression.\nLighting & Atmosphere: Low-key, dramatic chiaroscuro lighting in a pitch-dark room. The only light source is a single glowing, flickering flame from a traditional clay diya (oil lamp) held gently cupped in the subject's hands in the foreground. Warm, golden-amber light casts upward across the face, softly illuminating",
+      "description": "手捧油灯暖光肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arghyack",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "排灯节",
+      "image_description": "手捧油灯暖光肖像",
+      "copy_title": "单人女性+排灯节+手捧油灯暖光肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXhv_wDfB9_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeWLrd1FFI6",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@adarsh_sharma.k/post/DeWLrd1FFI6",
+      "creator": "adarsh_sharma.k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Create an ultra-realistic, cinematic DSLR devotional portrait poster featuring a young South Asian/Indian man standing peacefully in front of an enormous divine artistic portrait of Maa Durga. Face & Identity: Use the uploaded reference photo ONLY for the man's exact face and identity. Preserve his original face shape, eyes, eyebrows, nose, lips, jawline, skin tone, facial proportions, hairstyle, and natural skin texture. Keep his identity recognizable. @threads @meta @instagram @chatgpt",
+      "description": "女神狮像前祈愿",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@adarsh_sharma.k",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "海报",
+      "image_description": "女神狮像前祈愿",
+      "copy_title": "单人男性+海报+女神狮像前祈愿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:49:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeWLrd1FFI6_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXa7aDAbgD",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@vaisshnavi369/post/DfXa7aDAbgD",
+      "creator": "vaisshnavi369",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Prompt by @vaisshnavi369 \nA 5-panel aesthetic fashion editorial photo collage in a clean, modern grid layout, maintaining strict facial feature and character consistency across all panels[span_0](start_span)[span_0](end_span). A South Asian woman with warm skin, expressive dark eyes, and long dark hair styled in a chic high bun with loose framing tendrils[span_1](start_span)[span_1](end_span).",
+      "description": "白衬衫蓝裙五格写真",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@vaisshnavi369",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "拼贴",
+      "image_description": "白衬衫蓝裙五格写真",
+      "copy_title": "单人女性+拼贴+白衬衫蓝裙五格写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXa7aDAbgD_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfO8FiPEwF4",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@gourangahens/post/DfO8FiPEwF4",
+      "creator": "gourangahens",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "​Wrapped in warmth and festive love. Save the prompt and create yours! ⚡️🪔\n​Prompt:\n​A cinematic romantic portrait of a South Asian couple sitting together on stone steps decorated with fairy lights. The man wears a black embroidered kurta and white pants, and the woman wears a maroon and gold lehenga, resting her head on his shoulder. In front of them is a heart-shaped floral rangoli surrounded by lit diyas, photorealistic, 8k --ar 9:16\n​Follow @gourangahens for more daily AI art!",
+      "description": "心形灯阵依肩合照",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@gourangahens",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "心形灯阵依肩合照",
+      "copy_title": "情侣+亲密互动+心形灯阵依肩合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:52+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfO8FiPEwF4_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfWQtIxiNOO",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/DfWQtIxiNOO",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Create an ultra-photorealistic, cinematic 8K HD adventure portrait inside a vintage turquoise-green camper van, featuring a young male @rav_iranjan95 explorer and his loyal large brown Great Dane dog. 1. Man's Appearance: Preserve the exact original reference face and identity. A young adult man with naturally messy medium-length auburn-brown hair, light beard and mustache, expressive eyes and a realistic natural appearance.",
+      "description": "房车里与犬结伴",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "人与动物",
+      "image_description": "房车里与犬结伴",
+      "copy_title": "单人男性+人与动物+房车里与犬结伴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "人与动物"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfWQtIxiNOO_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfTWsJTiVUc",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@editingboy1296/post/DfTWsJTiVUc",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Generate A Hyper-realistic Cinematic Portrait Of The Uploaded Handsome Man Standing Crossed Leg Confidently Inside An Ancient Stone Arch Doorway In The Mountains. He Is Wearing A Half Sleeve Aqua Blue White Hibiscus Floral Print Oversized Shirt: Dark Grey Cargo Pants, White With Blue Border Sneakers Of Nike, Black Aviator Sunglasses, And A Black Smartwatch. One Hand Is Touching The Top Side Of The Stone Arch, looking Side, Confident Attit ude. The Background Features Soft Blurry Green Mountains",
+      "description": "石拱门花衬衫肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "石拱门花衬衫肖像",
+      "copy_title": "单人男性+耍帅+石拱门花衬衫肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfTWsJTiVUc_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdGrRTdDh-1",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@_.aanshikaa._s/post/DdGrRTdDh-1",
+      "creator": "_.aanshikaa._s",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Try this viral 80’s prompt🤌🏻❤️\n\n#80saesthetic #trend #80sstyle #ᴠɪʀᴀʟᴘᴏsᴛ",
+      "description": "咖啡馆胶片肖像组",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/_.aanshikaa._s/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "80复古",
+      "image_description": "咖啡馆胶片肖像组",
+      "copy_title": "单人女性+80复古+咖啡馆胶片肖像组+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "80复古"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:34+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdGrRTdDh-1_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/threads_DdGrRTdDh-1_1.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/threads_DdGrRTdDh-1_2.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 3,
+          "kind": "image",
+          "preview": "assets/threads_DdGrRTdDh-1_3.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfWFnt2jeP-",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@edita_rx_/post/DfWFnt2jeP-",
+      "creator": "edita_rx_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "🔥 VIRAL AI TRENDS ARE EVERYWHERE RIGHT NOW 👀\n\nCreated using Google Gemini, ChatGPT & other AI tools to create ultra-realistic edits, figurines and cinematic visuals. 🤖✨\n\n📌 Transparency Note: Some photos used in this post were downloaded from Google for references/inspiration. \n\n#chatgpt #geminiai #aiart #aiedit #viralreels #trendingreels #QuietLuxury #explorepage #instaviral #reelitfeelit #chatgpt #fyp",
+      "description": "楼梯扶栏侧身肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edita_rx_/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "黑白摄影",
+      "image_description": "楼梯扶栏侧身肖像",
+      "copy_title": "单人男性+黑白摄影+楼梯扶栏侧身肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "黑白摄影"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:28+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfWFnt2jeP-_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfWFqNkjlrC",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@edita_rx_/post/DfWFqNkjlrC",
+      "creator": "edita_rx_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "🔥 VIRAL AI TRENDS ARE EVERYWHERE RIGHT NOW 👀\n\nCreated using Google Gemini, ChatGPT & other AI tools to create ultra-realistic edits, figurines and cinematic visuals. 🤖✨\n\n📌 Transparency Note: Some photos used in this post were downloaded from Google for references/inspiration. \n\n#chatgpt #geminiai #aiart #aiedit #viralreels #trendingreels #QuietLuxury #explorepage #instaviral #reelitfeelit #chatgpt #fyp",
+      "description": "侧脸推镜肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edita_rx_/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "纯色暗调",
+      "image_description": "侧脸推镜肖像",
+      "copy_title": "单人男性+纯色暗调+侧脸推镜肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "纯色暗调"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:22+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfWFqNkjlrC_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXFM6RgAzO",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@loveismylife240/post/DfXFM6RgAzO",
+      "creator": "loveismylife240",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "@vaibhu_7909 @priyankavyas3691 @nisba_shaikh5885 Create an ultra-realistic cinematic 1K Threads Followers Celebration poster using all three reference photos. MAIN HERO: The boy from the FIRST reference photo is the person whose 1K followers milestone is being celebrated. Preserve his exact face, identity, hairstyle and facial features. He is standing in the center, holding a cake knife and cutting a beautiful premium celebration cake. CAKE: A large luxurious black and golden cake with glowing",
+      "description": "黑金千粉庆典合影",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@loveismylife240",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "海报",
+      "image_description": "黑金千粉庆典合影",
+      "copy_title": "朋友+海报+黑金千粉庆典合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:17+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXFM6RgAzO_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXGP6WAPp8",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@loveismylife240/post/DfXGP6WAPp8",
+      "creator": "loveismylife240",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "{ with my darling frend  @priyankavyas3691 😘 style\": \"Luxury romantic editorial photography, 8K\", \"scene\": \"A beautiful luxury dressing room with a large mirror, perfume collection and fresh flowers.\", \"man\": \"Adult Indian man wearing a sophisticated black formal shirt.\", \"woman\": \"Adult Indian woman wearing an elegant champagne satin gown.\", \"pose\": \"The man presents her with a luxury perfume gift box. The woman holds the gift with both hands while looking at him with a surprised smile.\",",
+      "description": "镜前浪漫求婚合照",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@loveismylife240",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "亲密互动",
+      "image_description": "镜前浪漫求婚合照",
+      "copy_title": "情侣+亲密互动+镜前浪漫求婚合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "亲密互动"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXGP6WAPp8_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfW2S6IDrtI",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@adam_x_____/post/DfW2S6IDrtI",
+      "creator": "adam_x_____",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "GPTImage\n\nPrompt:⤵️\nDark fantasy digital illustration created using a mixed-media technique of sumi-e ink and watercolor. A medium-shot portrait based on the attached model. The background features the architecture of a ruined Gothic cathedral, with a stained-glass window illuminated in a cool blue hue. The piece incorporates abundant black ink splatters, drips, organic stains, and the texture of rough watercolor paper.",
+      "description": "红纱丽泼墨肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@adam_x_____",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海报",
+      "image_description": "红纱丽泼墨肖像",
+      "copy_title": "单人女性+海报+红纱丽泼墨肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:48:05+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfW2S6IDrtI_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfXMnyNgOC_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@loveismylife240/post/DfXMnyNgOC_",
+      "creator": "loveismylife240",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "@loveismylife240 A person is captured in a bottom angle, through the mirror table, positioned slightly below the center of the frame. They are holding a silver chess piece aloft, with several other chess pieces, both silver and black, appearing to float around them. The subject has dark, slicked-back hair and is wearing a crisp white button-down shirt with the sleeves rolled up and a black waidbtand, suggesting a modern and stylized look.",
+      "description": "镜面棋桌执子肖像",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@loveismylife240",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "镜面棋桌执子肖像",
+      "copy_title": "单人男性+耍帅+镜面棋桌执子肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:59+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfXMnyNgOC__0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfBKqYin_qT",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@anjaniratann_/post/DfBKqYin_qT",
+      "creator": "anjaniratann_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "✨ For Prompt ⬇️\n💙 Join My Telegram Channel (Link in Bio) 🔗\n\n❤️ Like | 💬 Comment | 📌 Save | 📤 Share\nFollow @anjaniratann_ for more AI editing tutorials🤍\n\n#diwalivides #explore\n#virel #viralprompt",
+      "description": "红裙点灯节日写真",
+      "recommendation_reason": "India-market adaptation corroborated by original Indian/South Asian generation prompt or Indian creator/language context and visible dress/scene; not inferred nationality from skin tone.",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/anjaniratann_/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "排灯节",
+      "image_description": "红裙点灯节日写真",
+      "copy_title": "单人女性+排灯节+红裙点灯节日写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:53+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/threads_DfBKqYin_qT_2.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DZ-KhpVEnDe",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@masari_ai/post/DZ-KhpVEnDe",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Mari kita makan roti sambil ngopi",
+      "description": "咖啡馆举杯写真",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "咖啡馆举杯写真",
+      "copy_title": "单人男性+耍帅+咖啡馆举杯写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:48+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DZ-KhpVEnDe_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DZ_UgJuEgq_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@masari_ai/post/DZ_UgJuEgq_",
+      "creator": "masari_ai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Pagi Semua",
+      "description": "黑西装摘镜肖像",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masari_ai/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "棚拍",
+      "image_description": "黑西装摘镜肖像",
+      "copy_title": "单人男性+棚拍+黑西装摘镜肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DZ_UgJuEgq__0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfKaBIKDJnH",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@fabianbaiiu19/post/DfKaBIKDJnH",
+      "creator": "fabianbaiiu19",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "“Thank you for being a giving, loving, wise and strong Mimi. always doing everything possible to always make me proud of you.“ 🤍\n.\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @nikitamirzanimawardi_172 \n💻 Create : fbstudioai\n.\n \n#nikitamirzani #nikita #family #ai #photo",
+      "description": "四口之家贴脸合照",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/fabianbaiiu19/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "拥抱",
+      "image_description": "四口之家贴脸合照",
+      "copy_title": "亲子家庭+拥抱+四口之家贴脸合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:36+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfKaBIKDJnH_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfWNsvMjGmd",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@fabianbaiiu19/post/DfWNsvMjGmd",
+      "creator": "fabianbaiiu19",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "“Thank you for being the person who knew exactly when to stop holding my hand and watching my every step.“ 🤍\nAlfatihah Alm. bpk.Abdurrahman Al Haddad\n.\n.\n.\nIzin ya 🙏🏻 karya foto ini dibuat 100% oleh AI \n👤 Model : @tasyiiathasyia \n💻 Create : fbstudioai\n.\n \n#tasyiatasyia #tasyi #editing #ai #fyp",
+      "description": "七口之家黑礼服合照",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/fabianbaiiu19/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "棚拍",
+      "image_description": "七口之家黑礼服合照",
+      "copy_title": "亲子家庭+棚拍+七口之家黑礼服合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:31+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfWNsvMjGmd_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfDtdYXGZAA",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfDtdYXGZAA",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Seni Itu Nggak Harus Serius\n\nLihat patung aja bisa ketawa, apalagi dengar cerita temannya.\nPrompt-nya udah copas-ready di reply, tinggal salin.\n\n#kucingkucing #HijabIndonesia #RuangPamer #GaleriSeni #SeniSantai",
+      "description": "美术馆黄裙头巾像",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "锁屏",
+      "image_description": "美术馆黄裙头巾像",
+      "copy_title": "单人女性+锁屏+美术馆黄裙头巾像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "锁屏"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:25+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfDtdYXGZAA_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfTH1DxmQIB",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfTH1DxmQIB",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Hitam Putih Bikin Pagi Tegas\n\nDinding grafit pagi-pagi tuh bikin outfit hitam putih kelihatan makin tegas.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n\n#kucingkucing #HijabIndonesia #MonochromeHitam #HijabHitam #OutfitKerja",
+      "description": "黑白穿搭头巾像",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "锁屏",
+      "image_description": "黑白穿搭头巾像",
+      "copy_title": "单人女性+锁屏+黑白穿搭头巾像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "锁屏"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfTH1DxmQIB_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfETQSJEebK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfETQSJEebK",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Dikelilingi Bunga Rasanya Ikut Mekar\n\nBerdiri di tengah kebun bunga tuh susah buat nggak senyum.\nPrompt-nya udah copas-ready di reply, tinggal salin.\n\n#kucingkucing #HijabIndonesia #KebunBunga #BungaMekar #SiangCeria",
+      "description": "黄花丛头巾写真",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "花海",
+      "image_description": "黄花丛头巾写真",
+      "copy_title": "单人女性+花海+黄花丛头巾写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "花海"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfETQSJEebK_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfTwsH5mwZC",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfTwsH5mwZC",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Sayap Kecil Hinggap Tanpa Permisi\n\nLagi asyik jalan tiba-tiba ada burung hinggap di tangan, kaget tapi senang.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n\n#kucingkucing #HijabIndonesia #AviaryDay #BurungJinak #HijabJalanJalan",
+      "description": "林间与鸟互动写真",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "人与动物",
+      "image_description": "林间与鸟互动写真",
+      "copy_title": "单人女性+人与动物+林间与鸟互动写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "人与动物"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:08+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfTwsH5mwZC_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfE9GbkEVZM",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfE9GbkEVZM",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Gulali Manis Malam Jadi Ceria\nPasar malam itu obat rindu masa kecil — lampu warna-warni, bianglala, dan gulali sebesar kepala.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n#kucingkucing #HijabIndonesia #PasarMalam #Bianglala #Gulali",
+      "description": "摩天轮前棉花糖像",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "锁屏",
+      "image_description": "摩天轮前棉花糖像",
+      "copy_title": "单人女性+锁屏+摩天轮前棉花糖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "锁屏"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:47:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfE9GbkEVZM_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfUZzAmmyck",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ku.cingkucing/post/DfUZzAmmyck",
+      "creator": "ku.cingkucing",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:40+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06T03:46:40+00:00",
+      "caption": "Lampu Kota dari Atas Jembatan\n\nBerdiri di jembatan kaca malam-malam tuh rasanya kotanya lagi cerita semua.\nPrompt-nya udah aku taruh di reply, tinggal copas aja buat recreate versi kamu.\n\n#kucingkucing #HijabIndonesia #SkybridgeMalam #CityLights #HijabMalam",
+      "description": "玻璃桥夜景头巾",
+      "recommendation_reason": "Indonesia market corroborated by original Indonesian caption and creator AI-hijab/family content; retained final image inspected.",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ku.cingkucing",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "锁屏",
+      "image_description": "玻璃桥夜景头巾",
+      "copy_title": "单人女性+锁屏+玻璃桥夜景头巾+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "锁屏"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T03:46:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfUZzAmmyck_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "threads:DfOw67LEx_V",
       "platform": "threads",
@@ -36946,6 +39970,646 @@
           "kind": "image",
           "preview": "assets/instagram_Ddnxe61kihV_0.jpg",
           "preview_status": "image_http_200_verified",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dcq6wjqNNOJ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dcq6wjqNNOJ/",
+      "creator": "nevoloid",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "@nevoloid 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/nevoloid/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbPH4TTk_YB",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DbPH4TTk_YB/",
+      "creator": "mdtitiklestari",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "@mdtitiklestari 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mdtitiklestari/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfHF1NOBtQj",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DfHF1NOBtQj/",
+      "creator": "hchalie",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "@hchalie 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/hchalie/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfXeIlehM-W",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DfXeIlehM-W/",
+      "creator": "bowoxinfinity",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "@bowoxinfinity 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/bowoxinfinity/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Deb5g7gCnNs",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Deb5g7gCnNs/",
+      "creator": "aina_channel26",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "@aina_channel26 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/aina_channel26/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:2904bbc4205d2e5cc000d95a",
+      "platform": "other",
+      "post_url": "https://snapchat.com/@casthana1/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYd2dqY2Zua3BpAaDUeNecAaDUeNeBAAAAAw",
+      "creator": "casthana1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": "2\n2",
+      "description": "@casthana1 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.snapchat.com/@casthana1",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5dbddbc74aa99448d66231d0",
+      "platform": "other",
+      "post_url": "https://snapchat.com/@casthana1/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYd2RtcWVzcWNkAaDpdx8aAaDpdx8BAAAAAw",
+      "creator": "casthana1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": "1.8k\n2",
+      "description": "@casthana1 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.snapchat.com/@casthana1",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e02828a4540973e69173e95f",
+      "platform": "other",
+      "post_url": "https://snapchat.com/@casthana1/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYcHN0dm1nbGVqAaDxAjs1AaDxAjsbAAAAAw",
+      "creator": "casthana1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "@casthana1 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.snapchat.com/@casthana1",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5f8af3fa6017aedab15bbb67",
+      "platform": "other",
+      "post_url": "https://snapchat.com/@casthana1/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZnFzZnNtd3JkAaEgNcYTAaEgNcX5AAAAAw",
+      "creator": "casthana1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": "1.7k\n2",
+      "description": "@casthana1 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.snapchat.com/@casthana1",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:a47d1622a0a5bf6417184fcc",
+      "platform": "other",
+      "post_url": "https://snapchat.com/@casthana1/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYemhzd292aGloAaFJmJAmAaFJmJALAAAAAQ",
+      "creator": "casthana1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06T03:46:35+00:00",
+      "last_collected_at": "2026-11-06T03:46:35+00:00",
+      "duration_seconds": null,
+      "caption": null,
+      "description": "@casthana1 的素材",
+      "recommendation_reason": "Pending only: original specific URL was found on the saved public source profile. Current cloud proxy503 / existing platform cooldown prevented dynamic media verification. AI origin, market and dance remain unconfirmed; do not publish or count toward quota.",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "unverified",
+      "screening_scope": "none",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "预览暂不可用",
+        "视频文件待获取",
+        "AI属性待确认",
+        "地区待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.snapchat.com/@casthana1",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "unknown",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": null,
+      "theme_tag": "舞蹈",
+      "image_description": "",
+      "copy_title": null,
+      "tags": {
+        "audience_tags": [],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": null,
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": null,
+          "preview_status": "unavailable",
           "result_status": "unknown",
           "visual_analysis": null
         }
