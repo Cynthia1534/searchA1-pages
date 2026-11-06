@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T08:33:53+00:00",
+  "generated_at": "2026-11-06T09:33:47+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -50,9 +50,9 @@
     ]
   },
   "export_stats": {
-    "formal": 575,
+    "formal": 583,
     "candidates": 129,
-    "confirmed_duplicates_skipped": 233,
+    "confirmed_duplicates_skipped": 241,
     "suspected_duplicates_included": 1
   },
   "materials": [
@@ -3198,6 +3198,518 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/threads_DfUZzAmmyck_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1045878714957803",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61592758596121/videos/1045878714957803/",
+      "creator": "Wulan Saja",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06",
+      "duration_seconds": 25.115304,
+      "last_collected_at": "2026-11-06",
+      "caption": "#Reel #dancing She dances beautifully",
+      "description": "青花卡巴雅慢舞",
+      "recommendation_reason": "青花卡巴雅女子木走廊慢舞，从害羞姿态渐入转身、展臂，印尼语评论为主，市场依据明确；节奏偏慢，属优雅型而非劲舞，可补印尼传统服饰慢舞方向",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Wulan Saja/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "青花卡巴雅回旋舞",
+      "copy_title": "单人女性+舞蹈+青花卡巴雅回旋舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T09:33:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1045878714957803_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1112515281199968",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61589239421016/videos/1112515281199968/",
+      "creator": "Poonam Gujarati",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06",
+      "duration_seconds": 10.112,
+      "last_collected_at": "2026-11-06",
+      "caption": "Simple, graceful, and always in style. Drop a heart if you love wearing sarees as much as I do! પુનમ ગુજરાતી #પૂનમગુજરાતી#Graceful #SareeDiaries #EthnicWear #TraditionalStyle",
+      "description": "奶油纱丽室内独舞",
+      "recommendation_reason": "奶油纱丽配金边女子客厅独舞，手势、比心、转身展示纱丽，130赞47评论，古吉拉特传统服饰方向；但动作以手势与摆拍为主，舞蹈强度弱，入选需核验连续舞蹈",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Poonam Gujarati/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "奶油纱丽手势转身舞",
+      "copy_title": "单人女性+舞蹈+奶油纱丽手势转身舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T09:33:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1112515281199968_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DZZuQkdmhtv",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@apriasaputri27/post/DZZuQkdmhtv",
+      "creator": "apriasaputri27",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06",
+      "caption": "Cus penganten pengantenan 🤭🤣🤣",
+      "description": "青绿丝绒卡巴雅新娘棚拍",
+      "recommendation_reason": "1393赞；青绿丝绒新娘五图同人系列，婚礼模板色彩新颖",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@apriasaputri27",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "棚拍",
+      "image_description": "青绿卡巴雅新娘像",
+      "copy_title": "单人女性+棚拍+青绿卡巴雅新娘像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T09:33:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DZZuQkdmhtv_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 1,
+          "kind": "image",
+          "preview": "assets/threads_DZZuQkdmhtv_1.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 2,
+          "kind": "image",
+          "preview": "assets/threads_DZZuQkdmhtv_2.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 3,
+          "kind": "image",
+          "preview": "assets/threads_DZZuQkdmhtv_3.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        },
+        {
+          "position": 4,
+          "kind": "image",
+          "preview": "assets/threads_DZZuQkdmhtv_4.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:39536158222696641",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/li.sian.90/posts/39536158222696641/",
+      "creator": "li.sian.90",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06",
+      "caption": "Jika dua ko2ku masih hidup, beginilah foto keluargaku🤗 Tidak mudah untuk mengedit foto ini ya, sambil edit sambil klr air mata apalagi melihat muka kedua almarhum ko2 🥺🥲\nJika ko2 kedua msh hidup...",
+      "description": "九人大家庭棚拍合影",
+      "recommendation_reason": "九人三代大家庭棚拍合影，家庭模板稀缺；170赞99评论，互动比高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/li.sian.90/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "indonesia",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "棚拍",
+      "image_description": "九人团圆家庭合照",
+      "copy_title": "亲子家庭+棚拍+九人团圆家庭合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T09:32:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_39536158222696641_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DO-etnDjLJO",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DO-etnDjLJO/",
+      "creator": "profesoniart",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06",
+      "caption": "14K likes, 467 comments - profesoniart on September 24, 2025: \"Vip scene / mother daughter Gemini visual prompt ✨ @googlegemini\nSwipe and check 👆🏼\n\nPrompt for mother & son : A warm emotional night-time rooftop scene. A mother in a traditional Indian saree sits beside her grown up son under a Star filled sky.she is joyfully looking through a small telescope, while the son gazes at the Star with admiration and a hand on his chest. Gentle fairy lights glow on the wall behind them adding a magical touch. The mood is nostalgic heartwarming, and filled with love, highlighting the bond between mother and son ultra realistic, cinematic lighting, 8K details.\n. \n. \n. \n#trend #geminiseason #geminiai #prompt #gemini #ai #tamilsong #tamilcinema #insta #instagram #trend #viral #trendingreels #trending #visual #graphicdesigner #designer #tamilmusic #instashoot #mom #daughter #insta #instagramers #geminimemes #vip #tamil #tamilgirl #tamilreels #instagood #instadaily  #motherdaughter #dhanush\".",
+      "description": "母女星空望远镜像",
+      "recommendation_reason": "母女屋顶星空：紫纱丽母持小望远镜、青花裙女并坐仰望银河，星空亲子奇幻模板；14000赞/470评论",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/profesoniart",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "海报",
+      "image_description": "星空母女望远镜",
+      "copy_title": "亲子家庭+海报+星空母女望远镜+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "海报"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T09:32:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DO-etnDjLJO_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcQxoc7iYP0",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcQxoc7iYP0/",
+      "creator": "positive_girl_suji_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06",
+      "caption": "🤌❤️👀\n.\n.\n.\n#photography #gemini #naturephoto #trendingsongs #fyp - @positive_girl_suji_official on August 20, 2026",
+      "description": "双重曝光粉纱情侣像",
+      "recommendation_reason": "粉衬衫男拥抱浅粉刺绣纱丽女，金色时刻石构背景，双重曝光叠影，浪漫情侣模板；5500赞/130评论",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/positive_girl_suji_official",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "多重曝光",
+      "image_description": "虚实叠影情侣合照",
+      "copy_title": "情侣+多重曝光+虚实叠影情侣合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "多重曝光"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T09:32:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcQxoc7iYP0_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DXyf1eZl9UA",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DXyf1eZl9UA/",
+      "creator": "siddhrth_creations_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06",
+      "caption": "Youth movie prompt 😍🥰❤️\n\n.\n\n.\n\n#youth #youthmovie #friendship #love #siddrt \n\n[ Priyanshi Yadav as Sonal, Meenakshi Dinesh as Preshika, Anishma Anilkumaras Kanakavalli ]\n\n@meenaaxi_ @anishma_anilkumar__ @priyanshiyadavofficial_ @kenkarunaas - @siddhrth_creations_ on May 1, 2026",
+      "description": "校服四友怀旧合集",
+      "recommendation_reason": "校服四友（1男3女）七场景合集：横抱/比心/草地围圈/台阶/俯拍，校园怀旧友情模板；100000赞/1200评论，数据极强",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/siddhrth_creations_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "棚拍",
+      "image_description": "校服好友托举合照",
+      "copy_title": "朋友+棚拍+校服好友托举合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T09:32:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DXyf1eZl9UA_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DX4IHP6CJ9J",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DX4IHP6CJ9J/",
+      "creator": "siddhrth_creations_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-06",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-06",
+      "caption": "siddhrth_creations_ on May 3, 2026: \"YOUTH 🥰💕\n\n.\n\n.\n\n#youth #youthmovie #friends #pose #siddrt \n\n[ Priyanshi Yadav as Sonal, Meenakshi Dinesh as Preshika, Anishma Anilkumaras Kanakavalli ]\n\n@priyanshiyadavofficial_ @meenaaxi_ @anishma_anilkumar__\".",
+      "description": "灰棚四友捏脸合影",
+      "recommendation_reason": "灰棚四人友情合影，两女捏男主脸颊+身后比耶，姿势俏皮可复刻；检索快照18000赞/488评论",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/siddhrth_creations_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "棚拍",
+      "image_description": "灰棚四友捏脸合影",
+      "copy_title": "朋友+棚拍+灰棚四友捏脸合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-06T09:32:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DX4IHP6CJ9J_0.jpg",
           "preview_status": "verified",
           "result_status": "final_result",
           "visual_analysis": null
