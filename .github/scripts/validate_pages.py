@@ -11,7 +11,7 @@ EXPECTED_HOSTS = {
     'youtube': {'youtube.com', 'www.youtube.com', 'youtu.be'},
     'facebook': {'facebook.com', 'www.facebook.com'},
     'threads': {'threads.com', 'www.threads.com', 'threads.net', 'www.threads.net'},
-    'other': {'hailuoai.video', 'www.hailuoai.video', 'snapchat.com', 'www.snapchat.com', 'higgsfield.ai'},
+    'other': {'hailuoai.video', 'www.hailuoai.video', 'snapchat.com', 'www.snapchat.com', 'higgsfield.ai', 'promptbird.in'},
 }
 
 EXPECTED_THEMES = set(['情侣写真','舞蹈','单人写真','亲子家庭写真','宝宝儿童写真','耍帅','节庆','短剧剧情','新品类探索'])
@@ -41,6 +41,9 @@ def valid_post_url(platform, value):
                 or post.hostname not in EXPECTED_HOSTS.get(platform, set())
                 or post.path in {'', '/'}):
             return False
+        if platform == 'other' and post.hostname == 'promptbird.in':
+            return (not post.query and not post.fragment and re.fullmatch(
+                r'/prompt/[a-z0-9]+(?:-[a-z0-9]+)*/?', post.path) is not None)
         if platform == 'other' and post.hostname == 'higgsfield.ai':
             return (not post.query and not post.fragment and re.fullmatch(
                 r'/contests/make-your-action-scene/submissions/[0-9a-f]{8}-(?:[0-9a-f]{4}-){3}[0-9a-f]{12}/?', post.path) is not None)
