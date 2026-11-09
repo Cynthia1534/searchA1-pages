@@ -14,7 +14,8 @@ EXPECTED_HOSTS = {
     'other': {'hailuoai.video', 'www.hailuoai.video', 'snapchat.com', 'www.snapchat.com', 'higgsfield.ai'},
 }
 
-EXPECTED_THEMES = set('性感舞蹈 摇腿舞 花海 雪山 海边 80复古 拼贴 海报 锁屏 多宫格 耍帅 闪光灯 拍立得 人与动物 孕照 黑白摄影 多重曝光 剧情 纱丽 骑马 开车 拥抱 亲密互动 墨镜 棚拍 纯色暗调 排灯节 克里希纳诞辰 象头神节 九夜节 十胜节 亡灵节 印度独立日 舞蹈'.split())
+EXPECTED_THEMES = set(['情侣写真','舞蹈','单人写真','亲子家庭写真','宝宝儿童写真','耍帅','节庆','短剧剧情','新品类探索'])
+LEGACY_THEMES = set('性感舞蹈 摇腿舞 花海 雪山 海边 80复古 拼贴 海报 锁屏 多宫格 耍帅 闪光灯 拍立得 人与动物 孕照 黑白摄影 多重曝光 剧情 纱丽 骑马 开车 拥抱 亲密互动 墨镜 棚拍 纯色暗调 排灯节 克里希纳诞辰 象头神节 九夜节 十胜节 亡灵节 印度独立日 舞蹈'.split())
 
 
 def validate_taxonomy(taxonomy):
@@ -23,7 +24,11 @@ def validate_taxonomy(taxonomy):
     themes = taxonomy['theme_tags']
     # Accept the previous snapshot during the existing cross-repository sync.
     assert len(themes) == len(set(themes))
-    assert set(themes) in (EXPECTED_THEMES, EXPECTED_THEMES - {'舞蹈'})
+    if set(themes) == EXPECTED_THEMES:
+        assert themes == ['情侣写真','舞蹈','单人写真','亲子家庭写真','宝宝儿童写真','耍帅','节庆','短剧剧情','新品类探索']
+    else:
+        # Allow an older deployed snapshot while the private-source sync runs.
+        assert set(themes) in (LEGACY_THEMES, LEGACY_THEMES - {'舞蹈'})
     # Newly introduced labels must appear in the exact requested UI order.
     black_white = themes.index('黑白摄影')
     assert themes[black_white:black_white + 4] == ['黑白摄影','多重曝光','剧情','纱丽']
