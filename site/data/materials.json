@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T09:33:47+00:00",
+  "generated_at": "2026-11-09T02:59:42+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -50,12 +50,1832 @@
     ]
   },
   "export_stats": {
-    "formal": 583,
+    "formal": 613,
     "candidates": 129,
-    "confirmed_duplicates_skipped": 241,
+    "confirmed_duplicates_skipped": 271,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "other:dfd185486f67cb9d9f18c259",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/0680a3ae-9549-4e8b-81f6-d657913cf26b",
+      "creator": "michelangelobanana1027",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 17,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "男子在窄巷遭掐颈压制，继而挥拳踢腿反击，将对手击倒；不依赖对话说明冲突。",
+      "description": "男子在窄巷遭掐颈压制，继而挥拳踢腿反击，将对手击倒；不依赖对话说明冲突。",
+      "recommendation_reason": "推荐原片第129–146秒，共17秒；原片约159.0秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。男子在窄巷遭掐颈压制，继而挥拳踢腿反击，将对手击倒；不依赖对话说明冲突。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@michelangelobanana1027",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "剧情",
+      "image_description": "雨巷受袭奋起反击",
+      "copy_title": "单人男性+剧情+雨巷受袭奋起反击+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:59:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_dfd185486f67cb9d9f18c259_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:6cde847861b5bf3370dab3c5",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/ec1e13b9-f6cc-4882-b31a-7e49ef359254",
+      "creator": "bourgeoisstrawberry_omega",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 17,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "公牛冲撞甩开男子，男子追上并抱住牛峰继续较量；泰米尔文化场景，片段不展示流血伤害。",
+      "description": "公牛冲撞甩开男子，男子追上并抱住牛峰继续较量；泰米尔文化场景，片段不展示流血伤害。",
+      "recommendation_reason": "推荐原片第115–132秒，共17秒；原片约148.1秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。公牛冲撞甩开男子，男子追上并抱住牛峰继续较量；泰米尔文化场景，片段不展示流血伤害。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@bourgeoisstrawberry_omega",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "剧情",
+      "image_description": "冲刺抱牛反复较量",
+      "copy_title": "单人男性+剧情+冲刺抱牛反复较量+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:59:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_6cde847861b5bf3370dab3c5_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:967552d83df653cd9c3cd8f4",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/5dada2dc-51e8-4431-90e9-ee93e2fd38b7",
+      "creator": "muralianimator",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 18,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "英雄在立体字高台跃起、与对手交手，无人机群加入；原作为AI电影预告，非真实事件。",
+      "description": "英雄在立体字高台跃起、与对手交手，无人机群加入；原作为AI电影预告，非真实事件。",
+      "recommendation_reason": "推荐原片第12–30秒，共18秒；原片约43.7秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。英雄在立体字高台跃起、与对手交手，无人机群加入；原作为AI电影预告，非真实事件。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@muralianimator",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "剧情",
+      "image_description": "高台激战来袭无人机",
+      "copy_title": "单人男性+剧情+高台激战来袭无人机+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:59:12+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_967552d83df653cd9c3cd8f4_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:b1cf57c50c4d034a1fc27ae2",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/70cce566-c2f4-46f6-bdd6-4dca24fbd65c",
+      "creator": "futuristictoaster1152",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 17,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "陨石击中废弃三轮车，车辆被能量唤醒并变形成机甲飞起；印度三轮车是故事主角，不冒充真人舞蹈。",
+      "description": "陨石击中废弃三轮车，车辆被能量唤醒并变形成机甲飞起；印度三轮车是故事主角，不冒充真人舞蹈。",
+      "recommendation_reason": "推荐原片第39–56秒，共17秒；原片约131.5秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。陨石击中废弃三轮车，车辆被能量唤醒并变形成机甲飞起；印度三轮车是故事主角，不冒充真人舞蹈。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@futuristictoaster1152",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人通用",
+      "theme_tag": "剧情",
+      "image_description": "三轮车变形后飞起",
+      "copy_title": "单人通用+剧情+三轮车变形后飞起+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人通用"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:59:05+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_b1cf57c50c4d034a1fc27ae2_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:36bd4a278e5862e9dcd020bc",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/4e750cc6-163c-4d92-bc2d-ae18a2bf72ab",
+      "creator": "a_j_rajesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 14,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "骑兵持火把围追马车，车旁爆炸，人物跃出车侧躲避；古代德干追逐事件清晰。",
+      "description": "骑兵持火把围追马车，车旁爆炸，人物跃出车侧躲避；古代德干追逐事件清晰。",
+      "recommendation_reason": "推荐原片第105–119秒，共14秒；原片约200.1秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。骑兵持火把围追马车，车旁爆炸，人物跃出车侧躲避；古代德干追逐事件清晰。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@a_j_rajesh",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "剧情",
+      "image_description": "火把围追马车脱险",
+      "copy_title": "单人男性+剧情+火把围追马车脱险+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:58:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_36bd4a278e5862e9dcd020bc_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:73e71398c953d2a72852d5f4",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/3e4d9e92-6933-4d8f-96e6-f5de7b2e225b",
+      "creator": "rishabh_jainmaster",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 14,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "男子骑摩托抢过路口，横向驶来的巴士形成近撞危机；有短暂黑场转场，未虚构无缝镜头。",
+      "description": "男子骑摩托抢过路口，横向驶来的巴士形成近撞危机；有短暂黑场转场，未虚构无缝镜头。",
+      "recommendation_reason": "推荐原片第53–67秒，共14秒；原片约76.2秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。男子骑摩托抢过路口，横向驶来的巴士形成近撞危机；有短暂黑场转场，未虚构无缝镜头。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@rishabh_jainmaster",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "剧情",
+      "image_description": "摩托抢行险遇巴士",
+      "copy_title": "单人男性+剧情+摩托抢行险遇巴士+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:58:51+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_73e71398c953d2a72852d5f4_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:ecdcdf8d1215645c87b101e1",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/bccbb95c-a080-4f96-8654-6ed4b833189b",
+      "creator": "priyanvp",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 17,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "两名部落战士持矛进攻、盾牌格挡并再度冲刺；保留动作段，不以对白解释为前提。",
+      "description": "两名部落战士持矛进攻、盾牌格挡并再度冲刺；保留动作段，不以对白解释为前提。",
+      "recommendation_reason": "推荐原片第92–109秒，共17秒；原片约164.6秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。两名部落战士持矛进攻、盾牌格挡并再度冲刺；保留动作段，不以对白解释为前提。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@priyanvp",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "剧情",
+      "image_description": "男女持矛激烈对决",
+      "copy_title": "朋友+剧情+男女持矛激烈对决+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:58:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_ecdcdf8d1215645c87b101e1_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:dacf62c9ccbba5f9347472ae",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/cea3f4a8-f0d6-4c7b-b33c-1fc0abedf660",
+      "creator": "cantorhippo1170",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 17,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "战士格挡蒙面敌人、跳踢并近身反击；为虚构动作片，无伤口或肢解特写。",
+      "description": "战士格挡蒙面敌人、跳踢并近身反击；为虚构动作片，无伤口或肢解特写。",
+      "recommendation_reason": "推荐原片第22–39秒，共17秒；原片约59.7秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。战士格挡蒙面敌人、跳踢并近身反击；为虚构动作片，无伤口或肢解特写。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@cantorhippo1170",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "剧情",
+      "image_description": "战士挥刃击退围攻",
+      "copy_title": "单人男性+剧情+战士挥刃击退围攻+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:58:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_dacf62c9ccbba5f9347472ae_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:48cb588d35aa3efd06c87e04",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/d37fea9f-1c27-4bac-a6a0-64740184bfe1",
+      "creator": "vai_vishal",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 17.017,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "风暴袭来，攀登者脚下冰层塌陷并坠落冰洞；无需对白理解危险事件。",
+      "description": "风暴袭来，攀登者脚下冰层塌陷并坠落冰洞；无需对白理解危险事件。",
+      "recommendation_reason": "推荐原片第43–60秒，共17秒；原片约116.7秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。风暴袭来，攀登者脚下冰层塌陷并坠落冰洞；无需对白理解危险事件。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@vai_vishal",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "剧情",
+      "image_description": "雪峰塌陷坠入深渊",
+      "copy_title": "单人男性+剧情+雪峰塌陷坠入深渊+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:58:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_48cb588d35aa3efd06c87e04_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:021941a0595ba18b7428afc5",
+      "platform": "other",
+      "post_url": "https://higgsfield.ai/contests/make-your-action-scene/submissions/a27cbc9a-5d13-44ae-8a42-b6ebe76439df",
+      "creator": "hopperbee1146",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:58:01+00:00",
+      "duration_seconds": 17,
+      "last_collected_at": "2026-11-09T02:58:01+00:00",
+      "caption": "男子坐在车内观察，桥面尸群由远及近奔跑逼近；无人物对话镜头，冲突由逼近动作呈现。",
+      "description": "男子坐在车内观察，桥面尸群由远及近奔跑逼近；无人物对话镜头，冲突由逼近动作呈现。",
+      "recommendation_reason": "推荐原片第43–60秒，共17秒；原片约93.7秒。已核验该实际动作片段，保留原声；原片其余部分未一并审核。男子坐在车内观察，桥面尸群由远及近奔跑逼近；无人物对话镜头，冲突由逼近动作呈现。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [
+        "已核验推荐片段，完整原片未审核"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://higgsfield.ai/@hopperbee1146",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "剧情",
+      "image_description": "桥面尸群逼近车辆",
+      "copy_title": "单人男性+剧情+桥面尸群逼近车辆+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "剧情"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:58:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/other_021941a0595ba18b7428afc5_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfblwNwEwqE",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@kunnuvlog09/post/DfblwNwEwqE",
+      "creator": "kunnuvlog09",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "排灯节情侣上下双拼。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@kunnuvlog09 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@kunnuvlog09",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拼贴",
+      "image_description": "排灯节情侣上下双拼",
+      "copy_title": "情侣+拼贴+排灯节情侣上下双拼+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:58:01+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfblwNwEwqE_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdMxV1xE8Tf",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ig.akash___10/post/DdMxV1xE8Tf",
+      "creator": "ig.akash___10",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "红头带神像前入场。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@ig.akash___10 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ig.akash___10",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "象头神节",
+      "image_description": "红头带神像前入场",
+      "copy_title": "单人男性+象头神节+红头带神像前入场+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "象头神节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:57:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdMxV1xE8Tf_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfb_8j_Hw-a",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@biru.babu2025/post/Dfb_8j_Hw-a",
+      "creator": "biru.babu2025",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "萌娃灯火萌宠三拼。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@biru.babu2025 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@biru.babu2025",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "多宫格",
+      "image_description": "萌娃灯火萌宠三拼",
+      "copy_title": "宝宝儿童+多宫格+萌娃灯火萌宠三拼+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:57:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfb_8j_Hw-a_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfea4h9lIDm",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@adarsh_sharma.k/post/Dfea4h9lIDm",
+      "creator": "adarsh_sharma.k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "白衬衫框景托腮像。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@adarsh_sharma.k 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@adarsh_sharma.k",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "黑白摄影",
+      "image_description": "白衬衫框景托腮像",
+      "copy_title": "单人男性+黑白摄影+白衬衫框景托腮像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "黑白摄影"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:57:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfea4h9lIDm_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DffA6e5FPtJ",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@adarsh_sharma.k/post/DffA6e5FPtJ",
+      "creator": "adarsh_sharma.k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "黑衣男生俯身点灯。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@adarsh_sharma.k 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@adarsh_sharma.k",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "排灯节",
+      "image_description": "黑衣男生俯身点灯",
+      "copy_title": "单人男性+排灯节+黑衣男生俯身点灯+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:57:33+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DffA6e5FPtJ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfcd_KCHYoB",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@vaisshnavi369/post/Dfcd_KCHYoB",
+      "creator": "vaisshnavi369",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "蓝衣五格时尚写真。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@vaisshnavi369 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@vaisshnavi369",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "蓝衣五格时尚写真",
+      "copy_title": "单人女性+多宫格+蓝衣五格时尚写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:57:26+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfcd_KCHYoB_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DffcWYdgfME",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@vaisshnavi369/post/DffcWYdgfME",
+      "creator": "vaisshnavi369",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "粉纱丽五格侧影。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@vaisshnavi369 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@vaisshnavi369",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "多宫格",
+      "image_description": "粉纱丽五格侧影",
+      "copy_title": "单人女性+多宫格+粉纱丽五格侧影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "多宫格"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:57:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DffcWYdgfME_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfe2Pv9GrzG",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/Dfe2Pv9GrzG",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "一家四口围坐点灯。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@ansariarbaj5184 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "排灯节",
+      "image_description": "一家四口围坐点灯",
+      "copy_title": "亲子家庭+排灯节+一家四口围坐点灯+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:57:12+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfe2Pv9GrzG_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DffKhI6GZdf",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/DffKhI6GZdf",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "红底牛仔惊讶合照。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@rav_iranjan95 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "棚拍",
+      "image_description": "红底牛仔惊讶合照",
+      "copy_title": "情侣+棚拍+红底牛仔惊讶合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "棚拍"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:57:05+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DffKhI6GZdf_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DffNmdjmS7v",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/DffNmdjmS7v",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "双蜥蜴肩头奢宴像。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@rav_iranjan95 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "人与动物",
+      "image_description": "双蜥蜴肩头奢宴像",
+      "copy_title": "单人男性+人与动物+双蜥蜴肩头奢宴像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "人与动物"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:56:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DffNmdjmS7v_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfd2HWSEx3M",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@_t__s__k_/post/Dfd2HWSEx3M",
+      "creator": "_t__s__k_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "兄妹点燃红色鞭炮。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@_t__s__k_ 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@_t__s__k_",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "排灯节",
+      "image_description": "兄妹点燃红色鞭炮",
+      "copy_title": "亲子家庭+排灯节+兄妹点燃红色鞭炮+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:56:51+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfd2HWSEx3M_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DffMlTRE-pM",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@_t__s__k_/post/DffMlTRE-pM",
+      "creator": "_t__s__k_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "夜巷双人点燃烟花。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@_t__s__k_ 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@_t__s__k_",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "排灯节",
+      "image_description": "夜巷双人点燃烟花",
+      "copy_title": "朋友+排灯节+夜巷双人点燃烟花+图片+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:56:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DffMlTRE-pM_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfZod1GjWZp",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@im_kochu_bubblie/post/DfZod1GjWZp",
+      "creator": "im_kochu_bubblie",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "晚霞红纱丽海边像。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@im_kochu_bubblie 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@im_kochu_bubblie",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "海边",
+      "image_description": "晚霞红纱丽海边像",
+      "copy_title": "单人女性+海边+晚霞红纱丽海边像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "海边"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:56:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfZod1GjWZp_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DffPfJUj31w",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@im_kochu_bubblie/post/DffPfJUj31w",
+      "creator": "im_kochu_bubblie",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "兄妹专心点燃烟花。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@im_kochu_bubblie 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@im_kochu_bubblie",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "排灯节",
+      "image_description": "兄妹专心点燃烟花",
+      "copy_title": "亲子家庭+排灯节+兄妹专心点燃烟花+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:56:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DffPfJUj31w_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfW3KbKmvQa",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@devil_sam24/post/DfW3KbKmvQa",
+      "creator": "devil_sam24",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "撕裂双面纸牌人像。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@devil_sam24 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@devil_sam24",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "拼贴",
+      "image_description": "撕裂双面纸牌人像",
+      "copy_title": "单人男性+拼贴+撕裂双面纸牌人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "拼贴"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:56:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfW3KbKmvQa_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DffIheiDYuK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@santhosh_shiva11/post/DffIheiDYuK",
+      "creator": "santhosh_shiva11",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "黑衣窗前烛光对望。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@santhosh_shiva11 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@santhosh_shiva11",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "排灯节",
+      "image_description": "黑衣窗前烛光对望",
+      "copy_title": "情侣+排灯节+黑衣窗前烛光对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:56:16+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DffIheiDYuK_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DffLA_5j6_6",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@santhosh_shiva11/post/DffLA_5j6_6",
+      "creator": "santhosh_shiva11",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "黄红礼服闺蜜捧灯。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@santhosh_shiva11 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@santhosh_shiva11",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "排灯节",
+      "image_description": "黄红礼服闺蜜捧灯",
+      "copy_title": "朋友+排灯节+黄红礼服闺蜜捧灯+图片+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:56:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DffLA_5j6_6_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfcZGt6H7nG",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@official_suvankar_guitarist/post/DfcZGt6H7nG",
+      "creator": "official_suvankar_guitarist",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "黑衣花园背后相拥。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@official_suvankar_guitarist 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@official_suvankar_guitarist",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "拥抱",
+      "image_description": "黑衣花园背后相拥",
+      "copy_title": "情侣+拥抱+黑衣花园背后相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "拥抱"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:56:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfcZGt6H7nG_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfekcAaCEgJ",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DfekcAaCEgJ",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "烟花街头双男合照。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@manojnakti1401 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "排灯节",
+      "image_description": "烟花街头双男合照",
+      "copy_title": "朋友+排灯节+烟花街头双男合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:55:55+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfekcAaCEgJ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DffEtjRCCK1",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DffEtjRCCK1",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09T02:55:28+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09T02:55:28+00:00",
+      "caption": "棕纱丽双人点灯。原作者公开的AI创作说明与实际成品图已核验，印度市场向图片参考。",
+      "description": "@manojnakti1401 的创意素材",
+      "recommendation_reason": "自主发现；实际结果图与作者公开生成说明已核验；保留首张实际图片，不将未查看的轮播内容一并认定。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "排灯节",
+      "image_description": "棕纱丽双人点灯",
+      "copy_title": "情侣+排灯节+棕纱丽双人点灯+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "排灯节"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T02:55:48+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DffEtjRCCK1_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "other:3ae5d3840c4b994e8a15b327",
       "platform": "other",
