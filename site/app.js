@@ -33,8 +33,9 @@ const tag = (item, field) => {
   // All realistic AI dance videos use the fixed second title tag “舞蹈”.
   if (field === 'theme_tags' && category(item) === 'human_ai_dance_video') return '舞蹈';
   const key = field === 'audience_tags' ? 'audienceTag' : 'themeTag';
-  if (Object.hasOwn(decision(item), key)) return decision(item)[key] || '';
-  return field === 'audience_tags' ? item.audience_tag || '' : item.theme_tag || '';
+  const raw = Object.hasOwn(decision(item), key) ? (decision(item)[key] || '')
+    : (field === 'audience_tags' ? item.audience_tag || '' : item.theme_tag || '');
+  return field === 'theme_tags' ? normalizeTheme(item, raw) : raw;
 };
 const tags = (item, field) => tag(item, field) ? [tag(item, field)] : [];
 const imageDescription = item => {
@@ -44,6 +45,28 @@ const imageDescription = item => {
 const category = item => item.material_kind === 'human_ai_dance_video' ? 'human_ai_dance_video'
   : item.material_kind === 'other_ai_video' ? 'other_ai_video'
   : item.material_kind === 'ai_image' || item.media?.[0]?.kind === 'image' ? 'ai_image' : 'unknown';
+// Archived cloud/local selections may use the old fine-grained taxonomy.
+// Convert for display only, without overwriting a past D1/human decision.
+const legacyFestivals = new Set(["排灯节","克里希纳诞辰","象头神节","九夜节","十胜节","亡灵节","印度独立日"]);
+const legacyNovel = new Set(["拼贴","多宫格","多重曝光","人与动物","海报","拍立得","锁屏"]);
+const legacyThemes = new Set(["性感舞蹈","摇腿舞","花海","雪山","海边","80复古","拼贴","海报","锁屏","多宫格","耍帅","闪光灯","拍立得","人与动物","孕照","黑白摄影","多重曝光","剧情","纱丽","骑马","开车","拥抱","亲密互动","墨镜","棚拍","纯色暗调","排灯节","克里希纳诞辰","象头神节","九夜节","十胜节","亡灵节","印度独立日","舞蹈"]);
+function normalizeTheme(item, theme) {
+  if (category(item) === 'human_ai_dance_video') return '舞蹈';
+  if (!theme) return '';
+  if (state.data?.taxonomy.theme_tags.includes(theme)) return theme;
+  if (!legacyThemes.has(theme)) return '';
+  if (theme === '剧情' || category(item) === 'other_ai_video') return '短剧剧情';
+  if (legacyFestivals.has(theme)) return '节庆';
+  if (theme === '性感舞蹈' || theme === '摇腿舞') return '舞蹈';
+  if (theme === '耍帅' || theme === '墨镜') return '耍帅';
+  if (legacyNovel.has(theme)) return '新品类探索';
+  const audience = decision(item).audienceTag || item.audience_tag;
+  if (audience === '情侣') return '情侣写真';
+  if (audience === '亲子家庭') return '亲子家庭写真';
+  if (audience === '宝宝儿童') return '宝宝儿童写真';
+  if (['单人男性','单人女性','单人通用'].includes(audience)) return '单人写真';
+  return '新品类探索';
+}
 const titleMedia = item => ['图片','视频'].includes(decision(item).titleMedia)
   ? decision(item).titleMedia
   : item.media?.[0]?.kind === 'video_cover' || ['human_ai_dance_video','other_ai_video'].includes(category(item)) ? '视频' : '图片';
