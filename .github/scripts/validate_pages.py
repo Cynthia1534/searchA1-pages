@@ -29,9 +29,9 @@ def validate_taxonomy(taxonomy):
     else:
         # Allow an older deployed snapshot while the private-source sync runs.
         assert set(themes) in (LEGACY_THEMES, LEGACY_THEMES - {'舞蹈'})
-    # Newly introduced labels must appear in the exact requested UI order.
-    black_white = themes.index('黑白摄影')
-    assert themes[black_white:black_white + 4] == ['黑白摄影','多重曝光','剧情','纱丽']
+        # The superseded labels only exist in the legacy taxonomy.
+        black_white = themes.index('黑白摄影')
+        assert themes[black_white:black_white + 4] == ['黑白摄影','多重曝光','剧情','纱丽']
 
 
 def valid_post_url(platform, value):
