@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T09:10:29+00:00",
+  "generated_at": "2026-11-09T09:48:05+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,9 +25,9 @@
     ]
   },
   "export_stats": {
-    "formal": 653,
-    "candidates": 129,
-    "confirmed_duplicates_skipped": 311,
+    "formal": 692,
+    "candidates": 130,
+    "confirmed_duplicates_skipped": 350,
     "suspected_duplicates_included": 1
   },
   "materials": [
@@ -4245,6 +4245,2346 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/threads_DffEtjRCCK1_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DRrzF-5kzDu",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DRrzF-5kzDu/",
+      "creator": "digital_girl249",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "HALDI CEREMONY POSES >>\n\nSwipe for prompt++\n\nI have created this another beautiful prompt for u all. U can also make this in GOOGLE GEMINI.\n\nJust tag me when u r using this prompt. (Give credit to the original creators lots of patience, efforts are there behind a single prompt)\n\nFor prompt↓\n\nFOLLOW ME & THEN COMMENT, THE PROMPT LINK WILL BE DIRECTLY SENT INTO UR DMV\n\nALSO U CAN TAKE SCREENSHOT OF THE PROMPT TEMPLATE I UPLOAD.\n\nJOIN MY BROADCAST CHANNEL FOR MORE UPDATES\n\n#postoftheday #photoideas #haldiceremony\n#photoshootideas #warmlight #cinematicshots\n#posesforpictures #weddingphotography #haldifunction #decoration #celebration #haldi #hyperrealistic #bridetobe #festivevibes #happymoments #haldilook #googlegemini #geminitrend #gemini #aicreation\n#aiedits #trend #explore #igreach #follow\n#nonfollowersandviewers #instadaily #instagram",
+      "description": "@digital_girl249 的创意素材",
+      "recommendation_reason": "婚礼哈蒂仪式：黄色刺绣纱丽新娘、抹姜黄、摩托花饰造型；数据很弱（31赞），仅作哈蒂场景补充",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/digital_girl249",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "节庆",
+      "image_description": "黄衫哈蒂新娘写真",
+      "copy_title": "单人女性+节庆+黄衫哈蒂新娘写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:47:35+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DRrzF-5kzDu_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbSem5lAeuW",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbSem5lAeuW/",
+      "creator": "mahesh_ai__creator",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "mahesh_ai__creator on July 27, 2026: \"Google gamini Ai copuls photo Wife husband 💓🫰 \n#trendingpost #trendingsongs #vairal #aiartwork #aiartist\".",
+      "description": "@mahesh_ai__creator 的创意素材",
+      "recommendation_reason": "红纱新娘+白衬衫新郎婚礼合影，花墙背景，无文字遮挡，干净成品；帖子页未显示点赞数，互动数据弱",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mahesh_ai__creator",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红纱婚礼情侣像",
+      "copy_title": "情侣+情侣写真+红纱婚礼情侣像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:47:22+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbSem5lAeuW_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdEir0jBAnI",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdEir0jBAnI/",
+      "creator": "shagun_family_vlog",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "16 likes, 0 comments - shagun_family_vlog on September 9, 2026: \"तस्वीर 2026 की Vibe 1986 की\".",
+      "description": "@shagun_family_vlog 的创意素材",
+      "recommendation_reason": "生日、无专属标签、近似为80复古：父母+小女孩生日全家福，气球横幅+旧式收音机，做旧复古质感；数据低（16赞），做旧划痕为风格化处理",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shagun_family_vlog",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "复古生日三口合照",
+      "copy_title": "亲子家庭+节庆+复古生日三口合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:47:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdEir0jBAnI_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DUY-fYsky6c",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DUY-fYsky6c/",
+      "creator": "burainsan438",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "PROMPT \nA realistic Indian wedding couple standing close together, both doing a respectful \"namaste\" gesture while smiling softly. The bride wears a traditional deep pink lehenga with intricate golden embroidery, red bangles, floral garlands, and detailed mehndi on her hands. The groom wears an ivory sherwani with golden embroidery, matching safa (turban) adorned with a feather and floral brooch. Their faces are realistic and expressive",
+      "description": "@burainsan438 的创意素材",
+      "recommendation_reason": "婚礼：奶油色舍瓦尼+品红纱丽新人合十礼，枣红帷幕+花艺背景；数据很弱（70赞），仅作婚礼场景补充",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/burainsan438",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "新人合十婚礼像",
+      "copy_title": "情侣+情侣写真+新人合十婚礼像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:46:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DUY-fYsky6c_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc8xU64jSYd",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc8xU64jSYd/",
+      "creator": "sona_shivare",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "🙏 गणेश चतुर्थी 2026 \n\n“गणपति बप्पा मोरया ❤️✨ | बप्पा के रंग में रंगी भक्ति 🙏🐘 | Ganesh Chaturthi 2026”\n🔥 \n#GaneshChaturthi2026 #GanpatiBappaMorya #Ganpati #GaneshChaturthi #BappaMorya GanpatiFestival GaneshUtsav GanpatiBappa MoryaReBappa GaneshJi GanpatiDarshan GaneshChaturthi BappaBlessings GanpatiDecoration AIImages AIGenerated AIPhoto Devotional GaneshFestival Ganpati2026 🙏✨",
+      "description": "@sona_shivare 的创意素材",
+      "recommendation_reason": "象头神节：女子多套马邦纱丽伴象神像持供品、合十、做祭拜，家庭神龛场景，21K赞高数据",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/sona_shivare",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "节庆",
+      "image_description": "马邦纱丽拜象神像",
+      "copy_title": "单人女性+节庆+马邦纱丽拜象神像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:46:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc8xU64jSYd_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcBTs8FiCtX",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcBTs8FiCtX/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "prompt.@avi.edit_106 @vikash.edit_109 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 @vikash.edit_109 📌🫵👇👇Ultra-realistic cinematic 8K Independence Day portrait of two young Indian boys standing side-by-side, using the uploaded photo as the only identity reference. Preserve both faces, facial structure, hairstyle, skin tone, age, body proportions and natural expressions accurately.\nBoth are wearing stylish Indian tricolor T-shirts with saffron on top, white in the middle featuring a clearly visible blue Ashoka Chakra, and green at the bottom, paired with dark navy/black pants. They stand confidently in front of the Red Fort, Delhi, during a beautiful golden-hour sunset.\nA large Indian national flag (Tiranga) is flying dramatically from a tall flagpole above them, with accurate saffron, white and green colors and a detailed navy-blue Ashoka Chakra. Warm sunlight, glowing orange sky, dramatic clouds, realistic Red Fort architecture, subtle atmospheric haze, cinematic depth of field, natural skin texture, sharp facial details, professional DSLR photography, 85mm lens, HDR, photorealistic, premium patriotic poster look, highly detailed, realistic lighting, vertical 4:5 composition.",
+      "description": "@avi.edit_106 的创意素材",
+      "recommendation_reason": "印度独立日：两名青年着三色衫并肩立于红堡前、金色时刻、三色旗飘扬，1.9K赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "节庆",
+      "image_description": "红堡前三色衫双男像",
+      "copy_title": "朋友+节庆+红堡前三色衫双男像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:46:31+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcBTs8FiCtX_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcVfPYlH0YT",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcVfPYlH0YT/",
+      "creator": "ai_prompt_editz",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "AI Photo Editing Prompt 🤖 | Copy this AI prompt\n\nFull prompt _Available via the telegram link in bio\n\nFollow me @ai_prompt_editz \n\n#aiprompts \n#happyjanmashtami❤️\n#krishnalovers❤️\n#geminitrend❤️ \n#aiediting",
+      "description": "@ai_prompt_editz 的创意素材",
+      "recommendation_reason": "克里希纳诞辰：婴儿版克里希纳坐于黄油罐与笛子旁，深蓝影棚底+灯花；注意轮播含Telegram引流",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ai_prompt_editz",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "节庆",
+      "image_description": "小克里希纳黄油罐像",
+      "copy_title": "宝宝儿童+节庆+小克里希纳黄油罐像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:46:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcVfPYlH0YT_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcsO69WCfgw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcsO69WCfgw/",
+      "creator": "iamshivamgandhi",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "💙🦚 Imagine your little one as Kanha this Janmashtami… 🥹✨\n\nNo costume. No studio. Just one photo + Gemini AI 😍\n\nTurn your child into the cutest Little Krishna and create a magical Janmashtami memory you’ll want to keep forever. 🪈🌸\n\nWant to create the same Krishna look? 👀\n\n👇 COMMENT “KRISHNA” and I’ll send you the exact Gemini prompt!\n\nSave this post 📌 | Share it with a parent ❤️\n\n#janmashtami #littlekanha❤️ #trendinggemini #trendingpost #geminitrend❤️",
+      "description": "@iamshivamgandhi 的创意素材",
+      "recommendation_reason": "克里希纳诞辰：幼儿版克里希纳着黄衣、孔雀羽冠、持笛，坐于白牛群中寺庙庭院；数据弱（20赞），靠节日创意入选",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/iamshivamgandhi",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "节庆",
+      "image_description": "小克里希纳牧牛像",
+      "copy_title": "宝宝儿童+节庆+小克里希纳牧牛像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:46:06+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcsO69WCfgw_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcfXr6Ykbqk",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcfXr6Ykbqk/",
+      "creator": "ajeet_lakra01",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Wishing everyone a very Happy Raksha Bandhan! ❤️🎀\nMay this beautiful bond of love, protection, and togetherness always stay strong. 🥰🧿\n\"Swipe left for \"Gemini\" prompts) @ajeet_lakra01\n\n📲Just take a screenshot, copy with the help of google lens and see the Gemini magic💎✨\n\n🚀Follow me for see more magic 🎩💫\n\nSteps:👇\n\n1.Open Gemini and Login\n\n2.Upload a clear picture\n\n3.Use the prompts mentioned in the post\n\n📌NOTE:- If You Like This Post Don't Forget Like, Comment, Share & Mention In Your Story\n.\n.\n#RakshaBandhan2026 #SiblingLove #RakhiSpecial #BhaiBehen #viralpost",
+      "description": "@ajeet_lakra01 的创意素材",
+      "recommendation_reason": "兄妹节、无专属标签、近似为亲密互动；18岁哥哥与11岁妹妹系拉基、喂甜食、送礼物，端庄家庭仪式场景，5K赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajeet_lakra01",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "兄妹系拉基仪式像",
+      "copy_title": "亲子家庭+节庆+兄妹系拉基仪式像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:45:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcfXr6Ykbqk_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DVPnOxgEgkU",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DVPnOxgEgkU/",
+      "creator": "arvind.techies",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Just comment “Happy Holi”  and I’ll send you the full process + prompt in your DM 🔥 \n\nAI se realistic Holi photos banana ab super easy 😳✨ \nGemini AI ka ye powerful prompt use karo — pose same, face same, bas natural Holi colors add 💯 \n\nLong distance ho ya normal photo… ab sab possible 🚀 \nFollow 👉 @arvind.techies for daily AI prompts 🤖 \n\n#arvindtechies #geminiai #holiprompt #aiphotogenerator #aiholiphoto geminiprompt aiimageediting aiimageprompt holireels aireels aitutorial promptengineering aicontentcreator aiartist trendingai viralreelsindia festivalai aiphototrend instagramai viralprompt \ngemini ai holi prompt, holi ai photo generator, gemini ai image prompt india, realistic ai holi photo, ai holi couple photo prompt, gemini ai photo tutorial, ai festival photo generator, cinematic ai holi image, hyper realistic ai holi photo, trending gemini ai prompt, viral ai holi trick, ai photo editing holi colors, gemini ai secret prompt, ai reel trending prompt, ultra realistic ai festival photo",
+      "description": "@arvind.techies 的创意素材",
+      "recommendation_reason": "洒红节、无专属标签、近似为耍帅；男子洒红节机车、皇家恩菲尔德、情侣抹粉多场景，4.8K赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/arvind.techies",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "洒红节粉衣情侣相拥",
+      "copy_title": "情侣+节庆+洒红节粉衣情侣相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:45:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DVPnOxgEgkU_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DRbnMQLE4jT",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DRbnMQLE4jT/",
+      "creator": "ankitasoulful",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "HALDI CEREMONY POSES💛>>Swipe for prompt✨\n\nI have created this another beautiful prompt for u all. U can also make this in GOOGLE GEMINI .\n\n🔸Just tag me when u r using this prompt. (Give credit to the original creators lots of patience, efforts are there behind a single prompt)☺️\n\nFor prompt ⬇️\n\n▶️FOLLOW ME & THEN COMMENT, THE PROMPT LINK WILL BE DIRECTLY SENT INTO UR DM✅\n\n▶️ALSO U CAN TAKE SCREENSHOT OF THE PROMPT TEMPLATE I UPLOAD.\n\n▶️JOIN MY BROADCAST CHANNEL FOR MORE UPDATES ❤️\n.\n.\n.\n#postoftheday #photoideas #haldiceremony #photoshootideas #warmlight #cinematicshots #posesforpictures #weddingphotography #haldifunction #decoration #celebration #haldi #hyperrealistic #bridetobe #festivevibes #happymoments #haldilook #googlegemini #geminitrend #gemini #aicreation #aiedits #trend #explore #igreach #follow #nonfollowersandviewers #instadaily #instagram #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp\n\nWhich pic u like the most💛👀?",
+      "description": "@ankitasoulful 的创意素材",
+      "recommendation_reason": "婚礼哈蒂仪式：新娘三套黄色造型（花饰摩托、抹姜黄、万寿菊花环、莲花缸），成品图可独立提取",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ankitasoulful",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "节庆",
+      "image_description": "黄衣哈蒂新娘写真",
+      "copy_title": "单人女性+节庆+黄衣哈蒂新娘写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:45:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DRbnMQLE4jT_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DUTaHa6Ez0x",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DUTaHa6Ez0x/",
+      "creator": "_lulu._.farasha_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Haldi Prompts ✨\n\n📌Check out the broadcast channel in my bio/ follow & comment \"PROMPT\"\n\n[ Google Gemini Al photo, Al photo transformation, Gemini photo edit, Gemini retro edit, Al aesthetic photo, Turn photo into retro, Al photo trend 2026, Viral Al photo reel, Gemini Al edit tutorial, Al image generation, Before and after Al edit, Google Gemini photo prompt, How to use Gemini for photos, Gemini Al photo enhancement, Al editing reel idea , Bridal prompts ]\n[ChatGPT AI photo, AI photo transformation, ChatGPT photo edit, ChatGPT retro edit, AI aesthetic photo, Turn photo into retro, AI photo trend 2026, Viral AI photo reel, ChatGPT AI edit tutorial, AI image generation, Before and after AI edit, ChatGPT photo prompt, How to use ChatGPT for photos, ChatGPT AI photo enhancement, AI editing reel idea, Bridal AI prompts]",
+      "description": "@_lulu._.farasha_ 的创意素材",
+      "recommendation_reason": "婚礼哈蒂仪式：芥末黄纱丽+头巾新娘持黄白花束，海娜手，奶油帷幔影棚；AI证据较弱（仅文案关键词），需实看复核",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/_lulu._.farasha_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "节庆",
+      "image_description": "芥末黄纱丽新娘像",
+      "copy_title": "单人女性+节庆+芥末黄纱丽新娘像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:45:17+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DUTaHa6Ez0x_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DWfqCJHiCOX",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DWfqCJHiCOX/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Comment prompt ✨ \n#weddingshoot #WeddingInspiration #BridalFashion #groom",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "婚礼：同一对新人多场景（室内曼达普、黄昏码头、拉贾斯坦石拱、沙漠），牵手拥抱，婚礼模板复刻价值高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "婚礼多场景情侣写真",
+      "copy_title": "情侣+情侣写真+婚礼多场景情侣写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:45:05+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DWfqCJHiCOX_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbayzTYCd8Q",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbayzTYCd8Q/",
+      "creator": "utshabraj_editor",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "COUPLE PHOTO PROMPT 📄\n.\n.\n.\n#aiphotos\n#aiprompts\n#aiediting \n#fashionlover \n#fashionmodel",
+      "description": "@utshabraj_editor 的创意素材",
+      "recommendation_reason": "婚礼：粉色舍瓦尼+亮片纱丽情侣，深蓝棚拍底+圆形聚光，成品图可独立提取",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/utshabraj_editor",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "蓝底聚光婚礼情侣像",
+      "copy_title": "情侣+情侣写真+蓝底聚光婚礼情侣像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:44:52+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbayzTYCd8Q_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdNh83lE5ha",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdNh83lE5ha/",
+      "creator": "editer_boy_786_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Trending prompt\n\n. \n.. \n. \n#couplprompt #aigenerated #prompt #photoideas #nanobanana2",
+      "description": "@editer_boy_786_ 的创意素材",
+      "recommendation_reason": "婚礼：粉色刺绣纱丽新娘+奶油色舍瓦尼新郎，垂幕棚拍背景，成品图可独立提取，提示词卡在成品之后",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editer_boy_786_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "粉纱新娘棚拍情侣像",
+      "copy_title": "情侣+情侣写真+粉纱新娘棚拍情侣像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:44:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdNh83lE5ha_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DclQEt8JSno",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DclQEt8JSno/",
+      "creator": "toolverseai058",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "3 likes, 2 comments - toolverseai058 on August 28, 2026: \"Use Gemini\n\"A candid, warm, medium close-up photograph of a 10-year-old Indian sister tying a colorful handcrafted silk\r\nRakhi around her 14-year-old elder brother's wrist. The sister is smiling brightly, dressed in a pastel yellow\r\nand pink traditional Kurti, while the brother is looking down at her with a gentle, affectionate grin, wearing a\r\nlight cream linen Kurta. On a low wooden coffee table next to them rests a decorated brass Pooja thali with\r\nRoli, Akshat rice, a glowing small Diya, and fresh Kaju Katli sweets. The background shows a cozy, naturally\r\nlit Indian living room adorned with marigold garlands and soft bokeh sunlight streaming through sheer\r\ncurtains. Shot on an 85mm f/1.8 lens, high dynamic range, natural skin textures, warm festive tones, 4K\r\nresolution.\"\".",
+      "description": "@toolverseai058 的创意素材",
+      "recommendation_reason": "姐姐为弟弟系拉克希，普迦盘细节完整，拉克沙节仪式感强；3赞小账号，创意优势；提示词展示帖，成品可独立提取",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/toolverseai058",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "宝宝儿童写真",
+      "image_description": "姐姐为弟弟系拉克希",
+      "copy_title": "宝宝儿童+宝宝儿童写真+姐姐为弟弟系拉克希+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "宝宝儿童写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:44:28+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DclQEt8JSno_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DckM9gGgW9_",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DckM9gGgW9_/",
+      "creator": "vanshsayani__life",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Kitna Sundar Kitna pyara ❤️✨🥀 \n🔸ꜱʜᴀʀᴇ ▪️ᴄᴏᴍᴍᴇɴᴛꜱ 🔹ꜰᴏʟʟᴏᴡ 🔸\nशुभ रक्षाबंधन 🌺🥰 Happy Rakshabandhan Happy Rakhi .. ❤️ Rakshabandhan [ रक्षाबंधन, राखी , भाई बहन , Rakshabandhan, Rakshabandhan 2026 , Rakhi 2026 , Bhai Behen , Rakshabandhan Special , Rakhi Special , 28 August , Symbol of Brother Sister Love]\nजब बहन भक्ति का रूप धारण करे, और भाई मासूम मुस्कान में अटूट भरोसा सजाए — तब राखी सिर्फ एक रिवाज़ नहीं, ईश्वर की लीला में बंधा एक पवित्र वचन बन जाती है। \nVanshsayani Khushi Bhardwaj Baalveer Returns Rakhi special\n🪷 This is not just Raksha Bandhan — it's Bhakti woven in divine childhood. Her hands tie love. His eyes hold trust. Together, they create a moment where tradition meets eternity. This isn’t just a photo — this is \"Rakhi in Ras-Leela.\" 📥 Free HD AI Wallpaper 🌼 Follow @vanshsayani__life for divine AI Bhakti moments – every day, every emotion! 🚀✨ #HappyRakshaBandhan2025 #ChildhoodBond #DivineSiblings #ChildBhakti #RakshaBandhanWishes SiblingLove RakhiWithBhakti SpiritualSiblings RakshaTradition DigitalDevotion YellowDress BlueDress AIHinduArt RakshaMoments BhaktiInPixels RedThreadLove PeaceInTradition SpiritualAIArt RakshaFestival DivineSiblingBond RadheRadhe DigitalAIWorld ⚠ Disclaimer: 🧘‍♂ All visuals are AI-generated and intended only for devotional artistic expression. 🙏 We honor all spiritual sentiments. If any emotion is unintentionally hurt, we sincerely apologize. - @vanshsayani__life on August 27, 2026",
+      "description": "@vanshsayani__life 的创意素材",
+      "recommendation_reason": "拉克沙节（兄妹节）兄妹传统装合影，图有节日祝福字；无专属标签，近似为亲密互动；410赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vanshsayani__life",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "节庆",
+      "image_description": "拉克沙节兄妹传统装合影",
+      "copy_title": "宝宝儿童+节庆+拉克沙节兄妹传统装合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:44:16+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DckM9gGgW9__0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOoc_i6DeTP",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DOoc_i6DeTP/",
+      "creator": "poojakrunalshah_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "My amma holding her pulli 🤍 This is what I’ve been dreaming from last 2months and google gemini made it possible.  #googlegemi #ai #gemini #mom #grandmother #grandson - @poojakrunalshah_ on September 15, 2025",
+      "description": "@poojakrunalshah_ 的创意素材",
+      "recommendation_reason": "绿纱丽祖母抱孙儿，已故母亲圆梦题材；325赞；纪念语境，商用前需敏感性复核；AI证据为标签+作者表述，较弱",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/poojakrunalshah_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "绿纱丽祖母抱宝宝",
+      "copy_title": "亲子家庭+亲子家庭写真+绿纱丽祖母抱宝宝+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:44:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOoc_i6DeTP_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DO8q8daDGeL",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DO8q8daDGeL/",
+      "creator": "oh_its_pritam",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "1,225 likes, 186 comments - oh_its_pritam on September 23, 2025: \"Ai Gemini Kiti sundar Image Banavala Prompt pahije asel tr Follow kara DM madhe Prompt share karto 😍...\n#gemini #ai #family #moment #instagram #\".",
+      "description": "@oh_its_pritam 的创意素材",
+      "recommendation_reason": "黑白“全世界在一帧”父母抱婴儿亲密像；1225赞/186评论，情感浓度高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/oh_its_pritam",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "父母抱婴儿亲密像",
+      "copy_title": "亲子家庭+亲子家庭写真+父母抱婴儿亲密像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:43:51+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DO8q8daDGeL_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DUsZjsTkl9i",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DUsZjsTkl9i/",
+      "creator": "all_tech_tamil",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Comment Prompt\n\nTrending Google Gemini Nano Banana Ai\n\nKeywords:\n\ntech, tech tamil, tech video, tech video tamil, tech reels, tech reels tamil, reel, viral reel effect 3d, best 3d character reel idea, google gemini nano ai, gemini nano banana ai, google gemini ai reels, ai banana meme reel, gemini ai funny reels, google ai tamil, ai trending reels 2025, gemini nano ai update, banana ai google gemini, future of ai 2025 tamil, nano banana ai reel, google gemini nano banana ai, ai tools tamil, viral ai app 2025, banana ai app trick, nano ai latest update, tamil tech reels ai, mobile ai tool tamil,\n\nHashtags:\n\n#instagram #reelstamil #reels #googlegemini #nanobanana #instagramreels #instadaily #reelsinstagram #explorepage #viralreels #trending #reelitfeelit #foryou #fyp #reelsviral #trendingreels #newtrend - @all_tech_tamil on February 13, 2026",
+      "description": "@all_tech_tamil 的创意素材",
+      "recommendation_reason": "黑白竖叠三人嘟嘴搞怪，Nano Banana热门效果；12000赞（搜索索引值，打开页仅显示1200评论）；科技号趋势展示帖，成品可独立提取",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/all_tech_tamil",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白叠放三口嘟嘴像",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白叠放三口嘟嘴像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:43:39+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DUsZjsTkl9i_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdKOTYyTjct",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdKOTYyTjct/",
+      "creator": "kalluganiofficial",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Our Dream Picture 😍🧿\n\nThis is the best picture I’ve seen so far. I just can’t control myself when I look at this picture. Love you Chat GPT \n\n#viral #explore #trending #reels - @kalluganiofficial on September 11, 2026",
+      "description": "@kalluganiofficial 的创意素材",
+      "recommendation_reason": "传统民居前一家四口，粉纱丽配奶油色同款，花环兰戈里节庆氛围；22838赞高数据",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/kalluganiofficial",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "传统民居前一家四口",
+      "copy_title": "亲子家庭+亲子家庭写真+传统民居前一家四口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:43:27+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdKOTYyTjct_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DYCzcDED4gz",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DYCzcDED4gz/",
+      "creator": "aa_ru_zzz",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "“Generated by AI, bonded by love ✨”\n.\n.\n.\n.\n#familylove #relation #instatrendingsong #instatrending #gemini - @aa_ru_zzz on May 7, 2026",
+      "description": "@aa_ru_zzz 的创意素材",
+      "recommendation_reason": "两代四口棚拍合影，纱丽配色协调；414赞/215评论，作者已确认AI并分享提示词",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/aa_ru_zzz",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "两代四口棚拍合影",
+      "copy_title": "亲子家庭+亲子家庭写真+两代四口棚拍合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:43:15+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DYCzcDED4gz_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOoPurOEhZX",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DOoPurOEhZX/",
+      "creator": "r.a.j.a.t.14_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "158 likes, 146 comments - r.a.j.a.t.14_ on September 15, 2025: \"I gave Gemini a prompt with my childhood pic and my son's pic, and they created this masterpiece.\n\nJunior Papa & Junior Beta ♥️\n\nPlease Follow and comment Prompt\n\n#gemini #geminiart #trending #trend  #trendingreels #chatgpt #son #father #family #love #childhood #90s #viralreels\".",
+      "description": "@r.a.j.a.t.14_ 的创意素材",
+      "recommendation_reason": "父亲童年照与儿子婴儿照合成的拍立得风“Junior Papa & Junior Beta”，隔代神似概念新颖，适合父子模板；158赞/146评论",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/r.a.j.a.t.14_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "新品类探索",
+      "image_description": "父子童年拍立得合照",
+      "copy_title": "亲子家庭+新品类探索+父子童年拍立得合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "新品类探索"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:43:03+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOoPurOEhZX_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DWS_AbEk3GS",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DWS_AbEk3GS/",
+      "creator": "vijaygraphics.design",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Family love with prompt \n\n#gemini #aiart #chatgpt - @vijaygraphics.design on March 24, 2026",
+      "description": "@vijaygraphics.design 的创意素材",
+      "recommendation_reason": "南印传统一家三口棚拍，父子同款白衣金边配红绿纱丽；1397赞/618评论，提示词索取热烈，模板复刻价值高；作者为设计师，文案含定制服务推广，已标注",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vijaygraphics.design",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "南印传统一家三口棚拍",
+      "copy_title": "亲子家庭+亲子家庭写真+南印传统一家三口棚拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:42:51+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DWS_AbEk3GS_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DSP8S2pkqAF",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DSP8S2pkqAF/",
+      "creator": "ajuu_d07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Gemini Imege ❤️ \n\n#CoupleGoals #RomanticCouple #LoveStory #MyLifeLineMyLove #TrueLove #CouplePhotography #CinematicCouple #LuxuryCouple #RomanticVibes #PowerCouple #BatikFashion #EthnicElegance #RoyalLook #EditorialPhotography #FullBodyShot #UltraRealistic #InstaLove #CoupleShoot #PremiumVibes #LoveForever",
+      "description": "@ajuu_d07 的创意素材",
+      "recommendation_reason": "藏青蜡染纹礼服晚宴组：大理石走廊、吊灯舞厅、烛光餐桌，订婚/晚宴模板；服装有爪哇蜡染元素需标注",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajuu_d07",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "藏青礼服双人合照",
+      "copy_title": "情侣+情侣写真+藏青礼服双人合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:42:39+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DSP8S2pkqAF_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DR7cdMXE3eO",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DR7cdMXE3eO/",
+      "creator": "samieditzzone",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Google Gemini Ai, Chatgpt 8k\nRealistic Stylish Profile Photos Prompts\nChatgpt & Google Gemini Ai 8k Ultra Realistic\nStylish Profile Photos Ideas & Tutorials.\n100% Real Face ldentity Prompts.\nOpen Google Gemini App\nThen Press The (+) Sign\nUpload Your Photo\nUse This Prompt\nDon't Forget To Follow\n\n#trendingreels #trending #googlegemini\n#googlegeminiai #geminiai #chatgpt #prompts\n#reelsinstagram #reels\nGemini Imege\n#CoupleGoals #RomanticVibes\n#CinematicPhotography #UltraRealistic\n#LuxuryLifestyle #StylishCouple\n#RomanticMoment #FashionCouple\n#DreamyViews #EpicLandscape\n#LuxuryPhotography #CoupleStyle\n#HighAngleShot #Photorealistic #VibrantColors\n#Instagram Couple #RomanticPhotography\n#CouplePortrait #ScenicViews #LovelnStyle less",
+      "description": "@samieditzzone 的创意素材",
+      "recommendation_reason": "克什米尔雪山红衣情侣（红羽绒服+红纱丽），抱/吻手/整理纱丽多姿势；数据仅38赞，纯创意优势",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/samieditzzone",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "克什米尔雪山情侣",
+      "copy_title": "情侣+情侣写真+克什米尔雪山情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:42:27+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DR7cdMXE3eO_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DWBInNDkZB6",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DWBInNDkZB6/",
+      "creator": "ajeet_lakra01",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "“Among lotus blooms and silent waters, we found our forever 💕🌸”\n\"Swipe left ⬅️ for \"Gemini\" prompts) @ajeet_lakra01\n\n📱Just take a screenshot, copy with the help of google lens and see the Gemini 💎 magic 🪄 \n\n🚀Follow me for see more magic 🪄✨\nSteps:👇\n1.Open Gemini and Login\n2.Upload a clear picture\n3.Use the prompts mentioned in the post\n\n📌NOTE:- If You Like This Post Don't Forget Like, Comment, Share & Mention In Your Story\n\n.\n. \n#KeralaTourism #GodsOwnCountry #SouthIndianFashion #ExplorePage #ViralPost",
+      "description": "@ajeet_lakra01 的创意素材",
+      "recommendation_reason": "30K赞高数据；喀拉拉莲花池木船情侣多构图（洒水、空中俯瞰、独木舟），粉莲+传统装，地域特色强",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajeet_lakra01",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "喀拉拉莲花船情侣",
+      "copy_title": "情侣+情侣写真+喀拉拉莲花船情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:42:16+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DWBInNDkZB6_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DO_PWuwElO8",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DO_PWuwElO8/",
+      "creator": "nithinn.sn",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Follow and comment '💙' for the prompt \n.\n.\n#instagram #geminiprompt #gemini #nickyedits",
+      "description": "@nithinn.sn 的创意素材",
+      "recommendation_reason": "黑白户外拥抱情侣（男方背后环抱），12K赞，黑白摄影模板；提示词在第二图",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/nithinn.sn",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白户外拥抱情侣",
+      "copy_title": "情侣+情侣写真+黑白户外拥抱情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:42:04+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DO_PWuwElO8_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DZR1TjjiSsQ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DZR1TjjiSsQ/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts",
+      "description": "@avi.edit_106 的创意素材",
+      "recommendation_reason": "雨夜花园绿衣情侣：绿格衬衫+花绿裙配绿纸伞，牵手对视，雨夜浪漫模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "雨夜花园绿衣情侣",
+      "copy_title": "情侣+情侣写真+雨夜花园绿衣情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:41:52+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DZR1TjjiSsQ_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Da0XP9Ij3xt",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Da0XP9Ij3xt/",
+      "creator": "minushankar3117",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Follow like and comment for prompts \n#instalike #trending #explorepage #picoftheday #prompt",
+      "description": "@minushankar3117 的创意素材",
+      "recommendation_reason": "月下秋千三变体：紫花秋千+满月星空+浮岛莲池，女方三色丝绸纱丽，梦幻婚礼模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/minushankar3117",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "月下秋千梦幻情侣",
+      "copy_title": "情侣+情侣写真+月下秋千梦幻情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:41:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Da0XP9Ij3xt_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DYI-rIyii9c",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DYI-rIyii9c/",
+      "creator": "jayogeshgehlot",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "2,601 likes, 2,080 comments - jayogeshgehlot on May 9, 2026: \"Made with gemini Al prompt trending photo .......\".",
+      "description": "@jayogeshgehlot 的创意素材",
+      "recommendation_reason": "多姿拼贴：背后拥抱、牵手、送花、并坐、额头吻，暖黄灯笼花卉背景，拼贴模板；图面有Love等手写字",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/jayogeshgehlot",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "新品类探索",
+      "image_description": "多姿拼贴情侣合集",
+      "copy_title": "情侣+新品类探索+多姿拼贴情侣合集+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "新品类探索"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:41:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DYI-rIyii9c_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DSExg6FExwI",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DSExg6FExwI/",
+      "creator": "ankitasoulful",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "ENGAGEMENT JOYOUS COUPLE POSES💍>>Swipe for Prompt✨\n\nI have created this beautiful prompt by myself for u all. ❤️U can also make this edit in Google gemini just tag me and follow ✌🏻\n\nFor Prompt⬇️\n\n▶️ If u want the prompt directly into ur dm then first FOLLOW ME & then Do COMMENT ✅\n\n▶️You can also take screenshot of the prompt I upload\n\n🔸Follow ni kroge toh prompt share ni hoga 📌\n🔸Join my broadcast channel for more update✅\n.\n.\n.\n.\n\n#postoftheday #photoideas #engagement #photoshootideas #goldenhourlight #bridetobe #hyperrealistic #joyous #engagementshoot #professionalphotography #posesforpictures #festivedecor #celebration  #weddingseason2025 #couplegoals #shallowdepthoffield #googlegemini #geminitrend #gemini #aicreation #aiedits #trend #explore #igreach #follow #nonfollowersandviewers #instadaily #instagram #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp \n\nWhich pose u like the most?💍",
+      "description": "@ankitasoulful 的创意素材",
+      "recommendation_reason": "订婚写真组：新娘红/粉/紫/绿重工传统装，新郎背后拥抱或牵手，烟花场地与花园场景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ankitasoulful",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红装订婚背后相拥",
+      "copy_title": "情侣+情侣写真+红装订婚背后相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:41:17+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DSExg6FExwI_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DWWH6Q2kTCv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DWWH6Q2kTCv/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Do follow for prompt ✨❤️",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "五场景情侣组：Alibag日落栈道、棕榈墙传统装、伊斯坦布尔雨夜街、花拱婚礼、花园新娘装，场景多样",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "日落栈道婚纱情侣",
+      "copy_title": "情侣+情侣写真+日落栈道婚纱情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:41:06+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DWWH6Q2kTCv_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdfojlRkWHC",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdfojlRkWHC/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Comment prompt ✨ \n#aigenerated #couplegoals #couplephotography #TraditionalWear #TraditionalJewelry chat",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "传统婚礼写真组：米色kurta+红纱丽、白sherwani+红新娘装、米黄套装，古迹楼梯与花墙场景，婚礼模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "传统婚礼情侣写真",
+      "copy_title": "情侣+情侣写真+传统婚礼情侣写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdfojlRkWHC_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DO4_Y81EgHW",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DO4_Y81EgHW/",
+      "creator": "ganesh.kumar_03",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Couple photo generated google Gamini 🩵😇🤡\n.\n.\n.@ganesh.kumar__03\n.\n.\n#CoupleGoals #CoupleInLove #LoveStory #RomanticCouple #TogetherForever #Soulmates #RelationshipGoals #MyForeverLove #LoveIsTheAir #CutestCouple #YouAndMe #Pyaar #Mohabbat #EternalLove #BeachVibes #BeachCouple #OceanLove #MoonlightMagic #FullMoon #NightAtTheBeach #Seaside #GoldenHour #DreamyPhotography  #CoupleShoot #CouplePhotography #Photoshoot #FashionCouple #IndianCouple  #instagram",
+      "description": "@ganesh.kumar_03 的创意素材",
+      "recommendation_reason": "月夜海滩三造型抱姿情侣（粉传统裙/蓝花裙/蓝上衣黑裙），90年代电影感，浪漫模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ganesh.kumar_03",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "月夜海滩拥抱情侣",
+      "copy_title": "情侣+情侣写真+月夜海滩拥抱情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:40:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DO4_Y81EgHW_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DTUWLZdEmlt",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DTUWLZdEmlt/",
+      "creator": "mrrajput_sk",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Cute couple prompts 😊❤️👉 | Picture Swipe left ⬅️ for \"Gemini\" prompts📌)\n.\n.\n.\n.\n.\n.\n.\n1️⃣ Follow me for more prompts 👉 @mrrajput_sk\n\n2️⃣ Comment \"Prompt\" ✨ I will send you ✅\n.\n.\n.\nAll photo prompt link in bio 🔗 \n.\n.\n.\n#gemini #nanobanana #prompt #mrrajput_sk #aiphoto \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n(Gemini, nano banana image generation, gemini trend, how to generate Al Figurine, How to generate Al images)",
+      "description": "@mrrajput_sk 的创意素材",
+      "recommendation_reason": "黄昏海滩黑衣情侣组，拥抱牵手踏浪，评论2000条互动极强；末图为Telegram引流，需标注",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mrrajput_sk",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黄昏海滩黑衣情侣",
+      "copy_title": "情侣+情侣写真+黄昏海滩黑衣情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:40:31+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DTUWLZdEmlt_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DQ_Sa3FjIEb",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DQ_Sa3FjIEb/",
+      "creator": "ajuu_d07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Gemini Imege ❤️ \n\n#PreWedding #CoupleGoals #RomanticPortrait #CinematicPhotography #UltraRealistic #16KPhotography #GoldenHourMagic #DreamyVibes #CoupleInLove #WeddingVibes #LuxuryFashion #FashionCouple #GardenRomance #ElegantStyle #ChiffonSaree #VibrantColors #SoftLightPhotography #RomanticMood #FlowerGarden #MagicalMoments",
+      "description": "@ajuu_d07 的创意素材",
+      "recommendation_reason": "花园婚前写真十图：白花树下、秋千、花田、花拱，紫红纱丽+深红西装，婚前模板丰富",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajuu_d07",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "花园婚前情侣写真",
+      "copy_title": "情侣+情侣写真+花园婚前情侣写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:40:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DQ_Sa3FjIEb_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DehNT4njs6y",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DehNT4njs6y/",
+      "creator": "srikanthmaddikuntta",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Couples Photo Editing \n#photoediting #Couples",
+      "description": "@srikanthmaddikuntta 的创意素材",
+      "recommendation_reason": "新娘多色lehenga婚礼写真组，深色背景金框，婚礼模板；需实看复核其中一张的端庄度",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/srikanthmaddikuntta",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "金色花框情侣合照",
+      "copy_title": "情侣+情侣写真+金色花框情侣合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:40:08+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DehNT4njs6y_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbVFbJsEkuF",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbVFbJsEkuF/",
+      "creator": "mrrajput_sk",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-09",
+      "caption": "Trending couple Prompt 😍👉🏻 | Picture Swipe left side ⬅️ for prompt 📌)\n.\n.\n#couple #longdistancerelationship #foryou #Gemini #prompt",
+      "description": "@mrrajput_sk 的创意素材",
+      "recommendation_reason": "同一对情侣四色变装棚拍（白/黑/粉/宝蓝），深蓝背景+白色光环，婚纱照模板复刻价值高；互动强",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mrrajput_sk",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "蓝底白环情侣写真",
+      "copy_title": "情侣+情侣写真+蓝底白环情侣写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-09T09:39:57+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbVFbJsEkuF_0.webp",
           "preview_status": "verified",
           "result_status": "final_result",
           "visual_analysis": null
@@ -46601,6 +48941,85 @@
           "kind": "image",
           "preview": "assets/instagram_Ddnxe61kihV_0.jpg",
           "preview_status": "image_http_200_verified",
+          "result_status": "unknown",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Ddf5mv2hnki",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Ddf5mv2hnki/",
+      "creator": "aqua__techy__",
+      "published_at": "2026-09-20",
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-09",
+      "last_collected_at": "2026-11-09T09:39:23+00:00",
+      "duration_seconds": null,
+      "caption": "1,117 likes, 9 comments - aqua__techy__ on September 19, 2026: \"✨ AI made a trendy version of my grandparents… but their love will always be timeless! 👴👵❤️\nFrom old memories to new-age vibes — giving my grandparents an AI glow-up! 😎✨\n.\n.\n.\n#AITransformation #AIEdit #GrandparentsLove #GrandparentsGoals #Grandparents\".",
+      "description": "@aqua__techy__ 的素材",
+      "recommendation_reason": "祖父母与孙儿庆典合影；1117赞；AI焕新/修图类表述，非纯提示词生成，已标注",
+      "content_nature": "unknown",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "candidate",
+      "candidate_status": "pending",
+      "verification_notes": [
+        "AI属性待确认"
+      ],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/aqua__techy__",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "祖父母与孙儿庆典合影",
+      "copy_title": "亲子家庭+亲子家庭写真+祖父母与孙儿庆典合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "muse_handoff",
+      "tag_checked_at": null,
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": {
+        "captured_at": "2026-11-09T09:39:23+00:00",
+        "likes": 1200,
+        "comments": 11,
+        "views": null,
+        "shares": null,
+        "source": "muse_review_source_claim"
+      },
+      "metric_snapshots": [
+        {
+          "captured_at": "2026-11-09T09:39:23+00:00",
+          "likes": 1200,
+          "comments": 11,
+          "views": null,
+          "shares": null,
+          "source": "muse_review_source_claim"
+        }
+      ],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/candidate_instagram_Ddf5mv2hnki_0.jpg",
+          "preview_status": "fetched",
           "result_status": "unknown",
           "visual_analysis": null
         }
