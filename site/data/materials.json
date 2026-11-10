@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T06:15:16+00:00",
+  "generated_at": "2026-11-10T07:23:40+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,1872 @@
     ]
   },
   "export_stats": {
-    "formal": 752,
+    "formal": 783,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 410,
+    "confirmed_duplicates_skipped": 441,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "other:bc03fe100befb1a3eebcc343",
+      "platform": "other",
+      "post_url": "https://promptbird.in/prompt/mother-and-daughter-bathukamma-photo-prompt",
+      "creator": "Prompt Bird",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Create an ultra-realistic, high-quality traditional Mother and daughter Telugu Bathukamma festival portrait images",
+      "description": "@Prompt Bird 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://promptbird.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "彩色纱丽母女捧花篮",
+      "copy_title": "亲子家庭+亲子家庭写真+彩色纱丽母女捧花篮+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_bc03fe100befb1a3eebcc343_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:6458b3866e1a92c9d732bd08",
+      "platform": "other",
+      "post_url": "https://promptbird.in/prompt/mother-and-daughter-bathukamma-photo-prompt-2",
+      "creator": "Prompt Bird",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Create an ultra-realistic, high-quality traditional Telugu family festival Bathukamma Prompt",
+      "description": "@Prompt Bird 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://promptbird.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "紫裙母女花篮合影",
+      "copy_title": "亲子家庭+亲子家庭写真+紫裙母女花篮合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_6458b3866e1a92c9d732bd08_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:fa06ce884cd1c508a80d62f4",
+      "platform": "other",
+      "post_url": "https://promptbird.in/prompt/south-indian-family-at-temple-ai-image-prompt-copy-paste",
+      "creator": "Prompt Bird",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Generate a realistic South Indian family with mother, father, boy, and girl at a temple using this AI prompt. Simply copy & paste to create.",
+      "description": "@Prompt Bird 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://promptbird.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "寺庙庭院四口合照",
+      "copy_title": "亲子家庭+亲子家庭写真+寺庙庭院四口合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_fa06ce884cd1c508a80d62f4_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfhUoZFGfBx",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@cinetale.duo/post/DfhUoZFGfBx",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Family prompt ✨ \n#FamilyPhotography #babyportraits #familygoals #aigenerated #chatgpt",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "针织三口亲吻额头",
+      "copy_title": "亲子家庭+亲子家庭写真+针织三口亲吻额头+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfhUoZFGfBx_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfPodw3CkzY",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sanjana_samyukta/post/DfPodw3CkzY",
+      "creator": "sanjana_samyukta",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "🎀Matching Bows and Maternal Love🎀\n💚💚💚\n(Mother and Daughters Prompt)\nPrompt👉🏻 Hyper-realistic DSLR mother with triplet babies professional family photoshoot, adorable matching outfits, Christmas festive vibe",
+      "description": "@sanjana_samyukta 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sanjana_samyukta",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲怀抱熟睡幼儿",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲怀抱熟睡幼儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfPodw3CkzY_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfhmsgVGjG5",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@promptgallery.ig/post/DfhmsgVGjG5",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "#prompt #gemini #geminiedits \n\n[ Google Gemini, Prompt, Nano banana, Image Editing, prompts, Gemini Edits, Photo Edits, Trending Edits, Tamil Edits, Office]",
+      "description": "@promptgallery.ig 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白双人数字海报",
+      "copy_title": "情侣+情侣写真+黑白双人数字海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfhmsgVGjG5_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfjRzCWmAS7",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@laxman_done_official/post/DfjRzCWmAS7",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "#aiprompts \n#instagram \n#trendingpost \n#viralpost",
+      "description": "@laxman_done_official 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红车旁双人墨镜合照",
+      "copy_title": "情侣+情侣写真+红车旁双人墨镜合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfjRzCWmAS7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfjIQ9XE-u7",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@gb_creativeimages/post/DfjIQ9XE-u7",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "#prompt #chatgpt",
+      "description": "@gb_creativeimages 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "蝴蝶幻境情侣拼贴",
+      "copy_title": "情侣+情侣写真+蝴蝶幻境情侣拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfjIQ9XE-u7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DaVagBUjlLr",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ns_editz.000/post/DaVagBUjlLr",
+      "creator": "ns_editz.000",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "💜 Radhe Radhe 🦚\nजब प्रेम में राधा हो और सांसों में कृष्ण,\nतो हर नज़ारा वृंदावन बन जाता है... ✨🌸\n.\n.\n.\n.\n#CoupleGoals#PortraitPhotography#RadhaKrishnaEdit#KrishnaQuotes",
+      "description": "@ns_editz.000 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ns_editz.000/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "珠宝礼服拉妲克里希纳",
+      "copy_title": "情侣+情侣写真+珠宝礼服拉妲克里希纳+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DaVagBUjlLr_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfALY1GGue_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@promptfyai/post/DfALY1GGue_",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "✨ Happy Karwa Chauth! 🪔💑\n\nPrompt Code: P-82047017\n\n#karwachauth #karwachauthspecial #couplegoals💑 #indiancouple #loveforever #moonlightromance #traditionallove #coupleportrait #festivevibes #aiartist 💖",
+      "description": "@promptfyai 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "圆月下夫妻温柔对望",
+      "copy_title": "情侣+情侣写真+圆月下夫妻温柔对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfALY1GGue__0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfg3MIOGgVb",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@promptfyai/post/Dfg3MIOGgVb",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Your arms are my favourite place, and your love is my forever home. 🖤✨\n\nPrompt Code: P-15865717\n\n#couplegoals💑 #romanticlove #husbandandwife #forevertogether #lovestory #coupleportrait #indiancouple #romanticvibes #cinematiclove #truelove #soulmates #togetherforever #couplephotography #loveandlight #promptfyai",
+      "description": "@promptfyai 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑纱丽夜景情侣相依",
+      "copy_title": "情侣+情侣写真+黑纱丽夜景情侣相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfg3MIOGgVb_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfhB4N_EdZG",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ayushi.glam.vibe/post/DfhB4N_EdZG",
+      "creator": "ayushi.glam.vibe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "With my love @official_suvankar_guitarist  and me @ayushi.glam.vibe Low-angle cinematic romantic photo of a young couple kissing under a bright blue sky, shot from below. Man on left side with short black hair, trimmed beard, wearing a plain light brown / beige t-shirt and a thin gold chain. Woman on right side with long black hair tied in a low ponytail, loose face-framing strands, wearing a black and white checkered spaghetti-strap top, diamond drop earrings, delicate gold necklace and rings.",
+      "description": "@ayushi.glam.vibe 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ayushi.glam.vibe",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "蓝天下低角度亲吻",
+      "copy_title": "情侣+情侣写真+蓝天下低角度亲吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfhB4N_EdZG_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfhKVXlmvSr",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rohitdostboy0/post/DfhKVXlmvSr",
+      "creator": "rohitdostboy0",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Prompt – THE RDB ❤️🖤 | DENIM COUPLE ROMANTIC KISS Create an ultra-realistic 22K UHD romantic couple portrait featuring me and my girlfriend, using our uploaded reference photos for a 100% exact face and identity match. Preserve both our facial features, skin tones, natural hairstyles, ages, and body proportions. Keep my hairstyle exactly as shown in my reference photo. No face changes or beautification.",
+      "description": "@rohitdostboy0 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rohitdostboy0",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "牛仔情侣温柔亲吻",
+      "copy_title": "情侣+情侣写真+牛仔情侣温柔亲吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfhKVXlmvSr_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfhKjLpGh5a",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rohitdostboy0/post/DfhKjLpGh5a",
+      "creator": "rohitdostboy0",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Prompt – THE RDB ❤️👑 | BEGINNING OF OUR LOVE – ROYAL COUPLE Create an ultra-realistic 22K UHD cinematic romantic couple portrait featuring me and my girlfriend, using our uploaded reference photos for a 100% exact face and identity match. Preserve both our facial features, eyes, nose, lips, skin tones, natural hairstyles, and body proportions. Keep my hairstyle exactly as shown in my reference photo. No face changes or beautification.",
+      "description": "@rohitdostboy0 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rohitdostboy0",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "棕色海报情侣对望",
+      "copy_title": "情侣+情侣写真+棕色海报情侣对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfhKjLpGh5a_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfhAHXmoamR",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@official_suvankar_guitarist/post/DfhAHXmoamR",
+      "creator": "official_suvankar_guitarist",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "My love @ayushi.glam.vibe  and @official_suvankar_guitarist ▓▓▓▓an ultra-realistic DSLR lifestyle portrait of a young Indian couple posing with a grey hatchback car on a quiet roadside. The girl is sitting naturally on the front left side of the car's bonnet with one hand resting gently on the boy's shoulder, while the boy stands in front of the car leaning casually against the bumper with folded arms and crossed legs.@threads @meta.ai ▓▓▓",
+      "description": "@official_suvankar_guitarist 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@official_suvankar_guitarist",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "越野车前白衣合照",
+      "copy_title": "情侣+情侣写真+越野车前白衣合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfhAHXmoamR_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfiKOrzAYwg",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@official_suvankar_guitarist/post/DfiKOrzAYwg",
+      "creator": "official_suvankar_guitarist",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "My love @ayushi.glam.vibe ▓▓▓✨ **𝐌𝐀𝐒𝐓𝐄𝐑 𝐏𝐑𝐎𝐌𝐏𝐓 | 𝐖𝐈𝐍𝐓𝐄𝐑 𝐋𝐎𝐕𝐄 𝐌𝐎𝐌𝐄𝐍𝐓** ❤️❄️ A breathtaking candid smartphone-style photograph captured from the back seat of a luxury car, featuring a young Indian couple sharing a romantic kiss across the front seats. **𝐓𝐇𝐄 𝐌𝐀𝐍:** Sitting in the driver's seat, wearing stylish black Wayfarer sunglasses, naturally tousled dark curly hair, a short dark beard, and a premium black chunky ribbed-knit turtleneck sweater.@meta.ai ▓▓",
+      "description": "@official_suvankar_guitarist 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@official_suvankar_guitarist",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "天窗车内情侣亲吻",
+      "copy_title": "情侣+情侣写真+天窗车内情侣亲吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfiKOrzAYwg_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfhsvy8CUNJ",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@yogi00053/post/Dfhsvy8CUNJ",
+      "creator": "yogi00053",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Create a highly photo-realistic romantic full size body portrait. Use the reference image Man's Original face 💯 and don't use reference image hairstyle. Use the reference image women face 💯. An adult couple romance in warm, rustic-modern kitchen. His physique: A handsome man is tall and athletic physique, muscular physique with a sharp jawline and broad shoulders. His hairstyle: He has voluminous, textured, wavy black hair styled casually off his forehead, and light stubble. His Attires:",
+      "description": "@yogi00053 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@yogi00053",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "厨房白衣背后相拥",
+      "copy_title": "情侣+情侣写真+厨房白衣背后相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfhsvy8CUNJ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Ddb5uH1Eyd2",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@prompthunter.x/post/Ddb5uH1Eyd2",
+      "creator": "prompthunter.x",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "prompt\nStylish couple sitting on pink Maruti Swift hood, rainy day, girl in pink square neck crop top and black cargo jeans, guy in pink boxy striped shirt and black cargo jeans, both wearing white sneakers, girl holding pink umbrella over both, pink car doors open upwards like Lamborghini, wet road, misty mountain background, aesthetic couple photoshoot, highly detailed, 4k.",
+      "description": "@prompthunter.x 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@prompthunter.x",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "粉车雨伞情侣相依",
+      "copy_title": "情侣+情侣写真+粉车雨伞情侣相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Ddb5uH1Eyd2_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Ddb6C1Qk3-I",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@prompthunter.x/post/Ddb6C1Qk3-I",
+      "creator": "prompthunter.x",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "prompt\nCreate an ultra-realistic cinematic photograph of a completely original young South Asian couple standing close together inside a crowded urban metro/train. The couple should look naturally connected and comfortable, creating a quiet romantic moment in the middle of a busy everyday journey.\nThe man has a completely unique South Asian face, naturally messy wavy dark hair, light stubble, and a calm protective expression. He wears a",
+      "description": "@prompthunter.x 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@prompthunter.x",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "地铁车厢亲吻额头",
+      "copy_title": "情侣+情侣写真+地铁车厢亲吻额头+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Ddb6C1Qk3-I_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdwS-Mhk08U",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@prompthunter.x/post/DdwS-Mhk08U",
+      "creator": "prompthunter.x",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "A couple photo at night on a street with dark brick wall background, ground tiles, a young man standing behind a girl hugging her from back, girl covering face with both hands in shy pose. Girl: long wavy black hair, top corner signature \"prompthunter\" wearing light blue white thin striped oversized boxy full sleeve shirt over white crop top, off-white baggy wide pants, gold watch on left wrist. Boy: [YOUR FACE REFERENCE], same hairstyle with volume on top faded sides, light mustache and goatee.",
+      "description": "@prompthunter.x 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@prompthunter.x",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "夜街黑白衣双人背抱",
+      "copy_title": "情侣+情侣写真+夜街黑白衣双人背抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdwS-Mhk08U_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfb6HVSkzOk",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mohdvasim78/post/Dfb6HVSkzOk",
+      "creator": "mohdvasim78",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Couple standing close together under a yellow dupatta held overhead, man in pale yellow shirt and white trousers, woman in yellow floral saree, smiling and looking into each other's eyes, Ultra realistic fair beautiful couple, fair bright smooth skin, pink flowers and lush garden background, soft romantic daylight, cinematic 3D look, HDR,32",
+      "description": "@mohdvasim78 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mohdvasim78",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黄纱巾下情侣对望",
+      "copy_title": "情侣+情侣写真+黄纱巾下情侣对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:14+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfb6HVSkzOk_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dd_hGhrjZLg",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@kunnuvlog09/post/Dd_hGhrjZLg",
+      "creator": "kunnuvlog09",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "High-quality aesthetic portrait of a stylish man and woman playfully peeking from behind a matte pastel green(#DFF8E1) white wall on the left, only heads, hands, and upper torsos visible. Woman above, man below, boy has voluminous dark spiky hairs. both wear matching fully embroidery patch worked pastel green(#DFF8E1) outfit, soft natural light, clean pastel green white background.",
+      "description": "@kunnuvlog09 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@kunnuvlog09",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "浅绿墙边双人探头",
+      "copy_title": "情侣+情侣写真+浅绿墙边双人探头+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dd_hGhrjZLg_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeWqZ6kE9rH",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@kunnuvlog09/post/DeWqZ6kE9rH",
+      "creator": "kunnuvlog09",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Create a photorealistic HD vertical 9:16 devotional portrait of the same young Indian couple. Girl in fully embroidery red-and-white saree with red blouse, gold jewellery, sindoor and bindi. Keep her long, naturally wavy black hairs. The man has voluminous short messy hairs and he wearing matching outfits with the women's outfit. They are in graceful devotional poses-praying, sitting peacefully, holding flowers.",
+      "description": "@kunnuvlog09 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@kunnuvlog09",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红白礼服神像前合照",
+      "copy_title": "情侣+情侣写真+红白礼服神像前合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeWqZ6kE9rH_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Deo_dOLk-hu",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@kunnuvlog09/post/Deo_dOLk-hu",
+      "creator": "kunnuvlog09",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Create \"Ultra-realistic Indian couple dancing with dandiya sticks in a vibrant Durga pandal, colorful festive lights, soft crowd bokeh in the background, man on the left with short messy wet black hair, light stubble,\" \"white chikankari kurta, white dhoti pyjama, minimal thin chain और black wristband; लड़की दाईं तरफ, लंबे लहराते बाल, बिंदी, गोल्ड जुमके, गोल्ड mirror-work choli, pink-gold lehenga, pink sequin dupatta, pink और green bangles, दोनों हँसते हुए हाथों में dandiya ले रहे हों romantic",
+      "description": "@kunnuvlog09 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@kunnuvlog09",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "彩灯神像前情侣合照",
+      "copy_title": "情侣+情侣写真+彩灯神像前情侣合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Deo_dOLk-hu_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfgiim-n6t7",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arunrishikesh/post/Dfgiim-n6t7",
+      "creator": "arunrishikesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Indoor King & Queen Style Couple Prompt My Dear @its_me_rashu_rashmi 🧡✨ \nA full-length vertical shot of an Indian romantic period/dance sequence set on a lavish, ornate palace set. ​Subjects & Pose: ​A man and a woman in an affectionate, dynamic embrace. ​The woman has long, straight dark black hair cascading down her back, eyes closed with a soft smile, head tilted back slightly.",
+      "description": "@arunrishikesh 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arunrishikesh",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "宫殿情侣舞姿相依",
+      "copy_title": "情侣+情侣写真+宫殿情侣舞姿相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfgiim-n6t7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfgiuUwn9pX",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arunrishikesh/post/DfgiuUwn9pX",
+      "creator": "arunrishikesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "Cute Love Married Couple Prompt 💚 \nMy Dear @its_me_rashu_rashmi ✨ \nA candid portrait of an Indian couple sitting side by side on an outdoor sofa or bench. The man on the left has neat dark hair, a trimmed beard, and a warm smile, with his left arm wrapped gently around the woman's shoulder. The woman on the right has long dark wavy hair parted in the middle, a small bindi on her forehead, and a bright, joyful smile, leaning close toward him with her hands folded together in her lap.",
+      "description": "@arunrishikesh 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arunrishikesh",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "林间粉衫绿纱丽合照",
+      "copy_title": "情侣+情侣写真+林间粉衫绿纱丽合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfgiuUwn9pX_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfRkFFjjUGp",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sanjana_samyukta/post/DfRkFFjjUGp",
+      "creator": "sanjana_samyukta",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "🥰Cozy Embrace & Warmth🥰\n(Couple Prompt)\n🤍🖤🤍 \n{With My Sweetie @loveismylife240}\nPrompt👉🏻 photorealistic intimate close-up portrait of a beautiful young European couple in love, woman hugging man from behind with head resting on his head, soft warm indoor light, cinematic couple editorial",
+      "description": "@sanjana_samyukta 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sanjana_samyukta",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白衫波点裙背后相拥",
+      "copy_title": "情侣+情侣写真+白衫波点裙背后相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfRkFFjjUGp_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfjMUNxE-6d",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@jamaliyelena/post/DfjMUNxE-6d",
+      "creator": "jamaliyelena",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "**Detailed prompt:* @rav_iranjan95  A photorealistic portrait of a smiling Indian couple posing together at an elegant evening event. The woman on the left has shoulder-length dark hair, a warm smile, and is wearing a heavily embellished champagne-beige traditional outfit with intricate gold and silver embroidery, sequins, and a V-neckline. She holds a small beige handbag and a phone, with multiple bangles on her wrists and a floral accessory. A light sheer dupatta is draped over one arm.",
+      "description": "@jamaliyelena 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@jamaliyelena",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "礼服情侣夜景合照",
+      "copy_title": "情侣+情侣写真+礼服情侣夜景合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfjMUNxE-6d_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfh3PCjjd0r",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/Dfh3PCjjd0r",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "💕 Night Romantic Couple Moment 💕 With My Dear Friend 🥰 @_shalu__shalini 🤍🩵🤍 Create an ultra-realistic, high-quality romantic couple photograph using the uploaded reference images. Scene & Pose: A beautiful young couple standing close together in a luxurious tropical garden outside an elegant modern restaurant at night. The woman stands on the left, smiling naturally and looking lovingly up into the man's eyes. The man stands on the right, looking down at her with a warm, genuine smile.",
+      "description": "@ansariarbaj5184 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白衫情侣夜街相望",
+      "copy_title": "情侣+情侣写真+白衫情侣夜街相望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfh3PCjjd0r_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfiznTKistK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/DfiznTKistK",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "💕 Beach Romantic Couple Moment 💕 With My Dear Friend 🥰 @priyankavyas3691 🩷🤍🖤Create an ultra-realistic, romantic couple photograph using the uploaded reference images. Face & Identity Lock: Preserve both individuals' original faces with 100% exact identity. Do not change facial features, face shape, skin tone, hairstyle, or natural body proportions. No face modification or beauty filters.",
+      "description": "@ansariarbaj5184 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "夕阳海边相拥对视",
+      "copy_title": "情侣+情侣写真+夕阳海边相拥对视+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfiznTKistK_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfhbFMliHqW",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DfhbFMliHqW",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T07:22:37+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T07:22:37+00:00",
+      "caption": "With Hot Beauty @priyankavyas3691 🔥 { Keep 100 percent exact facial features and figures as attached images. \"project\": \"Romantic Traditional Couple Kiss Portrait\", \"style\": \"Ultra-realistic DSLR photography, candid romantic moment, cinematic nighttime photography\", \"aspect_ratio\": \"3:4\", \"quality\": \"4K Ultra HD, highly detailed, photorealistic\", \"scene\": { \"description\": \"A romantic Indian couple standing close together outdoors at night.",
+      "description": "@manojnakti1401 的创意素材",
+      "recommendation_reason": null,
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黄纱丽情侣温柔捧脸",
+      "copy_title": "情侣+情侣写真+黄纱丽情侣温柔捧脸+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T07:23:13+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfhbFMliHqW_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "threads:DYpSqWEiqYG",
       "platform": "threads",
