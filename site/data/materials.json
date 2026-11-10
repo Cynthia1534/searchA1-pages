@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T03:31:57+00:00",
+  "generated_at": "2026-11-10T06:15:16+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,1212 @@
     ]
   },
   "export_stats": {
-    "formal": 732,
+    "formal": 752,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 390,
+    "confirmed_duplicates_skipped": 410,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "threads:DYpSqWEiqYG",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sanjana_samyukta/post/DYpSqWEiqYG",
+      "creator": "sanjana_samyukta",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "(Smile Sparks Family Prompr)\nMy Baby @arunrishikesh \nMe @sanjana_samyukta\n(Prompt) ⤵️ 💚🩷🩵💚🩷\n[1] family of three a mother, father, and their young daughter, all looking joyful and deeply connected. The composition is tight, focusing on their beaming faces clustered together. The mother, on the left, has long, dark hair and wears a soft, light teal or pale blue casual top, gently cupping her cheek with one hand. The father, on the right, has short, dark hair and wears a light",
+      "description": "@sanjana_samyukta 的创意素材",
+      "recommendation_reason": "发现员已打开页面核对、去重干净的备选；AI证据较弱，需实看复核",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sanjana_samyukta",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "三口面部贴近合照",
+      "copy_title": "亲子家庭+亲子家庭写真+三口面部贴近合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DYpSqWEiqYG_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdD4tJnCsFb",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdD4tJnCsFb/",
+      "creator": "review_with_neha",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "For prompt comment 80s",
+      "description": "@review_with_neha 的创意素材",
+      "recommendation_reason": "五张80年代霓虹复古轮播，取第4张三口之家；其余为情侣/单人；评论索要提示词引流，证据较弱，需实看复核；111赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/review_with_neha",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "霓虹复古父母抱幼儿",
+      "copy_title": "亲子家庭+亲子家庭写真+霓虹复古父母抱幼儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdD4tJnCsFb_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdEjfVhCWdX",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdEjfVhCWdX/",
+      "creator": "dr_gita_krishna_puppala",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "When it comes to retro, 1980 s again. Loved this beautiful prompt from ChatGPT. #reel #ᴛʀᴇɴᴅɪɴɢɴᴏᴡ #1980 #retro #telugu @drsaikalyan @drsaikalyan",
+      "description": "@dr_gita_krishna_puppala 的创意素材",
+      "recommendation_reason": "80年代复古四口夜景合影，奶油纱丽+花衬衫+复古裙；图带“1980s”字样及胶片边框；第2张为母亲单人，仅用第1张；1944赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/dr_gita_krishna_puppala",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "复古庭院四口合影",
+      "copy_title": "亲子家庭+亲子家庭写真+复古庭院四口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdEjfVhCWdX_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcF0TI8EXa5",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcF0TI8EXa5/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Comment prompt ✨ \n#BabyPhotography #FamilyPhotography #AIImageGeneration #BabyFirsts #chatgpt",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "公园+海滩一家三口四场景轮播，取第7张海边牵手全家福；每张成品后附提示词；作者简介含付费修图推广，文案索要提示词引流；2635赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "幼儿玩具车父母相拥",
+      "copy_title": "亲子家庭+亲子家庭写真+幼儿玩具车父母相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcF0TI8EXa5_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DZD1g4dk85c",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DZD1g4dk85c",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Father and Son prompt by @manojnakti1401 \nCreate a clean, high-resolution studio portrait featuring a stylish middle-aged father and his young son ( Keep 100 percent same face as attached images) standing closely together against a seamless light gray-white background. The father stands on the left with a relaxed, confident posture, one hand casually tucked into his jeans pocket. He has a neatly groomed beard, well set dark hair and wears modern aviator-style sunglasses.",
+      "description": "@manojnakti1401 的创意素材",
+      "recommendation_reason": "父子影棚三连拍，牛仔夹克+领结正装反差搭配，浅灰背景；定位印度；9391赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "牛仔父亲与黑衣儿子",
+      "copy_title": "亲子家庭+亲子家庭写真+牛仔父亲与黑衣儿子+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DZD1g4dk85c_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DTwJBx8iEcU",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manojnakti1401/post/DTwJBx8iEcU",
+      "creator": "manojnakti1401",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "This prompt is for every middle-aged father and his beautiful daughter the face is mine @manojnakti1401 🫶🏼\nCreate a Hyper-realistic lifestyle photography of a middle-aged man ( as attached image 1 ) with a salt-and-pepper beard and black-rimmed glasses, sharing a joyful moment with a young girl around 7-8 years old ( as attached image 2 ) . The man is wearing a tan crewneck sweater over a light blue collared shirt, sitting outdoors in a sun-drenched park. The girl, with long wavy light brown",
+      "description": "@manojnakti1401 的创意素材",
+      "recommendation_reason": "父女公园长椅共读旧书两连拍，印度门剪影+金色时刻；页面称“照片”未明示AI生成，证据较弱，需实看复核；470赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manojnakti1401",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "花园父女相依共读",
+      "copy_title": "亲子家庭+亲子家庭写真+花园父女相依共读+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DTwJBx8iEcU_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De7ODJMCLDK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/De7ODJMCLDK",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Ultra-Realistic 8K South Indian Traditional Family Portrait —@jamaliyelena 🩷 @rav_iranjan95🩷Matching Magenta Silk Outfits Create an ultra-realistic, photorealistic 8K professional studio photograph of a loving South Indian family of five: an adult father, an adult mother, one young son, one young daughter, and a toddler. Use the uploaded reference image as the primary guide for the family arrangement, camera angle, clothing colors, poses, and minimalist background.",
+      "description": "@rav_iranjan95 的创意素材",
+      "recommendation_reason": "南印度五口之家品红丝绸+金边传统装，米色背景影棚合影；2009赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "品红丝绸五口合影",
+      "copy_title": "亲子家庭+亲子家庭写真+品红丝绸五口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_De7ODJMCLDK_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De5_kc7EzXe",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@jamaliyelena/post/De5_kc7EzXe",
+      "creator": "jamaliyelena",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Prompt: @rav_iranjan95 🩵✨👌Ultra-realistic warm lifestyle portrait of a loving South Asian father and his 5-year-old daughter on a bed. The father lies on his stomach with arms crossed, wearing a soft blue t-shirt, smiling brightly at the camera. His young daughter sits behind him, wrapping her arms affectionately around his neck and resting her head near his, also smiling happily.",
+      "description": "@jamaliyelena 的创意素材",
+      "recommendation_reason": "父亲俯卧床上、五岁女儿身后环抱，温馨卧室生活场景；2465赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@jamaliyelena",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "父女床边背抱微笑",
+      "copy_title": "亲子家庭+亲子家庭写真+父女床边背抱微笑+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_De5_kc7EzXe_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Degc3VDkw6_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@jamaliyelena/post/Degc3VDkw6_",
+      "creator": "jamaliyelena",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "**Prompt:** A luxurious family portrait inside a grand elegant hall. @rav_iranjan95 A  handsome Indian man with styled dark hair, well-groomed beard, and  white glasses, wearing a light pink floral embroidered waistcoat over a white kurta, smiles warmly while holding a cute baby girl dressed in a white lace frock with a white flower headband.",
+      "description": "@jamaliyelena 的创意素材",
+      "recommendation_reason": "夫妻怀抱双胞胎女婴，豪宅大理石厅堂+水晶灯，传统服饰；两张近似图轮播；308赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@jamaliyelena",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "礼服父母怀抱双胞胎",
+      "copy_title": "亲子家庭+亲子家庭写真+礼服父母怀抱双胞胎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Degc3VDkw6__0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DX5v7PzCuLX",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sanjana_samyukta/post/DX5v7PzCuLX",
+      "creator": "sanjana_samyukta",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Beautiful Mother Prompr \nMother and son {7}\nMy baby @arunrishikesh\n(Prompt) 🤍🤍🤍🤍🤍\n[1]👉🏻 young son affectionately lying down together on a plush, cream-colored shag rug indoors. The mother is positioned slightly above and behind the boy, resting her head close to his. Both subjects are wearing thick, textured, beige or oatmeal-colored knit sweaters. They are both",
+      "description": "@sanjana_samyukta 的创意素材",
+      "recommendation_reason": "母子同款米色针织毛衣地毯相拥，平台AI标签为最强证据；13245赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sanjana_samyukta",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "同款毛衣母子相拥",
+      "copy_title": "亲子家庭+亲子家庭写真+同款毛衣母子相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DX5v7PzCuLX_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcxfZE9iRB2",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcxfZE9iRB2/",
+      "creator": "iamshivamgandhi",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "👩‍👦💙 A mother’s love + Little Kanha = pure magic! 🦚✨\n\nThis Janmashtami, turn a beautiful mother & child photo into a divine Krishna-inspired portrait using Gemini AI. 🪈🌸\n\nImagine your little one as Kanha, with Maa by their side… 🥹❤️\nThis is the kind of memory you’ll treasure forever.\n\nWant to create this magical image too? 👀\n\n👇 Comment “MOTHER” and I’ll share the exact Krishna Gemini Prompt!\n\n📌 Save it for Janmashtami\n↗️ Share it with a mom who should try this!\n\n#janmashtami #geminitrend❤️ #geminipost #viralimages #trendingimages",
+      "description": "@iamshivamgandhi 的创意素材",
+      "recommendation_reason": "红纱丽母亲怀抱扮克里希纳的婴儿，宫殿孔雀万寿菊场景；末张为频道引流卡，仅用首张；图内油灯为Janmashtami布景，需实看确认；8赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/iamshivamgandhi",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "红纱丽母子诞辰写真",
+      "copy_title": "亲子家庭+节庆+红纱丽母子诞辰写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcxfZE9iRB2_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DPWa81OkpBM",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arunrishikesh/post/DPWa81OkpBM",
+      "creator": "arunrishikesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "BEAUTIFUL FAMILY WITH BABY SHOOT PROMPT\nStep 1 : Open Google Gemini\nStep 2 : Upload photo\nStep 3 : Prompt as per request \nStep 4 : Comment Prompt for prompt \n #AIPrompt  #Trending #wallpaper\n # Stylish #lighting #Stylishlight \n[AI Thread, Sora AI, Gemini, Wallpaper, Kling AI, Social Media marketing, Graphic Design , uiux ]\n#nanobanana #vedantzalte #ai #aiPrompt \n#aiEdit \n#googleGemini \n#aiPortrait \n#explorePage \n#cinematicLook \n#pinterestStyle \n#hdPortrait",
+      "description": "@arunrishikesh 的创意素材",
+      "recommendation_reason": "黑白父母席地抱笑婴，明亮客厅自然光；文案为Gemini提示词流程，证据为文案级，需实看复核；81赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arunrishikesh",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白父母抱笑婴",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白父母抱笑婴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DPWa81OkpBM_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DYY0QVqCSh-",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arunrishikesh/post/DYY0QVqCSh-",
+      "creator": "arunrishikesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Beautiful Family Prompt (1)💚💚💚 \nMy Baby @sanjana_samyukta ✨ \nA cinematic, candid medium shot of a beautiful young family of three standing close together under a single large dark gray umbrella during a gentle rain. ​The Mother (Left): A young Indian women with long, voluminous curly dark brown hair, looking up warmly at her husband with a radiant, affectionate smile. She is wearing a simple dark olive-green top.",
+      "description": "@arunrishikesh 的创意素材",
+      "recommendation_reason": "日落雨中一家三口共撑一把伞，金色逆光+雨滴，电影感亲子场景；5941赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arunrishikesh",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "雨伞下三口相视微笑",
+      "copy_title": "亲子家庭+亲子家庭写真+雨伞下三口相视微笑+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DYY0QVqCSh-_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:10165125410314432",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/kulwant.nagi/posts/10165125410314432/",
+      "creator": "kulwant.nagi",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "1980s style family prompts. Comment \"Family\" and I'll send all prompts in inbox.",
+      "description": "@kulwant.nagi 的创意素材",
+      "recommendation_reason": "七张80年代家庭轮播（停车场、客厅、孟买街头、厨房喂食等），父+母+幼子同框；评论索要提示词引流，取成品图使用；29赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/kulwant.nagi",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "复古街头父亲抱男孩",
+      "copy_title": "亲子家庭+亲子家庭写真+复古街头父亲抱男孩+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_10165125410314432_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdnmQlokjBl",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdnmQlokjBl/",
+      "creator": "promptpixa",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Searching 🔎 Prompt 🆔 4953, 4949\n\nThree generations, one little bundle of happiness. 🥹❤️\nDada ki jaan, Mom ka sukoon, aur ghar ki sabse pyari muskaan. 👶🏻✨ Chhote se haathon ne poori family ko aur bhi kareeb kar diya. 🫶🏻\nThese little moments are the ones we’ll cherish forever. 🤍\nOur tiniest blessing, loved by everyone. 🧿💖\n\nTrending Family Photoshoot AI Prompts | New Trending Prompts for Little Baby with Mom-Dad 💞💓\n\n#family #familytime #aiprompts #ai #trendingpost",
+      "description": "@promptpixa 的创意素材",
+      "recommendation_reason": "父亲怀抱熟睡新生儿、母亲轻触宝宝头，提示词完整；第2张为新生儿细节九宫格；末张为应用广告；2416赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptpixa",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑衣父母怀抱新生儿",
+      "copy_title": "亲子家庭+亲子家庭写真+黑衣父母怀抱新生儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdnmQlokjBl_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdVsU5eEj5N",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdVsU5eEj5N/",
+      "creator": "promptpixa",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Searching 🔎 Prompt 🆔 5607, 5608\n.\nSome moments are too precious to be left unclicked. ❤️\nTurn your family memories into beautiful AI portraits. ✨\nOne frame, countless emotions, endless love. 🫶\nCreate timeless family portraits with AI. 📸\nYour family, your memories, your story. 🤍\n.\nAI Photo Editing Prompts 📸🎥🔥 \n.\n#family #familyphoto #aiimages #familyprompts #trendingprompt",
+      "description": "@promptpixa 的创意素材",
+      "recommendation_reason": "黑白影棚夫妻怀抱新生儿两姿，提示词逐图对应；末张为应用广告，仅用前两张成品；4067赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptpixa",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白父母亲吻宝宝",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白父母亲吻宝宝+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdVsU5eEj5N_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DXRpEMpD1aQ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DXRpEMpD1aQ/",
+      "creator": "ajithsiva_57_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Prompt 2nd pic 👆🖼️ \n\n#family \n\n#trendingnow \n\n#trend \n\n#trendingpost \n\n#vairal",
+      "description": "@ajithsiva_57_official 的创意素材",
+      "recommendation_reason": "黑白影棚四口全家福，成人居前、孩子身后搭肩；提示词完整可复刻；1548赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajithsiva_57_official",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白四口俯卧相依",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白四口俯卧相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DXRpEMpD1aQ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DdBp4LdEzGI",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@advinroynetto/post/DdBp4LdEzGI",
+      "creator": "advinroynetto",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Well well well\n\nTurn this photo into an authentic 1980s portrait. Give me period-appropriate 80s hair, retro makeup, and vintage fashion while keeping my exact face and facial features completely unchanged. Set the scene in a realistic 1980s Indian environment with soft-focus, faded colors, and natural analogue film grain.",
+      "description": "@advinroynetto 的创意素材",
+      "recommendation_reason": "六张80年代复古全家福轮播，同面孔多场景；第4张为生成界面截图，AI证据直接；117赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@advinroynetto",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "复古街头父母抱幼儿",
+      "copy_title": "亲子家庭+亲子家庭写真+复古街头父母抱幼儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DdBp4LdEzGI_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc32e7ssUpE",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc32e7ssUpE/",
+      "creator": "adventuresofmommy_n_rudransh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Hopping on the trend, with all the moms today 😄 \nThanks to AI, now all moms who didn't get any chance to get photoshoots with their baby earlier, are getting a pic in few clicks. #janmashtamispecial❤️ #littleKrishna",
+      "description": "@adventuresofmommy_n_rudransh 的创意素材",
+      "recommendation_reason": "母亲怀抱扮小克里希纳的幼儿，Janmashtami主题；AI证据仅文案AI潮流说明，较弱；仅46赞；图上有Happy Janmashtami祝福字",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/adventuresofmommy_n_rudransh",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "母亲与小克里希纳合影",
+      "copy_title": "亲子家庭+节庆+母亲与小克里希纳合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc32e7ssUpE_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DY_UUnNkXGX",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DY_UUnNkXGX/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10",
+      "caption": "Comment prompt ✨ \n#aigenerated #FamilyPhotography #potraitphotography \n#BabyPhotography",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "一家三口四种风格（夜光特写、复古户外、黑白合影、棚拍拥抱），7.4K赞；轮播为成品+提示词交替，含付费修图推广，取首张成品图使用",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "串灯围绕三口温馨合影",
+      "copy_title": "亲子家庭+亲子家庭写真+串灯围绕三口温馨合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T06:14:43+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DY_UUnNkXGX_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "threads:DajY6WZiMcM",
       "platform": "threads",
