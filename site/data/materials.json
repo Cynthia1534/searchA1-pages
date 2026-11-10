@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T07:23:40+00:00",
+  "generated_at": "2026-11-10T08:45:25+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,1812 @@
     ]
   },
   "export_stats": {
-    "formal": 783,
+    "formal": 813,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 441,
+    "confirmed_duplicates_skipped": 471,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "other:9f2a0c42e269cd33a3fb7a2f",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/1980s-photo-prompt-gemini",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "1980s Photo Prompt Gemini for Girls, Boys, Couples & Family\nDiscover 15+ 1980s photo prompt Gemini to create realistic retro photos for girls, boys, couples, husbands, wives, and families with an authentic 80s look.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "复古四口影棚合照",
+      "copy_title": "亲子家庭+亲子家庭写真+复古四口影棚合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_9f2a0c42e269cd33a3fb7a2f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:168e4bdbe33bf1f8809de1b0",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/viral-google-gemini-ai-photo-editing-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Google Gemini AI Photo Editing Prompts (2026) – 100+ Best Copy Paste Prompts\nDiscover the best Google Gemini AI photo editing prompts for boys, girls, couples, mother-son, and father-daughter photos. Copy-paste trending Gemini AI prompts and create stunning AI images in seconds.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "牛仔墨镜父子合影",
+      "copy_title": "亲子家庭+亲子家庭写真+牛仔墨镜父子合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_168e4bdbe33bf1f8809de1b0_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:81815b1b973748aa91044535",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/nieces-and-his-auntie-ai-gemini-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Nieces and His Auntie AI Gemini Prompts (Copy Paste) – Create Viral Family Photos\nDiscover the best nieces and his auntie ai gemini prompt copy paste ideas to create emotional and realistic images. Try trending family photo prompts and boost your content instantly.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑衣母女侧脸合照",
+      "copy_title": "亲子家庭+亲子家庭写真+黑衣母女侧脸合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_81815b1b973748aa91044535_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:49375b3a06b4e4bf38ee327c",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/best-holi-prompt-for-mother-and-baby-girl",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Best Holi Prompt for Mother and Baby Girl (Trending Family Holi AI Ideas 2026)\nDiscover the best holi prompt for mother and baby girl with copy-paste ready family holi prompt AI ideas. Create stunning family holi photoshoot images using ChatGPT and Gemini AI with realistic lighting and emotional detail.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "彩粉长幼相拥微笑",
+      "copy_title": "亲子家庭+亲子家庭写真+彩粉长幼相拥微笑+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_49375b3a06b4e4bf38ee327c_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:350932e52299d3f26f12ef98",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/trending-mothers-day-prompt-for-son",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Trending Mother’s Day Prompt for Son 2026: Viral AI Photo Prompts\nFind the latest Trending Mother’s Day Prompt for Son ideas for AI photo editing. Generate realistic Mother’s Day posters with cinematic lighting, emotional storytelling, and viral aesthetics.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "金色母子相拥海报",
+      "copy_title": "亲子家庭+亲子家庭写真+金色母子相拥海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_350932e52299d3f26f12ef98_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:4ac01eb5d4d5f03fbc63602a",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/gemini-ai-mother-and-son-prompt-copy-paste",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Gemini AI Mother and Son Prompt Copy Paste for Viral Mother’s Day Photos\nDiscover the best Gemini AI Mother and Son Prompt Copy Paste for creating emotional, cinematic, and trending Mother’s Day AI photos instantly.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "金色灯影母子相依",
+      "copy_title": "亲子家庭+亲子家庭写真+金色灯影母子相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_4ac01eb5d4d5f03fbc63602a_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c006ec23e0a7ded44bdf850f",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/mother-day-prompt-for-chatgpt",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "11 Viral Mother Day Prompt for ChatGPT Trending on Instagram 2026\nDiscover the best Mother Day prompt for ChatGPT to create cinematic AI photos, scrapbook collages, and trending Mother’s Day Prompt Instagram edits for mother-daughter and mother-son pictures.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲节儿子轻抚母亲",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲节儿子轻抚母亲+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c006ec23e0a7ded44bdf850f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:1692ce6b46e9c220bdc55e7e",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/prompt-for-mother-and-daughter-photo-on-instagram",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Chat GPT Viral Prompt for Mother and Daughter Photo On Instagram\nCreate aesthetic AI family portraits with these Chat GPT Viral Prompt for Mother and Daughter Photo On Instagram. Perfect for Instagram reels, festive edits, and Mother’s Day posts.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "镜前母亲为女儿梳妆",
+      "copy_title": "亲子家庭+亲子家庭写真+镜前母亲为女儿梳妆+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_1692ce6b46e9c220bdc55e7e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:289926a428fe9c248ccb4f19",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/mother-and-daughter-prompt-for-gemini-copy-paste",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Mother and Daughter Prompt for Gemini Copy Paste (Instagram Aesthetic)\nDiscover the best mother and daughter prompt for Gemini copy paste ideas for Instagram, Mother’s Day edits, scrapbook aesthetics, black-and-white portraits, and emotional AI photos.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "窗边母女赠礼写真",
+      "copy_title": "亲子家庭+亲子家庭写真+窗边母女赠礼写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_289926a428fe9c248ccb4f19_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:39db6cc7588ecff631b14181",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/mother-and-baby-girl-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Mother and Baby Girl Prompt Ideas for Gemini AI To Create Soft and Emotional Photos\nCreate beautiful mother and baby girl photos with mother and baby girl prompt that deliver natural tones and heartfelt moments.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "红纱丽母女鸽群合照",
+      "copy_title": "亲子家庭+亲子家庭写真+红纱丽母女鸽群合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_39db6cc7588ecff631b14181_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:ef7e9a31d18134c16701bed0",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/gemini-prompt-for-family-picture-of-4",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Best Gemini Prompt For Family Picture of 4 – Realistic & Black and White Styles\nDiscover the best gemini prompt for family picture of 4 to create realistic, studio-quality portraits. Includes Indian family photo prompts, black and white styles, and ready-to-use gemini AI prompts for family of 4.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "红帘前黄纱丽四口",
+      "copy_title": "亲子家庭+亲子家庭写真+红帘前黄纱丽四口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_ef7e9a31d18134c16701bed0_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:324560d627f0f15cb9771b41",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/chatgpt-mother-and-daughter-photo-editing-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "ChatGPT Mother and Daughter Photo Editing Prompts\nDiscover the best ChatGPT mother and daughter photo editing prompts to create stunning, emotional, and cinematic portraits. Just copy and paste to generate beautiful AI artwork instantly.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "金色光影母女嘘手势",
+      "copy_title": "亲子家庭+亲子家庭写真+金色光影母女嘘手势+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_324560d627f0f15cb9771b41_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5b6e3ae13e2df0b8c801ada7",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/copy-paste-prompt-for-family-of-10-gemini-ai",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "5 Best Copy Paste Prompt for Family of 10 Gemini AI (Instagram Ready Ideas)\nExplore top copy paste prompt for family of 10 gemini ai that help you generate eye-catching and emotional family photos. Perfect for social media, these prompts work great for Instagram family posts and creative AI edits.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "礼服祖孙三代合照",
+      "copy_title": "亲子家庭+亲子家庭写真+礼服祖孙三代合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5b6e3ae13e2df0b8c801ada7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:a77854111377ea5b13d97ff9",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/black-and-white-family-photo-prompt-for-gemini-ai",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Best Black and White Family Photo Prompt for Gemini AI – Viral Ideas for Stunning Portraits\nLooking for the perfect black and white family photo prompt? Explore 12 detailed Gemini black and white family prompts to create timeless, high-contrast, emotional family portraits effortlessly.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白三口亲密相依",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白三口亲密相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:47+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_a77854111377ea5b13d97ff9_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:edd2e5efa27687e3f47d73f3",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/chatgpt-prompt-for-mother-and-daughter-photos",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Best ChatGPT Prompt For Mother And Daughter Photos (Copy Paste)\nDiscover viral Gemini and chatgpt prompt for mother and daughter photos. Create cinematic black-and-white portraits, Instagram edits, vintage collages, and emotional AI family images.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白母女背后相拥",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白母女背后相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_edd2e5efa27687e3f47d73f3_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:3d5ead8b8fa60e4e8209fc9c",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/father-and-daughter-prompt-for-gemini-copy-paste",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Father And Daughter Prompt For Gemini Copy Paste Ideas for Stunning family Photos\nCreate stunning Indian AI family photos using the best father and daughter prompt for gemini copy paste ideas. Easy father and daughter prompt generator for realistic and emotional results.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "墨镜父女背抱合照",
+      "copy_title": "亲子家庭+亲子家庭写真+墨镜父女背抱合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_3d5ead8b8fa60e4e8209fc9c_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:3c707ade4af62ffe330b2553",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/best-fathers-day-prompt-for-chatgpt",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Best Father's Day Prompt for ChatGPT (2026): Create Stunning AI Family Photos\nDiscover 50+ trending Father's Day prompts for ChatGPT. Create stunning dad & daughter photos, scrapbook collages, AI greeting cards, and viral Father's Day images in minutes.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "父子礼物拍立得拼贴",
+      "copy_title": "亲子家庭+亲子家庭写真+父子礼物拍立得拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_3c707ade4af62ffe330b2553_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5376774c532d708999914458",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/mother-and-baby-prompts-gemini-ai",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Most Viral Mother and Baby Prompt for Gemini (Copy Paste HD AI Photo Prompts)\nDiscover the most viral mother and baby prompt for gemini with mother and daughter prompt for gemini copy paste. Create realistic mom and baby Gemini images with cinematic lighting, DSLR quality, and emotional storytelling.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "红裙母亲抱黄衣幼儿",
+      "copy_title": "亲子家庭+亲子家庭写真+红裙母亲抱黄衣幼儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5376774c532d708999914458_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:bcf9fd83e1a2247377b144c6",
+      "platform": "other",
+      "post_url": "https://imagepromptlab.com/father-and-son-prompt-for-gemini-6-fathers-day-portrait-prompts-for-desi-boys",
+      "creator": "imagepromptlab.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Father And Son Prompt For Gemini | 6 Father's Day Ideas\nCreate a stunning Father's Day portrait with this father and son prompt for Gemini AI. 6 ready-to-use prompts with Indian outfits, studio, and candid styles.",
+      "description": "@imagepromptlab.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://imagepromptlab.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "暖阳下父子并肩",
+      "copy_title": "亲子家庭+亲子家庭写真+暖阳下父子并肩+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_bcf9fd83e1a2247377b144c6_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:13db0ffc91403bd39607bc4c",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/cute-family-photo-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "10 Cute Family Photo Prompt Ideas for Stunning AI Portraits\nDiscover the best cute family photo prompt ideas to create heart-melting AI portraits. Includes black and white styles, fun poses, and Gemini family photo prompts for beginners.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白三口叠手写真",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白三口叠手写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_13db0ffc91403bd39607bc4c_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:face7a49e5b45236206f7efa",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/family-prompts-for-gemini-ai",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Best Family Prompts for Gemini AI: Create Natural and Heartwarming Photos\nDiscover the best family prompts for Gemini AI and learn how to create natural, warm, and realistic family photos. Perfect for you if you want simple, ready-to-use ideas.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "祖孙三代五口合照",
+      "copy_title": "亲子家庭+亲子家庭写真+祖孙三代五口合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_face7a49e5b45236206f7efa_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:f6e08755c4c84d75bd7db2e7",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/best-family-wallpaper-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Best Family Wallpaper Prompt for ChatGPT & AI Photo Editing\nTry these trending family wallpaper prompts to create realistic couple and baby wallpapers using your own photos. Perfect for ChatGPT, Instagram, and phone lockscreens.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "蓝天下三口自拍",
+      "copy_title": "亲子家庭+亲子家庭写真+蓝天下三口自拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_f6e08755c4c84d75bd7db2e7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:9a61a4f99a922886a367e007",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/indian-family-prompt-for-gemini-ai",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Indian Family Prompt for Gemini AI (90s Cinematic Portrait Ideas)\nDiscover the best indian family prompt for gemini ai to create stunning 90s cinematic portraits. Copy-paste prompts for father, mother, and family images with a dreamy vintage style.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑衣父亲怀抱男孩",
+      "copy_title": "亲子家庭+亲子家庭写真+黑衣父亲怀抱男孩+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_9a61a4f99a922886a367e007_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:44bf0794be75c175ec09501b",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/instagram-family-photo-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Instagram Family Photo Prompts: Create Viral Mother–Daughter AI Edits\nDiscover the best instagram family photo prompts to create emotional mother–daughter AI images. Easy, trending, and perfect for viral Instagram posts.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母女花卉拍立得拼贴",
+      "copy_title": "亲子家庭+亲子家庭写真+母女花卉拍立得拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_44bf0794be75c175ec09501b_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c988cd185ca55c94d7ac25e6",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/thevar-magan-family-prompt",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Thevar Magan Family Prompt for Gemini: Create Stunning Tamil Family Photos\nDiscover the best Thevar Magan family prompt for Gemini to create beautiful Tamil family photos with traditional outfits, realistic faces, and Instagram-worthy styling.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "红纱丽三口檐下合照",
+      "copy_title": "亲子家庭+亲子家庭写真+红纱丽三口檐下合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c988cd185ca55c94d7ac25e6_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:7b5e29d4b4e8e3bb5229702d",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/father-and-daughter-prompt-for-chatgpt-copy-paste",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Father and Daughter Prompt for ChatGPT Copy Paste (2026) | 100+ AI Photo Prompts\nDiscover the best father and daughter prompt for ChatGPT copy paste. Get emotional, cinematic, funny, Instagram-ready, Father's Day, family and AI photo editing prompts for ChatGPT, Gemini and AI image generators.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "蓝衫父亲与女儿合影",
+      "copy_title": "亲子家庭+亲子家庭写真+蓝衫父亲与女儿合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_7b5e29d4b4e8e3bb5229702d_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:8fd4bbf60326e032d9761840",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/father-and-daughter-prompt-for-gemini-ai",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Father and Daughter Prompt for Gemini AI (Copy-Paste Prompts)\nLooking for perfect father and daughter prompts for Gemini AI? This guide gives you ready-to-use, high-quality prompts that produce beautiful family portraits, nostalgic moments, and cinematic images in minutes. No experience needed.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白发父女温柔依偎",
+      "copy_title": "亲子家庭+亲子家庭写真+白发父女温柔依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_8fd4bbf60326e032d9761840_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:ecace61fd6bb9e4acdc843a5",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/fathers-day-ai-photo-editing-prompts-gemini",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "5 Best Father's Day AI Photo Editing Prompts for Gemini 2026\nThese Father's Day AI photo editing prompts for Gemini are copy-paste ready and perfect for Indian creators who want cinematic family portraits.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "酒红衣儿子赠礼",
+      "copy_title": "亲子家庭+亲子家庭写真+酒红衣儿子赠礼+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_ecace61fd6bb9e4acdc843a5_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5f65ae7a53ae92f3b1d206ee",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/mothers-day-ai-photo-editing-prompts",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "5 Best Mothers Day AI Photo Editing Prompts for Gemini\nTry these 5 mothers day ai photo editing prompts for Gemini AI and create cinematic, emotional photos your mom will absolutely love this year.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "木桌母女举杯对望",
+      "copy_title": "亲子家庭+亲子家庭写真+木桌母女举杯对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5f65ae7a53ae92f3b1d206ee_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:60902d123d5c97c36a2737ea",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/gemini-ai-mothers-day-prompt-copy-paste",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-10T08:43:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-10T08:43:55+00:00",
+      "caption": "Viral Gemini AI Mother's Day Prompt Copy Paste 2026\ngemini ai mother's day prompt copy paste and create emotional, cinematic photos with your mom this Mother's Day using Google Gemini.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭AI成品创意，保留真实原页及实际生成图片；不以提示词文字替代作品。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白衣儿子为母亲送礼",
+      "copy_title": "亲子家庭+亲子家庭写真+白衣儿子为母亲送礼+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-10T08:44:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_60902d123d5c97c36a2737ea_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "other:bc03fe100befb1a3eebcc343",
       "platform": "other",
