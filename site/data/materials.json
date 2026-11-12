@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T03:20:59+00:00",
+  "generated_at": "2026-11-12T04:17:23+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,9 +25,9 @@
     ]
   },
   "export_stats": {
-    "formal": 816,
+    "formal": 834,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 474,
+    "confirmed_duplicates_skipped": 492,
     "suspected_duplicates_included": 1
   },
   "materials": [
@@ -205,6 +205,1086 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/other_e8f381e88b4b927d17411ac1_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbfpSGDxqUW",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DbfpSGDxqUW/",
+      "creator": "shanker_meena_bhanpi9001054606",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "2 likes, 0 comments - shanker_meena_bhanpi9001054606 on August 1, 2026",
+      "description": "@shanker_meena_bhanpi9001054606 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；两孩抱狗雪地圣诞树",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shanker_meena_bhanpi9001054606/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "节庆",
+      "image_description": "两孩抱狗圣诞雪景",
+      "copy_title": "宝宝儿童+节庆+两孩抱狗圣诞雪景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbfpSGDxqUW_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcOM0LmJaJA",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DcOM0LmJaJA/",
+      "creator": "nageshg4470",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "8 likes, 0 comments - nageshg4470 on August 19, 2026",
+      "description": "@nageshg4470 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；白裙女孩雪地圣诞树",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/nageshg4470/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "宝宝儿童",
+      "theme_tag": "节庆",
+      "image_description": "反戴帽女孩圣诞雪景",
+      "copy_title": "宝宝儿童+节庆+反戴帽女孩圣诞雪景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "宝宝儿童"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcOM0LmJaJA_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfkN02XFK2I",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@loverajsinghjatav/post/DfkN02XFK2I",
+      "creator": "loverajsinghjatav",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "सुपर पोस्ट 👍😎😱💯💯🌟\n#nonfollowers #foryouシ #viralpost #explore",
+      "description": "@loverajsinghjatav 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；雪地圣诞树前男子",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@loverajsinghjatav/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "节庆",
+      "image_description": "灰马甲男子圣诞雪景",
+      "copy_title": "单人男性+节庆+灰马甲男子圣诞雪景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfkN02XFK2I_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfBkff3iCTr",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@deendyal29/post/DfBkff3iCTr",
+      "creator": "deendyal29",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "#jayshreeram #follower #my #PostViral #deendayalsharma",
+      "description": "@deendyal29 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；雪地圣诞树前男子",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@deendyal29/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "节庆",
+      "image_description": "粉衫男子雪景坐姿",
+      "copy_title": "单人男性+节庆+粉衫男子雪景坐姿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfBkff3iCTr_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DezcxzmjBzM",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@asushma9014_/post/DezcxzmjBzM",
+      "creator": "asushma9014_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "गुड नाइट फेसबुक फैमिली शुभ रात्रि मित्रों,💐💐💐💐💐💐💐💐🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺\n#फेसबुक #फेसबुकपोस्ट #वायरल #",
+      "description": "@asushma9014_ 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；雪地圣诞树前红纱丽女子",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@asushma9014_/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "节庆",
+      "image_description": "橙红纱丽圣诞合成",
+      "copy_title": "单人女性+节庆+橙红纱丽圣诞合成+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DezcxzmjBzM_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dbqjhy-hrRN",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dbqjhy-hrRN/",
+      "creator": "chitrekha6617",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "13 likes, 1 comments - chitrekha6617 on August 5, 2026",
+      "description": "@chitrekha6617 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；蓝花纱丽女子圣诞树",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/chitrekha6617/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "节庆",
+      "image_description": "蓝花纱丽女子圣诞照",
+      "copy_title": "单人女性+节庆+蓝花纱丽女子圣诞照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dbqjhy-hrRN_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DccLXUzt0dU",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DccLXUzt0dU/",
+      "creator": "ravindra508982",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "27 likes, 0 comments - ravindra508982 on August 24, 2026",
+      "description": "@ravindra508982 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；绿纱丽女子圣诞树",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ravindra508982/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "节庆",
+      "image_description": "绿纱丽女子圣诞雪景",
+      "copy_title": "单人女性+节庆+绿纱丽女子圣诞雪景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DccLXUzt0dU_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1635463017615729",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/Shinekanti/posts/1635463017615729/",
+      "creator": "Shine Kanti",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "Ye dekho Ai ne muje kaisa bna diya, ap bhi bna lo, ai gemini se ek photo, ajkl trend chala hai 💖🥰 kya pta viral ho jaye ❤🤩\n\nMarry Crimas Sabko shinekanti family ki trf se, apki life khushiyon se...",
+      "description": "@Shine Kanti 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；圣诞毛衣母女合影",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Shinekanti",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "圣诞毛衣母女合影",
+      "copy_title": "亲子家庭+节庆+圣诞毛衣母女合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1635463017615729_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dflmx7dCG7u",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@nawanmeean893/post/Dflmx7dCG7u",
+      "creator": "nawanmeean893",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "圣诞主题印度AI成图；圣诞树前母子三人合影",
+      "description": "@nawanmeean893 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；圣诞树前母子三人合影",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@nawanmeean893/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "蓝纱丽母子三人雪景",
+      "copy_title": "亲子家庭+节庆+蓝纱丽母子三人雪景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dflmx7dCG7u_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeZsqZqiq30",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sanjeet8398kumar/post/DeZsqZqiq30",
+      "creator": "sanjeet8398kumar",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "圣诞主题印度AI成图；圣诞树前四口之家",
+      "description": "@sanjeet8398kumar 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；圣诞树前四口之家",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sanjeet8398kumar/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "红纱丽四口圣诞合影",
+      "copy_title": "亲子家庭+节庆+红纱丽四口圣诞合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:38+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeZsqZqiq30_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbhsU-1sHd6",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DbhsU-1sHd6/",
+      "creator": "sandipthakorkaajlbenk",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "8 likes, 0 comments - sandipthakorkaajlbenk on August 1, 2026",
+      "description": "@sandipthakorkaajlbenk 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；红纱丽母子圣诞树",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/sandipthakorkaajlbenk/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "红纱丽母子雪景合照",
+      "copy_title": "亲子家庭+节庆+红纱丽母子雪景合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbhsU-1sHd6_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dbz0_2bpYr5",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dbz0_2bpYr5/",
+      "creator": "pal32670",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "20 likes, 0 comments - pal32670 on August 8, 2026",
+      "description": "@pal32670 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；红纱丽一家三口圣诞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/pal32670/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "红纱丽三口圣诞合影",
+      "copy_title": "亲子家庭+节庆+红纱丽三口圣诞合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dbz0_2bpYr5_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Db3ONtuTtoL",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Db3ONtuTtoL/",
+      "creator": "itz_sarita_rajputtt",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "14 likes, 2 comments - itz_sarita_rajputtt on August 10, 2026",
+      "description": "@itz_sarita_rajputtt 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；黄纱丽一家三口圣诞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/itz_sarita_rajputtt/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "黄纱丽三口圣诞合影",
+      "copy_title": "亲子家庭+节庆+黄纱丽三口圣诞合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Db3ONtuTtoL_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfHiQwpGdAs",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@manju_s_98/post/DfHiQwpGdAs",
+      "creator": "manju_s_98",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "圣诞主题印度AI成图；圣诞树雪地夫妻合影",
+      "description": "@manju_s_98 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；圣诞树雪地夫妻合影",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@manju_s_98/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "金边纱丽情侣雪景",
+      "copy_title": "情侣+节庆+金边纱丽情侣雪景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfHiQwpGdAs_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfcliqzksHE",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@santoshkumar17115/post/DfcliqzksHE",
+      "creator": "santoshkumar17115",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "圣诞主题印度AI成图；雪地圣诞树前夫妻合影",
+      "description": "@santoshkumar17115 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；雪地圣诞树前夫妻合影",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@santoshkumar17115/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "红纱丽夫妻圣诞树前",
+      "copy_title": "情侣+节庆+红纱丽夫妻圣诞树前+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfcliqzksHE_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De3YQS4HWia",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ravikantravikant3902/post/De3YQS4HWia",
+      "creator": "ravikantravikant3902",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "圣诞主题印度AI成图；圣诞树前印度夫妻合影",
+      "description": "@ravikantravikant3902 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；圣诞树前印度夫妻合影",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ravikantravikant3902/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "浅金纱丽情侣圣诞照",
+      "copy_title": "情侣+节庆+浅金纱丽情侣圣诞照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_De3YQS4HWia_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbnWu4GshLn",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DbnWu4GshLn/",
+      "creator": "santoshkumar96854",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "39 likes, 3 comments - santoshkumar96854 on August 4, 2026",
+      "description": "@santoshkumar96854 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；红纱丽夫妇雪中",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/santoshkumar96854/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "红纱丽夫妻圣诞雪景",
+      "copy_title": "情侣+节庆+红纱丽夫妻圣诞雪景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbnWu4GshLn_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dbns0CEzWYn",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dbns0CEzWYn/",
+      "creator": "dghkdu12987",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12",
+      "caption": "212 likes, 8 comments - dghkdu12987 on August 4, 2026",
+      "description": "@dghkdu12987 的创意素材",
+      "recommendation_reason": "圣诞主题印度AI成图；金纱丽夫妇圣诞树",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/dghkdu12987/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "金纱丽情侣圣诞雪景",
+      "copy_title": "情侣+节庆+金纱丽情侣圣诞雪景+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T04:16:37+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dbns0CEzWYn_0.jpg",
           "preview_status": "verified",
           "result_status": "final_result",
           "visual_analysis": null
