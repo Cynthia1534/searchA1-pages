@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T08:45:25+00:00",
+  "generated_at": "2026-11-12T03:20:59+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,192 @@
     ]
   },
   "export_stats": {
-    "formal": 813,
+    "formal": 816,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 471,
+    "confirmed_duplicates_skipped": 474,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "other:291d6b43ea3723569ad8ce73",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/trending-christmas-photo-prompts",
+      "creator": "Sushil",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12T03:19:48+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12T03:19:48+00:00",
+      "caption": "Gemini AI ChatGPT Christmas Photo Prompts 2026: Turn Your Photos into Christmas Magic\nDiscover the easiest way to use chatgpt christmas photo prompts. Use these viral chatgpt christmas prompt and Create family, couple, and aesthetic holiday images with simple copy-paste prompts.",
+      "description": "@Sushil 的创意素材",
+      "recommendation_reason": "圣诞人物成品图，适合印度市场换脸/家庭照片效果复刻；非本地实拍或国籍声明。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "节庆",
+      "image_description": "礼物彩球环绕红衫肖像",
+      "copy_title": "单人男性+节庆+礼物彩球环绕红衫肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T03:20:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_291d6b43ea3723569ad8ce73_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:a52c69dd7e029641de0a42a7",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/christmas-couple-photo-prompts-for-gemini-ai",
+      "creator": "Sushil",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12T03:19:48+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12T03:19:48+00:00",
+      "caption": "Chatgpt Christmas Photo Prompts For Couples: Same Face, Cozy & Cinematic Results\nDiscover the best Chatgpt Christmas Photo Prompts For Couples to generate cozy, romantic holiday photos with the same faces across different poses and outfits.",
+      "description": "@Sushil 的创意素材",
+      "recommendation_reason": "圣诞人物成品图，适合印度市场换脸/家庭照片效果复刻；非本地实拍或国籍声明。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "圣诞窗边针织衫相拥",
+      "copy_title": "情侣+节庆+圣诞窗边针织衫相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T03:20:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_a52c69dd7e029641de0a42a7_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e8f381e88b4b927d17411ac1",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/chatgpt-christmas-photo-prompts-for-family",
+      "creator": "Sushil",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-12T03:19:48+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-12T03:19:48+00:00",
+      "caption": "ChatGPT Christmas Photo Prompts for Family: Create Realistic Holiday Memories\nExplore trending ChatGPT Christmas Photo Prompts for Family to generate beautiful, realistic holiday portraits using AI. Perfect for cozy and emotional moments.",
+      "description": "@Sushil 的创意素材",
+      "recommendation_reason": "圣诞人物成品图，适合印度市场换脸/家庭照片效果复刻；非本地实拍或国籍声明。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "圣诞树前红格四口合影",
+      "copy_title": "亲子家庭+节庆+圣诞树前红格四口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-12T03:20:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e8f381e88b4b927d17411ac1_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "other:9f2a0c42e269cd33a3fb7a2f",
       "platform": "other",
