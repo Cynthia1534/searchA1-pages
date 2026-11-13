@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T02:36:12+00:00",
+  "generated_at": "2026-11-13T09:56:25+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,3612 @@
     ]
   },
   "export_stats": {
-    "formal": 927,
+    "formal": 987,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 585,
+    "confirmed_duplicates_skipped": 645,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "other:8904aefbce015a92008408b6",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/15405471/indian-family-people-person-photo",
+      "creator": "Minty",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Indian family people person photo.",
+      "description": "@Minty 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黄裙女儿全家合照",
+      "copy_title": "亲子家庭+亲子家庭写真+黄裙女儿全家合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_8904aefbce015a92008408b6_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:1720a01abb0ae188ae0ad100",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/15405531/indian-family-people-person-photo",
+      "creator": "Minty",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Indian family people person photo.",
+      "description": "@Minty 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "粉裙父女环抱母亲",
+      "copy_title": "亲子家庭+亲子家庭写真+粉裙父女环抱母亲+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_1720a01abb0ae188ae0ad100_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:159689364cf52b1995e8ae8a",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28781847/indian-bride-and-mother-sharing-joyful-moment-traditional-attire",
+      "creator": "Hein",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Indian bride and mother sharing a joyful moment in traditional attire",
+      "description": "@Hein 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "婚礼母女捧花微笑",
+      "copy_title": "亲子家庭+亲子家庭写真+婚礼母女捧花微笑+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_159689364cf52b1995e8ae8a_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:f777a2060eac29acca627625",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28794969/mother-lovingly-adjusts-brides-embroidered-veil-before-her-wedding",
+      "creator": "Hein",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Mother lovingly adjusts bride’s embroidered veil before her wedding",
+      "description": "@Hein 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲为新娘整绣衣",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲为新娘整绣衣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_f777a2060eac29acca627625_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:3a151958d240b79dd05a659c",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28795623/father-helping-groom-adjust-cufflinks-elegant-indian-wedding-attire",
+      "creator": "Hein",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Father helping groom adjust cufflinks in elegant Indian wedding attire",
+      "description": "@Hein 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "父亲整理新郎袖口",
+      "copy_title": "亲子家庭+亲子家庭写真+父亲整理新郎袖口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_3a151958d240b79dd05a659c_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:aa3bfad07c8747b142a0c246",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/18307209/children-family-portrait-together",
+      "creator": "Pinn",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Children family portrait together.",
+      "description": "@Pinn 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "祖辈抱孙辈合照",
+      "copy_title": "亲子家庭+亲子家庭写真+祖辈抱孙辈合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_aa3bfad07c8747b142a0c246_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:be7698f4ac3aec488beace80",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28416311/happy-parents-holding-hands-with-smiling-daughter-white-background",
+      "creator": "Chim",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Happy parents holding hands with smiling daughter on white background",
+      "description": "@Chim 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "粉裙母女牵手",
+      "copy_title": "亲子家庭+亲子家庭写真+粉裙母女牵手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_be7698f4ac3aec488beace80_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:48e4f2e0d1130cefe985992b",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28710583/smiling-indian-family-elegant-traditional-clothing-seated-together",
+      "creator": "Bambamfefe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family in elegant traditional clothing, seated together",
+      "description": "@Bambamfefe 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "绿金花裙亲子合照",
+      "copy_title": "亲子家庭+亲子家庭写真+绿金花裙亲子合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_48e4f2e0d1130cefe985992b_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:ef847012d3037827277525d1",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28812306/smiling-indian-family-sharing-joyful-moment-garden",
+      "creator": "Chim",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family sharing a joyful moment in a garden",
+      "description": "@Chim 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "庭院逗笑黄裙女儿",
+      "copy_title": "亲子家庭+亲子家庭写真+庭院逗笑黄裙女儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_ef847012d3037827277525d1_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:d693d9908402f9006e25ba5f",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28746448/smiling-indian-family-festive-traditional-outfits-outdoors",
+      "creator": "rawpixel meeting",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family in festive traditional outfits outdoors",
+      "description": "@rawpixel meeting 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "庭院婚礼家庭合影",
+      "copy_title": "亲子家庭+亲子家庭写真+庭院婚礼家庭合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:46+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_d693d9908402f9006e25ba5f_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:820c07e5ca8506f1b1278232",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28289812/smiling-indian-family-elegant-traditional-festive-clothing",
+      "creator": "rawpixel meeting",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family in elegant traditional festive clothing",
+      "description": "@rawpixel meeting 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "金黄童裙全家依偎",
+      "copy_title": "亲子家庭+亲子家庭写真+金黄童裙全家依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_820c07e5ca8506f1b1278232_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:1b942bac559a50792a41643a",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28809192/smiling-indian-family-festive-traditional-attire-home",
+      "creator": "Chim",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family in festive traditional attire at home",
+      "description": "@Chim 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "花柱庭院抱女儿",
+      "copy_title": "亲子家庭+亲子家庭写真+花柱庭院抱女儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_1b942bac559a50792a41643a_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:b9e0648917fd322cad2e0c13",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28293883/smiling-south-asian-parents-with-young-daughter-white-background",
+      "creator": "Chim",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling South Asian parents with young daughter on white background",
+      "description": "@Chim 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "粉裙女儿白底合照",
+      "copy_title": "亲子家庭+亲子家庭写真+粉裙女儿白底合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_b9e0648917fd322cad2e0c13_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:ef04a8ad4004ad925c01b37f",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28699368/smiling-indian-family-posing-together-bright-studio-portrait",
+      "creator": "Bambamfefe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family posing together in a bright studio portrait",
+      "description": "@Bambamfefe 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "灰绿礼服三口拥抱",
+      "copy_title": "亲子家庭+亲子家庭写真+灰绿礼服三口拥抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_ef04a8ad4004ad925c01b37f_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:acc80d40f7a791e3d51c1116",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28713269/smiling-indian-family-posing-together-traditional-festive-clothing",
+      "creator": "Bambamfefe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family posing together in traditional festive clothing",
+      "description": "@Bambamfefe 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黄裙女儿依偎",
+      "copy_title": "亲子家庭+亲子家庭写真+黄裙女儿依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_acc80d40f7a791e3d51c1116_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:7fbb9704d7f461d680e33a97",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28250336/smiling-indian-family-wearing-elegant-traditional-festive-clothing",
+      "creator": "Bambamfefe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family wearing elegant traditional festive clothing",
+      "description": "@Bambamfefe 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "金绣礼服抱女儿",
+      "copy_title": "亲子家庭+亲子家庭写真+金绣礼服抱女儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_7fbb9704d7f461d680e33a97_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:acd242a203525593a3cebc93",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28414923/smiling-indian-family-traditional-attire-posing-together-studio",
+      "creator": "Chim",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family in traditional attire posing together in studio",
+      "description": "@Chim 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "青金礼服全家合照",
+      "copy_title": "亲子家庭+亲子家庭写真+青金礼服全家合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_acd242a203525593a3cebc93_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e513992bfe1777d7b87847e5",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/15405275/indian-family-people-person-photo",
+      "creator": "Minty",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Indian family people person photo.",
+      "description": "@Minty 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白衫父子拥抱母亲",
+      "copy_title": "亲子家庭+亲子家庭写真+白衫父子拥抱母亲+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e513992bfe1777d7b87847e5_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:842cff40fcc635560f69b8fc",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/16643703/indian-mother-holding-newborn-photo-face-baby",
+      "creator": "Kappy",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Indian mother holding newborn photo face baby.",
+      "description": "@Kappy 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白衣母亲侧身抱婴",
+      "copy_title": "亲子家庭+亲子家庭写真+白衣母亲侧身抱婴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_842cff40fcc635560f69b8fc_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:0670c5ce63776624aa84e6b3",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/17520309/standing-smiling-indian-mother-piggyback-little-boy-portrait-smile-happy",
+      "creator": "Hein",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Standing Smiling Indian mother piggyback little boy portrait smile happy.",
+      "description": "@Hein 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲肩头顽皮儿子",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲肩头顽皮儿子+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_0670c5ce63776624aa84e6b3_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5e0641e8244955637cb65251",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/16643045/indian-mother-holding-newborn-family-photo-face",
+      "creator": "Kappy",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Indian mother holding newborn family photo face.",
+      "description": "@Kappy 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白衣母婴正面拥抱",
+      "copy_title": "亲子家庭+亲子家庭写真+白衣母婴正面拥抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5e0641e8244955637cb65251_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:4a4646cc605ed446ff2bd257",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/16643875/indian-mother-holding-newborn-photo-face-baby",
+      "creator": "Kappy",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Indian mother holding newborn photo face baby.",
+      "description": "@Kappy 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母婴侧脸轻吻",
+      "copy_title": "亲子家庭+亲子家庭写真+母婴侧脸轻吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_4a4646cc605ed446ff2bd257_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:7a8370185d3aa5a7f85f9a3f",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/16643882/indian-mother-holding-newborn-connection-photo-face",
+      "creator": "Kappy",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Indian mother holding newborn connection photo face.",
+      "description": "@Kappy 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白绣衣母婴额头相依",
+      "copy_title": "亲子家庭+亲子家庭写真+白绣衣母婴额头相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_7a8370185d3aa5a7f85f9a3f_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:1c013e0ee21f6401172a673e",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28234073/indian-bride-with-mother-ornate-traditional-wedding-attire",
+      "creator": "ton",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Indian bride with mother in ornate traditional wedding attire",
+      "description": "@ton 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲整理新娘首饰",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲整理新娘首饰+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_1c013e0ee21f6401172a673e_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:7e9e92e7c1bebfb46aa308b2",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28293352/smiling-indian-family-traditional-attire-seated-together-studio-sofa",
+      "creator": "Chim",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family in traditional attire seated together on a studio sofa",
+      "description": "@Chim 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "米金礼服膝上女儿",
+      "copy_title": "亲子家庭+亲子家庭写真+米金礼服膝上女儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_7e9e92e7c1bebfb46aa308b2_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:41df06a6bef83f7a2be2146e",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28292843/smiling-indian-family-posing-together-clean-white-studio-background",
+      "creator": "Bambamfefe",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling Indian family posing together on a clean white studio background",
+      "description": "@Bambamfefe 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "蓝黄衫四口棚拍",
+      "copy_title": "亲子家庭+亲子家庭写真+蓝黄衫四口棚拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_41df06a6bef83f7a2be2146e_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:533595dbc3586a0d6d1011a6",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28455658/happy-indian-family-shopping-together-colorful-traditional-clothing",
+      "creator": "Chim",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Happy Indian family shopping together in colorful traditional clothing",
+      "description": "@Chim 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "传统礼服购物合照",
+      "copy_title": "亲子家庭+亲子家庭写真+传统礼服购物合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_533595dbc3586a0d6d1011a6_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e82ba3f76917c422de9f17c1",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/28745059/smiling-family-with-young-daughter-sitting-together-home",
+      "creator": "rawpixel meeting",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Smiling family with young daughter sitting together at home",
+      "description": "@rawpixel meeting 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "沙发依偎三口之家",
+      "copy_title": "亲子家庭+亲子家庭写真+沙发依偎三口之家+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e82ba3f76917c422de9f17c1_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:f302238d0bfcc337b5221ca2",
+      "platform": "other",
+      "post_url": "https://rawpixel.com/image/25422065/joyful-mother-holding-smiling-baby",
+      "creator": "Aew",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Joyful mother holding smiling baby.",
+      "description": "@Aew 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.rawpixel.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "浅衣母亲举婴",
+      "copy_title": "亲子家庭+亲子家庭写真+浅衣母亲举婴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_f302238d0bfcc337b5221ca2_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:567000db14b4bdca13e78d6c",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/winter-couple-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Winter Couple Prompts for Gemini AI: Transform Your Photos Into Cinematic Rural Scenes\nExplore the best Gemini AI winter couple prompts for cozy, romantic portraits. Learn how to use rural lighting, expressions, and storytelling scenes to generate stunning photo-realistic images.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "村屋灯笼夜相拥",
+      "copy_title": "情侣+情侣写真+村屋灯笼夜相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_567000db14b4bdca13e78d6c_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:f3508e6faebac6785e26a54e",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/holi-couple-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Holi Couple Prompts: Create Romantic AI Festival Photos Easily\nDiscover the best holi couple prompts to generate ultra-realistic and romantic AI images. Step-by-step guide for using holi prompt ChatGPT and holi AI photo editing prompts for Instagram-ready results.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "洒红节彩粉含笑",
+      "copy_title": "情侣+情侣写真+洒红节彩粉含笑+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_f3508e6faebac6785e26a54e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e9cf8c9de70193c38a022912",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/thevar-magan-prompt-for-husband-and-wife",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Thevar Magan Prompt for Husband and Wife: Best Gemini Copy Paste Prompts\nDiscover the best Thevar Magan prompt for husband and wife with ready-to-use Gemini copy paste prompts. Create realistic South Indian couple portraits with traditional outfits, strong poses, and cinematic studio style.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "南印红金传统合照",
+      "copy_title": "情侣+情侣写真+南印红金传统合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e9cf8c9de70193c38a022912_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:66959d98b886c391722494ae",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/chatgpt-couple-photo-prompt-realistic-copy-and-paste",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "ChatGPT Couple Photo Prompt Realistic Copy and Paste for Viral AI Photos\nTry the best south indian couple prompt generator ideas for ultra realistic romantic AI photos. Copy and paste trending ChatGPT Couple Photo Prompt Realistic Copy and Paste ideas for cinematic traditional couple portraits.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "窗边花环脚链",
+      "copy_title": "情侣+情侣写真+窗边花环脚链+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_66959d98b886c391722494ae_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:193ae32de55dc703b2a0cbdd",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/cinematic-indian-couple-forehead-kiss-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Cinematic Indian Couple Forehead Kiss Prompts: Create Realistic Couple Photos\nCreate cinematic romantic portraits with this ultra-realistic couple forehead kiss prompt for Gemini AI featuring warm studio lighting, emotional shadows, and realistic couple aesthetics.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "暖橙剪影相拥",
+      "copy_title": "情侣+情侣写真+暖橙剪影相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_193ae32de55dc703b2a0cbdd_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:4a48961dff75c2e6e3dd65c9",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/couples-prompt-for-chatgpt-to-make-money-online",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Best Couples Prompt for ChatGPT to Make Money Online With AI\nExplore trending couples prompt for ChatGPT AI ideas for realistic romantic photos. Start an AI photo editing business and earn money from home in 2026.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "乡野额头轻吻",
+      "copy_title": "情侣+情侣写真+乡野额头轻吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_4a48961dff75c2e6e3dd65c9_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:6ff79b465072db31e01f4f09",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/trending-gemini-ai-photo-editor-prompts-for-boys-girls-and-couples",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Gemini AI Photo Editor Prompts 2026: Viral Copy Paste Prompts for Instagram\nCreate stunning AI-edited photos with the best Gemini AI photo editor prompt boy and girl collection. Get trending Instagram prompts, attitude edits, fashion portraits, and creative photo ideas.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "夜色爱心自拍",
+      "copy_title": "情侣+情侣写真+夜色爱心自拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_6ff79b465072db31e01f4f09_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:16ef538405e78733f222855f",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/gemini-photo-editing-prompts-for-boys-girls-couples",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Gemini Photo Editing Prompts for Boys, Girls & Couples\nLooking for the best Gemini Photo Editing Prompts? Discover 17+ trending Gemini AI photo editing prompts for boys, girls, couples, portraits, fashion, and cinematic edits. Simply copy, paste, and create stunning AI photos in 2026.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白花树下黄衫拥抱",
+      "copy_title": "情侣+情侣写真+白花树下黄衫拥抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_16ef538405e78733f222855f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c3b9939c06f7994e4080616e",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/couple-kissing-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Best Couple Kissing Prompts for Gemini AI to Create Romantic Scenes\nExplore easy couple kissing prompts for Gemini AI. Perfect for beginners who want to create soft, emotional, and realistic romantic scenes.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "篝火旁相依轻吻",
+      "copy_title": "情侣+情侣写真+篝火旁相依轻吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c3b9939c06f7994e4080616e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:a23f34938c652b90d3b23a04",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/aesthetic-photo-prompts-for-girls-boys-and-couple",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "20+ Viral Aesthetic Photo Prompts For Boys, Girls & Couples\nDiscover the best aesthetic photo prompts For Boys, Girls & Couples for ChatGPT and Gemini. Create viral Instagram photos, couple portraits, cinematic selfies, and more.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "木门前侧脸轻吻",
+      "copy_title": "情侣+情侣写真+木门前侧脸轻吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_a23f34938c652b90d3b23a04_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e689b774d0a86fa65f6cefdd",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/prompt-for-gemini-ai-retro-style-couple-photo",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Prompt for Gemini AI Retro Style Couple Photo: Create Vintage Romantic Images That Go Viral\nCreate viral 90s retro couple photos using Gemini AI. Learn how to apply Prompt for Gemini AI Retro Style Couple Photo, vintage lighting, and classic Bollywood aesthetics step by step.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "花树下系脚链",
+      "copy_title": "情侣+情侣写真+花树下系脚链+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e689b774d0a86fa65f6cefdd_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:16c58c9d83cc965199006c05",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/instagram-viral-couple-photo-editing-prompts",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Instagram Viral Couple Photo Editing Prompts: 12 Romantic AI Prompts\nTry these Instagram viral couple photo editing prompts to create realistic romantic AI couple photos with ChatGPT, Gemini and other AI image tools.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白墙阳台轻靠",
+      "copy_title": "情侣+情侣写真+白墙阳台轻靠+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_16c58c9d83cc965199006c05_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:388525722035c94c1364b090",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/husband-and-wife-prompt-for-gemini",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "17 Best Husband and Wife Prompt for Gemini to Create Romantic AI Photos\nExplore 17 best husband and wife prompts for Gemini to generate romantic, realistic, and stylish AI couple photos for social media and content creator for earn money.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "椰林村落黄纱",
+      "copy_title": "情侣+情侣写真+椰林村落黄纱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_388525722035c94c1364b090_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:f60090913f7d9fe7e118629c",
+      "platform": "other",
+      "post_url": "https://sushilprompt.com/gemini-couple-romantic-prompt-copy-and-paste",
+      "creator": "sushilprompt.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Gemini Couple Romantic Prompt Copy and Paste for Viral Couple AI Photos\nExplore Gemini Couple Romantic Prompt Copy and Paste ideas, Indian style Gemini prompts, mirror selfies, wedding portraits, and cinematic couple photo ideas.",
+      "description": "@sushilprompt.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://sushilprompt.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "镜前遮脸含笑",
+      "copy_title": "情侣+情侣写真+镜前遮脸含笑+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_f60090913f7d9fe7e118629c_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:43931113398ae9b9e12ded63",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/ai-traditional-wedding-couple-poses-prompts",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Stunning AI Traditional Wedding Couple Poses Prompts (2026)\nDiscover 5 stunning AI traditional wedding couple poses prompts for Gemini AI. Create ultra-realistic bride and groom photos with cinematic detail instantly.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "花拱婚礼白金礼服",
+      "copy_title": "情侣+情侣写真+花拱婚礼白金礼服+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_43931113398ae9b9e12ded63_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:a963b34088a6d0501e9e50b1",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/gemini-natural-couple-ai-photo-prompts-copy-paste",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Best Gemini Natural Couple AI Photo Prompts 2026\nGet viral Gemini natural couple AI photo prompts copy paste ready. Ultra-realistic, cinematic, romantic. Make your couple photos hit different on Instagram right now.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "金色花田蓝衫合照",
+      "copy_title": "情侣+情侣写真+金色花田蓝衫合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_a963b34088a6d0501e9e50b1_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:81b12d4091f274beec56541d",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/gemini-ai-couple-yacht-photo-prompt",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Stunning Gemini AI Couple Yacht Photo Prompts for Luxury Ocean Edits\nThese 5 gemini ai couple yacht photo prompts give your ocean edits a cinematic luxury feel that stops the scroll instantly. Try them now.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "游艇暮色晚礼服",
+      "copy_title": "情侣+情侣写真+游艇暮色晚礼服+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_81b12d4091f274beec56541d_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:712aa7c188207d9fecfe0850",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/gemini-ai-couple-photo-prompts-beach-hill-station",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Viral Gemini AI Couple Photo Prompts for Beach 2026\nCopy these Gemini AI couple photo prompts for beach and hill station shots. Romantic, cinematic, Indian summer 2026 vibes for Instagram reels and profiles.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "雪林披肩相拥",
+      "copy_title": "情侣+情侣写真+雪林披肩相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_712aa7c188207d9fecfe0850_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5692b7103d00b8d2de37e18a",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/chatgpt-couple-photo-editing-prompt",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Viral ChatGPT Couple Photo Editing Prompts Bollywood Lover Must Try\nThese ChatGPT couple photo editing prompts give your photos a cinematic Bollywood feel. Copy, paste, and watch your AI couple edits go viral.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "古堡红黑礼服",
+      "copy_title": "情侣+情侣写真+古堡红黑礼服+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5692b7103d00b8d2de37e18a_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:21b5a5873631ab8ebc1ae62e",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/google-gemini-thailand-couple-photo-prompt",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Viral Google Gemini Thailand Couple Photo Prompts, Couple Love\nCopy these 5 Google Gemini Thailand couple photo prompts and get cinematic travel shots at Phi Phi, Krabi, and Maya Bay instantly.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "碧海木舟相依",
+      "copy_title": "情侣+情侣写真+碧海木舟相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_21b5a5873631ab8ebc1ae62e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:000b6aa453f8fc3f862f2d66",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/traditional-couple-image-prompts-gemini-ai",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Best Traditional Couple Image Prompts for Gemini AI Prompts\nCopy these 5 Traditional Couple Image Prompts for Gemini AI and get cinematic Indian wedding photos instantly. Tested, ready to paste.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "木廊绿衣金纱",
+      "copy_title": "情侣+情侣写真+木廊绿衣金纱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_000b6aa453f8fc3f862f2d66_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:6eb569c5e34238b0d4a54d05",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/gemini-ai-couple-photo-editing-prompts",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Best Gemini AI Couple Photo Editing Prompts That Look Cinematic\nTry these 5 Gemini AI couple photo editing prompts for cinematic, Pinterest-style shots. Copy-paste ready for Indian creators in 2026.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "蓝调林间晚礼服",
+      "copy_title": "情侣+情侣写真+蓝调林间晚礼服+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_6eb569c5e34238b0d4a54d05_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:56534057a1fde3c4e8c64d7d",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/couple-beach-prompt-gemini-ai-photo-editing",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Stunning Couple Beach Prompts for Gemini AI Photos 2026\nTry these 5 cinematic couple beach prompts for Gemini AI and get realistic travel photos perfect for Instagram and Pinterest in 2026.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "浪花海边背起爱人",
+      "copy_title": "情侣+情侣写真+浪花海边背起爱人+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_56534057a1fde3c4e8c64d7d_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c3ba6da899cfca064bfd18e2",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/chatgpt-candid-couple-photo-prompt",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Stunning ChatGPT Candid Couple Photo Prompts That Feel Real\nThese 5 ChatGPT candid couple photo prompts are built for ultra-realistic results with identity lock, natural poses, and cinematic lighting.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白衣镜前相依",
+      "copy_title": "情侣+情侣写真+白衣镜前相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c3ba6da899cfca064bfd18e2_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:a329f178feb20275d6a836dd",
+      "platform": "other",
+      "post_url": "https://auraprompt.in/romantic-couple-ai-prompts-pinterest",
+      "creator": "auraprompt.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "5 Stunning Romantic Couple AI Prompts for Pinterest\nThese 5 romantic couple AI prompts for Gemini and ChatGPT create cinematic couple portraits with real skin, natural poses, and Pinterest-ready results. prompt seen romantic couple.",
+      "description": "@auraprompt.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://auraprompt.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "玻璃廊桥简约合照",
+      "copy_title": "情侣+情侣写真+玻璃廊桥简约合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_a329f178feb20275d6a836dd_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DeythUNCbPa",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@iamshivamgandhi/post/DeythUNCbPa",
+      "creator": "iamshivamgandhi",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "❤️ Want to create romantic AI couple photos like this? 😍✨\n\nComment “LINK” and I’ll share the prompt to create your own realistic AI couple photos! 📸❤️\n\nPerfect for Karwa Chauth, anniversary photos, romantic portraits, and Instagram couple posts. 💑\n\nSave this post and try it with your partner! 🫶\n\n#karwachauth #geminiprompt #viralprompt #ᴛʀᴇɴᴅɪɴɢᴘᴏsᴛ #geminipost",
+      "description": "@iamshivamgandhi 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@iamshivamgandhi",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "月夜露台传统礼服",
+      "copy_title": "情侣+情侣写真+月夜露台传统礼服+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DeythUNCbPa_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DWvRolykf0y",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ajeet_lakra01/post/DWvRolykf0y",
+      "creator": "ajeet_lakra01",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "🤍 When smiles say more than words.\n\"Swipe left ⬅️ for \"Gemini\" prompts) @ajeet_lakra01\n\n📱Just take a screenshot, copy with the help of google lens and see the Gemini 💎 magic 🪄 \n\n🚀Follow me for see more magic 🪄✨\n\nSteps:👇\n1.Open Gemini and Login\n2.Upload a clear picture\n3.Use the prompts mentioned in the post\n\n📌NOTE:- If You Like This Post Don't Forget Like, Comment, Share & Mention In Your Story\n\n.\n.\n#love #heartpose #kayadu #trending #viral",
+      "description": "@ajeet_lakra01 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ajeet_lakra01",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "公交车厢并肩",
+      "copy_title": "情侣+情侣写真+公交车厢并肩+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:45+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DWvRolykf0y_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfq9g5Lmglu",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@promptfyai/post/Dfq9g5Lmglu",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "✨ A little watercolor magic, a lifetime of memories.\n\nPrompt Code: P-01458188 \n\n#watercolorartist #watercolorpainting #lovestory #coupleportrait #romanticart #digitalart #artisticportrait #watercolorlove #couplegoals💑 #forevertogether #loveineveryframe #dreamyart #indiancouple #keralacouple #traditionallove #artloversaustralia #creativephotography #aiartist #portraits #instaartwork #beautifulmemories #romanticvibes #paintinglove #couplephotography #trendingart",
+      "description": "@promptfyai 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "水彩留白相依",
+      "copy_title": "情侣+情侣写真+水彩留白相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfq9g5Lmglu_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:De9SCQMiYQZ",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@risingstar_hritik/post/De9SCQMiYQZ",
+      "creator": "risingstar_hritik",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Ultra-photorealistic cinematic 8K portrait of a handsome young Indian man in a white shirt and black trousers, playfully holding the flowing red embroidered dupatta of a beautiful Indian woman wearing a red saree and white blouse, smiling romantically in a warm, elegantly decorated room with golden ambient lighting.\n\nSwipe left ⬅️ For Prompt\nInsta 🆔 👉 @risingstar_hritik",
+      "description": "@risingstar_hritik 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/risingstar_hritik/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红纱轻扯温馨互动",
+      "copy_title": "情侣+情侣写真+红纱轻扯温馨互动+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_De9SCQMiYQZ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfo9QUxCVC9",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@editingboy1296/post/Dfo9QUxCVC9",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Create an ultra-realistic 8K romantic couple portrait using both uploaded photos as exact face references. Preserve 100% facial identity. Boy wears a pastel-yellow shirt with black pants, girl wears a pastel-yellow dress with a black ribbon ponytail. She gently touches his cheek while they lovingly look into each other's eyes, holding a beautiful bouquet of red roses. Soft outdoor background, natural daylight, cinematic DSLR photography, vertical 9:16, no face changes, no watermark.",
+      "description": "@editingboy1296 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黄衫玫瑰捧脸",
+      "copy_title": "情侣+情侣写真+黄衫玫瑰捧脸+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfo9QUxCVC9_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfY3l9ymR6v",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@cinetale.duo/post/DfY3l9ymR6v",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-13T09:54:51+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-13T09:54:51+00:00",
+      "caption": "Comment prompt ✨ \n#FamilyGoals #FamilyIsEverything #BabyPhotography #momlife #momanddad",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑衣母子背后拥抱",
+      "copy_title": "亲子家庭+亲子家庭写真+黑衣母子背后拥抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-13T09:55:44+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfY3l9ymR6v_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "other:667204b76027cab1f1c55056",
       "platform": "other",
