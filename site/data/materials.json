@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T06:46:33+00:00",
+  "generated_at": "2026-11-16T07:30:16+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,192 @@
     ]
   },
   "export_stats": {
-    "formal": 1085,
+    "formal": 1088,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 743,
+    "confirmed_duplicates_skipped": 746,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "instagram:DZrxm1XiU10",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DZrxm1XiU10/",
+      "creator": "krishna_the_artist_0",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-16T07:28:34+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-16T07:28:34+00:00",
+      "caption": "Papa ❤️🚸 \n\nFather's day special photo editing prompts 🖇️",
+      "description": "@krishna_the_artist_0 的创意素材",
+      "recommendation_reason": "用户直接指定原帖；已核验实际媒体及全历史去重，保持待采用。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/krishna_the_artist_0/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "human",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白西装父子搭肩",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白西装父子搭肩+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-16T07:29:33+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DZrxm1XiU10_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1083649551228091",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/groups/366841509575569/posts/1083649551228091/",
+      "creator": "muskan aafreen",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-16T07:28:34+00:00",
+      "duration_seconds": 14.929025,
+      "last_collected_at": "2026-11-16T07:28:34+00:00",
+      "caption": "❤️ Sometimes a smile is enough to make your day beautiful.\n.\n.\n.\n#RomanticReels #BeautifulGirl #SareeLove #BollywoodStyle #ViralReels #LoveVibes #TrendingNow #FYP #IndianBeauty #ReelsViral 💖✨🌹",
+      "description": "@muskan aafreen 的创意素材",
+      "recommendation_reason": "用户直接指定原帖；已核验实际媒体及全历史去重，保持待采用。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/profile.php?id=61589285141434",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "human",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "绿纱露台转身摆臂",
+      "copy_title": "单人女性+舞蹈+绿纱露台转身摆臂+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-16T07:29:33+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/facebook_1083649551228091_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdtWlKhqWkH",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdtWlKhqWkH/",
+      "creator": "gagan_bansalreels",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-16T07:28:34+00:00",
+      "duration_seconds": 10.033333,
+      "last_collected_at": "2026-11-16T07:28:34+00:00",
+      "caption": "Ai creation\n#instagram ##reels #fyp",
+      "description": "@gagan_bansalreels 的创意素材",
+      "recommendation_reason": "用户直接指定原帖；已核验实际媒体及全历史去重，保持待采用。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gagan_bansalreels/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "human",
+      "market_region": "india",
+      "material_kind": "other_ai_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "耍帅",
+      "image_description": "地下车库超跑下车",
+      "copy_title": "单人男性+耍帅+地下车库超跑下车+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "耍帅"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-16T07:29:33+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DdtWlKhqWkH_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "other:4721a674069b6907ff4ad78e",
       "platform": "other",
