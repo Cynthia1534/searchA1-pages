@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T02:28:41+00:00",
+  "generated_at": "2026-11-17T07:12:39+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,9 +25,9 @@
     ]
   },
   "export_stats": {
-    "formal": 1124,
+    "formal": 1192,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 782,
+    "confirmed_duplicates_skipped": 850,
     "suspected_duplicates_included": 1
   },
   "materials": [
@@ -1825,6 +1825,4086 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/other_681a88709e1c16deb518ea46_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcUsUe0IVDv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcUsUe0IVDv/",
+      "creator": "loveartwithai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@loveartwithai 的创意素材",
+      "recommendation_reason": "浪漫油画风红纱丽相拥，3K赞，红木槿花+朱砂痣",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/loveartwithai/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "窗边油灯温柔倚靠",
+      "copy_title": "情侣+情侣写真+窗边油灯温柔倚靠+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcUsUe0IVDv_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeKHwhUCJ4w",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DeKHwhUCJ4w/",
+      "creator": "ajith_siva_57",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajith_siva_57 的创意素材",
+      "recommendation_reason": "厚涂油画质感情侣肖像，面部写实非卡通，米白金纱丽+茉莉花",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajith_siva_57/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "情侣撕纸油画合照",
+      "copy_title": "情侣+情侣写真+情侣撕纸油画合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeKHwhUCJ4w_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdDiTI9IN8l",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdDiTI9IN8l/",
+      "creator": "papitha_in_scotland",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@papitha_in_scotland 的创意素材",
+      "recommendation_reason": "80年代复古影棚合影，粉色丝质纱丽+粗花呢西装，激光灯背景，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/papitha_in_scotland/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "霓虹光线复古情侣",
+      "copy_title": "情侣+情侣写真+霓虹光线复古情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdDiTI9IN8l_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Da0a5uzk_x0",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mn_editz_3/post/Da0a5uzk_x0",
+      "creator": "mn_editz_3",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@mn_editz_3 的创意素材",
+      "recommendation_reason": "黑白影棚情侣肖像，女子自肩上环抱，15.9K浏览",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mn_editz_3",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "墨镜情侣黑白环肩",
+      "copy_title": "情侣+情侣写真+墨镜情侣黑白环肩+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Da0a5uzk_x0_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfr4-UVI49B",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@vijay_smartboy_54/post/Dfr4-UVI49B",
+      "creator": "vijay_smartboy_54",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@vijay_smartboy_54 的创意素材",
+      "recommendation_reason": "深紫银绣纱丽影棚全身照，相视而笑，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@vijay_smartboy_54",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "紫纱紫衫牵手",
+      "copy_title": "情侣+情侣写真+紫纱紫衫牵手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfr4-UVI49B_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfAUe8akxLM",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sandyboy1319/post/DfAUe8akxLM",
+      "creator": "sandyboy1319",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@sandyboy1319 的创意素材",
+      "recommendation_reason": "室内橄榄绿金边纱丽相拥微笑，柔光吊灯，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sandyboy1319",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "水晶灯下情侣相拥",
+      "copy_title": "情侣+情侣写真+水晶灯下情侣相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfAUe8akxLM_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeY_TR9kjC_",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DeY_TR9kjC_/",
+      "creator": "___akki_rathod___",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@___akki_rathod___ 的创意素材",
+      "recommendation_reason": "黑白竖版近景，女子戴jhumka靠肩望向镜头",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/___akki_rathod___/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白情侣贴面微笑",
+      "copy_title": "情侣+情侣写真+黑白情侣贴面微笑+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeY_TR9kjC__0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De4Sqv0CBe-",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De4Sqv0CBe-/",
+      "creator": "ajith_siva_57",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajith_siva_57 的创意素材",
+      "recommendation_reason": "黑白电影感南印情侣侧面相依，纱丽+花环+首饰",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajith_siva_57/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白茉莉花依偎",
+      "copy_title": "情侣+情侣写真+黑白茉莉花依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De4Sqv0CBe-_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc2bol-ie3v",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc2bol-ie3v/",
+      "creator": "vmsvlogs3510",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@vmsvlogs3510 的创意素材",
+      "recommendation_reason": "Janmashtami三帧成品（自拍、吹笛倚肩、白婚礼服饰），22.6K赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vmsvlogs3510/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "蓝纱花冠情侣自拍",
+      "copy_title": "情侣+节庆+蓝纱花冠情侣自拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc2bol-ie3v_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc2hHkNDOKq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc2hHkNDOKq/",
+      "creator": "akshay_kharodia",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@akshay_kharodia 的创意素材",
+      "recommendation_reason": "Janmashtami花秋千Radha-Krishna情侣帧，30.6K赞，本批备选最高互动",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/akshay_kharodia/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "花园神祇吹笛写真",
+      "copy_title": "情侣+节庆+花园神祇吹笛写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc2hHkNDOKq_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dep_xgGk1WM",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mr____mukesh__143g/post/Dep_xgGk1WM",
+      "creator": "mr____mukesh__143g",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@mr____mukesh__143g 的创意素材",
+      "recommendation_reason": "Durga金冠神像前并坐合影，提示词与画面逐项吻合",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mr____mukesh__143g",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "神像前粉衣情侣",
+      "copy_title": "情侣+节庆+神像前粉衣情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dep_xgGk1WM_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeYiG7ako4V",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DeYiG7ako4V/",
+      "creator": "npc_zone.36",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@npc_zone.36 的创意素材",
+      "recommendation_reason": "Durga Puja四帧成品（自拍、持aarti托盘、背向持灯拜神），1.7K赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/npc_zone.36/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "杜尔迦节红白自拍",
+      "copy_title": "情侣+节庆+杜尔迦节红白自拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeYiG7ako4V_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DY06KpPvNLD",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DY06KpPvNLD/",
+      "creator": "shihina_javad_sj",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@shihina_javad_sj 的创意素材",
+      "recommendation_reason": "Eid竖版情侣自拍（白kurta墨镜+白底金绣hijab），1,007赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shihina_javad_sj/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "白衣头纱镜前依偎",
+      "copy_title": "情侣+节庆+白衣头纱镜前依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DY06KpPvNLD_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DV6OFcmE4qU",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@toon_.ai_/post/DV6OFcmE4qU",
+      "creator": "toon_.ai_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@toon_.ai_ 的创意素材",
+      "recommendation_reason": "Eid夜泰姬陵背景情侣自拍，84.1K浏览，脸颊贴近未接吻",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@toon_.ai_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "开斋节夜灯自拍",
+      "copy_title": "情侣+节庆+开斋节夜灯自拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DV6OFcmE4qU_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DR2K2QcDDAR",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DR2K2QcDDAR/",
+      "creator": "ajuu_d07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajuu_d07 的创意素材",
+      "recommendation_reason": "装饰屋顶双心形拱门五帧成品，3.9K赞，仙女灯+霓虹灯牌",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajuu_d07/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "花环心形灯牌情侣",
+      "copy_title": "情侣+情侣写真+花环心形灯牌情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DR2K2QcDDAR_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Db96KBmzNbh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Db96KBmzNbh/",
+      "creator": "swathi._durga_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@swathi._durga_ 的创意素材",
+      "recommendation_reason": "日落湖畔草地牵手漫步，白蕾丝纱丽赤脚踏水，樱花树背景，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/swathi._durga_/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "樱花湖畔白衣牵手",
+      "copy_title": "情侣+情侣写真+樱花湖畔白衣牵手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Db96KBmzNbh_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DePGRajTeTq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DePGRajTeTq/",
+      "creator": "salim.mg786",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@salim.mg786 的创意素材",
+      "recommendation_reason": "海滩金色时刻并肩行走，浅青刺绣lehenga+爱心手势毛衣，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/salim.mg786/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "夕阳海岸蓝衣情侣",
+      "copy_title": "情侣+情侣写真+夕阳海岸蓝衣情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DePGRajTeTq_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DYrzqRmthtq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DYrzqRmthtq/",
+      "creator": "kannanglaziers",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@kannanglaziers 的创意素材",
+      "recommendation_reason": "日落沙滩三帧（长椅并坐、挽臂站立、牵手漫步），1,232评论",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/kannanglaziers/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白衣情侣沙地奔跑",
+      "copy_title": "情侣+情侣写真+白衣情侣沙地奔跑+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DYrzqRmthtq_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1418669680085352",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/mravinash.roy/posts/1418669680085352/",
+      "creator": "mravinash.roy",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@mravinash.roy 的创意素材",
+      "recommendation_reason": "室内红砖墙加大钟前合影，红金绣传统服+墨镜",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/mravinash.roy",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红砖咖啡馆相拥",
+      "copy_title": "情侣+情侣写真+红砖咖啡馆相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1418669680085352_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:122304955694214608",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/HalkaAndroid22/posts/122304955694214608/",
+      "creator": "HalkaAndroid22",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@HalkaAndroid22 的创意素材",
+      "recommendation_reason": "浅溪大石上赤脚浸水相依，粉色传统刺绣服，322赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/HalkaAndroid22",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "溪石粉衣情侣依靠",
+      "copy_title": "情侣+情侣写真+溪石粉衣情侣依靠+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_122304955694214608_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:122301197054214608",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/HalkaAndroid22/posts/122301197054214608/",
+      "creator": "HalkaAndroid22",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@HalkaAndroid22 的创意素材",
+      "recommendation_reason": "绿植前薰衣草紫花卉刺绣纱丽，男方身后轻握其手",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/HalkaAndroid22",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "花园紫纱牵手",
+      "copy_title": "情侣+情侣写真+花园紫纱牵手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_122301197054214608_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1115104911276403",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/sbcreatesofficial/posts/1115104911276403/",
+      "creator": "sbcreatesofficial",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@sbcreatesofficial 的创意素材",
+      "recommendation_reason": "心形铁艺长椅花园合影，LED灯串+红玫瑰装饰，486赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/sbcreatesofficial",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "心形秋千红纱合影",
+      "copy_title": "情侣+情侣写真+心形秋千红纱合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1115104911276403_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcQOIgEEWRx",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcQOIgEEWRx/",
+      "creator": "yashu__911__",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@yashu__911__ 的创意素材",
+      "recommendation_reason": "公园牵手对视两帧，芥末黄刺绣库尔塔+黄花发饰",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/yashu__911__/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黄衣绿衫甜蜜相望",
+      "copy_title": "情侣+情侣写真+黄衣绿衫甜蜜相望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcQOIgEEWRx_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DS_3YMpibIO",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DS_3YMpibIO/",
+      "creator": "apy.amit840",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@apy.amit840 的创意素材",
+      "recommendation_reason": "日落屋顶站姿+坐姿两帧，2K赞、222评论",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/apy.amit840/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "天台棕衣情侣依偎",
+      "copy_title": "情侣+情侣写真+天台棕衣情侣依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DS_3YMpibIO_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DQ9AMpsjFil",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DQ9AMpsjFil/",
+      "creator": "mrvivekedit_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@mrvivekedit_ 的创意素材",
+      "recommendation_reason": "VIP屋顶露台海景三帧（圆桌咖啡、玻璃栏杆相依、牵手漫步）",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mrvivekedit_/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "紫裙西装露台约会",
+      "copy_title": "情侣+情侣写真+紫裙西装露台约会+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DQ9AMpsjFil_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Da8lBeEk2wP",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@bittu_ki_tech/post/Da8lBeEk2wP",
+      "creator": "bittu_ki_tech",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@bittu_ki_tech 的创意素材",
+      "recommendation_reason": "夜晚户外咖啡馆木桌握手对镜微笑",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@bittu_ki_tech",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "夜街餐桌牵手",
+      "copy_title": "情侣+情侣写真+夜街餐桌牵手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Da8lBeEk2wP_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Delv99-mpJn",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/Delv99-mpJn",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ansariarbaj5184 的创意素材",
+      "recommendation_reason": "夜晚暖光咖啡馆对望，拉花咖啡杯，Gemini水印",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "烛光咖啡厅相视",
+      "copy_title": "情侣+情侣写真+烛光咖啡厅相视+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Delv99-mpJn_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DakCRJ-GS1f",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rav_iranjan95/post/DakCRJ-GS1f",
+      "creator": "rav_iranjan95",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@rav_iranjan95 的创意素材",
+      "recommendation_reason": "季风暴雨中山路皇家恩菲尔德骑行，雾山瀑布背景，场景独特",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rav_iranjan95",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "瀑布山路摩托情侣",
+      "copy_title": "情侣+情侣写真+瀑布山路摩托情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DakCRJ-GS1f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DaQS8f_DEdD",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DaQS8f_DEdD/",
+      "creator": "ajuu_d07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajuu_d07 的创意素材",
+      "recommendation_reason": "Marine Drive海堤牵手+伞下相依三帧，2.6K赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajuu_d07/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "雨中情侣双格拼贴",
+      "copy_title": "情侣+情侣写真+雨中情侣双格拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DaQS8f_DEdD_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfbvk3BH42_",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arunrishikesh/post/Dfbvk3BH42_",
+      "creator": "arunrishikesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@arunrishikesh 的创意素材",
+      "recommendation_reason": "橙丝绸纱丽插茉莉花串，陶土色老建筑背景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arunrishikesh",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "门前为爱人戴花",
+      "copy_title": "情侣+情侣写真+门前为爱人戴花+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfbvk3BH42__0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DbS0H12jwqp",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@promptwala_shivam/post/DbS0H12jwqp",
+      "creator": "promptwala_shivam",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@promptwala_shivam 的创意素材",
+      "recommendation_reason": "石板路相拥额头相抵，2.3K赞、152K浏览",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@promptwala_shivam",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "粉纱贴额情侣",
+      "copy_title": "情侣+情侣写真+粉纱贴额情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DbS0H12jwqp_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DV2UWCmCRqe",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@vaisshnavi369/post/DV2UWCmCRqe",
+      "creator": "vaisshnavi369",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@vaisshnavi369 的创意素材",
+      "recommendation_reason": "日落城市街道相拥，品红纱丽+红玫瑰，Grok水印",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@vaisshnavi369",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "夕阳街头抱腰相依",
+      "copy_title": "情侣+情侣写真+夕阳街头抱腰相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DV2UWCmCRqe_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfICwIYk9mD",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfICwIYk9mD/",
+      "creator": "ponni6383",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ponni6383 的创意素材",
+      "recommendation_reason": "古寺婚礼牵手对视四帧（宽景+近景裁切），2.2K赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ponni6383/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "寺柱花环婚礼对望",
+      "copy_title": "情侣+节庆+寺柱花环婚礼对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfICwIYk9mD_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dainw2NE40m",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dainw2NE40m/",
+      "creator": "_praba_offix_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@_praba_offix_ 的创意素材",
+      "recommendation_reason": "双重曝光订婚照变体（贴额特写+换戒托盘），与已入库idx 8同模板不同面孔",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/_praba_offix_/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "换戒仪式双重曝光",
+      "copy_title": "情侣+节庆+换戒仪式双重曝光+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dainw2NE40m_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DYgQJsdkThP",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DYgQJsdkThP/",
+      "creator": "aikhadijaverse2",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@aikhadijaverse2 的创意素材",
+      "recommendation_reason": "林荫道漫步情侣，红裙捧花+白衬衫，平台AI标签+保脸提示词",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/aikhadijaverse2/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红裙白衫花束情侣",
+      "copy_title": "情侣+情侣写真+红裙白衫花束情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DYgQJsdkThP_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbpAtV6BPgS",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DbpAtV6BPgS/",
+      "creator": "gempromptai2026",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@gempromptai2026 的创意素材",
+      "recommendation_reason": "茉莉花帘前新郎撩帘、新娘端坐，构图独特",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gempromptai2026/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "花帘婚礼新娘回眸",
+      "copy_title": "情侣+节庆+花帘婚礼新娘回眸+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbpAtV6BPgS_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DaJ_5v0EcGN",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DaJ_5v0EcGN/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "绿橙lehenga情侣素墙合影，平台AI标签+完整提示词",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "灰衣橙纱靠墙情侣",
+      "copy_title": "情侣+情侣写真+灰衣橙纱靠墙情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DaJ_5v0EcGN_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcNL8hiT0uZ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DcNL8hiT0uZ/",
+      "creator": "stailishcute_girls",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@stailishcute_girls 的创意素材",
+      "recommendation_reason": "一帖三组婚礼场景（宫殿玫瑰花瓣、米白金lehenga、教室黑板整理纱丽），静态Reel按图片计",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/stailishcute_girls/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "宫殿红纱西装合影",
+      "copy_title": "情侣+情侣写真+宫殿红纱西装合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:11:09+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcNL8hiT0uZ_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DcRObJUiesO",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arunrishikesh/post/DcRObJUiesO",
+      "creator": "arunrishikesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@arunrishikesh 的创意素材",
+      "recommendation_reason": "黑白双图，193K浏览，黑背心+白绣花衬衫，混凝土柱明暗对比强烈",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arunrishikesh",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白背心情侣相拥",
+      "copy_title": "情侣+情侣写真+黑白背心情侣相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DcRObJUiesO_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DZhnjK5iY4v",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arunrishikesh/post/DZhnjK5iY4v",
+      "creator": "arunrishikesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@arunrishikesh 的创意素材",
+      "recommendation_reason": "杂志封面风双图，170K浏览，深红天鹅绒+白西装/象牙白长裙",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arunrishikesh",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红幕白西装杂志封面",
+      "copy_title": "情侣+情侣写真+红幕白西装杂志封面+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DZhnjK5iY4v_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dbkxr83Cae7",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@arunrishikesh/post/Dbkxr83Cae7",
+      "creator": "arunrishikesh",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@arunrishikesh 的创意素材",
+      "recommendation_reason": "青铜金属质感背景双造型，64.4K浏览，橄榄绿夹克环抱+双裙造型",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@arunrishikesh",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "铜墙前褶纹服情侣",
+      "copy_title": "情侣+情侣写真+铜墙前褶纹服情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dbkxr83Cae7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DUFZ2g2AaHM",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DUFZ2g2AaHM/",
+      "creator": "ajith_siva_57",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajith_siva_57 的创意素材",
+      "recommendation_reason": "数字油画风南印情侣，18.1K赞，青柠绿纱丽+重金珍珠新娘首饰，面部写实",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajith_siva_57/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "绿纱情侣油画",
+      "copy_title": "情侣+情侣写真+绿纱情侣油画+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DUFZ2g2AaHM_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DTC_P3fiOsh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DTC_P3fiOsh/",
+      "creator": "sai718_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@sai718_ 的创意素材",
+      "recommendation_reason": "夜景公园Rajasthani lehenga合影，粉色烟雾+路灯，Gemini水印",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/sai718_/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "粉烟路灯下情侣",
+      "copy_title": "情侣+情侣写真+粉烟路灯下情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DTC_P3fiOsh_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DR1CgvREhLf",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DR1CgvREhLf/",
+      "creator": "ajuu_d07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajuu_d07 的创意素材",
+      "recommendation_reason": "霓虹灯'Good vibes only'+花墙室内合影，13.7K赞，两幅不同成品图",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajuu_d07/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "夜咖啡厅黑衣情侣",
+      "copy_title": "情侣+情侣写真+夜咖啡厅黑衣情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DR1CgvREhLf_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdDZnWBih-0",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdDZnWBih-0/",
+      "creator": "premtheactor",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@premtheactor 的创意素材",
+      "recommendation_reason": "80年代复古12帧，75.3K赞，牛仔/纱丽/时代广场/海滩拥抱多场景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/premtheactor/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红墙前依偎合影",
+      "copy_title": "情侣+情侣写真+红墙前依偎合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdDZnWBih-0_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdDgm8RI5Fu",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdDgm8RI5Fu/",
+      "creator": "iammanimegalai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@iammanimegalai 的创意素材",
+      "recommendation_reason": "80年代复古六帧全可用，116.1K赞（街头、加油站、雨伞、公交、影院、摩托海滩），年代巡游代表作",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/iammanimegalai/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "复古街角紫裙情侣",
+      "copy_title": "情侣+情侣写真+复古街角紫裙情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdDgm8RI5Fu_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DUJC8FYDZ-U",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@kunnuvlog09/post/DUJC8FYDZ-U",
+      "creator": "kunnuvlog09",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@kunnuvlog09 的创意素材",
+      "recommendation_reason": "灰黑渐变刺绣情侣影棚照，767K浏览，环形灯背景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@kunnuvlog09",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "灰纱情侣灯环写真",
+      "copy_title": "情侣+情侣写真+灰纱情侣灯环写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DUJC8FYDZ-U_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DaYGXbhmNAF",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DaYGXbhmNAF/",
+      "creator": "appu_editor_19",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@appu_editor_19 的创意素材",
+      "recommendation_reason": "黑白影棚肖像，4.6K赞，纱丽上衣+jhumka，女子站坐男身后搭肩",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/appu_editor_19/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白环肩亲密合影",
+      "copy_title": "情侣+情侣写真+黑白环肩亲密合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DaYGXbhmNAF_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Devpf5mEsP1",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@vaibhu_7909/post/Devpf5mEsP1",
+      "creator": "vaibhu_7909",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@vaibhu_7909 的创意素材",
+      "recommendation_reason": "Holi彩粉相依，本轮唯一Holi素材，粉kurta轻抚脸庞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@vaibhu_7909",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "洒红节情侣捧脸",
+      "copy_title": "情侣+节庆+洒红节情侣捧脸+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Devpf5mEsP1_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc003LGM_yZ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc003LGM_yZ/",
+      "creator": "harshit_love12",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@harshit_love12 的创意素材",
+      "recommendation_reason": "Janmashtami户外合影，195.2K赞，全轮最高互动，Radha-Krishna经典造型",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/harshit_love12/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "绿纱神祇对望",
+      "copy_title": "情侣+节庆+绿纱神祇对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc003LGM_yZ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc3Q0fbz67H",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc3Q0fbz67H/",
+      "creator": "imanupchoubey1230",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@imanupchoubey1230 的创意素材",
+      "recommendation_reason": "Janmashtami方形合影，25.9K赞，Radha-Krishna花环牵手写实风",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/imanupchoubey1230/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "花冠神祇婚礼写真",
+      "copy_title": "情侣+节庆+花冠神祇婚礼写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc3Q0fbz67H_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DemYw0zEwVY",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@gourangahens/post/DemYw0zEwVY",
+      "creator": "gourangahens",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@gourangahens 的创意素材",
+      "recommendation_reason": "Durga Puja神像前银白闪光纱丽拥抱，暖金灯光，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@gourangahens",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "灯下白纱背后相拥",
+      "copy_title": "情侣+节庆+灯下白纱背后相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DemYw0zEwVY_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Deo79BXE5QE",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@gourangahens/post/Deo79BXE5QE",
+      "creator": "gourangahens",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@gourangahens 的创意素材",
+      "recommendation_reason": "Durga Puja五格拼贴（pandal自拍、摩托+大桥、咖啡馆对视），一图多场景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@gourangahens",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "杜尔迦节五格拼贴",
+      "copy_title": "情侣+节庆+杜尔迦节五格拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Deo79BXE5QE_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DWOeGGnDAvK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mr_prompt01/post/DWOeGGnDAvK",
+      "creator": "mr_prompt01",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@mr_prompt01 的创意素材",
+      "recommendation_reason": "Eid草地跪毯共同祈祷，86.8K浏览，庄重祈祷场景独特",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mr_prompt01",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "树下开斋节祈祷",
+      "copy_title": "情侣+节庆+树下开斋节祈祷+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DWOeGGnDAvK_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DThrk9wk-B7",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DThrk9wk-B7/",
+      "creator": "tamil_family_diaries",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@tamil_family_diaries 的创意素材",
+      "recommendation_reason": "Pongal主题情侣贴面微笑，甘蔗/kolam/陶罐/万寿菊元素完整，本轮唯一Pongal",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/tamil_family_diaries/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "丰收节传统情侣",
+      "copy_title": "情侣+节庆+丰收节传统情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DThrk9wk-B7_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DSaJzYqjITQ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DSaJzYqjITQ/",
+      "creator": "ajuu_d07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajuu_d07 的创意素材",
+      "recommendation_reason": "Eid夜阳台灯串+新月四帧成品，7.6K赞，节日氛围浓",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajuu_d07/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "月夜白衣花纱合影",
+      "copy_title": "情侣+节庆+月夜白衣花纱合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DSaJzYqjITQ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Db8P6dJTIjd",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Db8P6dJTIjd/",
+      "creator": "soupi_sathees",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@soupi_sathees 的创意素材",
+      "recommendation_reason": "Onam水边石阶合影，9.7K赞、11.2K评论，Kasavu纱丽+花篮浮花",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/soupi_sathees/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "白纱情侣花池并坐",
+      "copy_title": "情侣+节庆+白纱情侣花池并坐+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Db8P6dJTIjd_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DezM3-oGNXl",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DezM3-oGNXl/",
+      "creator": "the_ai.visuals",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@the_ai.visuals 的创意素材",
+      "recommendation_reason": "Navratri Garba夜市七套传统服饰，一帖七造型，节日模板价值高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/the_ai.visuals/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "彩灯花环情侣对望",
+      "copy_title": "情侣+节庆+彩灯花环情侣对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DezM3-oGNXl_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De9O7QGDbfw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De9O7QGDbfw/",
+      "creator": "npc_zone.36",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@npc_zone.36 的创意素材",
+      "recommendation_reason": "Karwa Chauth满月屋顶三帧成品，筛子/thali仪式元素完整",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/npc_zone.36/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "月夜托盘对望",
+      "copy_title": "情侣+节庆+月夜托盘对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De9O7QGDbfw_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DPA0C-ekpJG",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DPA0C-ekpJG/",
+      "creator": "varshinisri1997",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@varshinisri1997 的创意素材",
+      "recommendation_reason": "印度地标巡游（海滩日落、迈索尔宫、清奈车站、雪松林、古特伯塔），一帖多地标",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/varshinisri1997/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白衣红纱寺塔合影",
+      "copy_title": "情侣+情侣写真+白衣红纱寺塔合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DPA0C-ekpJG_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DacDM5kjBA8",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DacDM5kjBA8/",
+      "creator": "ajuu_d07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajuu_d07 的创意素材",
+      "recommendation_reason": "粉色Vespa+花墙路边六帧成品，4.8K赞，约会场景清新",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajuu_d07/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "粉色踏板车雨中合影",
+      "copy_title": "情侣+情侣写真+粉色踏板车雨中合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DacDM5kjBA8_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbN3kyNgN2V",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbN3kyNgN2V/",
+      "creator": "sayek__studio",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@sayek__studio 的创意素材",
+      "recommendation_reason": "夜雨湿街共伞五帧变体，季风雨夜氛围强，漫步/对视/靠肩姿势多样",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/sayek__studio/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "雨夜黑伞牵手",
+      "copy_title": "情侣+情侣写真+雨夜黑伞牵手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbN3kyNgN2V_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DZyw6EFGWnx",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DZyw6EFGWnx/",
+      "creator": "crazy___vimal_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@crazy___vimal_ 的创意素材",
+      "recommendation_reason": "古寺门前蓝纱丽情侣，49.7K赞，全轮婚礼类最高互动之一",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/crazy___vimal_/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "蓝纱情侣古寺合影",
+      "copy_title": "情侣+情侣写真+蓝纱情侣古寺合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DZyw6EFGWnx_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dbm8NiajGhb",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dbm8NiajGhb/",
+      "creator": "win_prompt",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@win_prompt 的创意素材",
+      "recommendation_reason": "南印古寺婚礼四帧成品，29.9K赞，Kanchipuram纱丽+花环经典造型",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/win_prompt/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "花环情侣金红婚服",
+      "copy_title": "情侣+节庆+花环情侣金红婚服+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dbm8NiajGhb_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DZM4vjOErco",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DZM4vjOErco/",
+      "creator": "11am_nellai_cpl",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@11am_nellai_cpl 的创意素材",
+      "recommendation_reason": "寺庙gopuram前婚前照，芥末黄纱丽+白veshti，泰米尔语标题有地方特色",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/11am_nellai_cpl/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "寺塔前黄纱合影",
+      "copy_title": "情侣+情侣写真+寺塔前黄纱合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DZM4vjOErco_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DaiShKyE48w",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DaiShKyE48w/",
+      "creator": "candy_alex_04",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@candy_alex_04 的创意素材",
+      "recommendation_reason": "双重曝光订婚照（贴额特写+换戒仪式），11.9K赞，订婚模板代表作",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/candy_alex_04/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "紫纱黄衫订婚叠影",
+      "copy_title": "情侣+节庆+紫纱黄衫订婚叠影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DaiShKyE48w_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DTwn-uLEZKH",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DTwn-uLEZKH/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "一帖五组场景（寺庙台阶、红Vespa、黄墙绿门、街头板球、三轮车），场景多样性强",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "石阶系脚链情侣",
+      "copy_title": "情侣+情侣写真+石阶系脚链情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DTwn-uLEZKH_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dac3uJ3EcUe",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dac3uJ3EcUe/",
+      "creator": "zphotocovers",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@zphotocovers 的创意素材",
+      "recommendation_reason": "南印婚前写真，寺庙廊道三帧情侣成品，画面带AI角标，婚礼模板价值高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/zphotocovers/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "金饰贴额古寺写真",
+      "copy_title": "情侣+情侣写真+金饰贴额古寺写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T07:10:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dac3uJ3EcUe_0.jpg",
           "preview_status": "verified",
           "result_status": "final_result",
           "visual_analysis": null
