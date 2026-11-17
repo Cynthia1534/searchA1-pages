@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T07:30:16+00:00",
+  "generated_at": "2026-11-17T01:21:09+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,1812 @@
     ]
   },
   "export_stats": {
-    "formal": 1088,
+    "formal": 1118,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 746,
+    "confirmed_duplicates_skipped": 776,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "other:f8c2e4deeea7333cddae312e",
+      "platform": "other",
+      "post_url": "https://promptbird.in/prompt/premium-indian-family-photo-prompt-for-gemini-ai-and-chatgpt",
+      "creator": "promptbird.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "ultra-realistic premium Indian family photo prompt for Gemini ai and chatgpt copy and paste ready",
+      "description": "@promptbird.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://promptbird.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "四口探头文字海报",
+      "copy_title": "亲子家庭+亲子家庭写真+四口探头文字海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_f8c2e4deeea7333cddae312e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c3b4f7e5937cd1a5c8911579",
+      "platform": "other",
+      "post_url": "https://promptbird.in/prompt/south-indian-family-festival-ai-image-prompt-copy-paste",
+      "creator": "promptbird.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Generate a traditional South Indian family with mother, father, and baby girl celebrating Diwali using this AI image prompt. Easy copy & paste for realistic results.",
+      "description": "@promptbird.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://promptbird.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "南印三口寺庙合影",
+      "copy_title": "亲子家庭+亲子家庭写真+南印三口寺庙合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c3b4f7e5937cd1a5c8911579_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e9cf3fed15c7702c73173a23",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/mother-and-child-golden-hour",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Create a highly realistic professional cinematic outdoor portrait of an Indian mother and her young daughter sharing a warm, natural emotional moment in a...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "花园母亲怀抱女儿",
+      "copy_title": "亲子家庭+亲子家庭写真+花园母亲怀抱女儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e9cf3fed15c7702c73173a23_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:250d9d987b78ce3a6067c766",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/father-and-son-magic-smoke-art",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "An absolute visual masterpiece, hyper-photorealistic and ultra-detailed vertical creative digital art portrait capturing a loving father and son emerging...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "油灯金烟父子剪影",
+      "copy_title": "亲子家庭+亲子家庭写真+油灯金烟父子剪影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_250d9d987b78ce3a6067c766_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:6b037e3fbe289c1a7252136e",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/exact-ai-image-prompt-elegant-mother-and-daughter-saree-collage",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Create a highly realistic, ultra-detailed vertical cinematic fashion portrait collage of an Indian mother and daughter, closely matching the uploaded...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "酒红纱丽母女拼贴",
+      "copy_title": "亲子家庭+亲子家庭写真+酒红纱丽母女拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_6b037e3fbe289c1a7252136e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:2f913aca3caa7296f8628084",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/father-and-son-cinematic-portrait-image",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Include a small child standing slightly in front, also wearing a black hoodie, black pants, and white sneakers. The child should look cheerful and natural...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑衣父子同款写真",
+      "copy_title": "亲子家庭+亲子家庭写真+黑衣父子同款写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_2f913aca3caa7296f8628084_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:149d09094be69e12db887255",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/mother-with-her-baby",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "A loving mother holding her young toddler outdoors. The child, wearing a light grey graphic t-shirt and purple shorts, points upward with one hand while...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲抱娃仰望树梢",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲抱娃仰望树梢+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_149d09094be69e12db887255_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5a0f320d32e13f6ee3c3dea4",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/woman-with-baby-krishna-playful-cheek-pinch",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "FEMALE PROMPT: Use the uploaded photo of the woman as the strict identity reference — preserve her exact face, skin tone, hairstyle, and natural expression...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲与蓝肤神话童",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲与蓝肤神话童+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5a0f320d32e13f6ee3c3dea4_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:ace58af5912c5863ce75b380",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/8k-cinematic-portrait-of-indian-mother-with-baby-krishna",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Create a premium ultra-realistic cinematic 8K DSLR portrait, vertical 3:4. A beautiful Indian mother lovingly holds her adorable 2-3-year-old Bal Krishna...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "蓝纱母亲亲吻宝宝",
+      "copy_title": "亲子家庭+亲子家庭写真+蓝纱母亲亲吻宝宝+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_ace58af5912c5863ce75b380_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:4d6557fff6f90a0f979e151f",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/father-and-child-portrait-in-traditional-indian-courtyard",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "@Create image Create an ultra-realistic, high-end professional DSLR photograph in a 3:4 vertical portrait frame. Use the uploaded reference image as the...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "庭院父子神话写真",
+      "copy_title": "亲子家庭+亲子家庭写真+庭院父子神话写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_4d6557fff6f90a0f979e151f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:2026536710c8a4026557fe14",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/father-son",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Ultra-realistic emotional Father’s Day portrait of a handsome young Indian father and his cute 4–5 year old son hugging lovingly, matching blue shirts and...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "蓝衫父子拥抱贺卡",
+      "copy_title": "亲子家庭+亲子家庭写真+蓝衫父子拥抱贺卡+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_2026536710c8a4026557fe14_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:8946cc0d967b429c5984e41b",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/create-a-photorealistic-luxury-travel-photograph-of-a-south-asian-mother-and-adult-son-standing-together-on-the-front-de",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Create a photorealistic luxury travel photograph of a South Asian mother and adult son standing together on the front deck of a private yacht in Dubai...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母子游艇城市落日",
+      "copy_title": "亲子家庭+亲子家庭写真+母子游艇城市落日+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_8946cc0d967b429c5984e41b_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:02ddca2ee429fe579ded0360",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/ai-image-prompt-joyful-father-lifting-baby-into-a-divine-cloudy-sky-with-ornate-3d-text",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "​A dramatic, vertical, low-angle photograph capturing a joyful Indian man (medium shot, torso-up) lifting an infant high into the air against a heavenly...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "父亲托举云光宝宝",
+      "copy_title": "亲子家庭+亲子家庭写真+父亲托举云光宝宝+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_02ddca2ee429fe579ded0360_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:9afa9104a25e3a610fa3e244",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/surreal-chiaroscuro-conceptual-portrait-of-south-asian-father-and-child-materializing-from-ethereal-smoke-of-a-glowing-o",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "An Ultra HD, HDR, photorealistic vertical medium-shot surreal fantasy conceptual fine-art photograph strictly preserving the exact visual identity, facial...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "油灯烟雾父子肖像",
+      "copy_title": "亲子家庭+亲子家庭写真+油灯烟雾父子肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_9afa9104a25e3a610fa3e244_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e428f4ac6bf48cdbc0f4cbc5",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/family-silhouette",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Use the uploaded image ONLY for face and identity reference of all subjects. Do not alter facial structure, skin tone, age, or likeness. Maintain accurate...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "父母婴儿逆光剪影",
+      "copy_title": "亲子家庭+亲子家庭写真+父母婴儿逆光剪影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e428f4ac6bf48cdbc0f4cbc5_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:902bf6c57d82de59490d450a",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/photorealistic-fine-art-black-and-white-family-portrait",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Create a fine-art black and white family portrait showing four faces in perfect side profile, aligned from left to right: father, mother, and two young...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白四口侧脸序列",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白四口侧脸序列+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_902bf6c57d82de59490d450a_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:66598c2570896409b17e8bc8",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/father-and-son",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Ultra-realistic portrait of a father and his adult son, strictly preserving their original facial features, identity, and expressions from the reference...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "父子蓝衣背后搭肩",
+      "copy_title": "亲子家庭+亲子家庭写真+父子蓝衣背后搭肩+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_66598c2570896409b17e8bc8_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5c86ea3268872b3da9895e8e",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/mam-and-son-seeing-the-sky",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "the two picture me and my mother A deeply emotional shot of a of sharing a moment of wonder. We are sitting on the ground against a concrete wall at night...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母子屋顶仰望星河",
+      "copy_title": "亲子家庭+亲子家庭写真+母子屋顶仰望星河+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5c86ea3268872b3da9895e8e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e6171581f4cb8cf3e2f96bea",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/father-day-special",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Father day special person",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "父女英雄纪念海报",
+      "copy_title": "亲子家庭+亲子家庭写真+父女英雄纪念海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e6171581f4cb8cf3e2f96bea_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:655214231f3234c7f39d4d9d",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/photorealistic-ultra-detailed-scene-of-a-happy-south-asian-family",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Photorealistic, ultra-detailed scene of a happy South Asian family of four seated together on a traditional wooden shikara boat on a serene lake, mother in...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "湖上花舟四口合影",
+      "copy_title": "亲子家庭+亲子家庭写真+湖上花舟四口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_655214231f3234c7f39d4d9d_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5277a5a1135d1f1adbb2625b",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/family-time-48714190",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Create an ultra-realistic vintage black-and-white family studio portrait of a South Asian Indian family of four: a father, mother, and their two young sons...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白四口父子合影",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白四口父子合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5277a5a1135d1f1adbb2625b_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:a840ed9d189abb108b75193a",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/warm-intimate-family-portrait-of-a-smiling-father-mother-and-young-daughter",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Warm, intimate family portrait of a smiling father, mother, and young daughter seated closely outdoors under soft natural golden-hour light, wearing...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "粉衣三口花园合影",
+      "copy_title": "亲子家庭+亲子家庭写真+粉衣三口花园合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_a840ed9d189abb108b75193a_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:f68c2a09766914ed8b5f9c95",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/vertical-studio-portrait-of-a-close-knit-family-stacked-in-a-playful-head-pile",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Vertical studio portrait of a close-knit family stacked in a playful head-pile: two smiling young boys resting on the shoulders of a woman, who sits atop a...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "肩上叠叠乐全家福",
+      "copy_title": "亲子家庭+亲子家庭写真+肩上叠叠乐全家福+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_f68c2a09766914ed8b5f9c95_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:eec437a3c8090846fe09ef0f",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/studio-family-portrait-of-a-close-knit-family-of-four-two-parents-and-two-young-boys",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Studio family portrait of a close-knit family of four — two parents and two young boys — tightly framed vertical composition with heads clustered and...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑衣四口贴面合影",
+      "copy_title": "亲子家庭+亲子家庭写真+黑衣四口贴面合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_eec437a3c8090846fe09ef0f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:2fc3ae24d0d9d3898544216e",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/family-24072681",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Create a black and white studio family portrait of 3 people using the faces and hairstyles from my attached reference photos, hair color must be only black...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑衣三口相拥合影",
+      "copy_title": "亲子家庭+亲子家庭写真+黑衣三口相拥合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_2fc3ae24d0d9d3898544216e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:928da6ee52b09e566c7d87c1",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/father-and-daughter",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "make it album sheet for uploaded father and daughter image with double exposure and text size 9:16. At bottom use text\" My world\"",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "父女夕照双重曝光",
+      "copy_title": "亲子家庭+亲子家庭写真+父女夕照双重曝光+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_928da6ee52b09e566c7d87c1_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c5ca120922da345919f9ceed",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/helping-mother-cook-food",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "\"Realistic everyday scene in a modern kitchen: a lovely 45-year-old Indian mom (exact same as in reference image) in a stylish designer beige and navy...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母子厨房并肩做饭",
+      "copy_title": "亲子家庭+亲子家庭写真+母子厨房并肩做饭+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:20+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c5ca120922da345919f9ceed_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:6fb47e665ac9e6be9c1353aa",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/classic-studio-family-portrait",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Create a premium Classic Studio family portrait featuring Father, Mother, Child 1, and Child 2 standing naturally together. Use the uploaded images as the...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑衣白裙四口合影",
+      "copy_title": "亲子家庭+亲子家庭写真+黑衣白裙四口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_6fb47e665ac9e6be9c1353aa_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:4a7d4743cb43478305fbf3b7",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/family-portraits",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "A beautiful, realistic Indian family portrait in a professional photography studio. A stylish young man wearing a black shirt, layered silver chains, and...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "橙墙探头一家三口",
+      "copy_title": "亲子家庭+亲子家庭写真+橙墙探头一家三口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_4a7d4743cb43478305fbf3b7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:681a88709e1c16deb518ea46",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/lavender-elegance-a-beautiful-mother-and-daughter-moment",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17T01:19:20+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17T01:19:20+00:00",
+      "caption": "Create an ultra-realistic 8K vertical portrait of a beautiful South Asian mother and her adorable toddler daughter sharing a joyful moment in a luxurious...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "紫裙母女共读时光",
+      "copy_title": "亲子家庭+亲子家庭写真+紫裙母女共读时光+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T01:20:19+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_681a88709e1c16deb518ea46_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:DZrxm1XiU10",
       "platform": "instagram",
