@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T01:21:09+00:00",
+  "generated_at": "2026-11-17T02:28:41+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,9 +25,9 @@
     ]
   },
   "export_stats": {
-    "formal": 1118,
+    "formal": 1124,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 776,
+    "confirmed_duplicates_skipped": 782,
     "suspected_duplicates_included": 1
   },
   "materials": [
@@ -4405,6 +4405,366 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/instagram_DfwxeXEEhSz_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dfi4i5GIFgW",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dfi4i5GIFgW/",
+      "creator": "mr_d_1436",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-16",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-16",
+      "caption": null,
+      "description": "@mr_d_1436 的创意素材",
+      "recommendation_reason": "三口之家（父深蓝kurta、母红金纱丽、男孩深蓝kurta）合十站在'New Year 2027'灯字前，本轮唯一亲子家庭项。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mr_d_1436/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "一家三口合十迎新年",
+      "copy_title": "亲子家庭+节庆+一家三口合十迎新年+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T02:26:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dfi4i5GIFgW_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DR96Nqnkub4",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DR96Nqnkub4/",
+      "creator": "ajuu_d07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-16",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-16",
+      "caption": null,
+      "description": "@ajuu_d07 的创意素材",
+      "recommendation_reason": "印度情侣穿红色圣诞毛绒套装雪夜灯光街道自拍，圣诞老人与圣诞树同框，2088赞，本轮圣诞情侣最强项。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajuu_d07/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "圣诞雪夜情侣自拍",
+      "copy_title": "情侣+节庆+圣诞雪夜情侣自拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T02:26:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DR96Nqnkub4_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DY6SAK7EU0z",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DY6SAK7EU0z/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-16",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-16",
+      "caption": null,
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "2027情侣写真日历，上方大图+下方12个月份小图，日历拼贴形式新颖，评论146条，互动强。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "情侣2027写真日历",
+      "copy_title": "情侣+节庆+情侣2027写真日历+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T02:26:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DY6SAK7EU0z_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfuNt3JI7mO",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DfuNt3JI7mO/",
+      "creator": "amaramar4795",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-16",
+      "duration_seconds": 10.053991,
+      "last_collected_at": "2026-11-16",
+      "caption": null,
+      "description": "@amaramar4795 的创意素材",
+      "recommendation_reason": "雪夜圣诞树旁，男白kurta、女红金lehenga情侣对视、牵手、拥抱慢舞摇摆，连续真实动作已确认，本轮唯一真正视频。",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/amaramar4795/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "舞蹈",
+      "image_description": "雪夜圣诞情侣慢舞",
+      "copy_title": "情侣+舞蹈+雪夜圣诞情侣慢舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T02:26:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "video_cover",
+          "preview": "assets/instagram_DfuNt3JI7mO_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfyzr0VEqBG",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@editing_khushi_lover/post/Dfyzr0VEqBG",
+      "creator": "editing_khushi_lover",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-16",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-16",
+      "caption": null,
+      "description": "@editing_khushi_lover 的创意素材",
+      "recommendation_reason": "红毛衣+圣诞帽情侣圣诞树前相拥，女方bindi与jhumka耳环，印度元素明确，构图干净。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@editing_khushi_lover",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "红毛衣圣诞帽相拥",
+      "copy_title": "情侣+节庆+红毛衣圣诞帽相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T02:26:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfyzr0VEqBG_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfffNg4EqMH",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfffNg4EqMH/",
+      "creator": "______goti______kora______",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-16",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-16",
+      "caption": null,
+      "description": "@______goti______kora______ 的创意素材",
+      "recommendation_reason": "同一对情侣（男枣红衬衫、女紫金纱丽）在10个圣诞场景，身份一致性强，场景丰富，可做多场景模板。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/______goti______kora______/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "节庆",
+      "image_description": "紫金纱丽圣诞情侣",
+      "copy_title": "情侣+节庆+紫金纱丽圣诞情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T02:26:58+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfffNg4EqMH_0.webp",
           "preview_status": "verified",
           "result_status": "final_result",
           "visual_analysis": null
