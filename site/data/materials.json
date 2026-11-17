@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T07:12:39+00:00",
+  "generated_at": "2026-11-17T08:16:43+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,9 +25,9 @@
     ]
   },
   "export_stats": {
-    "formal": 1192,
+    "formal": 1220,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 850,
+    "confirmed_duplicates_skipped": 878,
     "suspected_duplicates_included": 1
   },
   "materials": [
@@ -1825,6 +1825,1686 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/other_681a88709e1c16deb518ea46_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DP5TjAkiJxw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DP5TjAkiJxw/",
+      "creator": "kri_shiv.sharma",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@kri_shiv.sharma 的创意素材",
+      "recommendation_reason": "黑白三口父母亲吻怀中孩子，8千赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/kri_shiv.sharma/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白亲额怀抱幼儿",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白亲额怀抱幼儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DP5TjAkiJxw_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DPBgZOuExHw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DPBgZOuExHw/",
+      "creator": "_achayathy_penn_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@_achayathy_penn_ 的创意素材",
+      "recommendation_reason": "黑白竖版纵轴叠脸三口，1.54万赞，叠影模板热度高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/_achayathy_penn_/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白卧榻轻吻宝宝",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白卧榻轻吻宝宝+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DPBgZOuExHw_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DVKls4Tgeby",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DVKls4Tgeby/",
+      "creator": "ai_wala_bhaiya_07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ai_wala_bhaiya_07 的创意素材",
+      "recommendation_reason": "金色田野黄昏父女，油画印象派质感，5千赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ai_wala_bhaiya_07/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "金田肩扛幼女油画",
+      "copy_title": "亲子家庭+亲子家庭写真+金田肩扛幼女油画+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DVKls4Tgeby_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DTZdBQ8kvE2",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DTZdBQ8kvE2/",
+      "creator": "shwetha_bandekar",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@shwetha_bandekar 的创意素材",
+      "recommendation_reason": "父亲抱约3岁小女孩，灯串背景，5千赞，妻子变宝宝格式",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shwetha_bandekar/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "灯串父女笑脸合影",
+      "copy_title": "亲子家庭+亲子家庭写真+灯串父女笑脸合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DTZdBQ8kvE2_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfukb8_DRdR",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ansariarbaj5184/post/Dfukb8_DRdR",
+      "creator": "ansariarbaj5184",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ansariarbaj5184 的创意素材",
+      "recommendation_reason": "一家三口从橙色竖板后探头，构图俏皮",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ansariarbaj5184",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "橙色竖板探头三口",
+      "copy_title": "亲子家庭+亲子家庭写真+橙色竖板探头三口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfukb8_DRdR_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DWNPpFbk_qF",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DWNPpFbk_qF/",
+      "creator": "revathi_aariwork_designer",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@revathi_aariwork_designer 的创意素材",
+      "recommendation_reason": "传统服饰影棚四口合影，1.09万赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/revathi_aariwork_designer/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "绿红传统服饰四口",
+      "copy_title": "亲子家庭+亲子家庭写真+绿红传统服饰四口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DWNPpFbk_qF_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfm9RYlE-r6",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@jamaliyelena/post/Dfm9RYlE-r6",
+      "creator": "jamaliyelena",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@jamaliyelena 的创意素材",
+      "recommendation_reason": "红纱丽母亲与少年儿子影棚合影，1.17万赞37.4万播放",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@jamaliyelena",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "红纱母子粉底合影",
+      "copy_title": "亲子家庭+亲子家庭写真+红纱母子粉底合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfm9RYlE-r6_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DaMi0ArRI5T",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DaMi0ArRI5T/",
+      "creator": "rjsoniya935",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@rjsoniya935 的创意素材",
+      "recommendation_reason": "黑白影棚三口肖像，2.89万赞，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/rjsoniya935/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑底纵列微笑三口",
+      "copy_title": "亲子家庭+亲子家庭写真+黑底纵列微笑三口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DaMi0ArRI5T_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2404535193289567",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/sravanthi.donthula1/posts/2404535193289567/",
+      "creator": "sravanthi.donthula1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@sravanthi.donthula1 的创意素材",
+      "recommendation_reason": "Ravi Varma古典油画风四口之家，艺术风格独特",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/sravanthi.donthula1/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "古典河畔四口油画",
+      "copy_title": "亲子家庭+亲子家庭写真+古典河畔四口油画+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_2404535193289567_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfxNDe4ExjC",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@gourangahens/post/DfxNDe4ExjC",
+      "creator": "gourangahens",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@gourangahens 的创意素材",
+      "recommendation_reason": "电影感三口肖像，11.7万播放，影棚质感强",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@gourangahens",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "红玫瑰灯下三口",
+      "copy_title": "亲子家庭+亲子家庭写真+红玫瑰灯下三口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfxNDe4ExjC_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DcqtufnoARG",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DcqtufnoARG/",
+      "creator": "sukrith_komarshetty",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@sukrith_komarshetty 的创意素材",
+      "recommendation_reason": "母亲扮Yashoda抱Krishna男孩，1.05万赞，单张成品图",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/sukrith_komarshetty/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "红纱慈母抱神童",
+      "copy_title": "亲子家庭+节庆+红纱慈母抱神童+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DcqtufnoARG_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc0km7oCDXr",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc0km7oCDXr/",
+      "creator": "_itz_indrajit_10k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@_itz_indrajit_10k 的创意素材",
+      "recommendation_reason": "母亲花园举起扮Krishna幼儿，5千赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/_itz_indrajit_10k/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "花园母亲高举神童",
+      "copy_title": "亲子家庭+节庆+花园母亲高举神童+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc0km7oCDXr_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DXD8atKkXvG",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DXD8atKkXvG/",
+      "creator": "_devuu__official_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@_devuu__official_ 的创意素材",
+      "recommendation_reason": "母亲与十几岁女儿Vishu节庆合影，母女节庆模板",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/_devuu__official_/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "金边白纱母女",
+      "copy_title": "亲子家庭+节庆+金边白纱母女+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DXD8atKkXvG_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DS_XAxnCF1V",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DS_XAxnCF1V/",
+      "creator": "zero_zon_2",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@zero_zon_2 的创意素材",
+      "recommendation_reason": "新年传统四口之家金色影棚背景，6千赞1.96万评论",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/zero_zon_2/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "金色影棚传统四口",
+      "copy_title": "亲子家庭+节庆+金色影棚传统四口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DS_XAxnCF1V_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdAvU3rvGLM",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DdAvU3rvGLM/",
+      "creator": "venkyswathi2185_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@venkyswathi2185_official 的创意素材",
+      "recommendation_reason": "父母与小女儿站象头神像前，节庆亲子场景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/venkyswathi2185_official/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "象头神前三口依靠",
+      "copy_title": "亲子家庭+节庆+象头神前三口依靠+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:30+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdAvU3rvGLM_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DemnMTwz3iw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DemnMTwz3iw/",
+      "creator": "tanmoyds60",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@tanmoyds60 的创意素材",
+      "recommendation_reason": "杜尔迦棚外夜景三口，面部清晰，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/tanmoyds60/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "蓝纱条纹衫三口",
+      "copy_title": "亲子家庭+节庆+蓝纱条纹衫三口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DemnMTwz3iw_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Deq0igcD3HB",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Deq0igcD3HB/",
+      "creator": "bijoy_kumar_apon",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@bijoy_kumar_apon 的创意素材",
+      "recommendation_reason": "杜尔迦棚前四口之家，OPPO AI水印，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/bijoy_kumar_apon/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "蓝棚前白衣四口",
+      "copy_title": "亲子家庭+节庆+蓝棚前白衣四口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Deq0igcD3HB_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dcd6uGpk0em",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dcd6uGpk0em/",
+      "creator": "heln_jp_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@heln_jp_ 的创意素材",
+      "recommendation_reason": "Onam卡萨武服饰四口之家，pookalam花坛前景，干净通过",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/heln_jp_/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "奥南节花毯四口",
+      "copy_title": "亲子家庭+节庆+奥南节花毯四口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dcd6uGpk0em_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dc3Gn-XkoKS",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dc3Gn-XkoKS/",
+      "creator": "mummaslilangel",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@mummaslilangel 的创意素材",
+      "recommendation_reason": "母亲带扮Krishna儿女，1.16万赞，节庆亲子热度高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/mummaslilangel/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "节庆",
+      "image_description": "母子女花冠扮神",
+      "copy_title": "亲子家庭+节庆+母子女花冠扮神+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "节庆"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dc3Gn-XkoKS_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DT5ACOgEU0M",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DT5ACOgEU0M/",
+      "creator": "_zoeeii",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@_zoeeii 的创意素材",
+      "recommendation_reason": "俯视草地围圈牵手三口，构图独特",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/_zoeeii/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "草地围圈牵手三口",
+      "copy_title": "亲子家庭+亲子家庭写真+草地围圈牵手三口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DT5ACOgEU0M_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOkcMd3EfS3",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DOkcMd3EfS3/",
+      "creator": "doubletroublemamaa",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@doubletroublemamaa 的创意素材",
+      "recommendation_reason": "复古旁遮普风双胞胎全家照，年代感造型有辨识度",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/doubletroublemamaa/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "红头巾复古四口",
+      "copy_title": "亲子家庭+亲子家庭写真+红头巾复古四口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOkcMd3EfS3_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbkbIvYDAUh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbkbIvYDAUh/",
+      "creator": "win_prompt",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@win_prompt 的创意素材",
+      "recommendation_reason": "公园父母抱幼儿，日常户外亲子场景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/win_prompt/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "公园笑抱幼女",
+      "copy_title": "亲子家庭+亲子家庭写真+公园笑抱幼女+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbkbIvYDAUh_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdLtiGsCJTm",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdLtiGsCJTm/",
+      "creator": "bhalaji_thakor_01",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@bhalaji_thakor_01 的创意素材",
+      "recommendation_reason": "户外四口方形肖像，干净通过，无附加标记",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/bhalaji_thakor_01/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "户外紫纱四口合影",
+      "copy_title": "亲子家庭+亲子家庭写真+户外紫纱四口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdLtiGsCJTm_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DWp3044gaj0",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@ajith_siva_57/post/DWp3044gaj0",
+      "creator": "ajith_siva_57",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajith_siva_57 的创意素材",
+      "recommendation_reason": "寺庙塔门前传统服饰四口之家，84.9万播放，数字绘画风",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@ajith_siva_57",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "绿纱寺塔四口绘像",
+      "copy_title": "亲子家庭+亲子家庭写真+绿纱寺塔四口绘像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DWp3044gaj0_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdxpyM5iNCw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdxpyM5iNCw/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "母子同款风衣镜前自拍，母子穿搭模板新颖",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "风衣母子镜前自拍",
+      "copy_title": "亲子家庭+亲子家庭写真+风衣母子镜前自拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdxpyM5iNCw_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOqwCTIDcVc",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DOqwCTIDcVc/",
+      "creator": "we_prajnish",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@we_prajnish 的创意素材",
+      "recommendation_reason": "黑白床上三口之家，1.5万赞，居家亲密感强",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/we_prajnish/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "灰衣床上依偎三口",
+      "copy_title": "亲子家庭+亲子家庭写真+灰衣床上依偎三口+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOqwCTIDcVc_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DTdCckSkjHv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DTdCckSkjHv/",
+      "creator": "journeywithaaryan",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@journeywithaaryan 的创意素材",
+      "recommendation_reason": "黑白侧面叠影三口之家，6.5万赞，影棚叠影模板热度高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/journeywithaaryan/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白侧脸三口叠影",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白侧脸三口叠影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DTdCckSkjHv_0.png",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DU9lRUhAcIM",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DU9lRUhAcIM/",
+      "creator": "ajith_siva_57",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-17",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-17",
+      "caption": null,
+      "description": "@ajith_siva_57 的创意素材",
+      "recommendation_reason": "父亲日落下高举女儿，温情动态感强，亲子模板价值高",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajith_siva_57/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "日落父亲举女儿",
+      "copy_title": "亲子家庭+亲子家庭写真+日落父亲举女儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-17T08:15:29+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DU9lRUhAcIM_0.webp",
           "preview_status": "verified",
           "result_status": "final_result",
           "visual_analysis": null
