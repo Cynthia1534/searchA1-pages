@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T08:16:43+00:00",
+  "generated_at": "2026-11-20T07:06:36+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,3612 @@
     ]
   },
   "export_stats": {
-    "formal": 1220,
+    "formal": 1280,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 878,
+    "confirmed_duplicates_skipped": 938,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "other:aeac43816b14821e6334d96e",
+      "platform": "other",
+      "post_url": "https://hixa.in/prompt/viral-mothers-day-crown-portrait-ai-prompt",
+      "creator": "www.hixa.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Copy this ChatGPT prompt to edit your selfie into a viral Mother’s day crown portrait. Features candlelight and Kodak film tones. Keeps your face unchanged.",
+      "description": "@www.hixa.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.hixa.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲节儿子为母梳发",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲节儿子为母梳发+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_aeac43816b14821e6334d96e_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:4f07852f33d5c95153e29736",
+      "platform": "other",
+      "post_url": "https://aiphoto-prompts.com/indian-mom-and-son-prompt",
+      "creator": "aiphoto-prompts.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Use Indian mom and son prompt for Gemini ideas to create realistic traditional, candid, festive and emotional family photos from references.",
+      "description": "@aiphoto-prompts.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://aiphoto-prompts.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲抚头祝福成年儿子",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲抚头祝福成年儿子+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_4f07852f33d5c95153e29736_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:05b5c1812677d3d7a05901a1",
+      "platform": "other",
+      "post_url": "https://khanedits.com/10-gemini-ai-family-photo-prompts-for-matching-outfits",
+      "creator": "khanedits.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Try 10 Gemini AI photo editing prompts for Indian family portraits in matching outfits, with unique poses, realistic skin, and vertical 9:16 compositions.",
+      "description": "@khanedits.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://khanedits.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "酒红服饰四口看相册",
+      "copy_title": "亲子家庭+亲子家庭写真+酒红服饰四口看相册+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_05b5c1812677d3d7a05901a1_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:7e89bbf3bab242a92b3d4ea2",
+      "platform": "other",
+      "post_url": "https://prompthai.in/looks/father-and-kid-matching-kurta-photo",
+      "creator": "prompthai.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "You and your son in matching kurtas, laughing together on festive courtyard steps.",
+      "description": "@prompthai.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://prompthai.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "蓝头巾父子同款笑颜",
+      "copy_title": "亲子家庭+亲子家庭写真+蓝头巾父子同款笑颜+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_7e89bbf3bab242a92b3d4ea2_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:dd3abb2c2dd7e0f5ff37354f",
+      "platform": "other",
+      "post_url": "https://askexclusive.com/mothers-day-prompt",
+      "creator": "askexclusive.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Explore Mother's Day prompt ideas for ChatGPT, Gemini and AI image tools. Create respectful portraits, family scenes and greeting visuals with customization tips.",
+      "description": "@askexclusive.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://askexclusive.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "粉纱丽母女送花",
+      "copy_title": "亲子家庭+亲子家庭写真+粉纱丽母女送花+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_dd3abb2c2dd7e0f5ff37354f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:238e60f508752c61a853c1e4",
+      "platform": "other",
+      "post_url": "https://prompthai.in/looks/sheru-bhai-family-photo",
+      "creator": "prompthai.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "The Sheru Bhai family portrait: you, your family and the lion boss in a white suit on a palace lawn.",
+      "description": "@prompthai.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://prompthai.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白衣三口白狮守护",
+      "copy_title": "亲子家庭+亲子家庭写真+白衣三口白狮守护+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_238e60f508752c61a853c1e4_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:ce963ffd470e3f8f3dcb92fa",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/luxury-crimson-formal-family-photoshoot",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create a premium, ultra-realistic 3:4 vertical family studio portrait of the uploaded family. Preserve every person recognizable facial features and...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "红礼服四口烛光照",
+      "copy_title": "亲子家庭+亲子家庭写真+红礼服四口烛光照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_ce963ffd470e3f8f3dcb92fa_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:2572cb975662d27e2669d09d",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/monochrome-family-profile-portrait",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Use the uploaded family photos as identity references and create an elegant vertical black-and-white family portrait featuring a father, mother, and young...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白三口侧脸海报",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白三口侧脸海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_2572cb975662d27e2669d09d_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:27f77729b4e4636cf67ae609",
+      "platform": "other",
+      "post_url": "https://prompthai.in/looks/mother-and-kid-matching-outfit-photo",
+      "creator": "prompthai.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "You and your little one in matching mustard dresses, hugging and laughing in a sunny garden.",
+      "description": "@prompthai.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://prompthai.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黄裙母女庭院拥抱",
+      "copy_title": "亲子家庭+亲子家庭写真+黄裙母女庭院拥抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_27f77729b4e4636cf67ae609_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:d17e3ccd5433aad1ce619dbb",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/studio-family-portrait",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create a high-resolution, photorealistic vertical 4:5 professional studio family portrait using the uploaded/reference family members as the subjects. The...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "深绿背景四口合照",
+      "copy_title": "亲子家庭+亲子家庭写真+深绿背景四口合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_d17e3ccd5433aad1ce619dbb_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:6dd3f92a0755f69408acfa4d",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/the-family-unit",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create a professionally captured fine-art studio family portrait based strictly on the uploaded reference image. The final image should look like a...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "米色针织四口合影",
+      "copy_title": "亲子家庭+亲子家庭写真+米色针织四口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_6dd3f92a0755f69408acfa4d_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5f4aa44ab344c4301d088215",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/family-sequence",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create a classic low-key black-and-white studio portrait of a family of four arranged in a staggered side-profile composition, all facing right. Maintain...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白四口侧颜",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白四口侧颜+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5f4aa44ab344c4301d088215_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:6a571dc5c28664d61fadcbac",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/dramatic-black-and-white-family-photo-prompt",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create a high-contrast black-and-white studio portrait of a three-person family stacked vertically in a perfectly centered totem-pole composition, faces...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白三口叠头嘟嘴",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白三口叠头嘟嘴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_6a571dc5c28664d61fadcbac_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:fadd4de9f10b397283ce5053",
+      "platform": "other",
+      "post_url": "https://prompthai.in/looks/family-christmas-tree-decorating",
+      "creator": "prompthai.in",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "The whole family around the tree: your child on your shoulders placing the star, grandma laughing from the sofa.",
+      "description": "@prompthai.in 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://prompthai.in/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "圣诞树前四口放星星",
+      "copy_title": "亲子家庭+亲子家庭写真+圣诞树前四口放星星+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_fadd4de9f10b397283ce5053_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:acfb2bb9a1e81bcf339c2687",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/family-united",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Seja fiel e respeite a foto base. Use minha foto original como referência exata do rosto; não altere minhas feições –face_fidelity 0.8. Puedes hacerme una...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白衫蓝裤四口合影",
+      "copy_title": "亲子家庭+亲子家庭写真+白衫蓝裤四口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_acfb2bb9a1e81bcf339c2687_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c4a083d292a263b10052ac5b",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/realistic-family-portrait-generator-parents-and-two-children",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Analyze the two reference images and create one ultra-realistic, high-definition family portrait featuring both individuals from the reference photos as...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "三口之家温暖合影",
+      "copy_title": "亲子家庭+亲子家庭写真+三口之家温暖合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c4a083d292a263b10052ac5b_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c55789e9dd6428da68f9c0b3",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/with-father-father-s-day",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create a high-end, square-format (1:1) professional studio portrait using the two • uploaded reference photos: - the older man (father) + THIS IMAGE IS...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "西装父女温情依偎",
+      "copy_title": "亲子家庭+亲子家庭写真+西装父女温情依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:42+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c55789e9dd6428da68f9c0b3_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df3UWhNCHW7",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df3UWhNCHW7/",
+      "creator": "ajith_siva_57",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "📌Prompt 4th 🖇️picture...✨🫂🥰🖇️❤️‍🩹\n\n#trending \n\n#kids \n\n#trendingreel \n\n#vairalpost \n\n#family",
+      "description": "@ajith_siva_57 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ajith_siva_57/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "水彩父亲背女儿合照",
+      "copy_title": "亲子家庭+亲子家庭写真+水彩父亲背女儿合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df3UWhNCHW7_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:696362e2d1335e8a77ae2d68",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/old-father-with-young-son",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Ultra-realistic portrait of a father and his adult son sitting together on a park bench during golden hour, strictly preserving their original facial...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "长椅父子并肩聊天",
+      "copy_title": "亲子家庭+亲子家庭写真+长椅父子并肩聊天+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_696362e2d1335e8a77ae2d68_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:de586b228571cfd7465bc090",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/warm-golden-hour-outdoor-family-portrait",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Warm golden-hour outdoor family portrait of four smiling people tightly grouped, heads close together, joyful candid expressions and bright white teeth...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "金色草地四口相拥",
+      "copy_title": "亲子家庭+亲子家庭写真+金色草地四口相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_de586b228571cfd7465bc090_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c4fc66d6b7b575d584548047",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/intimate-vertical-family-portrait-of-a-young-couple",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Intimate vertical family portrait of a young couple tenderly cradling their infant, father wearing a cream cable-knit sweater and mother in a rust-orange...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "针织衣父母轻拥婴儿",
+      "copy_title": "亲子家庭+亲子家庭写真+针织衣父母轻拥婴儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c4fc66d6b7b575d584548047_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:c77ca184f5d8455b13c46a3c",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/close-up-intimate-studio-family-portrait-of-three-people",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Close-up, intimate studio family portrait of three people framed inside a heart shape made by hands in the foreground; shallow depth of field with the...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "手比心框三口笑脸",
+      "copy_title": "亲子家庭+亲子家庭写真+手比心框三口笑脸+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_c77ca184f5d8455b13c46a3c_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5a5a80ccfc3f557bf122ddb7",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/studio-portrait-of-a-young-mother-holding-her-baby-in-a-warm-intimate-pose-vertical-composition",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Studio portrait of a young mother holding her baby in a warm, intimate pose, vertical composition, waist-up with gentle headroom and centered framing...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白衫母亲抱幼儿",
+      "copy_title": "亲子家庭+亲子家庭写真+白衫母亲抱幼儿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5a5a80ccfc3f557bf122ddb7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e2cb30b532578e9b2b3863d7",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/intimate-vintage-family-portrait",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Intimate vintage family portrait in warm sepia tones, vertical waist-up composition of a young couple holding their baby closely in the center; soft...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "棕色复古三口合影",
+      "copy_title": "亲子家庭+亲子家庭写真+棕色复古三口合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e2cb30b532578e9b2b3863d7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:cc9eeb85ead584c843d93d12",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/timeless-mother-and-daughter-bond-elegant-maroon-traditional-portrait-with-warm-studio-lighting",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "A breathtaking ultra-realistic cinematic studio portrait of a beautiful young South Asian mother sitting closely behind her adorable little daughter...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "酒红背景母女依偎",
+      "copy_title": "亲子家庭+亲子家庭写真+酒红背景母女依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_cc9eeb85ead584c843d93d12_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:ef03e5433ade54655a50a055",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/lavender-garden-love-beautiful-south-asian-mother-and-daughter-in-matching-floral-traditional-outfits",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "A breathtaking ultra-realistic cinematic outdoor portrait of a beautiful young South Asian mother sitting gracefully in a lush, colorful flower garden...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "紫色繁花母女合影",
+      "copy_title": "亲子家庭+亲子家庭写真+紫色繁花母女合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_ef03e5433ade54655a50a055_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:8afe3b5e40637126cc6e3aa5",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/lovely-father-with-her-daughter",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "A cinematic outdoor photograph of two South Asian people seated together on a weathered gray stone ledge, framed vertically. On the left, a middle-aged man...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "石阶父女合十相视",
+      "copy_title": "亲子家庭+亲子家庭写真+石阶父女合十相视+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_8afe3b5e40637126cc6e3aa5_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:9a8c0661dd21692a149dbfbc",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/mother-and-son-33305585",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "PROMPT: MOTHER & SON – A MOTHER'S DREAM, A SON'S FUTURE | ULTRA-LUXURY CINEMATIC PHOTOSHOOT Transform my uploaded photographs into an extraordinary...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑金礼服母子对望",
+      "copy_title": "亲子家庭+亲子家庭写真+黑金礼服母子对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_9a8c0661dd21692a149dbfbc_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:1a3e8e2d6b71ea1cace5ca71",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/amma-my-world-my-strength-a-mother-s-endless-love",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "A highly realistic, emotional cinematic portrait of a loving South Asian mother and her adult son sharing a beautiful moment of affection. The mother is...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "母亲抚额成年儿子",
+      "copy_title": "亲子家庭+亲子家庭写真+母亲抚额成年儿子+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_1a3e8e2d6b71ea1cace5ca71_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df80_1QkSMk",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df80_1QkSMk/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "#outfitoftheday #cars #BabyPhotography #BabyStyle #InstaFashion",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白衫墨镜父子车边",
+      "copy_title": "亲子家庭+亲子家庭写真+白衫墨镜父子车边+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df80_1QkSMk_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:8ccf784cd117d7a9d9b33040",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/golden-hour-love-playful-pakistani-couple-selfie",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Ultra-realistic close-up selfie portrait of a young Pakistani couple enjoying a playful moment outdoors during golden hour. The young man has thick...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "蓝天下亲昵捏脸",
+      "copy_title": "情侣+情侣写真+蓝天下亲昵捏脸+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_8ccf784cd117d7a9d9b33040_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:002ea8b731073d58a1285e56",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/midnight-elegance-indian-couple-in-black-streetwear",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create an ultra-realistic, cinematic high-fashion street photography portrait of a stylish young adult Indian couple walking hand in hand on a quiet urban...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "全黑风衣街头牵手",
+      "copy_title": "情侣+情侣写真+全黑风衣街头牵手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_002ea8b731073d58a1285e56_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:b76247acbc6c96502a77f037",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/blush-pink-elegance-romantic-south-asian-couple-portrait",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create an ultra-realistic, cinematic portrait of a young South Asian couple sitting together on elegant white marble steps outside a luxurious traditional...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "粉纱丽台阶托腮",
+      "copy_title": "情侣+情侣写真+粉纱丽台阶托腮+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_b76247acbc6c96502a77f037_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:e5ef8e66f0f6fb4bf7a24682",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/crimson-romance-cinematic-couple-portrait-in-red",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create an ultra-realistic, cinematic romantic portrait of a young South Asian couple enjoying a peaceful moment together in a beautiful grassy meadow...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红裙草地膝上相伴",
+      "copy_title": "情侣+情侣写真+红裙草地膝上相伴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_e5ef8e66f0f6fb4bf7a24682_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:b38bc54bc34effffbda4f2c0",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/timeless-love-black-and-white-couple-portrait",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create an ultra-realistic, cinematic black-and-white close-up portrait of a young South Asian couple sharing a joyful and affectionate moment. The woman is...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白笑颜贴面合照",
+      "copy_title": "情侣+情侣写真+黑白笑颜贴面合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_b38bc54bc34effffbda4f2c0_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:a26eac9e8d17ab625b18142f",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/ultra-realistic-romantic-couple-portrait-41985650",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Prompt 💫 A vertical romantic couple portrait, sensual intimate mood, warm indoor grade with deep maroon, cream-gold, red and black tones. Medium shot, head...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红纱丽室内对望",
+      "copy_title": "情侣+情侣写真+红纱丽室内对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_a26eac9e8d17ab625b18142f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:db88b7ee97a47ed0f875e292",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/love-pyar-ka-pic",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create an ultra-realistic romantic couple portrait captured from an artistic low-angle perspective, with the camera placed below the couple looking upward...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "仰拍双人空中心形",
+      "copy_title": "情侣+情侣写真+仰拍双人空中心形+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_db88b7ee97a47ed0f875e292_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:1df7ede0b3bcf3266d030dde",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/love-97373810",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create an ultra-realistic, magical cinematic portrait of a beautiful young woman hugging a glowing transparent human-shaped silhouette made entirely of...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "拥抱金色粒子爱人",
+      "copy_title": "情侣+情侣写真+拥抱金色粒子爱人+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_1df7ede0b3bcf3266d030dde_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:eecca1bb0de8b2ddd9a94267",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/cinematic-romantic-couple-portrait-aesthetic-deep-red-traditional-outfit-and-dreamy-love-photography",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "A close-up, intimate portrait-oriented photograph of a man and woman framed tightly together. The woman, positioned in the lower-left foreground, is seen...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "深红传统服饰贴面",
+      "copy_title": "情侣+情侣写真+深红传统服饰贴面+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_eecca1bb0de8b2ddd9a94267_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:8c502743d052433427a1181e",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/romantic-pic",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create an ultra-realistic romantic couple portrait using the reference image. Preserve both people's original facial identities, facial features...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白蓝便服浪漫对望",
+      "copy_title": "情侣+情侣写真+白蓝便服浪漫对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_8c502743d052433427a1181e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:5574a1937058ad7251af2aac",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/a-thousand-little-acts-of-love",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Create an ultra-realistic, dreamy, cinematic romantic couple photograph featuring a young man and a young woman in a beautiful traditional Indian...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "窗边孕期轻柔呵护",
+      "copy_title": "情侣+情侣写真+窗边孕期轻柔呵护+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_5574a1937058ad7251af2aac_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:4d8f681e660d27d491edf8c1",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/cinematic-couple-portrait",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "ROMANTIC EDITORIAL ENGAGEMENT Cinematic portrait of a couple sitting under a mossy stone arch covered in ivy, lush green forest in the background, soft...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "绿野石拱秋千对望",
+      "copy_title": "情侣+情侣写真+绿野石拱秋千对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_4d8f681e660d27d491edf8c1_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:7fcb8a8dbae816555501b61f",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/romantic-outdoor-portrait-of-a-couple-in-traditional-attire-holding-a-lotus",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Prompt: A medium-shot romantic outdoor portrait of a young South Asian couple standing close together amidst lush green foliage, smiling warmly as they...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "传统服饰持莲相拥",
+      "copy_title": "情侣+情侣写真+传统服饰持莲相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_7fcb8a8dbae816555501b61f_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:3037d5092c520775b5e0ef14",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/love-in-los-santos-a-gta-v-story",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "GTA V — LOVE IN LOS SANTOS | CINEMATIC COUPLE POSTER Create an ultra-detailed, photorealistic-meets-illustrated GTA V-inspired couple promotional poster in...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "落日都市游戏海报",
+      "copy_title": "情侣+情侣写真+落日都市游戏海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_3037d5092c520775b5e0ef14_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "other:2717b48153d5473e31d54e22",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/boy-love-girl-photo-36866389",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "{\"prompt\": {\"subject\": {\"description\": \"Young Indian couple sitting together on a large rock beside a flowing river\", \"appearance\": \"Girl: long open dark...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "溪边戏水双人写真",
+      "copy_title": "情侣+情侣写真+溪边戏水双人写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_2717b48153d5473e31d54e22_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df6k2JuCIQu",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df6k2JuCIQu/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "The way a single glance and a jasmine garland can turn a classic moment into timeless romance.\n\n#TraditionalRomance #JasmineVibes #ClassicCouple #DesiAesthetic #RetroLove\n\n[traditional couple portrait, green saree with jasmine flowers, romantic couple look, vintage aesthetic, indian traditional wear, couple goals, jasmine gajra hairstyle, classic romance, ethnic fashion, loving gaze]",
+      "description": "@promptgallery.ig 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "绿纱丽情侣对望",
+      "copy_title": "情侣+情侣写真+绿纱丽情侣对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df6k2JuCIQu_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df6rkVplN_u",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df6rkVplN_u/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 📌🫵👇👇A vibrant, romantic outdoor portrait of a young Indian couple sitting together on green grass in bright natural daylight. The young man is seated on the ground with his right knee bent and left leg extended, wearing a dark forest-green button-down shirt with sleeves rolled up to the forearms, white trousers, a black beaded bracelet on his right wrist, and a dark wristwatch on his left wrist. He has thick, styled dark hair and a and mustache, resting his right cheek lightly against his hand while smiling warmly at the camera. Standing right behind him, leaning slightly over his shoulder, is a young woman wearing a white traditional outfit with pink and red floral prints, a small dark bindi on her forehead, and ornate silver jhumka earrings. Her long brown hair is half-tied back with loose waves falling down her shoulders, and she wraps her arms lovingly around his neck and chest while smiling happily toward the lens. To the left is a dense bush of bright pink blossoms, and behind them is soft green foliage with a creamy shallow depth-of-field bokeh. Shot on an 85mm lens, natural sunlight, crisp skin textures, high-contrast colors, 8K photorealistic portrait photography, preserving exact facial features and expressions without alteration.",
+      "description": "@avi.edit_106 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "繁花草地背后拥抱",
+      "copy_title": "情侣+情侣写真+繁花草地背后拥抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df6rkVplN_u_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdWcT9UmZPe",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdWcT9UmZPe/",
+      "creator": "hepsi_chubbyqueen",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Trending couple wedding prompt ❤️🫂 \nDo follow 👉 like 👍and comment 💭for prompt ❤️ \nPrompt only for followers ❤️ \n\n#picoftheday #explore #instagram #instalike #trendingnow",
+      "description": "@hepsi_chubbyqueen 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/hepsi_chubbyqueen/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白纱草地双人圆形俯拍",
+      "copy_title": "情侣+情侣写真+白纱草地双人圆形俯拍+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:41+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdWcT9UmZPe_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfKKd51kwkB",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfKKd51kwkB/",
+      "creator": "positive_girl_suji_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "👀🐣❤️.\n.\n.\n.\n.\n.\n#romantic #fyp #trending #eyes #world",
+      "description": "@positive_girl_suji_official 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑纱遮面双眼拼贴",
+      "copy_title": "情侣+情侣写真+黑纱遮面双眼拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfKKd51kwkB_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df3pfIXkVhZ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df3pfIXkVhZ/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "PROMPT ✨\nA romantic four-frame collage of a young couple in candid emotional moments, soft cinematic photography, warm muted tones, dreamy atmosphere, Top-left:\ncheek\nkiss with smile.\nTop-right: heart shape with fingers at a café.\nBottom-left; holding hands inside a car.\nBottom-right: girl gently cupping boy's face outdoors at golden hour Add a small, clean, elegant \"YOUR NAME\" logo inw one corner.",
+      "description": "@editingboy1296 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "花衫亲吻比心四格",
+      "copy_title": "情侣+情侣写真+花衫亲吻比心四格+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df3pfIXkVhZ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df7UU_7EU3U",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df7UU_7EU3U/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Comment me prompt likh do sidha tumhare DM me aa jayega ❤\n\n#prompt #aiamanation #trending #aiphoto \n#aigeneratedart @editingboy1296",
+      "description": "@editingboy1296 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白水墨情侣依偎",
+      "copy_title": "情侣+情侣写真+黑白水墨情侣依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df7UU_7EU3U_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df1VuVBGpSW",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df1VuVBGpSW/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "11:11 — A thousand wishes, one beautiful destiny. ✨❤️ \n\nPrompt Code: P-30616189\n\n#1111 #EndlesslyInLove #ForeverUs #lovestory #couplegoals💑 #soulmatelove #madeforeachother #infinitelove #myperson #youandme #foreverandalways #truelove #romanticvibes #loveisbeautiful #coupleportrait #scrapbookart #loveposters #handmadewithlove❤️ #aestheticlove #11_11wish #hearttoheart #togetherforever #relationshipgoals #instalovers #loveneverends❤️",
+      "description": "@promptfyai 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "玫瑰撕纸双眼拼贴",
+      "copy_title": "情侣+情侣写真+玫瑰撕纸双眼拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df1VuVBGpSW_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df4noPBGo6L",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df4noPBGo6L/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Some love stories don't need grand gestures… just a beautiful glance, a shy smile, and a little Kerala magic. ❤️🌿✨\n\nPrompt Code: P-20953712 \n\n#keralalovestory #keralacouple #traditionallove #southindiancouple #keralawedding #tharavaduvibes #keralatradition #preweddingshoot #couplephotography #romanticportrait #indianethnicwear #keralaculture #halfsaree #couplegoals❤ #cinematicphotography #weddinginspiration #forevertogether",
+      "description": "@promptfyai 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "老宅廊下双人相望",
+      "copy_title": "情侣+情侣写真+老宅廊下双人相望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df4noPBGo6L_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df6x-2EmiAV",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df6x-2EmiAV/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Lost in your eyes, found in your love. ❤️✨\n\nPrompt Code: P-65988856 \n\n#CoupleLove #RomanticVibes #LoveStory #ForeverTogether #CoupleGoals #BollywoodRomance #Soulmates #LovePhotography #RomanticPortrait #PromptfyAI",
+      "description": "@promptfyai 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "粉纱丽温柔对望",
+      "copy_title": "情侣+情侣写真+粉纱丽温柔对望+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df6x-2EmiAV_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df7On2RGmM7",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df7On2RGmM7/",
+      "creator": "promptfyai",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "She was once just a sketch in his imagination… until she became his beautiful reality. ❤️\n\nPrompt Code: P-68523346\n\n#lovestory #romanticvibes #dreamtoreality #soulmatelove #truelove #magicallove #cinematiclove #loveinframes #romanticmoments #forevertogether #couplegoals #hearttouching #beautifulmemories #dreamgirl #peoplescreatives #fantasyromance #amberglow #visualstorytelling #trendingréels #explorepages",
+      "description": "@promptfyai 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptfyai/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "金色窗影相思四格",
+      "copy_title": "情侣+情侣写真+金色窗影相思四格+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df7On2RGmM7_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfykjdUk8iq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfykjdUk8iq/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": null,
+      "description": "@gb_creativeimages 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "车窗外一起淋雨",
+      "copy_title": "情侣+情侣写真+车窗外一起淋雨+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfykjdUk8iq_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df1HKnhkeXS",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df1HKnhkeXS/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "COUPLE PROMPT ⭐🩷🩷🩷\n\n#couple #prompt #ai #chatgpt #gemini",
+      "description": "@gb_creativeimages 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "飞雪棕衣相拥",
+      "copy_title": "情侣+情侣写真+飞雪棕衣相拥+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df1HKnhkeXS_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df3ymHniCmP",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df3ymHniCmP/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "A little rain, a lot of love, and a lifetime of togetherness. 💑\n\nIf you had one person to dance with in the rain, who would it be? ❤️\n\n💕 Tag your favourite person & share this with someone who makes your world beautiful!\n\n#RainyLove #CoupleGoals #LoveInTheRain #RomanticVibes #ForeverTogether",
+      "description": "@gb_creativeimages 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑伞雨中牵手",
+      "copy_title": "情侣+情侣写真+黑伞雨中牵手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df3ymHniCmP_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df1JT9LEbSW",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df1JT9LEbSW/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Do follow for prompt ✨ \n#couplephotography #CoupleGoals #CouplePortrait #aigenerated #chatgpt",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "花园吉他相伴",
+      "copy_title": "情侣+情侣写真+花园吉他相伴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df1JT9LEbSW_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df3wsN4Ec_6",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df3wsN4Ec_6/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:04:29+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:04:29+00:00",
+      "caption": "Follow for more Prompt ✨\n#haldi #weddingseason #aigenerated #wedspiration #aigenerated",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "印度市场情侣/亲子AI图片参考；真实竖屏或方形，亲子≤4人，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黄裙哈尔迪额吻",
+      "copy_title": "情侣+情侣写真+黄裙哈尔迪额吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:05:40+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df3wsN4Ec_6_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "other:f8c2e4deeea7333cddae312e",
       "platform": "other",
