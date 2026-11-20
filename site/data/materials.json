@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T07:06:36+00:00",
+  "generated_at": "2026-11-20T07:41:50+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,1152 @@
     ]
   },
   "export_stats": {
-    "formal": 1280,
+    "formal": 1299,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 938,
+    "confirmed_duplicates_skipped": 957,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "instagram:DfmdPTfkj-5",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfmdPTfkj-5/",
+      "creator": "siddarth_edits38",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "❤️",
+      "description": "@siddarth_edits38 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/siddarth_edits38/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "暖光窗边亲额拥抱",
+      "copy_title": "情侣+情侣写真+暖光窗边亲额拥抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:55+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfmdPTfkj-5_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdDcEfeR-px",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdDcEfeR-px/",
+      "creator": "shakhil_thilakan",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "𝓝𝓮𝔀 𝓽𝓻𝓮𝓷𝓭 😊..\n\n#aiart #ai #cinimatic #couple #love",
+      "description": "@shakhil_thilakan 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shakhil_thilakan/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "蓝衫皮衣复古相伴",
+      "copy_title": "情侣+情侣写真+蓝衫皮衣复古相伴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:55+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdDcEfeR-px_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df5CQDSxCx2",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df5CQDSxCx2/",
+      "creator": "hepsi_chubbyqueen",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "உன் அருகாமையில் நான் உணர்வது காதலை மட்டுமல்ல, நம் இருவருக்குமான ஒரே உயிரையும் தான்.💜👩‍❤️‍👨🫂🫰\n\n#picoftheday #explore #instagram #instalike #trending",
+      "description": "@hepsi_chubbyqueen 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/hepsi_chubbyqueen/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白居家情侣拼贴",
+      "copy_title": "情侣+情侣写真+黑白居家情侣拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:55+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df5CQDSxCx2_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df7PX0eGTsH",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df7PX0eGTsH/",
+      "creator": "hepsi_chubbyqueen",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "TRENDING KADHALUKU MARIYADHAI MOVIE PROMPT 💕🫂 \n\nDO Follow 👉 COMMENT 💭 LIKE 👍 and SHARE for MORE Movie PROMPT\nSWIPE till end 🔚 for PROMPT 💕 \n\nComment ur fav movie 💕\n\n#picoftheday #explore #instagram #instalike #trending",
+      "description": "@hepsi_chubbyqueen 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/hepsi_chubbyqueen/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "花间蝴蝶浪漫对视",
+      "copy_title": "情侣+情侣写真+花间蝴蝶浪漫对视+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:55+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df7PX0eGTsH_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbNavVbkdF5",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbNavVbkdF5/",
+      "creator": "prompthunter.x",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "❤️ Romantic Couple Illustration Prompt ❤️\nCreate dreamy, premium couple illustrations with this cinematic AI prompt. Soft eye contact, elegant ethnic fashion, warm color grading, and a luxury editorial vibe—all in one prompt.\n✨ Perfect for couple portraits, wedding concepts, posters, and aesthetic AI art.\n📌 Save this prompt for later. 💬 Comment \"PROMPT\" and I'll send you the full prompt in DM.\nFollow @prompthunter for daily premium AI prompts.\n#AIPrompt #PromptHunter #CouplePrompt #RomanticAI #AIArt Midjourney",
+      "description": "@prompthunter.x 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompthunter.x/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "棕调电影情侣海报",
+      "copy_title": "情侣+情侣写真+棕调电影情侣海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:55+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbNavVbkdF5_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfzhVCeknuJ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfzhVCeknuJ/",
+      "creator": "gourangahens",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "Couple Goals Just Got An Upgrade 🔥🌅\n\n4 VIRAL COUPLE PROMPTS IN 1 POST 😍\n1 - Jump In Water 💦\n2 - Black Lift 🖤\n3 - Red Rose Lift 🌹\n4 - Red Saree Hug ❤️\n\nWhich one is YOUR favourite? Comment 1 / 2 / 3 / 4 👇\n\nWant ALL 4 Prompts FREE? 📩\nComment \"PROMPT\"\nOR Join My WhatsApp Channel - Link In Bio 🔗\nAll prompts already posted there ✨\n\nSAVE This Post ❤️ | SHARE With Your Partner 💑\nFOLLOW For Daily Viral Prompts ✨\n\n#CouplePrompt #ViralPrompt #AIPhotoEditing #GeminiPrompt #couplegoals",
+      "description": "@gourangahens 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gourangahens/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "落日海浪举抱",
+      "copy_title": "情侣+情侣写真+落日海浪举抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfzhVCeknuJ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df7RahjHaOv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df7RahjHaOv/",
+      "creator": "gourangahens",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "7 Blue Saree Couple Prompts 💙🔥 Comment \"PROMPT\" 📩\n#CouplePrompt #BlueSareePrompt #GeminiPrompt #ViralPrompt #aiphotoediting",
+      "description": "@gourangahens 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gourangahens/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "蓝纱花墙温柔枕膝",
+      "copy_title": "情侣+情侣写真+蓝纱花墙温柔枕膝+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df7RahjHaOv_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df4dGeXCCHx",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df4dGeXCCHx/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "Timeless love wrapped in vintage charm and culture. ✨\n#chatgpt #cinema #vintage #southindian #wedding couplegoals\n[south indian wedding, vintage aesthetic, traditional couple, monochrome romance, classic look, ethnic wear, retro vibes, love story, heritage fashion, timeless moments]",
+      "description": "@promptgallery.ig 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "黑白传统婚礼依偎",
+      "copy_title": "情侣+情侣写真+黑白传统婚礼依偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df4dGeXCCHx_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df7aKwgIaSB",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df7aKwgIaSB/",
+      "creator": "prompt.deck",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "Scroll-stopping, prompt-powered. 🚀\nThe exact words that made this are waiting for you.\nWant to recreate this look? Download the Prompt Deck app and get the exact prompt.\n📲 App link in bio.\n\n#PromptDeck #PromptEngineering #AIPortrait #PhotoPrompt #AIPhotoshoot\n\n[Prompt Deck, copy this prompt, ai photo generator prompt, ai portrait app, prompt for chatgpt images, AI image prompt, photo editing prompt, instagram photo prompt, AI edit ideas, AI photo editing, ai photo trend, viral ai portrait]",
+      "description": "@prompt.deck 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/prompt.deck/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "古寺红纱携手",
+      "copy_title": "情侣+情侣写真+古寺红纱携手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df7aKwgIaSB_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DRFENmHAbtS",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DRFENmHAbtS/",
+      "creator": "ai_wala_bhaiya_07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "trend couple prompt 👇💖✅\n.\n. \n#lipstick #shadowsense #senegencedistributor \n\n#mysenelook #lipsensedistributor \n\n#beauty \n\n#lipstickaddict #lipsticklover #lipgloss \n\n#lipstick #senegenceinternational \n\n#kissproof #smudgeproof \n\n#skincare #lipmatte #waterproofmakeup \n\n#makeuptutorial \n\n#pinklipstick #bossbabe #cosmetics \n\n#lipboss #powerlips \n\n#makeupartist \n\n#lipstickhalal \n\n#kosmetikviral⚠️⚠️ #nagpuri_hip_hop_lover \n\n@nagpuri_hip_hop_lover",
+      "description": "@ai_wala_bhaiya_07 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ai_wala_bhaiya_07/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "台阶黑衣相偎",
+      "copy_title": "情侣+情侣写真+台阶黑衣相偎+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DRFENmHAbtS_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df4lywVGIAZ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df4lywVGIAZ/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "#trendingpost \n#viralpost \n#Instagram \n#aiprompts",
+      "description": "@laxman_done_official 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "花田挥手思念叠影",
+      "copy_title": "情侣+情侣写真+花田挥手思念叠影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df4lywVGIAZ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df8tu_DGBWZ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df8tu_DGBWZ/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": ": Prompt 💫 Comment 🤔\n#aiprompts \n#instagram \n#trendingpost \n#viralpost",
+      "description": "@laxman_done_official 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "金光幽灵轻触肩头",
+      "copy_title": "情侣+情侣写真+金光幽灵轻触肩头+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df8tu_DGBWZ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeeY2xbH8Ft",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DeeY2xbH8Ft/",
+      "creator": "positive_girl_suji_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "Soulmate 🥺🫂❤️\n\n#procreate #promote #love #ᴠɪʀᴀʟᴘᴏsᴛ #forher",
+      "description": "@positive_girl_suji_official 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "传统服饰公主抱",
+      "copy_title": "情侣+情侣写真+传统服饰公主抱+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeeY2xbH8Ft_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Deg9dgRk4g9",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Deg9dgRk4g9/",
+      "creator": "positive_girl_suji_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "Urugi urugi ponathadi.. 🫂❤️😍\n\n#trendingaudio #viral #wifey #fyp #trendingsong",
+      "description": "@positive_girl_suji_official 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "绿衣金纱节庆合照",
+      "copy_title": "情侣+情侣写真+绿衣金纱节庆合照+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Deg9dgRk4g9_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeosKXjk7ia",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DeosKXjk7ia/",
+      "creator": "positive_girl_suji_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "Usurathan vitta kooda unna vida maten✨🫂❤️\n\nFollow 👉@positive_girl_suji_official \n\n#viral \n\n#love \n\n#trendingréels \n\n#movies \n\n#wedding",
+      "description": "@positive_girl_suji_official 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "乡村蓝纱草垛相依",
+      "copy_title": "情侣+情侣写真+乡村蓝纱草垛相依+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeosKXjk7ia_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:De_3WjUE-d5",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/De_3WjUE-d5/",
+      "creator": "positive_girl_suji_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "🥺🫂💙.\n.\n.\n.\n.\n.\n#funny #couplegoals #fyp #trending #vintagestyle",
+      "description": "@positive_girl_suji_official 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "白衣情侣情绪拼贴",
+      "copy_title": "情侣+情侣写真+白衣情侣情绪拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_De_3WjUE-d5_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df4y5Y-D8QH",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df4y5Y-D8QH/",
+      "creator": "minushankar3117",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "✨ Every girl, a different vibe. Every prompt, a new masterpiece! 💖\n\nOne prompt can create endless possibilities! 😍 Which look is your favourite?\n\n📌 SAVE this post for later 🔁 SHARE with your AI-loving friends 💬 COMMENT PROMPT if you love these creations!\n\nTry it, create your version and tag me. ❤️\n\n#AIPrompts #GeminiAI #AIPhotoEditing #AIGeneratedImages #AIPhotography GirlAesthetic AIArtCommunity GeminiPrompts PortraitPhotography CreativeAI\n\nAI girl photo prompts, Gemini AI girl prompts, different girl AI looks, realistic AI portrait prompts, AI photo editing prompts, Gemini photo editing, viral AI prompts, aesthetic girl photography, cinematic AI portraits, trending Gemini prompts, ultra realistic AI images, AI image creation ideas, copy paste AI prompts, creative portrait editing",
+      "description": "@minushankar3117 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "新品类探索",
+      "image_description": "台阶分身动作拼贴",
+      "copy_title": "单人女性+新品类探索+台阶分身动作拼贴+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "新品类探索"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df4y5Y-D8QH_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df6C5WmD5Tq",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df6C5WmD5Tq/",
+      "creator": "minushankar3117",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "Follow ❤️ Like ❤️ Comment for more AI wedding prompts!\n\nA beautiful Kerala wedding moment filled with love, tradition and forever memories! 💛🌿✨ When two hearts become one, every moment turns into a fairytale. 🥹❤️\n\nSave this prompt inspiration and share it with someone who loves traditional South Indian weddings!\n\n#KeralaWedding #AIWedding #WeddingPhotography \n#MalayaliBride #MalayaliWedding KeralaBride KeralaGroom KasavuSaree SouthIndianWedding SouthIndianBride SouthIndianGroom TraditionalWedding IndianWeddingPhotography TempleWedding WeddingGarland MalaMaatral BridalJewellery MalayaliBrideLook JasmineHairstyle TraditionalBridalLook IndianBride IndianGroom WeddingCouple DreamWedding WeddingPortrait CinematicWeddingPhotography AIWeddingPhotography AIWeddingPrompt AIPhotoCreation AIPhotoEditing PhotorealisticAI AICouplePortrait WeddingInspiration IndianTradition DesiWedding WeddingVibes BridalInspiration TraditionalCouple WeddingMemories SouthIndianTraditions KasavuLook WeddingGoals Minushankar3117\nKerala traditional wedding, Malayali bride and groom, Kerala Kasavu saree, South Indian wedding photography, traditional temple wedding, AI wedding photo prompt, realistic AI couple portrait, wedding garland ceremony, Kerala bridal look, jasmine bridal hairstyle, dreamy wedding photography, cinematic wedding portrait, traditional Indian wedding",
+      "description": "@minushankar3117 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "喀拉拉婚礼交换花环",
+      "copy_title": "情侣+情侣写真+喀拉拉婚礼交换花环+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df6C5WmD5Tq_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df8oScVjwyN",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df8oScVjwyN/",
+      "creator": "minushankar3117",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-20T07:39:38+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-20T07:39:38+00:00",
+      "caption": "🎬 Follow, Like & Comment “PROMPT” to get the full AI prompt! ❤️\n\nTurn your favourite movie scenes into stunning AI recreations! ✨ Bring iconic cinematic moments to life with the power of AI. Which movie scene should we recreate next? Comment below! 👇\n\n#MovieScene #AIMoviePrompt #TamilMovie #AICreation #AIRecreation CinematicAI MovieRecreation AIPhotoPrompt TamilCinema MovieLovers AIPrompts CinematicPhotography AIArt TamilInstagram MovieScenes\n\nAI movie scene prompt, Tamil movie scene recreation, cinematic AI photo prompt, movie scene AI editing, viral AI prompts, trending movie prompts, AI image generation, realistic movie scene recreation, Tamil cinema AI art, cinematic photo editing, AI photography prompts, movie-inspired AI photos, trending AI photo ideas, text to image prompts, AI photo recreation, movie lovers, Indian cinema scenes, creative AI prompts, ultra realistic AI images, viral Instagram AI prompts",
+      "description": "@minushankar3117 的创意素材",
+      "recommendation_reason": "Sol实际复核原帖及成品，全历史去重后批准。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/minushankar3117/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "情侣写真",
+      "image_description": "红车窗边电影情侣",
+      "copy_title": "情侣+情侣写真+红车窗边电影情侣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "情侣写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-20T07:40:54+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df8oScVjwyN_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "other:aeac43816b14821e6334d96e",
       "platform": "other",
