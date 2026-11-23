@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-23T07:19:11+00:00",
+  "generated_at": "2026-11-23T07:53:20+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,1812 @@
     ]
   },
   "export_stats": {
-    "formal": 1498,
+    "formal": 1528,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 1157,
+    "confirmed_duplicates_skipped": 1187,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "instagram:Df4Iym5o_Av",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df4Iym5o_Av/",
+      "creator": "edit_10x_k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Follow me for  prompts 🫶📌❤️‍🩹\n👉all Copy paste prompts 👈 whatsapp and telegram channel (link in bio)🔗\"\n.\n.\n.\n.\n.\n..\n.\n.\n.\n.\n#figurine #figurinechallenge #gemini #geminiai #aiart chatgpt 3dmodel 3dtrend aireels instaviral trending viralreels trendingnow explorepage fyp instareels reelitfeelit reelsviral instatrend vira viralpost2025 \nphoto explore reels edit",
+      "description": "@edit_10x_k 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edit_10x_k/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "白衫倚黑色越野车",
+      "copy_title": "单人女性+单人写真+白衫倚黑色越野车+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:25+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df4Iym5o_Av_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df6tW_Yo2ZH",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df6tW_Yo2ZH/",
+      "creator": "edit_10x_k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Follow me for  prompts 🫶📌❤️‍🩹\n👉all Copy paste prompts 👈 whatsapp and telegram channel (link in bio)🔗\"\n.\n.\n.\n.\n.\n..\n.\n.\n.\n.\n#figurine #figurinechallenge #gemini #geminiai #aiart chatgpt 3dmodel 3dtrend aireels instaviral trending viralreels trendingnow explorepage fyp instareels reelitfeelit reelsviral instatrend vira viralpost2025 \nphoto explore reels edit",
+      "description": "@edit_10x_k 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edit_10x_k/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "紫衣雪山公路肖像",
+      "copy_title": "单人女性+单人写真+紫衣雪山公路肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df6tW_Yo2ZH_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df9UJcFo-y6",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df9UJcFo-y6/",
+      "creator": "edit_10x_k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Follow me for  prompts 🫶📌❤️‍🩹\n👉all Copy paste prompts 👈 whatsapp and telegram channel (link in bio)🔗\"\n.\n.\n.\n.\n.\n..\n.\n.\n.\n.\n#figurine #figurinechallenge #gemini #geminiai #aiart chatgpt 3dmodel 3dtrend aireels instaviral trending viralreels trendingnow explorepage fyp instareels reelitfeelit reelsviral instatrend vira viralpost2025 \nphoto explore reels edit",
+      "description": "@edit_10x_k 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edit_10x_k/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "酒红长衣街边静坐",
+      "copy_title": "单人女性+单人写真+酒红长衣街边静坐+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df9UJcFo-y6_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df96m_cCGad",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df96m_cCGad/",
+      "creator": "edit_10x_k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Follow me for  prompts 🫶📌❤️‍🩹\n👉all Copy paste prompts 👈 whatsapp and telegram channel (link in bio)🔗\"\n.\n.\n.\n.\n.\n..\n.\n.\n.\n.\n#figurine #figurinechallenge #gemini #geminiai #aiart chatgpt 3dmodel 3dtrend aireels instaviral trending viralreels trendingnow explorepage fyp instareels reelitfeelit reelsviral instatrend vira viralpost2025 \nphoto explore reels edit",
+      "description": "@edit_10x_k 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edit_10x_k/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "黄衣捧花越野车前",
+      "copy_title": "单人女性+单人写真+黄衣捧花越野车前+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df96m_cCGad_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgAcO1QI5bo",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DgAcO1QI5bo/",
+      "creator": "edit_10x_k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Follow me for  prompts 🫶📌❤️‍🩹\n👉all Copy paste prompts 👈 whatsapp and telegram channel (link in bio)🔗\"\n.\n.\n.\n.\n.\n..\n.\n.\n.\n.\n#figurine #figurinechallenge #gemini #geminiai #aiart chatgpt 3dmodel 3dtrend aireels instaviral trending viralreels trendingnow explorepage fyp instareels reelitfeelit reelsviral instatrend vira viralpost2025 \nphoto explore reels edit",
+      "description": "@edit_10x_k 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edit_10x_k/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "雪山米色风衣写真",
+      "copy_title": "单人女性+单人写真+雪山米色风衣写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgAcO1QI5bo_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgCmJ98ozer",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DgCmJ98ozer/",
+      "creator": "edit_10x_k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Follow me for  prompts 🫶📌❤️‍🩹\n👉all Copy paste prompts 👈 whatsapp and telegram channel (link in bio)🔗\"\n.\n.\n.\n.\n.\n..\n.\n.\n.\n.\n#figurine #figurinechallenge #gemini #geminiai #aiart chatgpt 3dmodel 3dtrend aireels instaviral trending viralreels trendingnow explorepage fyp instareels reelitfeelit reelsviral instatrend vira viralpost2025 \nphoto explore reels edit",
+      "description": "@edit_10x_k 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edit_10x_k/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "玫红纱丽草地坐姿",
+      "copy_title": "单人女性+单人写真+玫红纱丽草地坐姿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgCmJ98ozer_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DQ071YCketX",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DQ071YCketX/",
+      "creator": "edit_10x_k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Follow me for  prompts 🫶📌❤️‍🩹\n👉all Copy paste prompts 👈 whatsapp and telegram channel (link in bio)🔗\"\n.\n.\n.\n.\n.\n..\n.\n.\n.\n.\n#figurine #figurinechallenge #gemini #geminiai #aiart #chatgpt #3dmodel #3dtrend #aireels #instaviral #trending #viralreels #trendingnow #explorepage #fyp #instareels #reelitfeelit #reelsviral #instatrend #vira #viralpost2025 \n#photo #explore #reels #edit",
+      "description": "@edit_10x_k 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/edit_10x_k/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "粉衫樱花街头",
+      "copy_title": "单人女性+单人写真+粉衫樱花街头+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DQ071YCketX_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df9byFjo31_",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df9byFjo31_/",
+      "creator": "snehabhawsarofficial",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "If you need me, I’m in Vice City. 🖤💗\n\n#gta6 #gtavi #vicecity #gta6trend #grandtheftauto \n\nGTA 6 | GTA VI | Vice City | Rockstar Games | Ocean Drive | GTA 6 aesthetic | GTA 6 character | Vice City vibes | gaming trend | GTA 6 edit",
+      "description": "@snehabhawsarofficial 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/snehabhawsarofficial/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "霓虹游戏风时尚海报",
+      "copy_title": "单人女性+单人写真+霓虹游戏风时尚海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df9byFjo31__0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df91cKhk53V",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df91cKhk53V/",
+      "creator": "shiva_arts_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
+      "description": "@shiva_arts_official 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shiva_arts_official/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "橙衣五宫格笑颜",
+      "copy_title": "单人男性+单人写真+橙衣五宫格笑颜+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df91cKhk53V_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgCY7p-ExvA",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DgCY7p-ExvA/",
+      "creator": "shiva_arts_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Comment For Prompt 💌 \n\nPaid Editing Available \n\n#prompt \n#chatgpt\n#gemini \n#gaminiai\n#chatgptprompts\nshivaartsofficial",
+      "description": "@shiva_arts_official 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/shiva_arts_official/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "虎椅暖橙霸气海报",
+      "copy_title": "单人男性+单人写真+虎椅暖橙霸气海报+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgCY7p-ExvA_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df_nbvwAeP_",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df_nbvwAeP_/",
+      "creator": "ai_wala_bhaiya_07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "𝗦𝘁𝘆𝗹𝗲 𝗕𝗼𝘆 𝗣𝗿𝗼𝗺𝗽𝘁🖇 😎\n \n\nBio me telegram channel hai uspe sara prompt upload hai 👇✅\n\nFollow For More👇 Join My Telegram Channel🖇\n@ai_wala_bhaiya_07\n. \n. \n#explorepage #trending #followformoreposts #viral #aigeminiprompt",
+      "description": "@ai_wala_bhaiya_07 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ai_wala_bhaiya_07/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "蓝光吉他忧郁肖像",
+      "copy_title": "单人男性+单人写真+蓝光吉他忧郁肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df_nbvwAeP__0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DVc-Hapj5Wh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DVc-Hapj5Wh/",
+      "creator": "im_kochu_bubblie",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": null,
+      "description": "@im_kochu_bubblie 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/im_kochu_bubblie/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "黄衣林间发辫",
+      "copy_title": "单人女性+单人写真+黄衣林间发辫+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DVc-Hapj5Wh_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DVNs6SkDkuw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DVNs6SkDkuw/",
+      "creator": "ig.akash___10",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Chatgpt edit👍🤗💯\nPrompt ke liye dm karo👍👍",
+      "description": "@ig.akash___10 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ig.akash___10/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "洒红节彩粉飞扬",
+      "copy_title": "单人男性+单人写真+洒红节彩粉飞扬+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DVNs6SkDkuw_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DPhJftBDGGv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DPhJftBDGGv/",
+      "creator": "arghyack",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "1. Open Gemini\n2. Upload image\n3. Write Prompt 👇\n\nA stylish young woman is captured in a half-body shot, posing playfully against a soft, gradient sky background that transitions from light blue at the bottom to white at the top. She is looking upwards and slightly to the right, with a cheerful expression and red lipstick visible. Her hands are positioned near her face, as if blowing a kiss. She is wearing fashionable accessories including a beige baseball cap with a prominent blue \"LA\" logo, mirrored sunglasses reflecting the sky, a watch on her left wrist, and a ring on her right hand. Her attire consists of a light green (or pale yellow) knit sleeveless vest with an open front, featuring subtle embroidered floral or leaf patterns, and faded blue jeans. Her brown hair is visible beneath the cap. The lighting is bright and even, highlighting her features and attire.\nAll poses prompt here https://t.me/gemini_ai_prompts/129?single",
+      "description": "@arghyack 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/arghyack/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "棒球帽山景全身",
+      "copy_title": "单人女性+单人写真+棒球帽山景全身+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DPhJftBDGGv_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdB_Jr-GevE",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdB_Jr-GevE/",
+      "creator": "vaisshnavi369",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": null,
+      "description": "@vaisshnavi369 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vaisshnavi369/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "红西装侧光卷发",
+      "copy_title": "单人女性+单人写真+红西装侧光卷发+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdB_Jr-GevE_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgAiXo7kmgM",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DgAiXo7kmgM/",
+      "creator": "avi.edit_106",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "prompt.@avi.edit_106 📌🫵 Trending Gemini Ai photo genration prompt \n#géminiai #ai #photoai #geminiaipro #promts \numsgrwgeminipromts\n\nprompt.@avi.edit_106 📌🫵👇👇Full-body cinematic action portrait of a young man walking forward toward the camera on a wet, reflective dark ground with scattered rubble and debris. He has voluminous, wavy dark hair, a trimmed mustache and goatee, a serious confident expression, and wears dark sunglasses. Outfit: open black denim or cotton jacket with sleeves pushed up slightly, black crew-neck t-shirt, fitted black pants, and clean white sneakers. Accessories: dark watch on left wrist, beaded bracelet on right wrist, and a dark ring. Background: dramatic ruined stone structures, heavy dark smoke, glowing embers, and intense bright orange fire flames, with a tattered black flag featuring a glowing golden crown waving on the left. Dramatic rim lighting from the fire, moody high-contrast color grading, sharp focus, shallow depth of field, ultra-detailed photo style, 4:5 vertical aspect ratio.",
+      "description": "@avi.edit_106 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/avi.edit_106/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "黑衣火场王冠旗",
+      "copy_title": "单人男性+单人写真+黑衣火场王冠旗+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgAiXo7kmgM_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgAGnjKmAXK",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DgAGnjKmAXK/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "#trendingpost \n#viralpost \n#aiprompts \n#Instagram",
+      "description": "@laxman_done_official 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "粉花双重曝光肖像",
+      "copy_title": "单人女性+单人写真+粉花双重曝光肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgAGnjKmAXK_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgCMkdeGPdO",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DgCMkdeGPdO/",
+      "creator": "laxman_done_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "#trendingpost \n#aiprompts \n#instagram \n#viralpost",
+      "description": "@laxman_done_official 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/laxman_done_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "夕阳麦田橙衣",
+      "copy_title": "单人女性+单人写真+夕阳麦田橙衣+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgCMkdeGPdO_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df9MXuCCB7g",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df9MXuCCB7g/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "All-black suits, sharp glances, and timeless wristwatches—pure studio charisma that stops the scroll.\n\n#chatgpt #prompt #mensfashion #studioportrait #blacksuit\n\n[all black outfit, men studio portrait, black wristwatch style, confident pose, dark background photography, men formal fashion, sharp beard style, moody studio lighting, monochrome fashion trend, menswear inspiration]",
+      "description": "@promptgallery.ig 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "黑衣暗调托腮",
+      "copy_title": "单人男性+单人写真+黑衣暗调托腮+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df9MXuCCB7g_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df9wUYwoILA",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df9wUYwoILA/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Same outfit, same greenery, completely different vibe across every single frame.\n\n#chatgpt #prompt #aiphotography #portraitstyle #reelsedit\n[AI portrait edit, outdoor nature photoshoot, cream crewneck outfit, celebrity lookalike edit, cinematic portrait style, photo editing trend, Instagram reels edit, natural lighting portrait, minimalist fashion aesthetic, AI image transformation]",
+      "description": "@promptgallery.ig 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "白毛衣绿叶肖像",
+      "copy_title": "单人女性+单人写真+白毛衣绿叶肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df9wUYwoILA_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df_JGNVglvk",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df_JGNVglvk/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Serene moments with jasmine gajra, crimson embroidery, and tranquil lakeside calm.\n\n#chatgpt #prompt #jasminegajra #ethnicfashion #traditionalwear\n\n[jasmine gajra, traditional Indian attire, red embroidered saree, gold bangles, serene lakeside aesthetic, floral elegance, ethnic jewelry, peaceful vibes, South Asian fashion, golden hour portrait]",
+      "description": "@promptgallery.ig 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "红衣茉莉闻花",
+      "copy_title": "单人女性+单人写真+红衣茉莉闻花+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df_JGNVglvk_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgByynoCHbf",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DgByynoCHbf/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Golden hour wheat fields and rust-knit sweaters—this warm sunset portrait aesthetic is pure visual calm.\n#chatgpt #prompt #goldenhour #aiportrait #photoediting\n[golden hour portrait, rust knit sweater, sunset wheat field, AI photo editing, cinematic sunlight, warm aesthetic, portrait trend, AI image style, outdoor sunset look, rim light portrait]",
+      "description": "@promptgallery.ig 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "麦田橙毛衣逆光",
+      "copy_title": "单人男性+单人写真+麦田橙毛衣逆光+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgByynoCHbf_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgCVU4YiC6h",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DgCVU4YiC6h/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "The set features moody, double-exposure studio portraits pairing a warm-lit foreground subject with a faded monochrome side-profile shadow against a dark backdrop\n\n#chatgpt #prompt #aiphotography #doubleexposure #photoediting\n\n[double exposure portrait edit, AI photo editing trend, cinematic studio portrait, monochrome shadow effect, saree AI portrait, jacket fashion edit, AI image generation, Instagram reels aesthetic, dual exposure photography, portrait editing ideas]",
+      "description": "@promptgallery.ig 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "棕衣银发双重曝光",
+      "copy_title": "单人男性+单人写真+棕衣银发双重曝光+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgCVU4YiC6h_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgDBBMFCNVh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DgDBBMFCNVh/",
+      "creator": "promptgallery.ig",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "#prompt #gemini #geminiedits \n\n[ Google Gemini, Prompt, Nano banana, Image Editing, prompts, Gemini Edits, Photo Edits, Trending Edits, Tamil Edits, Office]",
+      "description": "@promptgallery.ig 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/promptgallery.ig/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "绿衬衫林荫街头",
+      "copy_title": "单人男性+单人写真+绿衬衫林荫街头+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:24+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgDBBMFCNVh_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df6K4GYCA6J",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df6K4GYCA6J/",
+      "creator": "gb_creativeimages",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": null,
+      "description": "@gb_creativeimages 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/gb_creativeimages/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "酒红绒衣墨镜写真",
+      "copy_title": "单人男性+单人写真+酒红绒衣墨镜写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df6K4GYCA6J_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfqkZeVHVvn",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfqkZeVHVvn/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "𝐂𝐫𝐞𝐚𝐭𝐞 𝐚𝐧 𝐮𝐥𝐭𝐫𝐚-𝐫𝐞𝐚𝐥𝐢𝐬𝐭𝐢𝐜 𝟖𝐊 𝐇𝐃 𝐩𝐨𝐫𝐭𝐫𝐚𝐢𝐭 𝐮𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐮𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐩𝐡𝐨𝐭𝐨 𝐚𝐬 𝐭𝐡𝐞 𝐞𝐱𝐚𝐜𝐭 𝐟𝐚𝐜𝐞 𝐚𝐧𝐝 𝐢𝐝𝐞𝐧𝐭𝐢𝐭𝐲 𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞. 𝐀 𝐬𝐭𝐲𝐥𝐢𝐬𝐡 𝐲𝐨𝐮𝐧𝐠 𝐦𝐚𝐧 𝐬𝐢𝐭𝐭𝐢𝐧𝐠 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐭𝐥𝐲 𝐨𝐧 𝐚 𝐫𝐞𝐝 𝐑𝐨𝐲𝐚𝐥 𝐄𝐧𝐟𝐢𝐞𝐥𝐝 𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐦𝐨𝐭𝐨𝐫𝐜𝐲𝐜𝐥𝐞, 𝐰𝐞𝐚𝐫𝐢𝐧𝐠 𝐚 𝐥𝐢𝐠𝐡𝐭 𝐛𝐥𝐮𝐞 𝐨𝐯𝐞𝐫𝐬𝐢𝐳𝐞𝐝 𝐛𝐮𝐭𝐭𝐨𝐧-𝐮𝐩 𝐬𝐡𝐢𝐫𝐭 𝐰𝐢𝐭𝐡 𝐫𝐨𝐥𝐥𝐞𝐝-𝐮𝐩 𝐬𝐥𝐞𝐞𝐯𝐞𝐬, 𝐝𝐚𝐫𝐤 𝐠𝐫𝐞𝐲 𝐣𝐞𝐚𝐧𝐬, 𝐛𝐥𝐚𝐜𝐤 𝐫𝐞𝐜𝐭𝐚𝐧𝐠𝐮𝐥𝐚𝐫 𝐬𝐮𝐧𝐠𝐥𝐚𝐬𝐬𝐞𝐬, 𝐚 𝐬𝐢𝐥𝐯𝐞𝐫 𝐰𝐫𝐢𝐬𝐭𝐰𝐚𝐭𝐜𝐡, 𝐚𝐧𝐝 𝐚 𝐬𝐦𝐚𝐥𝐥 𝐫𝐞𝐝 𝐭𝐢𝐥𝐚𝐤 𝐨𝐧 𝐡𝐢𝐬 𝐟𝐨𝐫𝐞𝐡𝐞𝐚𝐝. 𝐓𝐡𝐢𝐜𝐤, 𝐧𝐚𝐭𝐮𝐫𝐚𝐥𝐥𝐲 𝐰𝐚𝐯𝐲 𝐛𝐥𝐚𝐜𝐤 𝐡𝐚𝐢𝐫, 𝐬𝐦𝐢𝐥𝐢𝐧𝐠 𝐞𝐱𝐩𝐫𝐞𝐬𝐬𝐢𝐨𝐧, 𝐫𝐞𝐥𝐚𝐱𝐞𝐝 𝐬𝐢𝐭𝐭𝐢𝐧𝐠 𝐩𝐨𝐬𝐞 𝐰𝐢𝐭𝐡 𝐨𝐧𝐞 𝐡𝐚𝐧𝐝 𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐛𝐞𝐬𝐢𝐝𝐞 𝐭𝐡𝐞 𝐦𝐨𝐭𝐨𝐫𝐜𝐲𝐜𝐥𝐞.\n\n𝐁𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥 𝐨𝐮𝐭𝐝𝐨𝐨𝐫 𝐧𝐚𝐭𝐮𝐫𝐚𝐥 𝐛𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝 𝐰𝐢𝐭𝐡 𝐠𝐫𝐞𝐞𝐧 𝐭𝐫𝐞𝐞𝐬, 𝐬𝐨𝐟𝐭 𝐬𝐮𝐧𝐥𝐢𝐠𝐡𝐭, 𝐜𝐢𝐧𝐞𝐦𝐚𝐭𝐢𝐜 𝐛𝐨𝐤𝐞𝐡 𝐞𝐟𝐟𝐞𝐜𝐭, 𝐬𝐡𝐚𝐥𝐥𝐨𝐰 𝐝𝐞𝐩𝐭𝐡 𝐨𝐟 𝐟𝐢𝐞𝐥𝐝. 𝐊𝐞𝐞𝐩 𝐭𝐡𝐞 𝐫𝐞𝐝 𝐑𝐨𝐲𝐚𝐥 𝐄𝐧𝐟𝐢𝐞𝐥𝐝 𝐦𝐨𝐭𝐨𝐫𝐜𝐲𝐜𝐥𝐞 𝐜𝐥𝐞𝐚𝐫𝐥𝐲 𝐯𝐢𝐬𝐢𝐛𝐥𝐞, 𝐫𝐞𝐚𝐥𝐢𝐬𝐭𝐢𝐜 𝐜𝐡𝐫𝐨𝐦𝐞 𝐝𝐞𝐭𝐚𝐢𝐥𝐬, 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐃𝐒𝐋𝐑 𝐩𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲, 𝐧𝐚𝐭𝐮𝐫𝐚𝐥 𝐬𝐤𝐢𝐧 𝐭𝐞𝐱𝐭𝐮𝐫𝐞, 𝐬𝐡𝐚𝐫𝐩 𝐟𝐨𝐜𝐮𝐬, 𝐩𝐫𝐞𝐦𝐢𝐮𝐦 𝐜𝐨𝐥𝐨𝐫 𝐠𝐫𝐚𝐝𝐢𝐧𝐠, 𝟖𝐊 𝐔𝐥𝐭𝐫𝐚 𝐇𝐃 𝐪𝐮𝐚𝐥𝐢𝐭𝐲, 𝟒:𝟓 𝐩𝐨𝐫𝐭𝐫𝐚𝐢𝐭 𝐫𝐚𝐭𝐢𝐨.\n\n𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭: 𝐏𝐫𝐞𝐬𝐞𝐫𝐯𝐞 𝐭𝐡𝐞 𝐨𝐫𝐢𝐠𝐢𝐧𝐚𝐥 𝐟𝐚𝐜𝐞 𝟏𝟎𝟎% 𝐞𝐱𝐚𝐜𝐭𝐥𝐲. 𝐃𝐨 𝐧𝐨𝐭 𝐜𝐡𝐚𝐧𝐠𝐞 𝐟𝐚𝐜𝐢𝐚𝐥 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬, 𝐡𝐚𝐢𝐫𝐬𝐭𝐲𝐥𝐞, 𝐬𝐤𝐢𝐧 𝐭𝐨𝐧𝐞, 𝐨𝐫 𝐢𝐝𝐞𝐧𝐭𝐢𝐭𝐲. 𝐍𝐨 𝐟𝐚𝐜𝐞 𝐬𝐦𝐨𝐨𝐭𝐡𝐢𝐧𝐠, 𝐧𝐨 𝐝𝐢𝐬𝐭𝐨𝐫𝐭𝐢𝐨𝐧, 𝐧𝐨 𝐰𝐚𝐭𝐞𝐫𝐦𝐚𝐫𝐤.",
+      "description": "@editingboy1296 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "蓝衫墨镜倚红摩托",
+      "copy_title": "单人男性+单人写真+蓝衫墨镜倚红摩托+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfqkZeVHVvn_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DftB5KPHec7",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DftB5KPHec7/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Create an ultra-realistic 8K DSLR portrait of the same boy sitting beside a beautiful lake during golden hour, wearing a white rolled-sleeve shirt and black trousers, looking peacefully into the distance. Soft golden sunlight, lush green grass, cinematic blurred water background, 85mm lens, natural skin texture, preserve 100% original face identity, vertical 9:16, no text, no watermark. ❤️",
+      "description": "@editingboy1296 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "湖畔白衫静坐侧脸",
+      "copy_title": "单人男性+单人写真+湖畔白衫静坐侧脸+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DftB5KPHec7_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfvyT4UpGoG",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfvyT4UpGoG/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Short Prompt:\n\nCreate an ultra-realistic 8K cinematic fashion portrait of the same young man from the reference photo, preserving his exact facial identity. Messy voluminous black hair, black rectangular sunglasses, silver hoop earring, dark chocolate-brown suede leather jacket over a black T-shirt. Three-quarter pose, confident expression, warm dramatic side lighting, realistic shadow on beige-grey studio background, DSLR 85mm lens, sharp details, premium men's fashion photography, vertical 9:16.",
+      "description": "@editingboy1296 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "棕色皮衣侧光特写",
+      "copy_title": "单人男性+单人写真+棕色皮衣侧光特写+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfvyT4UpGoG_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df6HqT_Jibp",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df6HqT_Jibp/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Create an ultra-realistic cinematic outdoor portrait of a young Indian man standing in a beautiful green meadow filled with pink foxtail flowers. Use the uploaded reference photo as the ONLY identity reference. Preserve the exact facial identity, natural skin tone, face shape, eyes, nose, lips, hairstyle and beard details.",
+      "description": "@editingboy1296 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "粉草花海黑衣肖像",
+      "copy_title": "单人男性+单人写真+粉草花海黑衣肖像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df6HqT_Jibp_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Df_OgW3iGRV",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Df_OgW3iGRV/",
+      "creator": "editingboy1296",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23T07:51:10+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-23T07:51:10+00:00",
+      "caption": "Cinematic outdoor portrait shot on iPhone 15 Pro Max, aspect ratio 3:4. Place the subject relatively small in the lower-center of the frame with ample empty space above his head. A young man with the same face as the reference and dark wavy hair stands by a slanted rough tree trunk in a green park, head tilted down looking at a bright red-orange flower in his left hand near his chest, right hand resting on the branch.",
+      "description": "@editingboy1296 的创意素材",
+      "recommendation_reason": "印度市场单人写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/editingboy1296/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "绿叶树旁拈花",
+      "copy_title": "单人男性+单人写真+绿叶树旁拈花+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-23T07:52:23+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Df_OgW3iGRV_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "other:040921b8730f3078af021730",
       "platform": "other",
