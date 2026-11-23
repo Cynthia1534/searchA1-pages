@@ -11,7 +11,7 @@ EXPECTED_HOSTS = {
     'youtube': {'youtube.com', 'www.youtube.com', 'youtu.be'},
     'facebook': {'facebook.com', 'www.facebook.com'},
     'threads': {'threads.com', 'www.threads.com', 'threads.net', 'www.threads.net'},
-    'other': {'hailuoai.video', 'www.hailuoai.video', 'snapchat.com', 'www.snapchat.com', 'higgsfield.ai', 'promptbird.in', 'imagepromptlab.com', 'sushilprompt.com', 'auraprompt.in', 'rawpixel.com', 'www.rawpixel.com', 'nohaya.com', 'www.nohaya.com', 'editmk.com', 'askexclusive.com', 'prompthai.in', 'khanedits.com', 'aiphoto-prompts.com', 'hixa.in', 'www.hixa.in'},
+    'other': {'hailuoai.video', 'www.hailuoai.video', 'snapchat.com', 'www.snapchat.com', 'higgsfield.ai', 'promptbird.in', 'imagepromptlab.com', 'sushilprompt.com', 'auraprompt.in', 'rawpixel.com', 'www.rawpixel.com', 'nohaya.com', 'www.nohaya.com', 'editmk.com', 'askexclusive.com', 'prompthai.in', 'khanedits.com', 'aiphoto-prompts.com', 'hixa.in', 'www.hixa.in', 'promptzify.com', 'editsprompts.com', 'karoprompt.in', 'mkprompt.com', 'promptratio.com', 'media.io', 'www.media.io'},
 }
 
 EXPECTED_THEMES = set(['情侣写真','舞蹈','单人写真','亲子家庭写真','宝宝儿童写真','耍帅','节庆','短剧剧情','新品类探索'])
@@ -50,19 +50,21 @@ def valid_post_url(platform, value):
         if platform == 'other' and post.hostname in {'rawpixel.com', 'www.rawpixel.com'}:
             return (not post.query and not post.fragment and re.fullmatch(
                 r'/image/[1-9]\d*/[a-z0-9]+(?:-[a-z0-9]+)*/?', post.path) is not None)
-        if platform == 'other' and post.hostname == 'editmk.com':
+        if platform == 'other' and post.hostname in {'editmk.com', 'mkprompt.com', 'promptratio.com'}:
             return (not post.query and not post.fragment and re.fullmatch(
                 r'/prompt/[a-z0-9]+(?:-[a-z0-9]+)*/?', post.path) is not None)
         if platform == 'other' and post.hostname in {'nohaya.com', 'www.nohaya.com'}:
             return (not post.query and not post.fragment and re.fullmatch(
                 r'/prompts/[a-z0-9]+(?:-[a-z0-9]+)*/?', post.path) is not None)
-        if platform == 'other' and post.hostname in {'imagepromptlab.com', 'sushilprompt.com', 'auraprompt.in', 'askexclusive.com', 'prompthai.in', 'khanedits.com', 'aiphoto-prompts.com'}:
+        if platform == 'other' and post.hostname in {'imagepromptlab.com', 'sushilprompt.com', 'auraprompt.in', 'askexclusive.com', 'prompthai.in', 'khanedits.com', 'aiphoto-prompts.com', 'promptzify.com', 'editsprompts.com', 'karoprompt.in'}:
             return (not post.query and not post.fragment
                     and post.path.strip('/') not in {'category', 'tag', 'search', 'about', 'contact'}
                     and re.fullmatch(r'/[a-z0-9]+(?:-[a-z0-9]+)*/?', post.path) is not None)
         if platform == 'other' and post.hostname == 'promptbird.in':
             return (not post.query and not post.fragment and re.fullmatch(
                 r'/prompt/[a-z0-9]+(?:-[a-z0-9]+)*/?', post.path) is not None)
+        if platform == 'other' and post.hostname in {'media.io', 'www.media.io'}:
+            return (not post.query and not post.fragment and post.path == '/image-effects/gemini-father-and-daughter-prompt.html')
         if platform == 'other' and post.hostname == 'higgsfield.ai':
             return (not post.query and not post.fragment and re.fullmatch(
                 r'/contests/make-your-action-scene/submissions/[0-9a-f]{8}-(?:[0-9a-f]{4}-){3}[0-9a-f]{12}/?', post.path) is not None)
