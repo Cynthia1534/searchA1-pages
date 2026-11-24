@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-23T07:53:20+00:00",
+  "generated_at": "2026-11-24T01:52:22+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,12 +25,372 @@
     ]
   },
   "export_stats": {
-    "formal": 1528,
+    "formal": 1534,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 1187,
+    "confirmed_duplicates_skipped": 1193,
     "suspected_duplicates_included": 1
   },
   "materials": [
+    {
+      "id": "other:f46d32ab88b86f59a710152e",
+      "platform": "other",
+      "post_url": "https://editmk.com/prompt/intimate-low-key-portrait-of-a-south-asian-mother-and-her-young-son",
+      "creator": "editmk.com",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24T01:49:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24T01:49:55+00:00",
+      "caption": "Intimate low-key portrait of a South Asian mother and her young son seated closely together against a deep black background, warm candlelit scene with an...",
+      "description": "@editmk.com 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://editmk.com/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑金母子灯笼光影",
+      "copy_title": "亲子家庭+亲子家庭写真+黑金母子灯笼光影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T01:51:18+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/other_f46d32ab88b86f59a710152e_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DYulsgVtYTE",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DYulsgVtYTE/",
+      "creator": "vr_.vex._",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24T01:49:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24T01:49:55+00:00",
+      "caption": "Everyone's Dream Family photo 📸💎🫂♥️\nPrompt :👇🏻\n\nUltra-realistic black and white studio portrait of an Indian mother, father, and two sons in a close, affectionate pose. The two sons stands behind them, gently wrapping her arms around their shoulders. All look at the camera with natural, warm smiles.\nKeep original facial features unchanged-no alteration to face shape, skin tone, or expressions.\nDark studio background with a soft gradient. Professional soft directional lighting from one side, creating gentle shadows and cinematic contrast.\nHigh-detail skin texture, sharp focus, 85mm lens, shallow depth of field, symmetrical composition, minimalistic style.\nCinematic monochrome, fine art finish, smooth tonal transitions, realistic shadows, DSLR-quality, high resolution, elegant and timeless family portrait.\n\n.\n.\n.\n.\n.\n.\n#fyp \n#virel \n#instalike\n#family \n#instadaily",
+      "description": "@vr_.vex._ 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vr_.vex._/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "黑白父母双子合影",
+      "copy_title": "亲子家庭+亲子家庭写真+黑白父母双子合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T01:51:18+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DYulsgVtYTE_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DekKzW8DRp-",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DekKzW8DRp-/",
+      "creator": "vr_.vex._",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24T01:49:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24T01:49:55+00:00",
+      "caption": "அம்மா 🌍🦋🌷 @vr_.vex._ \n\nforever ♾️ 💯\n.\n.\n.\n#amma #forever #mom #trending #post\n\nPrompt :⬇️\n\npaper-cover illustration.\nPreserve the subjects' facial\nidentity, essential facial\nfeatures, pose, proportions, \nsilhouette, and family\ninteraction accurately. Simplify\nunnecessary details using\ndelicate imperfect hand-drawn\nlines, bold flat acrylic-style color shapes, \nvisible brush marks, and slightly irregular\nedges I Use a y warm off-white\ntextured paper background\nwith plenty of negative s space.\nKeep the composition small\nand centered in the lower 20%\nof the frame. Extract the dominant colors from the original image and use no more than 4 harmonious colors, Use a loose, poetic, \nrefined, editorial, hand-drawn\naesthetic.",
+      "description": "@vr_.vex._ 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/vr_.vex._/",
+      "alternate_sources": [],
+      "discovery_origin": "codex_discovery",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "紫纱丽母子纸绘写真",
+      "copy_title": "亲子家庭+亲子家庭写真+紫纱丽母子纸绘写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T01:51:18+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DekKzW8DRp-_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgCBdV4R6FR",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DgCBdV4R6FR/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24T01:49:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24T01:49:55+00:00",
+      "caption": "Family prompt ✨ \n#FamilyGoals #FamilyPhotography #aigenerated #FamilyPhotoshoot #prompt",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "蓝衣三口陪娃叠圈",
+      "copy_title": "亲子家庭+亲子家庭写真+蓝衣三口陪娃叠圈+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T01:51:18+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgCBdV4R6FR_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgEcdwiRn_j",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DgEcdwiRn_j/",
+      "creator": "cinetale.duo",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24T01:49:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24T01:49:55+00:00",
+      "caption": "Family prompt ✨ \n#FamilyFirst #FamilyGoals #FamilyPhotography #aigenerated #chatgpt",
+      "description": "@cinetale.duo 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/cinetale.duo/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "白衣三口温柔额吻",
+      "copy_title": "亲子家庭+亲子家庭写真+白衣三口温柔额吻+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T01:51:18+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgEcdwiRn_j_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DfFA92HE_Ls",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DfFA92HE_Ls/",
+      "creator": "positive_girl_suji_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24T01:49:55+00:00",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24T01:49:55+00:00",
+      "caption": "Forever family 🥺🫂❤️.\n.\n.\n.\n.\n.\n#family #fyp #trending #mylove #world",
+      "description": "@positive_girl_suji_official 的创意素材",
+      "recommendation_reason": "印度市场亲子家庭写真AI图片参考；真实竖屏或方形，成品未裁切未拉伸，实际查看成品、互动、服饰及可复刻视觉创意。",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/positive_girl_suji_official/",
+      "alternate_sources": [],
+      "discovery_origin": "user_provided_profile",
+      "discovery_agent": "codex",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "亲子家庭",
+      "theme_tag": "亲子家庭写真",
+      "image_description": "金色寺前亲属合影",
+      "copy_title": "亲子家庭+亲子家庭写真+金色寺前亲属合影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "亲子家庭"
+        ],
+        "theme_tags": [
+          "亲子家庭写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T01:51:18+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DfFA92HE_Ls_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
     {
       "id": "instagram:Df4Iym5o_Av",
       "platform": "instagram",
