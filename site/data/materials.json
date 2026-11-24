@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T02:47:54+00:00",
+  "generated_at": "2026-11-24T09:02:23+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,9 +25,9 @@
     ]
   },
   "export_stats": {
-    "formal": 1550,
+    "formal": 1580,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 1209,
+    "confirmed_duplicates_skipped": 1239,
     "suspected_duplicates_included": 1
   },
   "materials": [
@@ -385,6 +385,1806 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/instagram_DfFA92HE_Ls_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:122152814768765895",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/shaidbro1/posts/122152814768765895/",
+      "creator": "shaidbro1",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Log In\nForgot Account?\nShaid 2.0's Post\nShaid 2.0\nWednesday, September 17, 2025 at 9:10 AM\nSeptember 17, 2025\n \n·\nviral gemini photo edit promt\npromt:  A young Indian man standing on a wet street during light rain, holding a transparent umbrella with his right hand. He is wearing a red checked shirt with sleeves rolled up, grey slim-fit jeans, and white chunky sneakers. His head is slightly tilted down, smiling subtly. His left hand is in his pocket, and his right leg is lifted forward in a playful kicking pose. The street is shiny from the rain, with a blurred background of green trees#\nAll reactions:\n1K\n122 comments\n83 shares\nLike\nComment\nAshraful SK\nHow did you edit this? \n1y\n1\nShaid 2.0 replied\n \n·\n2 Replies\nMurmu Murmu\n@followers\n1y\n1\nShaid 2.0 replied\n \n·\n1 Reply\nMurmu Murmu\nAnek Sandor hoyeche\n1y\n1\nShaid 2.0 replied\n \n·\n1 Reply\nTharum Chakma\nভাইয়া আমাকেও বানিয়েদেন প্লিজ প্লিজ প্লিজ \n1y\n2\nShaid 2.0 replied\n \n·\n1 Reply\nRaj Prajapati\npromt: A young Indian man standing on a wet street during light rain, holding a transparent umbrella with his right hand. He is wearing a red checked shirt with sleeves rolled up, grey slim-fit jeans, and white chunky sneakers. His head is slightly tilted down, smiling subtly. His left hand is in his pocket, and his right leg is lifted forward in a playful kicking pose. The street is shiny from the rain, with a blurred background of green trees#\n1y\n7\nA K Sikdar\nঅসাধারণ হয়েছে\n1y\nShaid 2.0 replied\n \n·\n1 Reply\nSʋsɱɩtʌ Mondal\nThat's an amazing photo \n1y\nShaid 2.0 replied\n \n·\n1 Reply\nMd Roton Sekh\nভাই প্রমেরটা ইনবক্সে দেন\n1y\n1\nShaid 2.0 replied\n \n·\n3 Replies\nMominuzzaman Khokon\nঅনেক সুন্দর হয়েছে\n1y\n1\nShaid 2.0 replied\n \n·\n1 Reply\nSanjay Chouhan\nSuper \n1y\nShaid 2.0 replied\n \n·\n1 Reply\nSee more from Shaid 2.0\nEmail or phone number\nPassword\nLog In\nForgot password?\nor\nCreate new account\nAllow the use of cookies from Facebook on this browser?\nWe use cookies and similar technologies to help provide and improve content on Meta Products. We also use them to provide a safer experience by using information we receive from cookies on and off Facebook, and to provide and improve Meta Products for people who have an account.\nEssential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.\nCookies from other companies: We use these cookies to show you ads off of Meta Products and to provide features like maps and videos on Meta Products. These cookies are optional.\nYou have control over the optional cookies we use. Learn more about cookies and how we use them, and review or change your choices at any time in our Cookies Policy.\nAbout cookies\nWhat are cookies?\nLearn more\nWhy do we use cookies?\nLearn more\nWhat are Meta Products?\nLearn more\nYour cookie choices\nLearn more\nCookies from other companies\nWe use cookies from other companies in order to show you ads off of our Products, and provide features like maps, payment services and video.\nChoose cookies by category\nHow we use these cookies\nIf you allow these cookies\nIf you don't allow these cookies\nOther ways you can control your information\nManage your ad experience in Accounts Center\nMore information about online advertising\nControlling cookies with browser settings\nDecline optional cookies\nAllow all cookies",
+      "description": "@shaidbro1 的创意素材",
+      "recommendation_reason": "雨中透明伞红格纹衬衫，1K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/shaidbro1/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "透明雨伞踢腿人像",
+      "copy_title": "单人男性+单人写真+透明雨伞踢腿人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_122152814768765895_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1061445139975714",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/sbcreatesofficial/posts/1061445139975714/",
+      "creator": "sbcreatesofficial",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Log In\nForgot Account?\nSB Creates's Post\nSB Creates\nAI content\n \n·\nFriday, July 3, 2026 at 8:37 AM\nJuly 3\n \n·\nStanding Near The Ocean \nPhoto PROMPT \n#PortraitPhotography \n#oceanview \n#geminiprompt \n#chatgptprompts \n#digitechlive\nAll reactions:\n430\n120 comments\n9 shares\nLike\nComment\nAuthor\nSB Creates\nGenerate an ultra-realistic DSLR full-body portrait of the uploaded handsome man with stylish hair and well groomed, standing confidently at a rugged rocky beach during bright daytime under a soft blue-gray sky. Crystal-clear rocky shoreline, wet sand, realistic ocean waves with white sea foam, and a massive crystal clear abandoned, cracked rusty cargo ship near the shore featuring faded gray steel, weathered textures, railings, and antennas. He is wearing a slightly unbuttoned pastel blue, yellow, black horizontal stripes linen shirt with rolled sleeves, black cargo pant, clean white sneakers, smartwatch, and a square black trendy sunglasses. Natural confident pose, looking slightly side, premium fashion editorial style, lifelike lighting, realistic fabric textures, HDR, ultra-detailed, 85mm DSLR, f/5.6, ISO 100, 8K photorealistic, crystal-clear background, no AI look. Maintain the face same as the uploaded photo. Aspect ratio 4:5\n20w\n14\nView all 8 replies\nMubasshir Ahmmad Shuvo\nGenerate an ultra-realistic DSLR full-body portrait of the uploaded handsome man with stylish hair and well groomed, standing confidently at a rugged rocky beach during bright daytime under a soft blue-gray sky. Crystal-clear rocky shoreline, wet sand, realistic ocean waves with white sea foam, and a massive crystal clear abandoned, cracked rusty cargo ship near the shore featuring faded gray steel, weathered textures, railings, and antennas. He is wearing a slightly unbuttoned pastel blue, yellow, black horizontal stripes linen shirt with rolled sleeves, black cargo pant, clean white sneakers, smartwatch, and a square black trendy sunglasses. Natural confident pose, looking slightly side, premium fashion editorial style, lifelike lighting, realistic fabric textures, HDR, ultra-detailed, 85mm DSLR, f/5.6, ISO 100, 8K photorealistic, crystal-clear background, no AI look. Maintain the face same as the uploaded photo. Aspect ratio 4:5\n19w\nView 1 reply\nKumar Mangal\nGood evening\n20w\n2\nView all 2 replies\nVivak Vivak\n19w\n1\nView all 2 replies\nTop fan\nSunny Seo\n20w\n3\nView all 2 replies\nChandan Mondal\nGIPHY\n20w\n2\nView 1 reply\nশেখ রনি হাসান\nমাশাল্লাহ \n20w\n3\nView all 2 replies\nMaynuddin SiKdar\n20w\n3\nView 1 reply\nTop fan\nSwasthik Tattoo Studio\nCool \n good morning \n20w\n2\nView 1 reply\nShambhu Saha\nWonderful picture! Looking sharp, just like the sunglasses \n20w\n3\nView all 2 replies\nSee more from SB Creates\nEmail or phone number\nPassword\nLog In\nForgot password?\nor\nCreate new account\nAllow the use of cookies from Facebook on this browser?\nWe use cookies and similar technologies to help provide and improve content on Meta Products. We also use them to provide a safer experience by using information we receive from cookies on and off Facebook, and to provide and improve Meta Products for people who have an account.\nEssential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.\nCookies from other companies: We use these cookies to show you ads off of Meta Products and to provide features like maps and videos on Meta Products. These cookies are optional.\nYou have control over the optional cookies we use. Learn more about cookies and how we use them, and review or change your choices at any time in our Cookies Policy.\nAbout cookies\nWhat are cookies?\nLearn more\nWhy do we use cookies?\nLearn more\nWhat are Meta Products?\nLearn more\nYour cookie choices\nLearn more\nCookies from other companies\nWe use cookies from other companies in order to show you ads off of our Products, and provide features like maps, payment services and video.\nChoose cookies by category\nHow we use these cookies\nIf you allow these cookies\nIf you don't allow these cookies\nOther ways you can control your information\nManage your ad experience in Accounts Center\nMore information about online advertising\nControlling cookies with browser settings\nDecline optional cookies\nAllow all cookies",
+      "description": "@sbcreatesofficial 的创意素材",
+      "recommendation_reason": "海边湿岩锈船条纹衬衫，430 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/sbcreatesofficial/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "条纹衫海边锈船",
+      "copy_title": "单人男性+单人写真+条纹衫海边锈船+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1061445139975714_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1085617667558461",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/sbcreatesofficial/posts/1085617667558461/",
+      "creator": "sbcreatesofficial",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Log In\nForgot Account?\nSB Creates's Post\nSB Creates\nAI content\n \n·\nFriday, July 31, 2026 at 6:14 AM\nJuly 31\n \n·\nSitting Pose Photo PROMPT \n#aiphotography \n#AIEditing \n#portraitphotography \n#geminiprompt \n#digitechlive\nAll reactions:\n350\n131 comments\n26 shares\nLike\nComment\nAuthor\nSB Creates\nGenerate a serene, cinematic full body side-profile portrait of the uploaded beautiful woman resting outdoors on ancient, moss-covered stone steps. She is sitting candidly, propping her face gracefully in both hands, looking off-distance with a pensive, daydreaming expression. She wears a vibrant yellow and deep red saree with ornate traditional printed borders and a long-sleeved red blouse. Her dark wavy hair is styled in a loose low bun with soft curls framing her face. She wears small silver jhumka earrings and a subtle red bindi on her forehead. The background features a lush, dark green forest with dreamy bokeh and soft dappled sunlight filtering through trees. Warm earthy tones, film photography, shallow depth of field, 8k resolution, photorealistic. Maintain the face same as the uploaded photo. Aspect ratio 4:5.\n16w\n13\nView all 4 replies\nTop fan\nNidhi Tirkey\nVery nice ji \n14w\n1\nView 1 reply\nSusanta Barman\nSo Beautiful\n16w\n4\nView 1 reply\nTop fan\nMoyuri Devi Moyuri\nSo pretty \n16w\n1\nView 1 reply\nEva's Lifes Tyle\nখুব সুন্দর লাগছে Lovely picture\n16w\n3\nView 1 reply\nAsha Shaw\nSo pretty \n16w\n1\nView 1 reply\nTop fan\nNimas Rianti Sematawayank\nMaksih kaka fromt nya\n16w\n3\nView 1 reply\nTop fan\nMitu Sarkar\nBeautiful \n15w\n1\nView 1 reply\nTonmoy Haldar\nSuper cute!!!\n16w\n1\nView 1 reply\nTop fan\nIsha Paul\n16w\n3\nView 1 reply\nAllow the use of cookies from Facebook on this browser?\nWe use cookies and similar technologies to help provide and improve content on Meta Products. We also use them to provide a safer experience by using information we receive from cookies on and off Facebook, and to provide and improve Meta Products for people who have an account.\nEssential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.\nCookies from other companies: We use these cookies to show you ads off of Meta Products and to provide features like maps and videos on Meta Products. These cookies are optional.\nYou have control over the optional cookies we use. Learn more about cookies and how we use them, and review or change your choices at any time in our Cookies Policy.\nAbout cookies\nWhat are cookies?\nLearn more\nWhy do we use cookies?\nLearn more\nWhat are Meta Products?\nLearn more\nYour cookie choices\nLearn more\nCookies from other companies\nWe use cookies from other companies in order to show you ads off of our Products, and provide features like maps, payment services and video.\nChoose cookies by category\nHow we use these cookies\nIf you allow these cookies\nIf you don't allow these cookies\nOther ways you can control your information\nManage your ad experience in Accounts Center\nMore information about online advertising\nControlling cookies with browser settings\nDecline optional cookies\nAllow all cookies",
+      "description": "@sbcreatesofficial 的创意素材",
+      "recommendation_reason": "芥末黄纱丽苔藓石阶托脸，平台 AI 标签",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/sbcreatesofficial/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "黄红纱丽托脸坐姿",
+      "copy_title": "单人女性+单人写真+黄红纱丽托脸坐姿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1085617667558461_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1304356894378607",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/makeoverbysheetaldey/posts/1304356894378607/",
+      "creator": "makeoverbysheetaldey",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Log In\nForgot Account?\nMakeover BY Sheetal DEY's Post\nMakeover BY Sheetal DEY\nAI content\n \n·\nSaturday, September 13, 2025 at 6:11 PM\nSeptember 13, 2025\n \n·\n﻿Ham Tere Pyar Mein\n \n · Lata Mangeshkar\n \n·\nUff yeh trend\nhere is the prompt\nPrompt: create a vintage grainy but bright image of the reference picture but draped in a perfect brown color pinteresty aesthetic retro saree. It must feel like like a 90’s movie with long hair with a small flower tucked visibly into her curls and romanticising the windy enviroment. The girl is standing against a solid wall deep shadows and contrast drama creating a mysterious and artistic atmosphere where the lighting is warm with golden tones of evoking a sunset or golden hour glow. The background is minimalistic and slightly textured and the expression on her face is moody calm yet slightly happy\n#alart  #followers #highlights #chatgptprompts #gimini\nAll reactions:\n2.8K\n109 comments\n182 shares\nLike\nComment\nSubhankar Das\nKi valo\n1y\n3\nBhumi Pathani\nWhich app\n1y\n3\nManish Agrahari\n‎I don't know why people will just decide to waste their time reading my comment when clearly I have nothing to say.\n‎And this person is still reading it nonsense \n1y\nSakil Pathan\nUff yeh trend\nhere is the prompt\nPrompt: create a vintage grainy but bright image of the reference picture but draped in a perfect brown color pinteresty aesthetic retro saree. It must feel like like a 90’s movie with long hair with a small flower tucked visibly into her curls and romanticising the windy enviroment. The girl is standing against a solid wall deep shadows and contrast drama creating a mysterious and artistic atmosphere where the lighting is warm with golden tones of evoking a sunset or golden hour glow. The background is minimalistic and slightly textured and the expression on her face is moody calm yet slightly happy\n#alart #followers #highlights #chatgptprompts #gimini\n1y\n23\nPori Buragohain\nBeautiful \n1y\nRinki Jena\nbeautiful \n1y\n4\nView 1 reply\nPriya Dhibar\nDarun \n1y\nSwastik Kumar Gouda\nPagal hogye sab\n1y\nSohan Dinda\nখুব সুন্দর\n1y\nNeelima Gaurav Singh\nAI hai toh sub possible Hai\n1y\n1\nSee more from Makeover BY Sheetal DEY\nEmail or phone number\nPassword\nLog In\nForgot password?\nor\nCreate new account\nAllow the use of cookies from Facebook on this browser?\nWe use cookies and similar technologies to help provide and improve content on Meta Products. We also use them to provide a safer experience by using information we receive from cookies on and off Facebook, and to provide and improve Meta Products for people who have an account.\nEssential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.\nCookies from other companies: We use these cookies to show you ads off of Meta Products and to provide features like maps and videos on Meta Products. These cookies are optional.\nYou have control over the optional cookies we use. Learn more about cookies and how we use them, and review or change your choices at any time in our Cookies Policy.\nAbout cookies\nWhat are cookies?\nLearn more\nWhy do we use cookies?\nLearn more\nWhat are Meta Products?\nLearn more\nYour cookie choices\nLearn more\nCookies from other companies\nWe use cookies from other companies in order to show you ads off of our Products, and provide features like maps, payment services and video.\nChoose cookies by category\nHow we use these cookies\nIf you allow these cookies\nIf you don't allow these cookies\nOther ways you can control your information\nManage your ad experience in Accounts Center\nMore information about online advertising\nControlling cookies with browser settings\nDecline optional cookies\nAllow all cookies",
+      "description": "@makeoverbysheetaldey 的创意素材",
+      "recommendation_reason": "白底红花纱丽秋千读书，2.9K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/makeoverbysheetaldey/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "花纱丽秋千阅读",
+      "copy_title": "单人女性+单人写真+花纱丽秋千阅读+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1304356894378607_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DVfkLX9k9yn",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@sweetheart01271/post/DVfkLX9k9yn",
+      "creator": "sweetheart01271",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Hyper-realistic portrait of the young Indian girl (Google Gemini refinement), captured in a close-up at a tilted 45-degree angle, time with waist-length very long brown voluminous hair flowing freely: a few thin soft strands drifting across her face to highlight her long curled eyelashes, her lips in a gentle deep red shade giving a dreamy sweetness She is wearing a full traditional, a rain pink langha. two hand hear upar chunari. Add name signature. face accurate match with uploaded photo.",
+      "description": "@sweetheart01271 的创意素材",
+      "recommendation_reason": "品红 lehenga 45 度倾斜近景",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@sweetheart01271",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "红纱珠饰近景人像",
+      "copy_title": "单人女性+单人写真+红纱珠饰近景人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DVfkLX9k9yn_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DfPWit6Esru",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@edit_10x_k/post/DfPWit6Esru",
+      "creator": "edit_10x_k",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Create a 100% photorealistic, cinematic DSLR photograph of the girl exactly matching the reference image. Keep the SAME outdoor location: a beautiful green tree-lined urban road/street with soft blurred greenery, plants and distant buildings in the background. Keep the SAME camera angle, framing, perspective, natural daylight and shallow depth of field.",
+      "description": "@edit_10x_k 的创意素材",
+      "recommendation_reason": "米白 salwar 街头三姿势",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@edit_10x_k",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "白纱绿荫侧脸写真",
+      "copy_title": "单人女性+单人写真+白纱绿荫侧脸写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DfPWit6Esru_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Dfycd2KGmQX",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mainarabha51/post/Dfycd2KGmQX",
+      "creator": "mainarabha51",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Conversation with Gemini\nAI Image Prompt: A realistic portrait of a beautiful Indian woman with long, wavy black hair, soft makeup, and a gentle smile. She is sitting gracefully on a modern beige sofa indoors. She is wearing a vibrant red salwar kameez suit with sheer long sleeves and a matching red dupatta adorned with subtle golden floral embroidery. She is accessorized with delicate earrings, a thin necklace, a wristwatch, and a small ring @mainarabha51",
+      "description": "@mainarabha51 的创意素材",
+      "recommendation_reason": "红 salwar 米色沙发室内肖像",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mainarabha51",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "红衣沙发温柔坐姿",
+      "copy_title": "单人女性+单人写真+红衣沙发温柔坐姿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Dfycd2KGmQX_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DbEZG7BE0bL",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@itz_raksha_official_/post/DbEZG7BE0bL",
+      "creator": "itz_raksha_official_",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Girl's prompt 💗💗\nPhotorealistic bridal portrait of a woman seated with eyes closed, long voluminous wavy brown hair cascading over shoulders, wearing ornate golden embroidered lehenga with pastel floral sequin work and sheer three-quarter sleeves, heavy traditional red and white chura bangles with intricate deity motifs, large oversized gold nath nose ring with pearl clusters held between lips, bold burgundy lipstick, shimmery eyeshadow, dramatic winged eyeliner and long.",
+      "description": "@itz_raksha_official_ 的创意素材",
+      "recommendation_reason": "金新娘 lehenga 阳光石庭院，平台 AI 标签",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@itz_raksha_official_",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "金色新娘闭目写真",
+      "copy_title": "单人女性+单人写真+金色新娘闭目写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DbEZG7BE0bL_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Da6-jyrEWbq",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@__kittey__10/post/Da6-jyrEWbq",
+      "creator": "__kittey__10",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Ultra-realistic portrait of a @__kittey__10  young Indian woman, same pose as reference image, upper body turned away from camera with over-the-shoulder look, soft elegant smile, head slightly tilted. Wearing exact same pink embroidered lehenga choli, cold-shoulder blouse with thin straps, heavy silver/golden floral embroidery, same fabric texture, same color shade, matching pink sheer dupatta draped on arm, same waist embroidery.",
+      "description": "@__kittey__10 的创意素材",
+      "recommendation_reason": "粉 lehenga 室内背身回眸",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@__kittey__10",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "粉色刺绣回眸人像",
+      "copy_title": "单人女性+单人写真+粉色刺绣回眸人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Da6-jyrEWbq_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DcP-JOcl0QN",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@nasir.akash/post/DcP-JOcl0QN",
+      "creator": "nasir.akash",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "1 ~ 𝐎𝐩𝐞𝐧 𝐠𝐞𝐦𝐢𝐧𝐢 2 ~ 𝐔𝐩𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐫 𝐈𝐦𝐚𝐠𝐞 3 ~ 𝐏𝐫𝐨𝐦𝐩𝐭 𝐂𝐨𝐩𝐲 𝐚𝐧𝐝 𝐏𝐚𝐬𝐭 A vibrant outdoor portrait of a young South Asian man sitting relaxed on a wooden stump in a lush forest. He has thick, dark,  hair. He is wearing a solid black long-sleeved kurta-style shirt with the sleeves slightly rolled up, white trousers, and a dark smartwatch on his left wrist. He is looking directly at the camera with a calm, neutral expression.",
+      "description": "@nasir.akash 的创意素材",
+      "recommendation_reason": "黑 kurta 林间木桩坐姿",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@nasir.akash",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "黑衣林间树桩坐姿",
+      "copy_title": "单人男性+单人写真+黑衣林间树桩坐姿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DcP-JOcl0QN_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DbuTb-yE8uk",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mr.n_i_r_a_m_a_l_9313/post/DbuTb-yE8uk",
+      "creator": "mr.n_i_r_a_m_a_l_9313",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "PROMPT 👇\n Subject: Editorial portrait of the subject in high quality, and young Indian man with upload image Face don't change my reel glass skin face same image hair, as the provided photo, without altering the facial expression). Clothing: loose and fit raw-knit sweater with red heart patterns, baggy destroyed-detail jeans.@mr.n_i_r_a_m_a_l_9313",
+      "description": "@mr.n_i_r_a_m_a_l_9313 的创意素材",
+      "recommendation_reason": "奶油红心针织毛衣户外坐姿",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mr.n_i_r_a_m_a_l_9313",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "爱心毛衣街边坐姿",
+      "copy_title": "单人男性+单人写真+爱心毛衣街边坐姿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DbuTb-yE8uk_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DbFW8MWjCCK",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@rajnishsinghrajput3135/post/DbFW8MWjCCK",
+      "creator": "rajnishsinghrajput3135",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Short Thread Prompt 👇 Keep my face 100% same as the reference image, same hairstyle, beard, no face change, no reshaping, no beautification. Real body: slim-to-normal, 5 ft (152 cm), natural Indian proportions, no muscular body. 3:4 Ultra-realistic DSLR full-body fashion portrait of me in the same pose and outfit. Wearing a black & white oversized checkered flannel overshirt, white T-shirt, black trousers, black & white sneakers, black smartwatch, holding black sunglasses in my right hand.",
+      "description": "@rajnishsinghrajput3135 的创意素材",
+      "recommendation_reason": "白亚麻衬衫九重葛花墙全身",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@rajnishsinghrajput3135",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "白衣繁花拱门写真",
+      "copy_title": "单人男性+单人写真+白衣繁花拱门写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DbFW8MWjCCK_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:Daw1oSJE9SV",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mxmaniiish/post/Daw1oSJE9SV",
+      "creator": "mxmaniiish",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "𝐆𝐞𝐦𝐢𝐧𝐢 𝐀𝐢 𝐏𝐫𝐨𝐦𝐩𝐭.!!🔥⬇️\n𝐅𝐨𝐥𝐥𝐨𝐰 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 : @mxmaniiish ✓\n✍️ Comment \" Prompt \" Check your DMs..! \n💌 Share With Your Friends.!! 🫵 \n#mxmaniiish\n#photography\n#viral\n#gemini\n#prompt",
+      "description": "@mxmaniiish 的创意素材",
+      "recommendation_reason": "格纹衬衫仓库木箱，平台 AI 标签+提示词卡",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mxmaniiish",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "红格衫木箱沉思",
+      "copy_title": "单人男性+单人写真+红格衫木箱沉思+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_Daw1oSJE9SV_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DPJlxMEiZVG",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DPJlxMEiZVG/",
+      "creator": "officialamanzaid",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "All photos prompt link in bio 🔗 https://t.me/officialamanzaid\n.\n.\n.\n.\n#gamini #NanoAI #nanobanana #chatgpt #chatgptprompts #prompt #viralprompt #InstaViral #instagram",
+      "description": "@officialamanzaid 的创意素材",
+      "recommendation_reason": "奶油金绣 sherwani 宫殿宝座椅，3.5K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/officialamanzaid/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "宫殿金衣坐椅人像",
+      "copy_title": "单人男性+单人写真+宫殿金衣坐椅人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DPJlxMEiZVG_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOi_V5pj1by",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DOi_V5pj1by/",
+      "creator": "adityasaxena_official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Gemini everywhere, Comment “Gemini” to get the prompt 🙌\n\n@adityasaxena_official \n@the_shivammsaxena \n\n#googlegemini #gemini #viral #viralvideos #video #trending #trend #explore #explorer #viralreels #reel #instagram #insta #instamood #music #song #songs #bollywood #google #like #follow #followers #follower #following #contant #creator",
+      "description": "@adityasaxena_official 的创意素材",
+      "recommendation_reason": "金黄刺绣 sherwani 配披肩，1.6K 评论",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/adityasaxena_official/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "米白刺绣礼服侧影",
+      "copy_title": "单人男性+单人写真+米白刺绣礼服侧影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOi_V5pj1by_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DbpPkhjIMaB",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DbpPkhjIMaB/",
+      "creator": "itsprinceram",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Swipe left for \"Gemini\" prompts) @itsprinceram\n\n📲Just take a screenshot, copy with the help of google lens and see the Gemini magic💎✨\n\n🚀Follow me for see more magic 🎩💫\n\nSteps:👇\n\n1.Open Gemini and Login\n\n2.Upload a clear picture\n\n3.Use the prompts mentioned in the post\n\nWarning This image is made for entertainment purposes only, please No one takes it seriously\n\n📌NOTE:- If You Like This Post Don't Forget Like, Comment, Share & Mention In Your Story\n.\n.\n#RoyalEnfield\n#BikerLife\n#DesiSwag\n#AttitudeBoy\n#InstaReels",
+      "description": "@itsprinceram 的创意素材",
+      "recommendation_reason": "白头巾坐黑皇家恩菲尔德，平台 AI 标签",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/itsprinceram/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "白头巾摩托骑士",
+      "copy_title": "单人男性+单人写真+白头巾摩托骑士+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DbpPkhjIMaB_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOlFojdiX7r",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DOlFojdiX7r/",
+      "creator": "masterchef_gurkirat",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Comment Prompt ⬇️ and I’ll share the prompts with you 💖",
+      "description": "@masterchef_gurkirat 的创意素材",
+      "recommendation_reason": "头巾白 kurta 持红玫瑰，3.5K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/masterchef_gurkirat/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "红头巾复古车前",
+      "copy_title": "单人男性+单人写真+红头巾复古车前+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOlFojdiX7r_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DQEG_hgCW-F",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DQEG_hgCW-F/",
+      "creator": "rc._rider_hari_.official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Ultra hyper-realistic 4K cinematic portrait of a very handsome young boy (same face) with wavy dark hair,wearing a loose white checks printed shirt and a stylish watch,standing at the open door of a moving train.He’s holding the train door with one hand and stretching the other hand outside into the wind.The soft minimal background features cinematic lighting,vivid blue/pink/yellow. bougainvillea in the corner,blurred green leaves, and stunning depth-of-field bokeh.with cute smile",
+      "description": "@rc._rider_hari_.official 的创意素材",
+      "recommendation_reason": "酒红衬衫探身火车车门，7K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/rc._rider_hari_.official/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "红衣列车门口伸手",
+      "copy_title": "单人男性+单人写真+红衣列车门口伸手+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DQEG_hgCW-F_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOmi5peAuFh",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DOmi5peAuFh/",
+      "creator": "jaskiratmaan07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "♠️❤️ #jaskiratmaan \n............\nPrompt ⬇️\n\nCreate a vintage 1970s Bollywood-inspired photograph of me sitting casually on the hood of a classic car. He is dressed in a cream pinstriped blazer, cream bell-bottom trousers, and a dark brown shirt with the top buttons open, paired with brown formal shoes, giving a confident mafia-style look.The car has wide whitewall tires, chrome details, and a polished metallic body, reflecting sunlight. In the background, tall green trees and hedges frame the scene. The photograph has the warm, grainy tones of a 1970s film camera, giving it a retro cinematic vibe.",
+      "description": "@jaskiratmaan07 的创意素材",
+      "recommendation_reason": "70 年代宝莱坞奶油西装坐老爷车",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/jaskiratmaan07/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "复古白西装倚车",
+      "copy_title": "单人男性+单人写真+复古白西装倚车+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOmi5peAuFh_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DdEanHLCJCe",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DdEanHLCJCe/",
+      "creator": "rc._rider_hari_.official",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Ultra-realistic 8K cinematic full-body portrait, vertical 4:5. A stylish young South Asian man with curly textured curly black hair, neatly trimmed beard and moustache, wearing rectangular dark sunglasses, sits confidently on the hood of a vintage orange-red off-road jeep. He wears a black traditional kurta-pajama, patterned maroon scarf draped around his neck, black loafers, silver wristwatch and bracelet. One knee raised, relaxed pose, looking to the side with a subtle smile.",
+      "description": "@rc._rider_hari_.official 的创意素材",
+      "recommendation_reason": "黑 kurta 墨镜坐复古吉普，2.4K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/rc._rider_hari_.official/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "黑衣红巾吉普坐姿",
+      "copy_title": "单人男性+单人写真+黑衣红巾吉普坐姿+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DdEanHLCJCe_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DPJaQuJid_m",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DPJaQuJid_m/",
+      "creator": "officialamanzaid",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "All photos prompt link in bio 🔗 https://t.me/officialamanzaid\n.\n.\n.\n.\n#gamini #NanoAI #nanobanana #chatgpt #chatgptprompts #prompt #viralprompt #InstaViral #instagram",
+      "description": "@officialamanzaid 的创意素材",
+      "recommendation_reason": "夜间蓝 kurta 灯串多姿势，2.8K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/officialamanzaid/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人男性",
+      "theme_tag": "单人写真",
+      "image_description": "蓝袍金色灯串人像",
+      "copy_title": "单人男性+单人写真+蓝袍金色灯串人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人男性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DPJaQuJid_m_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DgAvMFEDxFb",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@mainarabha51/post/DgAvMFEDxFb",
+      "creator": "mainarabha51",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Conversation with Gemini\nA full-body outdoor candid portrait of a smiling South Asian woman wearing a traditional cream and bright pink embroidered lehenga choli with a pink silk dupatta draped over one shoulder. She is accessorized with a silver choker necklace, matching earrings, and bangles. She is posing gracefully looking at-camera to the side @mainarabha51",
+      "description": "@mainarabha51 的创意素材",
+      "recommendation_reason": "寺庙前奶油亮粉绣花 lehenga，1K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@mainarabha51",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "粉金传统衣裙庭院",
+      "copy_title": "单人女性+单人写真+粉金传统衣裙庭院+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DgAvMFEDxFb_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DRwL4bjk9PD",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DRwL4bjk9PD/",
+      "creator": "ankitasoulful",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "ETHNIC ROYAL LOOK BRIDE POSES🌹💫>>Swipe for Prompt✨\n\nI have created this beautiful prompt by myself for you all🤗❤️. Full wedding vibe 😍\n\nFor Prompt⬇️\n\n▶️If u want the prompt directly into ur dm then first Follow me & then do comment ✅\n\n▶️You can also take screenshot from the prompt I upload✅\n\n(AGAR FOLLOW NI KROGE TOH LINK SHARE YA OPEN NI HOGA)\n\n🔸Join my broadcast channel for more updates ✌🏻\n.\n.\n.\n.\n\n#postoftheday #photoideas #bride #photoshootideas #studiolighting #bridalphotoshoot #royalbride #hyperrealistic #graceful #cinematicshots #posesforpictures #weddingseason2025 #festivevibes #professionalphotography  #weddinglook #luxuryinteriors #enjoythemoment  #googlegemini #geminitrend #gemini #aicreation #aiedits #trend #explore #igreach #follow #nonfollowersandviewers #instadaily #instagram #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp \n\nDo u like this look😍🌹?",
+      "description": "@ankitasoulful 的创意素材",
+      "recommendation_reason": "红新娘 lehenga 宫殿大厅旋转，平台 AI 标签",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ankitasoulful/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "宫殿红新娘旋裙",
+      "copy_title": "单人女性+单人写真+宫殿红新娘旋裙+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DRwL4bjk9PD_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOgg9AOEyEv",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DOgg9AOEyEv/",
+      "creator": "theshimmergirl",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Hopping on to this trend and loving it!\n\n(Gemini ai, viral trend,retro saree trend, ai images, vintage images,retro, viral, beautiful)",
+      "description": "@theshimmergirl 的创意素材",
+      "recommendation_reason": "橙纱丽宫殿拱廊复古风",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/theshimmergirl/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "宫殿回廊复古纱丽",
+      "copy_title": "单人女性+单人写真+宫殿回廊复古纱丽+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOgg9AOEyEv_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DarACISAbyN",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@its_saini_world_07/post/DarACISAbyN",
+      "creator": "its_saini_world_07",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "A hyper-realistic 8K portrait of a beautiful young Indian woman standing on a modern house balcony. She is wearing an elegant solid sky-blue georgette saree with a matching low-neck blouse. She has long black hair neatly styled back, a subtle bindi on her forehead, a delicate diamond necklace, and small earrings. Soft, natural morning sunlight illuminating her face, creating a gentle and warm atmosphere.",
+      "description": "@its_saini_world_07 的创意素材",
+      "recommendation_reason": "阳台晨光天蓝纱丽，完整提示词",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@its_saini_world_07",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "蓝纱丽阳台写真",
+      "copy_title": "单人女性+单人写真+蓝纱丽阳台写真+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DarACISAbyN_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOfbl3gka5G",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DOfbl3gka5G/",
+      "creator": "itss_me_raji",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Gemini trend 🪄\n\nPrompt: Convert, 4k HD realistic, A stunning portrait of a young Indian woman with long, dark, wavy hair cascading over her shoulders. 226 She is wearing a translucent, elegant red saree draped over one shoulder, revealing a fitted blouse underneath. White flowers are tucked behind her right ear. She is looking slightly to her right, with a soft, serene expression. I want same face as I uploaded no alternation 100 percent same. The background is a plain, warm-toned wall, illuminated by a warm light source from the right, creating a distinct, soft-edged shadow of her profile and hair on the wall behind her. The overall mood is retro and artistic.”\n\n(Note:- You can change the saree colour and hair.)\nDo copy paste it💕\n\n#yp #explore #explorepage #foryourpage\n#trendingaudio #aesthetic #freeedit\n#free #pintrest\n#geminisareetrend #geminitrend #ai #chatgpt\n#geminipromptshare #geminiprompt #gemini2",
+      "description": "@itss_me_raji 的创意素材",
+      "recommendation_reason": "屋顶红纱丽栏杆前，647 评论",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/itss_me_raji/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "玫红纱丽暖墙人像",
+      "copy_title": "单人女性+单人写真+玫红纱丽暖墙人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOfbl3gka5G_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOjOsA5j-tu",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DOjOsA5j-tu/",
+      "creator": "nidhibhagat_1998",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Setting the trend right…\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#geminiseason #trendingreels❤️ #sareetrend #aesthetics #outfits",
+      "description": "@nidhibhagat_1998 的创意素材",
+      "recommendation_reason": "白金纱丽寺庙石柱前，1.6K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/nidhibhagat_1998/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "粉纱丽花田人像",
+      "copy_title": "单人女性+单人写真+粉纱丽花田人像+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOjOsA5j-tu_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOnHhyQgabZ",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/DOnHhyQgabZ/",
+      "creator": "eechacopy",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Gemini girls trending prompt 📈🫴🏻comment \"prompt\"\n\nfollow for gemini prompts 🫂❤️\n\n#gemini #prompt #geminiprompt #girlsprompt #trendingreels #viralreels #mallugram #eechacopy #fyp \n\nScreen short prompt image upload google lens copy text \"open google gemini &upload your pick paste prompt\"\n\nWoring aiyo girls",
+      "description": "@eechacopy 的创意素材",
+      "recommendation_reason": "黄纱丽轮播首帧，8.9K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/eechacopy/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "黄纱丽暖光侧影",
+      "copy_title": "单人女性+单人写真+黄纱丽暖光侧影+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:11+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOnHhyQgabZ_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dd1YyqvGtUU",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/p/Dd1YyqvGtUU/",
+      "creator": "pooja_______official_______",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Prompt: Follow Me For Prompts 💝📌 Girl Ai photo editing Ai Gemini Photo Editor 👈 \n\n#prompt #trendingpost #viralpost #photoshoot #photo",
+      "description": "@pooja_______official_______ 的创意素材",
+      "recommendation_reason": "夜间深红新娘 lehenga 藤编灯环椅，1.5K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/pooja_______official_______/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "夜间花环新娘坐椅",
+      "copy_title": "单人女性+单人写真+夜间花环新娘坐椅+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dd1YyqvGtUU_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DOp3TtMjK2z",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DOp3TtMjK2z/",
+      "creator": "ruma_sharmaa",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-24",
+      "duration_seconds": null,
+      "last_collected_at": "2026-11-24",
+      "caption": "Couldn’t resist this trend 😬\n.\n.\nThankyou @editingzone69 \n.\n.\n#sareetrends #aireels #trending #aitrend #googlemini #chatgpt #rumasharma",
+      "description": "@ruma_sharmaa 的创意素材",
+      "recommendation_reason": "Reel 后段奶油白花纹纱丽窗边肖像，1.7K 赞",
+      "content_nature": "final_result",
+      "suitability": "review",
+      "initial_screening": "preview_passed",
+      "screening_scope": "preview_only",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ruma_sharmaa/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "ai_image",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "单人写真",
+      "image_description": "白花纱丽侧光捧杯",
+      "copy_title": "单人女性+单人写真+白花纱丽侧光捧杯+图片+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "单人写真"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T09:00:10+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DOp3TtMjK2z_0.jpg",
           "preview_status": "verified",
           "result_status": "final_result",
           "visual_analysis": null
