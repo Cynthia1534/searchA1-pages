@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T01:52:22+00:00",
+  "generated_at": "2026-11-24T02:47:54+00:00",
   "scope": "Public snapshot: distinct formal posts and candidates; verification is informational",
   "taxonomy": {
     "audience_tags": [
@@ -25,9 +25,9 @@
     ]
   },
   "export_stats": {
-    "formal": 1534,
+    "formal": 1550,
     "candidates": 130,
-    "confirmed_duplicates_skipped": 1193,
+    "confirmed_duplicates_skipped": 1209,
     "suspected_duplicates_included": 1
   },
   "materials": [
@@ -5785,6 +5785,966 @@
           "position": 0,
           "kind": "image",
           "preview": "assets/instagram_Df_hAZ-EzZd_0.webp",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgC46fdTWci",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DgC46fdTWci/",
+      "creator": "star_artist_studio",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 9.333016,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@star_artist_studio 的创意素材",
+      "recommendation_reason": "户外品红裙女领舞+两女伴舞 Bhangra",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/star_artist_studio/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "舞蹈",
+      "image_description": "品红裙庭院领舞",
+      "copy_title": "朋友+舞蹈+品红裙庭院领舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgC46fdTWci_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DgC5qkSTM0V",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DgC5qkSTM0V/",
+      "creator": "star_artist_studio",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 10.217375,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@star_artist_studio 的创意素材",
+      "recommendation_reason": "户外红衣女领舞+两男伴舞 Bhangra，11.7K 浏览",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/star_artist_studio/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "舞蹈",
+      "image_description": "红衣拍手邦格拉",
+      "copy_title": "朋友+舞蹈+红衣拍手邦格拉+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DgC5qkSTM0V_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DViGg0sExdW",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@karuppi.me/post/DViGg0sExdW",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 21.221633,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@karuppi.me 的创意素材",
+      "recommendation_reason": "绿纱丽泰米尔民间舞，边唱边跳，11.5K 浏览",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@karuppi.me",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "黑底绿纱丽手势舞",
+      "copy_title": "单人女性+舞蹈+黑底绿纱丽手势舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DViGg0sExdW_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dd_-VT3zjqy",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dd_-VT3zjqy/",
+      "creator": "aivideo18542",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 8.058005,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@aivideo18542 的创意素材",
+      "recommendation_reason": "橙纱丽沙漠庭院骆驼旁 Ghoomar 旋转，Veo 水印",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/aivideo18542/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "黄纱彩裙旋转舞",
+      "copy_title": "单人女性+舞蹈+黄纱彩裙旋转舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dd_-VT3zjqy_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Ddeq1s1Crai",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Ddeq1s1Crai/",
+      "creator": "ashokkumarnoi87",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 18.948005,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@ashokkumarnoi87 的创意素材",
+      "recommendation_reason": "芥末黄旁遮普装室内 Bhangra，KlingAI 水印",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/ashokkumarnoi87/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "黄衣室内邦格拉",
+      "copy_title": "单人女性+舞蹈+黄衣室内邦格拉+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Ddeq1s1Crai_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1332182888616517",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/100095723550985/videos/1332182888616517/",
+      "creator": "Rudra Sharma",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 8,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@Rudra Sharma 的创意素材",
+      "recommendation_reason": "红纱丽女子与黑衣男子玫瑰花瓣中宝莱坞双人舞，Veo 水印",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Rudra Sharma/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "舞蹈",
+      "image_description": "玫瑰花瓣双人舞",
+      "copy_title": "情侣+舞蹈+玫瑰花瓣双人舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1332182888616517_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DU1-WzRD8zK",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DU1-WzRD8zK/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 17.41356,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@karuppi.me 的创意素材",
+      "recommendation_reason": "阳台棕纱丽女子舞蹈，平台 AI 标签",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "阳台棕纱丽舞",
+      "copy_title": "单人女性+舞蹈+阳台棕纱丽舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DU1-WzRD8zK_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:2259441801502524",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61594221335922/videos/2259441801502524/",
+      "creator": "Chhota Stra",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 8,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@Chhota Stra 的创意素材",
+      "recommendation_reason": "街头三女子齐跳宝莱坞群舞，Veo 水印，15 秒",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Chhota Stra/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "舞蹈",
+      "image_description": "街头三女群舞",
+      "copy_title": "朋友+舞蹈+街头三女群舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_2259441801502524_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1583016910274364",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/palakpaneerofficial/videos/1583016910274364/",
+      "creator": "Palak Paneer",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 10.041995,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@Palak Paneer 的创意素材",
+      "recommendation_reason": "白纱丽户外流行舞，Grok 水印+完整提示词",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Palak Paneer/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "白纱丽庭院流行舞",
+      "copy_title": "单人女性+舞蹈+白纱丽庭院流行舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1583016910274364_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1719591625869244",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/atul.mehta.3192/videos/1719591625869244/",
+      "creator": "Atul Mehta Manuni",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 5.208333,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@Atul Mehta Manuni 的创意素材",
+      "recommendation_reason": "寺庙前老年夫妇 Odissi 双人舞",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/Atul Mehta Manuni/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "舞蹈",
+      "image_description": "老年夫妇寺庙舞",
+      "copy_title": "情侣+舞蹈+老年夫妇寺庙舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1719591625869244_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DeHS0EcB0SN",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DeHS0EcB0SN/",
+      "creator": "dollie_n_dollie",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 17.994059,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@dollie_n_dollie 的创意素材",
+      "recommendation_reason": "5 位彩色 lehenga 女子 Navratri 持棒群舞",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/dollie_n_dollie/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "朋友",
+      "theme_tag": "舞蹈",
+      "image_description": "彩衣持棒群舞",
+      "copy_title": "朋友+舞蹈+彩衣持棒群舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "朋友"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DeHS0EcB0SN_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:Dd7_0muIyDw",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/Dd7_0muIyDw/",
+      "creator": "govindrajput.4384",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 20.153515,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@govindrajput.4384 的创意素材",
+      "recommendation_reason": "成年夫妇 Navratri Garba 持 dandiya 棒对舞，图生视频",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/govindrajput.4384/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "情侣",
+      "theme_tag": "舞蹈",
+      "image_description": "夫妇节庆对舞",
+      "copy_title": "情侣+舞蹈+夫妇节庆对舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "情侣"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_Dd7_0muIyDw_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "facebook:1589729539159957",
+      "platform": "facebook",
+      "post_url": "https://www.facebook.com/61591854105611/videos/1589729539159957/",
+      "creator": "AI Zaiba Studio",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 10.110708,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@AI Zaiba Studio 的创意素材",
+      "recommendation_reason": "白粉 Anarkali 夜间灯串庭院旋转独舞，2.2K 赞",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.facebook.com/AI Zaiba Studio/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "灯串庭院旋转舞",
+      "copy_title": "单人女性+舞蹈+灯串庭院旋转舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/facebook_1589729539159957_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "threads:DbvXrQcEdEO",
+      "platform": "threads",
+      "post_url": "https://www.threads.com/@aurav.ixen/post/DbvXrQcEdEO",
+      "creator": "aurav.ixen",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 8.021,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@aurav.ixen 的创意素材",
+      "recommendation_reason": "红衣 Anarkali 油灯宫殿 Kathak 旋转",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.threads.com/@aurav.ixen",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "红衣宫殿卡塔克",
+      "copy_title": "单人女性+舞蹈+红衣宫殿卡塔克+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/threads_DbvXrQcEdEO_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DVcRDSOEztU",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DVcRDSOEztU/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 18.110159,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@karuppi.me 的创意素材",
+      "recommendation_reason": "橙纱丽森林舞蹈，1.4K 赞",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "橙纱丽森林舞",
+      "copy_title": "单人女性+舞蹈+橙纱丽森林舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DVcRDSOEztU_0.jpg",
+          "preview_status": "verified",
+          "result_status": "final_result",
+          "visual_analysis": null
+        }
+      ]
+    },
+    {
+      "id": "instagram:DX-YsaCzlCy",
+      "platform": "instagram",
+      "post_url": "https://www.instagram.com/reel/DX-YsaCzlCy/",
+      "creator": "karuppi.me",
+      "published_at": null,
+      "published_date": null,
+      "published_precision": "unknown",
+      "first_discovered_at": "2026-11-23",
+      "duration_seconds": 13.907347,
+      "last_collected_at": "2026-11-23",
+      "caption": null,
+      "description": "@karuppi.me 的创意素材",
+      "recommendation_reason": "黄绿纱丽户外石台舞蹈，3.5K 赞",
+      "content_nature": "final_result",
+      "suitability": "safe",
+      "initial_screening": "preview_passed",
+      "screening_scope": "full_post",
+      "record_stage": "formal",
+      "verification_notes": [],
+      "review_status": "pending",
+      "source_profile_url": "https://www.instagram.com/karuppi.me/",
+      "alternate_sources": [],
+      "discovery_origin": "muse_discovery",
+      "discovery_agent": "muse",
+      "market_region": "india",
+      "material_kind": "human_ai_dance_video",
+      "discovery_labels": [],
+      "source_confidence": "unknown",
+      "audience_tag": "单人女性",
+      "theme_tag": "舞蹈",
+      "image_description": "黄墙渐变纱丽舞",
+      "copy_title": "单人女性+舞蹈+黄墙渐变纱丽舞+视频+原",
+      "tags": {
+        "audience_tags": [
+          "单人女性"
+        ],
+        "theme_tags": [
+          "舞蹈"
+        ]
+      },
+      "tag_source": "manual_visual",
+      "tag_checked_at": "2026-11-24T02:46:02+00:00",
+      "scores": {
+        "data": null,
+        "creative": null
+      },
+      "metrics": null,
+      "metric_snapshots": [],
+      "media": [
+        {
+          "position": 0,
+          "kind": "image",
+          "preview": "assets/instagram_DX-YsaCzlCy_0.jpg",
           "preview_status": "verified",
           "result_status": "final_result",
           "visual_analysis": null
